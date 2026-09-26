@@ -1,0 +1,39 @@
+name: Auto-post Instagram
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # cek tiap 15 menit (GitHub bisa telat beberapa menit)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Posting yang sudah jatuh tempo
+        env:
+          IMAGE_BASE_URL: https://cdn.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}
+          IG_TOKEN_ELI: ${{ secrets.IG_TOKEN_ELI }}
+          IG_USER_ID_ELI: ${{ secrets.IG_USER_ID_ELI }}
+          IG_TOKEN_TENANG: ${{ secrets.IG_TOKEN_TENANG }}
+          IG_USER_ID_TENANG: ${{ secrets.IG_USER_ID_TENANG }}
+          IG_TOKEN_AYAT: ${{ secrets.IG_TOKEN_AYAT }}
+          IG_USER_ID_AYAT: ${{ secrets.IG_USER_ID_AYAT }}
+        run: python publish.py
+      - name: Simpan catatan post
+        if: always()
+        run: |
+          git config user.name "auto-post"
+          git config user.email "auto-post@users.noreply.github.com"
+          git add state/posted.json 2>/dev/null || exit 0
+          git diff --cached --quiet || (git commit -m "Catat post terkirim" && git push)
