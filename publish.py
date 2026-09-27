@@ -85,7 +85,7 @@ def main():
     ap.add_argument("--cek", action="store_true", help="cek token & user ID setiap akun tanpa memposting apa pun")
     ap.add_argument("--tandai", nargs="+", metavar="ID",
                     help="tandai post sebagai sudah diposting manual (misal: tenang-1-siang), supaya tidak diposting ulang")
-    ap.add_argument("--window-hours", type=float, default=6,
+    ap.add_argument("--window-hours", type=float, default=12,
                     help="lewati post yang terlambat lebih dari ini (misal setelah workflow mati lama)")
     args = ap.parse_args()
 
@@ -140,8 +140,8 @@ def main():
         if wanted:
             if item["id"] not in wanted:
                 continue
-        elif due > now or now - due > timedelta(hours=args.window_hours):
-            continue
+        elif due > now or now - due > timedelta(hours=min(args.window_hours, 3) if item.get("story") else args.window_hours):
+            continue  # Story yang terlambat > 3 jam tidak ada gunanya lagi
         akun = item["akun"].upper()
         token, user_id = os.environ.get(f"IG_TOKEN_{akun}"), os.environ.get(f"IG_USER_ID_{akun}")
         print(f"-> {item['id']} ({item['waktu']}, {len(item['files'])} gambar)")

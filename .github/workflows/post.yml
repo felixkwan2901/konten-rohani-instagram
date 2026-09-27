@@ -2,7 +2,7 @@ name: Auto-post Instagram
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # cek tiap 15 menit (GitHub bisa telat beberapa menit)
+    - cron: "4,19,34,49 * * * *"   # tiap 15 menit, sengaja bukan di menit :00 (jam sibuk GitHub, jadwal sering dilewati)
   workflow_dispatch:
     inputs:
       cek:
