@@ -1041,6 +1041,10 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                     rels = [reel]
             items.append({"id": f"{modul}-{day}-{slot}", "akun": "tenang", "waktu": at(offset + day - 1, config.AKUN["tenang"]["jam"][slot]),
                           "files": rels, "caption": caption + "\n.\n.\n" + tenang.TAGS})
+    import keren  # Tenang: photo dump, dulu vs sekarang, tipografi sinematik, animasi karakter
+    for (hari, slot), (files, caption) in keren.render_keren().items():
+        items.append({"id": f"tenang-{hari}-{slot}", "akun": "tenang", "waktu": at(hari - 1, config.AKUN["tenang"]["jam"][slot]),
+                      "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
     import akun_baru  # @ayat.tersembunyi
     jam = config.AKUN["ayat"]["jam"]
     fakta = akun_baru.fakta_singkat()  # hari 2-7 pagi: "Fakta 30 detik" (1 slide)

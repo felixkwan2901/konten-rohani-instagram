@@ -309,6 +309,29 @@ Gambar (urut): `output/stories/kapi-2-pagi.jpg`
 
 ```
 
+## @diam.dan.percaya — Mon 28 Sep 07:30 WIB → **Mon 28 Sep 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dump1_1.jpg`, `output/tenang_keren/dump1_2.jpg`, `output/tenang_keren/dump1_3.jpg`, `output/tenang_keren/dump1_4.jpg`, `output/tenang_keren/dump1_5.jpg`
+
+```
+hal-hal kecil yang Tuhan ingatkan minggu ini 🤍
+
+Geser pelan-pelan. Mana yang paling kamu butuhkan hari ini? Tulis nomornya di komentar.
+
+📖 “Diamlah dan ketahuilah, bahwa Akulah Allah!” — Mazmur 46:11
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 28 Sep 07:40 WIB → **Mon 28 Sep 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang-2-pagi3.jpg`
+
+```
+
+```
+
 ## @ayat.tersembunyi — Mon 28 Sep 08:00 WIB → **Mon 28 Sep 14:00 NZ**
 
 Gambar (urut): `output/ayat_singkat/fakta1.jpg`
@@ -373,6 +396,29 @@ Gambar (urut): `output/stories/eli-2-pagi2.jpg`
 ## @diam.dan.percaya — Mon 28 Sep 09:10 WIB → **Mon 28 Sep 15:10 NZ**
 
 Gambar (urut): `output/stories/tenang-2-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 28 Sep 10:30 WIB → **Mon 28 Sep 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dulu1_1.jpg`, `output/tenang_keren/dulu1_2.jpg`, `output/tenang_keren/dulu1_3.jpg`, `output/tenang_keren/dulu1_4.jpg`, `output/tenang_keren/dulu1_5.jpg`
+
+```
+dulu vs sekarang: tentang doa 🤍
+
+Yang mana yang paling kamu rasakan? Ketik 1, 2, atau 3.
+
+📖 Yeremia 33:3
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 28 Sep 10:40 WIB → **Mon 28 Sep 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang-2-siang0.jpg`
 
 ```
 
@@ -482,6 +528,29 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 ## @ayat.tersembunyi — Mon 28 Sep 13:10 WIB → **Mon 28 Sep 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m1-2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 28 Sep 13:30 WIB → **Mon 28 Sep 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik1.mp4`
+
+```
+Cukup percaya. Dia masih memegang kamu 🤍
+
+📖 “Janganlah takut, sebab Aku menyertai engkau… Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan.” — Yesaya 41:10
+
+Kirim ke seseorang yang harinya berat 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 28 Sep 13:40 WIB → **Mon 28 Sep 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik1.mp4`
 
 ```
 
@@ -660,6 +729,29 @@ Gambar (urut): `output/reels/kapi/hari3.mp4`
 
 ```
 
+## @diam.dan.percaya — Mon 28 Sep 19:30 WIB → **Tue 29 Sep 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan1.mp4`
+
+```
+Cukup tahu Siapa yang berjalan bersamamu 🤍
+
+📖 “TUHAN, Dia sendiri akan berjalan di depanmu, Dia sendiri akan menyertai engkau.” — Ulangan 31:8
+
+Kirim ke seseorang yang sedang bingung arah 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 28 Sep 19:40 WIB → **Tue 29 Sep 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan1.mp4`
+
+```
+
+```
+
 ## @sahabat.eli — Mon 28 Sep 21:00 WIB → **Tue 29 Sep 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari2_malam.mp4`
@@ -828,6 +920,29 @@ Gambar (urut): `output/stories/kapi-3-pagi.jpg`
 
 ```
 
+## @diam.dan.percaya — Tue 29 Sep 07:30 WIB → **Tue 29 Sep 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dump2_1.jpg`, `output/tenang_keren/dump2_2.jpg`, `output/tenang_keren/dump2_3.jpg`, `output/tenang_keren/dump2_4.jpg`, `output/tenang_keren/dump2_5.jpg`
+
+```
+satu hari, lima pengingat 🤍
+
+“Firman-Mu itu pelita bagi kakiku dan terang bagi jalanku.” — Mazmur 119:105
+
+Simpan untuk dibaca lagi besok pagi 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 29 Sep 07:40 WIB → **Tue 29 Sep 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang-3-pagi3.jpg`
+
+```
+
+```
+
 ## @ayat.tersembunyi — Tue 29 Sep 08:00 WIB → **Tue 29 Sep 14:00 NZ**
 
 Gambar (urut): `output/ayat_singkat/fakta2.jpg`
@@ -892,6 +1007,31 @@ Gambar (urut): `output/stories/eli-3-pagi2.jpg`
 ## @diam.dan.percaya — Tue 29 Sep 09:10 WIB → **Tue 29 Sep 15:10 NZ**
 
 Gambar (urut): `output/stories/tenang-3-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 29 Sep 10:30 WIB → **Tue 29 Sep 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dulu2_1.jpg`, `output/tenang_keren/dulu2_2.jpg`, `output/tenang_keren/dulu2_3.jpg`, `output/tenang_keren/dulu2_4.jpg`, `output/tenang_keren/dulu2_5.jpg`
+
+```
+dulu vs sekarang: tentang kuat 🤍
+
+Tidak apa-apa kalau hari ini kamu tidak merasa kuat.
+
+📖 2 Korintus 12:9
+
+Kirim ke temanmu yang selalu terlihat kuat 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 29 Sep 10:40 WIB → **Tue 29 Sep 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang-3-siang0.jpg`
 
 ```
 
@@ -1001,6 +1141,29 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 ## @ayat.tersembunyi — Tue 29 Sep 13:10 WIB → **Tue 29 Sep 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m1-4.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 29 Sep 13:30 WIB → **Tue 29 Sep 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik2.mp4`
+
+```
+Kamu tidak terlambat. Kamu sedang dibentuk 🤍
+
+📖 “Ia membuat segala sesuatu indah pada waktunya.” — Pengkhotbah 3:11
+
+Ketik “waktu-Nya” kalau kamu percaya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 29 Sep 13:40 WIB → **Tue 29 Sep 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik2.mp4`
 
 ```
 
@@ -1147,6 +1310,29 @@ Gambar (urut): `output/stories/ayat-m1-5.jpg`
 ## @kapi.percaya — Tue 29 Sep 19:10 WIB → **Wed 30 Sep 01:10 NZ**
 
 Gambar (urut): `output/reels/kapi/hari4.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 29 Sep 19:30 WIB → **Wed 30 Sep 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan2.mp4`
+
+```
+Tidak apa-apa duduk sebentar 🤍
+
+📖 “Hanya dekat Allah saja aku tenang, dari pada-Nyalah keselamatanku.” — Mazmur 62:2
+
+Save untuk hari yang melelahkan 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 29 Sep 19:40 WIB → **Wed 30 Sep 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan2.mp4`
 
 ```
 
@@ -1316,6 +1502,29 @@ Gambar (urut): `output/stories/kapi-4-pagi.jpg`
 
 ```
 
+## @diam.dan.percaya — Wed 30 Sep 07:30 WIB → **Wed 30 Sep 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dump3_1.jpg`, `output/tenang_keren/dump3_2.jpg`, `output/tenang_keren/dump3_3.jpg`, `output/tenang_keren/dump3_4.jpg`, `output/tenang_keren/dump3_5.jpg`
+
+```
+catatan untuk hati yang lelah 🤍
+
+“Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu.” — Matius 11:28
+
+Kirim ke seseorang yang sedang capek 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 30 Sep 07:40 WIB → **Wed 30 Sep 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang-4-pagi3.jpg`
+
+```
+
+```
+
 ## @ayat.tersembunyi — Wed 30 Sep 08:00 WIB → **Wed 30 Sep 14:00 NZ**
 
 Gambar (urut): `output/ayat_singkat/fakta3.jpg`
@@ -1382,6 +1591,29 @@ Gambar (urut): `output/stories/eli-4-pagi2.jpg`
 ## @diam.dan.percaya — Wed 30 Sep 09:10 WIB → **Wed 30 Sep 15:10 NZ**
 
 Gambar (urut): `output/stories/tenang-4-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 30 Sep 10:30 WIB → **Wed 30 Sep 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dulu3_1.jpg`, `output/tenang_keren/dulu3_2.jpg`, `output/tenang_keren/dulu3_3.jpg`, `output/tenang_keren/dulu3_4.jpg`, `output/tenang_keren/dulu3_5.jpg`
+
+```
+dulu vs sekarang: tentang masa depan 🤍
+
+Kamu tidak perlu tahu semuanya. Cukup tahu Siapa yang memegang hari esok.
+
+📖 Yeremia 29:11
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 30 Sep 10:40 WIB → **Wed 30 Sep 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang-4-siang0.jpg`
 
 ```
 
@@ -1482,6 +1714,29 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 ## @ayat.tersembunyi — Wed 30 Sep 13:10 WIB → **Wed 30 Sep 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m1-6.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 30 Sep 13:30 WIB → **Wed 30 Sep 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik3.mp4`
+
+```
+Tidak ada air mata yang terlewat oleh-Nya 🤍
+
+📖 “Air mataku Kautaruh ke dalam kirbat-Mu. Bukankah semuanya telah Kaudaftarkan?” — Mazmur 56:9
+
+Save untuk malam yang berat 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 30 Sep 13:40 WIB → **Wed 30 Sep 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik3.mp4`
 
 ```
 
@@ -1629,6 +1884,29 @@ Gambar (urut): `output/stories/ayat-m1-7.jpg`
 ## @kapi.percaya — Wed 30 Sep 19:10 WIB → **Thu 01 Oct 01:10 NZ**
 
 Gambar (urut): `output/reels/kapi/hari5.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 30 Sep 19:30 WIB → **Thu 01 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan3.mp4`
+
+```
+Saat kata-kata habis, Dia tetap mengerti 🤍
+
+📖 “Roh sendiri berdoa untuk kita kepada Allah dengan keluhan-keluhan yang tidak terucapkan.” — Roma 8:26
+
+Ketik 🙏 dan kami ikut mendoakanmu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 30 Sep 19:40 WIB → **Thu 01 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan3.mp4`
 
 ```
 
@@ -1796,6 +2074,29 @@ Gambar (urut): `output/stories/kapi-5-pagi.jpg`
 
 ```
 
+## @diam.dan.percaya — Thu 01 Oct 07:30 WIB → **Thu 01 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dump4_1.jpg`, `output/tenang_keren/dump4_2.jpg`, `output/tenang_keren/dump4_3.jpg`, `output/tenang_keren/dump4_4.jpg`, `output/tenang_keren/dump4_5.jpg`
+
+```
+hal-hal yang tidak berubah 🤍
+
+“Yesus Kristus tetap sama, baik kemarin maupun hari ini dan sampai selama-lamanya.” — Ibrani 13:8
+
+Ketik “tetap” kalau kamu percaya 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 01 Oct 07:40 WIB → **Thu 01 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang-5-pagi3.jpg`
+
+```
+
+```
+
 ## @ayat.tersembunyi — Thu 01 Oct 08:00 WIB → **Thu 01 Oct 14:00 NZ**
 
 Gambar (urut): `output/ayat_singkat/fakta4.jpg`
@@ -1860,6 +2161,29 @@ Gambar (urut): `output/stories/eli-5-pagi2.jpg`
 ## @diam.dan.percaya — Thu 01 Oct 09:10 WIB → **Thu 01 Oct 15:10 NZ**
 
 Gambar (urut): `output/stories/tenang-5-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 01 Oct 10:30 WIB → **Thu 01 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dulu4_1.jpg`, `output/tenang_keren/dulu4_2.jpg`, `output/tenang_keren/dulu4_3.jpg`, `output/tenang_keren/dulu4_4.jpg`, `output/tenang_keren/dulu4_5.jpg`
+
+```
+dulu vs sekarang: tentang nilai diriku 🤍
+
+Kamu berharga, bukan karena apa yang kamu capai, tapi karena Siapa yang mengasihimu.
+
+📖 Yesaya 43:4
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 01 Oct 10:40 WIB → **Thu 01 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang-5-siang0.jpg`
 
 ```
 
@@ -1967,6 +2291,29 @@ Ini bagian 1 dari seri Yunus (14 post). Follow supaya tidak ketinggalan 📜
 ## @ayat.tersembunyi — Thu 01 Oct 13:10 WIB → **Thu 01 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m2-1.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 01 Oct 13:30 WIB → **Thu 01 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik4.mp4`
+
+```
+Jalanmu bukan jalan mereka. Tapi Tuhanmu sama setianya 🤍
+
+📖 “Tali pengukur jatuh bagiku di tempat-tempat yang permai.” — Mazmur 16:6
+
+Kirim ke temanmu yang sering membandingkan diri 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 01 Oct 13:40 WIB → **Thu 01 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik4.mp4`
 
 ```
 
@@ -2114,6 +2461,29 @@ Gambar (urut): `output/stories/ayat-m2-2.jpg`
 ## @kapi.percaya — Thu 01 Oct 19:10 WIB → **Fri 02 Oct 01:10 NZ**
 
 Gambar (urut): `output/reels/kapi/hari6.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 01 Oct 19:30 WIB → **Fri 02 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan4.mp4`
+
+```
+Pagi selalu datang 🤍
+
+📖 “Sepanjang malam ada tangisan, menjelang pagi terdengar sorak-sorai.” — Mazmur 30:6
+
+Kirim ke seseorang yang sedang melewati malam panjang 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 01 Oct 19:40 WIB → **Fri 02 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan4.mp4`
 
 ```
 
@@ -2281,6 +2651,29 @@ Gambar (urut): `output/stories/kapi-6-pagi.jpg`
 
 ```
 
+## @diam.dan.percaya — Fri 02 Oct 07:30 WIB → **Fri 02 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dump5_1.jpg`, `output/tenang_keren/dump5_2.jpg`, `output/tenang_keren/dump5_3.jpg`, `output/tenang_keren/dump5_4.jpg`, `output/tenang_keren/dump5_5.jpg`
+
+```
+untuk kamu yang sedang menunggu 🤍
+
+“Nantikanlah TUHAN! Kuatkanlah dan teguhkanlah hatimu!” — Mazmur 27:14
+
+Tag seseorang yang sedang menunggu jawaban doa.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 02 Oct 07:40 WIB → **Fri 02 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang-6-pagi3.jpg`
+
+```
+
+```
+
 ## @ayat.tersembunyi — Fri 02 Oct 08:00 WIB → **Fri 02 Oct 14:00 NZ**
 
 Gambar (urut): `output/ayat_singkat/fakta5.jpg`
@@ -2345,6 +2738,31 @@ Gambar (urut): `output/stories/eli-6-pagi2.jpg`
 ## @diam.dan.percaya — Fri 02 Oct 09:10 WIB → **Fri 02 Oct 15:10 NZ**
 
 Gambar (urut): `output/stories/tenang-6-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 02 Oct 10:30 WIB → **Fri 02 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dulu5_1.jpg`, `output/tenang_keren/dulu5_2.jpg`, `output/tenang_keren/dulu5_3.jpg`, `output/tenang_keren/dulu5_4.jpg`, `output/tenang_keren/dulu5_5.jpg`
+
+```
+dulu vs sekarang: tentang menunggu 🤍
+
+Masa menunggu bukan masa yang sia-sia.
+
+📖 Pengkhotbah 3:11
+
+Ketik “indah pada waktunya” 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 02 Oct 10:40 WIB → **Fri 02 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang-6-siang0.jpg`
 
 ```
 
@@ -2454,6 +2872,29 @@ Seri Yunus bagian 3/14 📜
 ## @ayat.tersembunyi — Fri 02 Oct 13:10 WIB → **Fri 02 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m2-3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 02 Oct 13:30 WIB → **Fri 02 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik5.mp4`
+
+```
+Doa yang sama setiap malam tidak sia-sia 🤍
+
+📖 “Ia mengabulkan doa kita, jikalau kita meminta sesuatu kepada-Nya menurut kehendak-Nya.” — 1 Yohanes 5:14
+
+Ketik “aku tetap berdoa” 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 02 Oct 13:40 WIB → **Fri 02 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik5.mp4`
 
 ```
 
@@ -2604,6 +3045,29 @@ Gambar (urut): `output/stories/ayat-m2-4.jpg`
 ## @kapi.percaya — Fri 02 Oct 19:10 WIB → **Sat 03 Oct 01:10 NZ**
 
 Gambar (urut): `output/reels/kapi/hari7.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 02 Oct 19:30 WIB → **Sat 03 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan5.mp4`
+
+```
+Terang untuk satu langkah itu sudah cukup 🤍
+
+📖 “Firman-Mu itu pelita bagi kakiku dan terang bagi jalanku.” — Mazmur 119:105
+
+Save untuk hari yang tidak jelas 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 02 Oct 19:40 WIB → **Sat 03 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan5.mp4`
 
 ```
 
@@ -2773,6 +3237,29 @@ Gambar (urut): `output/stories/kapi-7-pagi.jpg`
 
 ```
 
+## @diam.dan.percaya — Sat 03 Oct 07:30 WIB → **Sat 03 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dump6_1.jpg`, `output/tenang_keren/dump6_2.jpg`, `output/tenang_keren/dump6_3.jpg`, `output/tenang_keren/dump6_4.jpg`, `output/tenang_keren/dump6_5.jpg`
+
+```
+sebelum minggu ini selesai 🤍
+
+“Mengucap syukurlah dalam segala hal, sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.” — 1 Tesalonika 5:18
+
+Tulis satu hal yang kamu syukuri minggu ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 03 Oct 07:40 WIB → **Sat 03 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang-7-pagi3.jpg`
+
+```
+
+```
+
 ## @ayat.tersembunyi — Sat 03 Oct 08:00 WIB → **Sat 03 Oct 14:00 NZ**
 
 Gambar (urut): `output/ayat_singkat/fakta6.jpg`
@@ -2837,6 +3324,31 @@ Gambar (urut): `output/stories/eli-7-pagi2.jpg`
 ## @diam.dan.percaya — Sat 03 Oct 09:10 WIB → **Sat 03 Oct 15:10 NZ**
 
 Gambar (urut): `output/stories/tenang-7-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 03 Oct 10:30 WIB → **Sat 03 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren/dulu6_1.jpg`, `output/tenang_keren/dulu6_2.jpg`, `output/tenang_keren/dulu6_3.jpg`, `output/tenang_keren/dulu6_4.jpg`, `output/tenang_keren/dulu6_5.jpg`
+
+```
+dulu vs sekarang: tentang kasih-Nya 🤍
+
+Kamu tidak perlu sempurna untuk dikasihi.
+
+📖 Roma 5:8
+
+Save dan baca lagi saat kamu merasa gagal 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 03 Oct 10:40 WIB → **Sat 03 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang-7-siang0.jpg`
 
 ```
 
@@ -2942,6 +3454,29 @@ Seri Yunus bagian 5/14 📜
 ## @ayat.tersembunyi — Sat 03 Oct 13:10 WIB → **Sat 03 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m2-5.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 03 Oct 13:30 WIB → **Sat 03 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik6.mp4`
+
+```
+Minggu ini selesai. Kasih-Nya belum 🤍
+
+📖 “Tak berkesudahan kasih setia TUHAN… selalu baru tiap pagi.” — Ratapan 3:22-23
+
+Selamat beristirahat.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 03 Oct 13:40 WIB → **Sat 03 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/kinetik6.mp4`
 
 ```
 
@@ -3114,6 +3649,29 @@ Gambar (urut): `output/stories/ayat-m2-6.jpg`
 ## @kapi.percaya — Sat 03 Oct 19:10 WIB → **Sun 04 Oct 01:10 NZ**
 
 Gambar (urut): `output/reels/kapi/hari8.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 03 Oct 19:30 WIB → **Sun 04 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan6.mp4`
+
+```
+Jatuh bukan akhir ceritamu 🤍
+
+📖 “Apabila ia jatuh, tidaklah sampai tergeletak, sebab TUHAN menopang tangannya.” — Mazmur 37:24
+
+Ketik “bangkit” kalau kamu sedang berjuang.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 03 Oct 19:40 WIB → **Sun 04 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren/jalan6.mp4`
 
 ```
 

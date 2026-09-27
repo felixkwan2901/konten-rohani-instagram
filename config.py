@@ -10,8 +10,9 @@ AKUN = {
         "jam": {"pagi": "06:00", "pagi2": "09:00", "siang": "12:00", "sore": "17:00", "malam": "21:00"},
     },
     "tenang": {
-        "handle": "diam.dan.percaya",  # 3 post/hari, gaya betteryouliving
-        "jam": {"pagi": "06:00", "pagi2": "09:00", "siang": "12:00", "sore": "15:00", "petang": "18:00", "malam": "21:00"},
+        "handle": "diam.dan.percaya",  # 10 post/hari mulai hari 2 (4 slot format baru di konten/tenang_keren.py)
+        "jam": {"pagi": "06:00", "pagi3": "07:30", "pagi2": "09:00", "siang0": "10:30", "siang": "12:00", "siang2": "13:30",
+                "sore": "15:00", "petang": "18:00", "malam0": "19:30", "malam": "21:00"},
     },
     "ayat": {
         "handle": "ayat.tersembunyi",  # ayat yang jarang dibahas, gaya kertas kuno
