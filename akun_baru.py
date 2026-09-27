@@ -219,7 +219,7 @@ AL_STYLE = {  # jenis baris -> (font, ukuran, peran warna, jarak bawah default)
 }
 
 
-def al_base(n, total, nomor=1, tema="perkamen", invert=False):
+def al_base(n, total, nomor=1, tema="perkamen", invert=False, header=None):
     bg, ink, accent, dim, dark = AL_TEMA[tema]
     if invert:  # slide penutup: warna dibalik supaya menonjol
         # latar = warna aksen; semua teks memakai warna latar asli (gelap di atas terang, terang di atas gelap)
@@ -234,8 +234,8 @@ def al_base(n, total, nomor=1, tema="perkamen", invert=False):
     d = ImageDraw.Draw(img)
     d.rectangle((50, 50, W - 50, H - 50), outline=accent, width=2)
     d.rectangle((62, 62, W - 62, H - 62), outline=dim, width=1)
-    d.text((W / 2, 110), spaced(f"AYAT YANG JARANG DIBAHAS · #{nomor:02d}"), font=font("sans_bold", 20), fill=accent, anchor="ma")
-    d.text((W / 2, H - 120), f"{n} / {total}   ·   @{AL_HANDLE}", font=font("sans_bold", 20), fill=dim, anchor="ma")
+    d.text((W / 2, 110), spaced(header or f"AYAT YANG JARANG DIBAHAS · #{nomor:02d}"), font=font("sans_bold", 20), fill=accent, anchor="ma")
+    d.text((W / 2, H - 120), f"@{AL_HANDLE}" if total == 1 else f"{n} / {total}   ·   @{AL_HANDLE}", font=font("sans_bold", 20), fill=dim, anchor="ma")
     return img, d, {"ink": ink, "accent": accent, "dim": dim, "bg": bg}
 
 
@@ -348,6 +348,22 @@ def render_ayat(modul="ayat"):
             pg.replace(target)
             renamed.append(target)
         out.append((renamed, p["caption"] + "\n.\n.\n" + m.TAGS))
+    return out
+
+
+def fakta_singkat():
+    """'Fakta 30 detik' (1 slide) -> [(path, caption)] dari konten/ayat_singkat.py."""
+    from konten import ayat_singkat as a
+    out = []
+    for i, f in enumerate(a.FAKTA, 1):
+        img, d, c = al_base(1, 1, i, f["tema"], header="FAKTA 30 DETIK")
+        items = [(f["judul"], font("serif", 66), c["ink"], 40), (f["isi"], font("serif_italic", 42), c["ink"], 30),
+                 (f["ref"].upper(), font("sans_bold", 26), c["accent"], 0)]
+        draw_blocks(d, 110, (H - block_height(items, 860)) / 2, items, 860, align="center")
+        path = render.OUT / "ayat_singkat" / f"fakta{i}.jpg"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        img.convert("RGB").save(path, "JPEG", quality=92)
+        out.append((path, f["caption"] + "\n.\n.\n" + a.TAGS))
     return out
 
 

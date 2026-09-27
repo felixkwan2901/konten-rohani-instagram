@@ -311,26 +311,22 @@ Gambar (urut): `output/stories/kapi-2-pagi.jpg`
 
 ## @ayat.tersembunyi — Mon 28 Sep 08:00 WIB → **Mon 28 Sep 14:00 NZ**
 
-Gambar (urut): `output/ayat/hari2_1.jpg`, `output/ayat/hari2_2.jpg`, `output/ayat/hari2_3.jpg`, `output/ayat/hari2_4.jpg`, `output/ayat/hari2_5.jpg`, `output/ayat/hari2_6.jpg`
+Gambar (urut): `output/ayat_singkat/fakta1.jpg`
 
 ```
-Nabi Elia pernah sampai minta mati. Dan respons Tuhan bukan marah, tapi: “Bangunlah, makanlah.” 🍞
+3 kata, tapi dalam banget: “Maka menangislah Yesus.” 🤍
 
-1 Raja-raja 19:4-8. Setelah kemenangan besar di Gunung Karmel, Elia lari ketakutan dan kehabisan tenaga. Tuhan mengirim malaikat, dua kali, dengan roti dan air, lalu membiarkannya tidur.
+Yesus tahu Lazarus akan Ia bangkitkan, tapi Ia tetap ikut menangis bersama yang berduka.
 
-Kadang yang kita butuhkan bukan dimarahi karena kurang iman, tapi istirahat.
-
-Kamu lagi di fase capek juga? Ketik 🍞 kalau butuh diingatkan untuk istirahat.
-
-Follow untuk ayat-ayat lain yang jarang dibahas 📜
+Pernah merasa Tuhan tidak peduli dengan air matamu? Ayat ini jawabannya.
 .
 .
-#ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
 ```
 
 ## @ayat.tersembunyi — Mon 28 Sep 08:10 WIB → **Mon 28 Sep 14:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m1-2.jpg`
+Gambar (urut): `output/stories/ayat-fakta-1.jpg`
 
 ```
 
@@ -466,16 +462,16 @@ Gambar (urut): `output/stories/tenang-2-siang.jpg`
 
 ## @ayat.tersembunyi — Mon 28 Sep 13:00 WIB → **Mon 28 Sep 19:00 NZ**
 
-Gambar (urut): `output/ayat/hari3_1.jpg`, `output/ayat/hari3_2.jpg`, `output/ayat/hari3_3.jpg`, `output/ayat/hari3_4.jpg`, `output/ayat/hari3_5.jpg`, `output/ayat/hari3_6.jpg`
+Gambar (urut): `output/ayat/hari2_1.jpg`, `output/ayat/hari2_2.jpg`, `output/ayat/hari2_3.jpg`, `output/ayat/hari2_4.jpg`, `output/ayat/hari2_5.jpg`, `output/ayat/hari2_6.jpg`
 
 ```
-Salah satu nama Tuhan di Alkitab diberikan oleh seorang budak perempuan yang melarikan diri 👁️
+Nabi Elia pernah sampai minta mati. Dan respons Tuhan bukan marah, tapi: “Bangunlah, makanlah.” 🍞
 
-Kejadian 16. Hagar diperlakukan kasar, kabur ke padang gurun dalam keadaan hamil, dan justru di sana Tuhan menemuinya. Hagar lalu menyebut Tuhan “El-Roi”: Allah yang melihat aku.
+1 Raja-raja 19:4-8. Setelah kemenangan besar di Gunung Karmel, Elia lari ketakutan dan kehabisan tenaga. Tuhan mengirim malaikat, dua kali, dengan roti dan air, lalu membiarkannya tidur.
 
-Kalau hari ini kamu merasa tidak dilihat siapa pun, Dia melihat.
+Kadang yang kita butuhkan bukan dimarahi karena kurang iman, tapi istirahat.
 
-Pernah dengar nama El-Roi sebelumnya? Jawab: PERNAH / BARU TAHU 👇
+Kamu lagi di fase capek juga? Ketik 🍞 kalau butuh diingatkan untuk istirahat.
 
 Follow untuk ayat-ayat lain yang jarang dibahas 📜
 .
@@ -485,7 +481,7 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 
 ## @ayat.tersembunyi — Mon 28 Sep 13:10 WIB → **Mon 28 Sep 19:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m1-3.jpg`
+Gambar (urut): `output/stories/ayat-m1-2.jpg`
 
 ```
 
@@ -592,16 +588,16 @@ Gambar (urut): `output/reels/tenang/notif4.mp4`
 
 ## @ayat.tersembunyi — Mon 28 Sep 19:00 WIB → **Tue 29 Sep 01:00 NZ**
 
-Gambar (urut): `output/ayat/hari4_1.jpg`, `output/ayat/hari4_2.jpg`, `output/ayat/hari4_3.jpg`, `output/ayat/hari4_4.jpg`, `output/ayat/hari4_5.jpg`, `output/ayat/hari4_6.jpg`
+Gambar (urut): `output/ayat/hari3_1.jpg`, `output/ayat/hari3_2.jpg`, `output/ayat/hari3_3.jpg`, `output/ayat/hari3_4.jpg`, `output/ayat/hari3_5.jpg`, `output/ayat/hari3_6.jpg`
 
 ```
-Keledai berbicara di Alkitab? Iya, dan ceritanya lebih dalam dari yang kamu kira 🫏
+Salah satu nama Tuhan di Alkitab diberikan oleh seorang budak perempuan yang melarikan diri 👁️
 
-Bilangan 22. Keledai Bileam tiga kali menolak jalan terus, dan tiga kali dipukul. Ternyata ia melihat Malaikat TUHAN menghadang di jalan. Kalau ia tidak menyimpang, Bileam yang celaka.
+Kejadian 16. Hagar diperlakukan kasar, kabur ke padang gurun dalam keadaan hamil, dan justru di sana Tuhan menemuinya. Hagar lalu menyebut Tuhan “El-Roi”: Allah yang melihat aku.
 
-Kadang yang kita anggap penghalang, sebenarnya perlindungan.
+Kalau hari ini kamu merasa tidak dilihat siapa pun, Dia melihat.
 
-Pernah ada “jalan tertutup” di hidupmu yang belakangan kamu syukuri? Cerita di komentar 👇
+Pernah dengar nama El-Roi sebelumnya? Jawab: PERNAH / BARU TAHU 👇
 
 Follow untuk ayat-ayat lain yang jarang dibahas 📜
 .
@@ -642,7 +638,7 @@ ketik 🤍 kalau ini kamu banget
 
 ## @ayat.tersembunyi — Mon 28 Sep 19:10 WIB → **Tue 29 Sep 01:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m1-4.jpg`
+Gambar (urut): `output/stories/ayat-m1-3.jpg`
 
 ```
 
@@ -834,26 +830,22 @@ Gambar (urut): `output/stories/kapi-3-pagi.jpg`
 
 ## @ayat.tersembunyi — Tue 29 Sep 08:00 WIB → **Tue 29 Sep 14:00 NZ**
 
-Gambar (urut): `output/ayat/hari5_1.jpg`, `output/ayat/hari5_2.jpg`, `output/ayat/hari5_3.jpg`, `output/ayat/hari5_4.jpg`, `output/ayat/hari5_5.jpg`, `output/ayat/hari5_6.jpg`
+Gambar (urut): `output/ayat_singkat/fakta2.jpg`
 
 ```
-Ada satu detail aneh di malam Yesus ditangkap yang jarang dibahas 😶
+969 tahun! Metusalah tercatat sebagai orang dengan umur terpanjang di Alkitab, dan ia adalah kakek Nuh 😮
 
-Markus 14:51-52. Seorang pemuda mengikuti Yesus hanya dengan sehelai kain lenan. Saat hendak ditangkap, ia melepaskan kainnya dan lari telanjang. Banyak penafsir menduga pemuda itu adalah Markus sendiri, penulis Injil ini.
+📖 Kejadian 5:27
 
-Kalau benar, orang yang pernah kabur itu akhirnya menulis kisah Yesus untuk kita semua.
-
-Menurutmu, kenapa detail ini dicatat di Alkitab? Tulis pendapatmu 👇
-
-Follow untuk ayat-ayat lain yang jarang dibahas 📜
+Kalau kamu hidup 969 tahun, apa yang mau kamu lakukan? 😄👇
 .
 .
-#ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
 ```
 
 ## @ayat.tersembunyi — Tue 29 Sep 08:10 WIB → **Tue 29 Sep 14:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m1-5.jpg`
+Gambar (urut): `output/stories/ayat-fakta-2.jpg`
 
 ```
 
@@ -989,16 +981,16 @@ Gambar (urut): `output/stories/tenang-3-siang.jpg`
 
 ## @ayat.tersembunyi — Tue 29 Sep 13:00 WIB → **Tue 29 Sep 19:00 NZ**
 
-Gambar (urut): `output/ayat/hari6_1.jpg`, `output/ayat/hari6_2.jpg`, `output/ayat/hari6_3.jpg`, `output/ayat/hari6_4.jpg`, `output/ayat/hari6_5.jpg`, `output/ayat/hari6_6.jpg`
+Gambar (urut): `output/ayat/hari4_1.jpg`, `output/ayat/hari4_2.jpg`, `output/ayat/hari4_3.jpg`, `output/ayat/hari4_4.jpg`, `output/ayat/hari4_5.jpg`, `output/ayat/hari4_6.jpg`
 
 ```
-Ini satu-satunya catatan di Injil tentang Yesus menulis sesuatu. Dan kita tidak tahu apa yang Ia tulis ✍️
+Keledai berbicara di Alkitab? Iya, dan ceritanya lebih dalam dari yang kamu kira 🫏
 
-Yohanes 8:6-11. Saat orang-orang siap merajam seorang perempuan, Yesus membungkuk dan menulis di tanah. Setelah satu kalimat dari-Nya, para penuduh pergi satu per satu.
+Bilangan 22. Keledai Bileam tiga kali menolak jalan terus, dan tiga kali dipukul. Ternyata ia melihat Malaikat TUHAN menghadang di jalan. Kalau ia tidak menyimpang, Bileam yang celaka.
 
-Apa pun yang Ia tulis, yang pasti tercatat adalah kalimat terakhirnya: “Aku pun tidak menghukum engkau. Pergilah, dan jangan berbuat dosa lagi.”
+Kadang yang kita anggap penghalang, sebenarnya perlindungan.
 
-Menurutmu, Yesus menulis apa? Tulis tebakanmu 👇
+Pernah ada “jalan tertutup” di hidupmu yang belakangan kamu syukuri? Cerita di komentar 👇
 
 Follow untuk ayat-ayat lain yang jarang dibahas 📜
 .
@@ -1008,7 +1000,7 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 
 ## @ayat.tersembunyi — Tue 29 Sep 13:10 WIB → **Tue 29 Sep 19:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m1-6.jpg`
+Gambar (urut): `output/stories/ayat-m1-4.jpg`
 
 ```
 
@@ -1112,18 +1104,18 @@ Gambar (urut): `output/reels/tenang/suasana3.mp4`
 
 ## @ayat.tersembunyi — Tue 29 Sep 19:00 WIB → **Wed 30 Sep 01:00 NZ**
 
-Gambar (urut): `output/ayat/hari7_1.jpg`, `output/ayat/hari7_2.jpg`, `output/ayat/hari7_3.jpg`, `output/ayat/hari7_4.jpg`, `output/ayat/hari7_5.jpg`, `output/ayat/hari7_6.jpg`
+Gambar (urut): `output/ayat/hari5_1.jpg`, `output/ayat/hari5_2.jpg`, `output/ayat/hari5_3.jpg`, `output/ayat/hari5_4.jpg`, `output/ayat/hari5_5.jpg`, `output/ayat/hari5_6.jpg`
 
 ```
-Ayat penutup Injil Yohanes bilang: kalau semua yang Yesus lakukan ditulis, dunia tidak akan cukup untuk menampung bukunya 📚
+Ada satu detail aneh di malam Yesus ditangkap yang jarang dibahas 😶
 
-Yohanes 21:25. Yang kita baca di Alkitab hanyalah sebagian. Tapi Yohanes 20:31 menjelaskan: yang tertulis sudah cukup, supaya kita percaya.
+Markus 14:51-52. Seorang pemuda mengikuti Yesus hanya dengan sehelai kain lenan. Saat hendak ditangkap, ia melepaskan kainnya dan lari telanjang. Banyak penafsir menduga pemuda itu adalah Markus sendiri, penulis Injil ini.
 
-Kita sudah bahas 7 kisah yang jarang diangkat: Eutikhus, Elia, Hagar, keledai Bileam, pemuda yang kabur, Yesus menulis di tanah, dan ayat ini.
+Kalau benar, orang yang pernah kabur itu akhirnya menulis kisah Yesus untuk kita semua.
 
-Mana yang paling berkesan? Tulis nomornya 1–7 👇
+Menurutmu, kenapa detail ini dicatat di Alkitab? Tulis pendapatmu 👇
 
-Berikutnya: seri Yunus, 14 bagian. Follow supaya tidak ketinggalan 📜
+Follow untuk ayat-ayat lain yang jarang dibahas 📜
 .
 .
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
@@ -1146,7 +1138,7 @@ kirim ke bestie yang suka panik duluan 👇
 
 ## @ayat.tersembunyi — Tue 29 Sep 19:10 WIB → **Wed 30 Sep 01:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m1-7.jpg`
+Gambar (urut): `output/stories/ayat-m1-5.jpg`
 
 ```
 
@@ -1326,26 +1318,22 @@ Gambar (urut): `output/stories/kapi-4-pagi.jpg`
 
 ## @ayat.tersembunyi — Wed 30 Sep 08:00 WIB → **Wed 30 Sep 14:00 NZ**
 
-Gambar (urut): `output/ayat_minggu2/hari1_1.jpg`, `output/ayat_minggu2/hari1_2.jpg`, `output/ayat_minggu2/hari1_3.jpg`, `output/ayat_minggu2/hari1_4.jpg`, `output/ayat_minggu2/hari1_5.jpg`, `output/ayat_minggu2/hari1_6.jpg`
+Gambar (urut): `output/ayat_singkat/fakta3.jpg`
 
 ```
-Semua orang tahu Yunus ditelan ikan. Tapi jarang yang tahu: sebelumnya ia adalah nabi yang sukses 🌊
+Setiap kali kita menyebut nama Yesus, kita sedang menyebut sebuah janji: TUHAN menyelamatkan 🤍
 
-2 Raja-raja 14:25 mencatat nubuat Yunus bin Amitai yang digenapi di zaman Raja Yerobeam II. Ia berasal dari Gat-Hefer, hanya beberapa kilometer dari Nazaret.
+📖 Matius 1:21
 
-Lalu datang perintah baru: pergi ke Niniwe. Dan nabi yang sukses ini memilih lari.
-
-Kenapa? Tebak dulu di komentar 👇 Jawabannya di post berikutnya.
-
-Ini bagian 1 dari seri Yunus (14 post). Follow supaya tidak ketinggalan 📜
+Ketik “YESUS” kalau kamu bersyukur untuk nama itu.
 .
 .
-#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
 ```
 
 ## @ayat.tersembunyi — Wed 30 Sep 08:10 WIB → **Wed 30 Sep 14:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m2-1.jpg`
+Gambar (urut): `output/stories/ayat-fakta-3.jpg`
 
 ```
 
@@ -1474,24 +1462,26 @@ Gambar (urut): `output/stories/tenang-4-siang.jpg`
 
 ## @ayat.tersembunyi — Wed 30 Sep 13:00 WIB → **Wed 30 Sep 19:00 NZ**
 
-Gambar (urut): `output/ayat_minggu2/hari2_1.jpg`, `output/ayat_minggu2/hari2_2.jpg`, `output/ayat_minggu2/hari2_3.jpg`, `output/ayat_minggu2/hari2_4.jpg`, `output/ayat_minggu2/hari2_5.jpg`, `output/ayat_minggu2/hari2_6.jpg`
+Gambar (urut): `output/ayat/hari6_1.jpg`, `output/ayat/hari6_2.jpg`, `output/ayat/hari6_3.jpg`, `output/ayat/hari6_4.jpg`, `output/ayat/hari6_5.jpg`, `output/ayat/hari6_6.jpg`
 
 ```
-Yunus tidak lari karena takut gagal. Ia lari karena takut BERHASIL 😶
+Ini satu-satunya catatan di Injil tentang Yesus menulis sesuatu. Dan kita tidak tahu apa yang Ia tulis ✍️
 
-Niniwe adalah ibu kota Asyur, musuh Israel yang terkenal kejam. Di Yunus 4:2 ia sendiri mengaku: “aku tahu, bahwa Engkaulah Allah yang pengasih dan penyayang.” Ia tahu, kalau Niniwe bertobat, Tuhan akan mengampuni. Dan itu yang tidak bisa ia terima.
+Yohanes 8:6-11. Saat orang-orang siap merajam seorang perempuan, Yesus membungkuk dan menulis di tanah. Setelah satu kalimat dari-Nya, para penuduh pergi satu per satu.
 
-Pernah merasa berat melihat orang yang menyakitimu diberkati? Kamu tidak sendirian.
+Apa pun yang Ia tulis, yang pasti tercatat adalah kalimat terakhirnya: “Aku pun tidak menghukum engkau. Pergilah, dan jangan berbuat dosa lagi.”
 
-Seri Yunus bagian 2/14. Save & follow 📜
+Menurutmu, Yesus menulis apa? Tulis tebakanmu 👇
+
+Follow untuk ayat-ayat lain yang jarang dibahas 📜
 .
 .
-#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+#ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
 ## @ayat.tersembunyi — Wed 30 Sep 13:10 WIB → **Wed 30 Sep 19:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m2-2.jpg`
+Gambar (urut): `output/stories/ayat-m1-6.jpg`
 
 ```
 
@@ -1596,21 +1586,21 @@ Gambar (urut): `output/reels/tenang/suasana4.mp4`
 
 ## @ayat.tersembunyi — Wed 30 Sep 19:00 WIB → **Thu 01 Oct 01:00 NZ**
 
-Gambar (urut): `output/ayat_minggu2/hari3_1.jpg`, `output/ayat_minggu2/hari3_2.jpg`, `output/ayat_minggu2/hari3_3.jpg`, `output/ayat_minggu2/hari3_4.jpg`, `output/ayat_minggu2/hari3_5.jpg`, `output/ayat_minggu2/hari3_6.jpg`
+Gambar (urut): `output/ayat/hari7_1.jpg`, `output/ayat/hari7_2.jpg`, `output/ayat/hari7_3.jpg`, `output/ayat/hari7_4.jpg`, `output/ayat/hari7_5.jpg`, `output/ayat/hari7_6.jpg`
 
 ```
-Tuhan menyuruh Yunus ke timur. Yunus naik kapal ke barat. Dan ia membayar tiketnya sendiri 🧭
+Ayat penutup Injil Yohanes bilang: kalau semua yang Yesus lakukan ditulis, dunia tidak akan cukup untuk menampung bukunya 📚
 
-Yunus 1:3. Niniwe di timur, Tarsis di ujung barat. Arahnya berlawanan 180 derajat. Ini bukan tersesat, tapi keputusan sadar.
+Yohanes 21:25. Yang kita baca di Alkitab hanyalah sebagian. Tapi Yohanes 20:31 menjelaskan: yang tertulis sudah cukup, supaya kita percaya.
 
-Detail kecil yang sering terlewat: “Ia membayar biaya perjalanannya.” Lari dari Tuhan selalu ada harganya.
+Kita sudah bahas 7 kisah yang jarang diangkat: Eutikhus, Elia, Hagar, keledai Bileam, pemuda yang kabur, Yesus menulis di tanah, dan ayat ini.
 
-Pernah melihat “pintu terbuka” yang ternyata ke arah yang salah? Cerita di komentar 👇
+Mana yang paling berkesan? Tulis nomornya 1–7 👇
 
-Seri Yunus bagian 3/14 📜
+Berikutnya: seri Yunus, 14 bagian. Follow supaya tidak ketinggalan 📜
 .
 .
-#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+#ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
 ## @kapi.percaya — Wed 30 Sep 19:00 WIB → **Thu 01 Oct 01:00 NZ**
@@ -1630,7 +1620,7 @@ ketik “AMIN” kalau setuju 🙌
 
 ## @ayat.tersembunyi — Wed 30 Sep 19:10 WIB → **Thu 01 Oct 01:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m2-3.jpg`
+Gambar (urut): `output/stories/ayat-m1-7.jpg`
 
 ```
 
@@ -1808,26 +1798,22 @@ Gambar (urut): `output/stories/kapi-5-pagi.jpg`
 
 ## @ayat.tersembunyi — Thu 01 Oct 08:00 WIB → **Thu 01 Oct 14:00 NZ**
 
-Gambar (urut): `output/ayat_minggu2/hari4_1.jpg`, `output/ayat_minggu2/hari4_2.jpg`, `output/ayat_minggu2/hari4_3.jpg`, `output/ayat_minggu2/hari4_4.jpg`, `output/ayat_minggu2/hari4_5.jpg`, `output/ayat_minggu2/hari4_6.jpg`
+Gambar (urut): `output/ayat_singkat/fakta4.jpg`
 
 ```
-Satu kata Ibrani yang terus muncul di kisah Yunus: yarad, artinya TURUN ⬇️
+Rahab dari Yerikho tercatat dalam silsilah Yesus (Matius 1:5) ✨
 
-Turun ke Yafo (1:3). Turun ke ruang kapal paling bawah (1:5). Tenggelam ke dasar gunung-gunung (2:6). Di Alkitab bahasa Indonesia kata ini diterjemahkan berbeda-beda, jadi polanya jarang disadari.
+Masa lalu tidak pernah terlalu kelam untuk kasih karunia Tuhan.
 
-Tapi lihat akhir Yunus 2:6: “Ketika itulah Engkau naikkan nyawaku.” Kita yang turun, Dia yang menaikkan.
-
-Ketik ⬆️ kalau kamu percaya Tuhan sanggup menaikkanmu.
-
-Seri Yunus bagian 4/14 📜
+Kirim ke seseorang yang merasa masa lalunya terlalu berat 💌
 .
 .
-#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
 ```
 
 ## @ayat.tersembunyi — Thu 01 Oct 08:10 WIB → **Thu 01 Oct 14:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m2-4.jpg`
+Gambar (urut): `output/stories/ayat-fakta-4.jpg`
 
 ```
 
@@ -1961,18 +1947,18 @@ Gambar (urut): `output/stories/tenang-5-siang.jpg`
 
 ## @ayat.tersembunyi — Thu 01 Oct 13:00 WIB → **Thu 01 Oct 19:00 NZ**
 
-Gambar (urut): `output/ayat_minggu2/hari5_1.jpg`, `output/ayat_minggu2/hari5_2.jpg`, `output/ayat_minggu2/hari5_3.jpg`, `output/ayat_minggu2/hari5_4.jpg`, `output/ayat_minggu2/hari5_5.jpg`, `output/ayat_minggu2/hari5_6.jpg`
+Gambar (urut): `output/ayat_minggu2/hari1_1.jpg`, `output/ayat_minggu2/hari1_2.jpg`, `output/ayat_minggu2/hari1_3.jpg`, `output/ayat_minggu2/hari1_4.jpg`, `output/ayat_minggu2/hari1_5.jpg`, `output/ayat_minggu2/hari1_6.jpg`
 
 ```
-Salah satu ironi paling tajam di Alkitab: para pelaut kafir berdoa, sang nabi Allah tertidur nyenyak ⛈️
+Semua orang tahu Yunus ditelan ikan. Tapi jarang yang tahu: sebelumnya ia adalah nabi yang sukses 🌊
 
-Yunus 1:4-16. Tuhan mengirim badai. Awak kapal berteriak kepada allah mereka, sementara Yunus tidur di ruang kapal paling bawah. Nakhoda kafir yang harus membangunkan nabi untuk berdoa.
+2 Raja-raja 14:25 mencatat nubuat Yunus bin Amitai yang digenapi di zaman Raja Yerobeam II. Ia berasal dari Gat-Hefer, hanya beberapa kilometer dari Nazaret.
 
-Dan di akhir pasal, justru para pelaut itu yang takut akan TUHAN.
+Lalu datang perintah baru: pergi ke Niniwe. Dan nabi yang sukses ini memilih lari.
 
-Pernah “dibangunkan” Tuhan lewat orang yang tidak kamu sangka? Cerita di komentar 👇
+Kenapa? Tebak dulu di komentar 👇 Jawabannya di post berikutnya.
 
-Seri Yunus bagian 5/14 📜
+Ini bagian 1 dari seri Yunus (14 post). Follow supaya tidak ketinggalan 📜
 .
 .
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
@@ -1980,7 +1966,7 @@ Seri Yunus bagian 5/14 📜
 
 ## @ayat.tersembunyi — Thu 01 Oct 13:10 WIB → **Thu 01 Oct 19:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m2-5.jpg`
+Gambar (urut): `output/stories/ayat-m2-1.jpg`
 
 ```
 
@@ -2087,18 +2073,16 @@ Gambar (urut): `output/reels/tenang/notif5.mp4`
 
 ## @ayat.tersembunyi — Thu 01 Oct 19:00 WIB → **Fri 02 Oct 01:00 NZ**
 
-Gambar (urut): `output/ayat_minggu2/hari6_1.jpg`, `output/ayat_minggu2/hari6_2.jpg`, `output/ayat_minggu2/hari6_3.jpg`, `output/ayat_minggu2/hari6_4.jpg`, `output/ayat_minggu2/hari6_5.jpg`, `output/ayat_minggu2/hari6_6.jpg`
+Gambar (urut): `output/ayat_minggu2/hari2_1.jpg`, `output/ayat_minggu2/hari2_2.jpg`, `output/ayat_minggu2/hari2_3.jpg`, `output/ayat_minggu2/hari2_4.jpg`, `output/ayat_minggu2/hari2_5.jpg`, `output/ayat_minggu2/hari2_6.jpg`
 
 ```
-Kita sering membayangkan ikan besar itu sebagai hukuman untuk Yunus. Coba baca lagi Yunus 1:17 🐋
+Yunus tidak lari karena takut gagal. Ia lari karena takut BERHASIL 😶
 
-“Maka atas penentuan TUHAN datanglah seekor ikan besar yang menelan Yunus.” Yunus baru saja dicampakkan ke laut dalam keadaan putus asa. Tanpa ikan itu, ia tenggelam. Ikan itu sudah disiapkan Tuhan untuk menyelamatkannya.
+Niniwe adalah ibu kota Asyur, musuh Israel yang terkenal kejam. Di Yunus 4:2 ia sendiri mengaku: “aku tahu, bahwa Engkaulah Allah yang pengasih dan penyayang.” Ia tahu, kalau Niniwe bertobat, Tuhan akan mengampuni. Dan itu yang tidak bisa ia terima.
 
-Kadang yang terasa “menelan” hidup kita justru tempat Tuhan menjaga kita tetap hidup.
+Pernah merasa berat melihat orang yang menyakitimu diberkati? Kamu tidak sendirian.
 
-Ketik 🐋 kalau kamu sedang di fase “perut ikan”, kita doakan bersama.
-
-Seri Yunus bagian 6/14 📜
+Seri Yunus bagian 2/14. Save & follow 📜
 .
 .
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
@@ -2121,7 +2105,7 @@ save & share 🔖
 
 ## @ayat.tersembunyi — Thu 01 Oct 19:10 WIB → **Fri 02 Oct 01:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m2-6.jpg`
+Gambar (urut): `output/stories/ayat-m2-2.jpg`
 
 ```
 
@@ -2299,26 +2283,22 @@ Gambar (urut): `output/stories/kapi-6-pagi.jpg`
 
 ## @ayat.tersembunyi — Fri 02 Oct 08:00 WIB → **Fri 02 Oct 14:00 NZ**
 
-Gambar (urut): `output/ayat_minggu2/hari7_1.jpg`, `output/ayat_minggu2/hari7_2.jpg`, `output/ayat_minggu2/hari7_3.jpg`, `output/ayat_minggu2/hari7_4.jpg`, `output/ayat_minggu2/hari7_5.jpg`, `output/ayat_minggu2/hari7_6.jpg`
+Gambar (urut): `output/ayat_singkat/fakta5.jpg`
 
 ```
-Di seluruh kitab Yunus, doa pertama sang nabi tidak diucapkan di bait suci. Doa itu lahir di perut ikan 🙏
+Detail kecil yang jarang diperhatikan: keledai itu belum pernah ditunggangi orang (Markus 11:2) 🫏
 
-Yunus 2:1-9. Dan menariknya, banyak kalimat dalam doanya mirip dengan Mazmur, misalnya Mazmur 120:1. Di tempat paling gelap, Yunus berdoa dengan firman yang ia hafal.
+Yesus datang ke Yerusalem bukan dengan kuda perang, tapi dengan keledai muda. Raja yang datang membawa damai.
 
-Puncaknya: “Keselamatan adalah dari TUHAN!”
-
-Ayat apa yang paling sering kamu doakan saat hari terasa gelap? Tulis di komentar 👇
-
-Seri Yunus bagian 7/14. Berikutnya: kesempatan kedua 📜
+Pernah dengar detail ini sebelumnya? PERNAH / BARU TAHU 👇
 .
 .
-#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
 ```
 
 ## @ayat.tersembunyi — Fri 02 Oct 08:10 WIB → **Fri 02 Oct 14:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m2-7.jpg`
+Gambar (urut): `output/stories/ayat-fakta-5.jpg`
 
 ```
 
@@ -2454,18 +2434,18 @@ Gambar (urut): `output/stories/tenang-6-siang.jpg`
 
 ## @ayat.tersembunyi — Fri 02 Oct 13:00 WIB → **Fri 02 Oct 19:00 NZ**
 
-Gambar (urut): `output/ayat_minggu3/hari1_1.jpg`, `output/ayat_minggu3/hari1_2.jpg`, `output/ayat_minggu3/hari1_3.jpg`, `output/ayat_minggu3/hari1_4.jpg`, `output/ayat_minggu3/hari1_5.jpg`, `output/ayat_minggu3/hari1_6.jpg`
+Gambar (urut): `output/ayat_minggu2/hari3_1.jpg`, `output/ayat_minggu2/hari3_2.jpg`, `output/ayat_minggu2/hari3_3.jpg`, `output/ayat_minggu2/hari3_4.jpg`, `output/ayat_minggu2/hari3_5.jpg`, `output/ayat_minggu2/hari3_6.jpg`
 
 ```
-Yunus tidak berenang ke pantai. Ia diantar… dengan cara yang tidak anggun sama sekali 😅
+Tuhan menyuruh Yunus ke timur. Yunus naik kapal ke barat. Dan ia membayar tiketnya sendiri 🧭
 
-Yunus 2:10: “Lalu berfirmanlah TUHAN kepada ikan itu, dan ikan itupun memuntahkan Yunus ke darat.” Tuhan berfirman, ikan itu taat. Dan ini terjadi tepat setelah Yunus berseru, “Keselamatan adalah dari TUHAN!”
+Yunus 1:3. Niniwe di timur, Tarsis di ujung barat. Arahnya berlawanan 180 derajat. Ini bukan tersesat, tapi keputusan sadar.
 
-Pemulihan dari Tuhan tidak selalu rapi, tapi selalu nyata.
+Detail kecil yang sering terlewat: “Ia membayar biaya perjalanannya.” Lari dari Tuhan selalu ada harganya.
 
-Pernah dipulihkan Tuhan dengan cara yang tidak kamu duga? Cerita di komentar 👇
+Pernah melihat “pintu terbuka” yang ternyata ke arah yang salah? Cerita di komentar 👇
 
-Seri Yunus bagian 8/14 📜
+Seri Yunus bagian 3/14 📜
 .
 .
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
@@ -2473,7 +2453,7 @@ Seri Yunus bagian 8/14 📜
 
 ## @ayat.tersembunyi — Fri 02 Oct 13:10 WIB → **Fri 02 Oct 19:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m3-1.jpg`
+Gambar (urut): `output/stories/ayat-m2-3.jpg`
 
 ```
 
@@ -2581,18 +2561,18 @@ Gambar (urut): `output/reels/tenang/notif6.mp4`
 
 ## @ayat.tersembunyi — Fri 02 Oct 19:00 WIB → **Sat 03 Oct 01:00 NZ**
 
-Gambar (urut): `output/ayat_minggu3/hari2_1.jpg`, `output/ayat_minggu3/hari2_2.jpg`, `output/ayat_minggu3/hari2_3.jpg`, `output/ayat_minggu3/hari2_4.jpg`, `output/ayat_minggu3/hari2_5.jpg`, `output/ayat_minggu3/hari2_6.jpg`
+Gambar (urut): `output/ayat_minggu2/hari4_1.jpg`, `output/ayat_minggu2/hari4_2.jpg`, `output/ayat_minggu2/hari4_3.jpg`, `output/ayat_minggu2/hari4_4.jpg`, `output/ayat_minggu2/hari4_5.jpg`, `output/ayat_minggu2/hari4_6.jpg`
 
 ```
-Tiga kata di Yunus 3:1 yang mungkin paling menghibur di seluruh kitab: “untuk kedua kalinya” 🤍
+Satu kata Ibrani yang terus muncul di kisah Yunus: yarad, artinya TURUN ⬇️
 
-Setelah lari, badai, dan perut ikan, Tuhan tidak memberi Yunus tugas yang lebih ringan dan tidak menceramahinya. Ia memberikan panggilan yang sama, sekali lagi. Dan kali ini Yunus pergi.
+Turun ke Yafo (1:3). Turun ke ruang kapal paling bawah (1:5). Tenggelam ke dasar gunung-gunung (2:6). Di Alkitab bahasa Indonesia kata ini diterjemahkan berbeda-beda, jadi polanya jarang disadari.
 
-Kegagalanmu tidak membatalkan panggilanmu.
+Tapi lihat akhir Yunus 2:6: “Ketika itulah Engkau naikkan nyawaku.” Kita yang turun, Dia yang menaikkan.
 
-Ketik “KEDUA” kalau kamu sedang butuh kesempatan kedua dari Tuhan. Kita doakan bersama.
+Ketik ⬆️ kalau kamu percaya Tuhan sanggup menaikkanmu.
 
-Seri Yunus bagian 9/14 📜
+Seri Yunus bagian 4/14 📜
 .
 .
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
@@ -2615,7 +2595,7 @@ follow @kapi.percaya biar tiap hari diingetin 🧡
 
 ## @ayat.tersembunyi — Fri 02 Oct 19:10 WIB → **Sat 03 Oct 01:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m3-2.jpg`
+Gambar (urut): `output/stories/ayat-m2-4.jpg`
 
 ```
 
@@ -2795,26 +2775,22 @@ Gambar (urut): `output/stories/kapi-7-pagi.jpg`
 
 ## @ayat.tersembunyi — Sat 03 Oct 08:00 WIB → **Sat 03 Oct 14:00 NZ**
 
-Gambar (urut): `output/ayat_minggu3/hari3_1.jpg`, `output/ayat_minggu3/hari3_2.jpg`, `output/ayat_minggu3/hari3_3.jpg`, `output/ayat_minggu3/hari3_4.jpg`, `output/ayat_minggu3/hari3_5.jpg`, `output/ayat_minggu3/hari3_6.jpg`
+Gambar (urut): `output/ayat_singkat/fakta6.jpg`
 
 ```
-Kenapa satu kota kafir yang kejam mau mendengarkan nabi dari negeri musuhnya? 🤔
+“Jangan takut.” Tuhan mengatakannya kepada Abraham, kepada Maria, kepada para gembala… dan hari ini, kepadamu 🤍
 
-Yesus berkata Yunus menjadi “tanda” untuk orang Niniwe (Lukas 11:30). Menariknya, relief di istana Asyur menggambarkan sosok bijak berjubah kulit ikan, dan tanda tulisan paku untuk nama Niniwe menyerupai ikan di dalam bangunan.
+📖 Kejadian 15:1 · Lukas 1:30 · Lukas 2:10
 
-Sebagian penafsir menduga: seorang nabi yang “keluar dari perut ikan” akan sangat didengar di kota seperti itu. (Ini tafsiran, bukan isi ayat, tapi latarnya menarik untuk direnungkan.)
-
-Suka konten sejarah Alkitab seperti ini? Ketik 📜 dan kami buat lebih banyak.
-
-Seri Yunus bagian 10/14
+Apa yang sedang kamu takutkan? Tulis satu kata saja, kita doakan 🙏
 .
 .
-#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
 ```
 
 ## @ayat.tersembunyi — Sat 03 Oct 08:10 WIB → **Sat 03 Oct 14:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m3-3.jpg`
+Gambar (urut): `output/stories/ayat-fakta-6.jpg`
 
 ```
 
@@ -2946,18 +2922,18 @@ Gambar (urut): `output/stories/tenang-7-siang.jpg`
 
 ## @ayat.tersembunyi — Sat 03 Oct 13:00 WIB → **Sat 03 Oct 19:00 NZ**
 
-Gambar (urut): `output/ayat_minggu3/hari4_1.jpg`, `output/ayat_minggu3/hari4_2.jpg`, `output/ayat_minggu3/hari4_3.jpg`, `output/ayat_minggu3/hari4_4.jpg`, `output/ayat_minggu3/hari4_5.jpg`, `output/ayat_minggu3/hari4_6.jpg`
+Gambar (urut): `output/ayat_minggu2/hari5_1.jpg`, `output/ayat_minggu2/hari5_2.jpg`, `output/ayat_minggu2/hari5_3.jpg`, `output/ayat_minggu2/hari5_4.jpg`, `output/ayat_minggu2/hari5_5.jpg`, `output/ayat_minggu2/hari5_6.jpg`
 
 ```
-Mungkin khotbah paling singkat di Alkitab: “Empat puluh hari lagi, maka Niniwe akan ditunggangbalikkan.” Dalam bahasa Ibrani hanya 5 kata 😮
+Salah satu ironi paling tajam di Alkitab: para pelaut kafir berdoa, sang nabi Allah tertidur nyenyak ⛈️
 
-Tanpa ajakan, tanpa janji pengampunan. Tapi seluruh kota percaya kepada Allah, dari anak-anak sampai rajanya yang turun dari takhta dan duduk di abu. Dan Tuhan tidak jadi mendatangkan malapetaka (Yunus 3:4-10).
+Yunus 1:4-16. Tuhan mengirim badai. Awak kapal berteriak kepada allah mereka, sementara Yunus tidur di ruang kapal paling bawah. Nakhoda kafir yang harus membangunkan nabi untuk berdoa.
 
-Yang mengubah hati bukan kefasihan pengkhotbah, tapi Tuhan.
+Dan di akhir pasal, justru para pelaut itu yang takut akan TUHAN.
 
-Menurutmu, Yunus senang atau marah melihat ini? Tebak di komentar 👇 Jawabannya di post berikutnya.
+Pernah “dibangunkan” Tuhan lewat orang yang tidak kamu sangka? Cerita di komentar 👇
 
-Seri Yunus bagian 11/14 📜
+Seri Yunus bagian 5/14 📜
 .
 .
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
@@ -2965,7 +2941,7 @@ Seri Yunus bagian 11/14 📜
 
 ## @ayat.tersembunyi — Sat 03 Oct 13:10 WIB → **Sat 03 Oct 19:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m3-4.jpg`
+Gambar (urut): `output/stories/ayat-m2-5.jpg`
 
 ```
 
@@ -3095,18 +3071,18 @@ Gambar (urut): `output/reels/tenang/suasana5.mp4`
 
 ## @ayat.tersembunyi — Sat 03 Oct 19:00 WIB → **Sun 04 Oct 01:00 NZ**
 
-Gambar (urut): `output/ayat_minggu3/hari5_1.jpg`, `output/ayat_minggu3/hari5_2.jpg`, `output/ayat_minggu3/hari5_3.jpg`, `output/ayat_minggu3/hari5_4.jpg`, `output/ayat_minggu3/hari5_5.jpg`, `output/ayat_minggu3/hari5_6.jpg`
+Gambar (urut): `output/ayat_minggu2/hari6_1.jpg`, `output/ayat_minggu2/hari6_2.jpg`, `output/ayat_minggu2/hari6_3.jpg`, `output/ayat_minggu2/hari6_4.jpg`, `output/ayat_minggu2/hari6_5.jpg`, `output/ayat_minggu2/hari6_6.jpg`
 
 ```
-Kotanya bertobat. Nabinya marah. Sampai minta mati 😶
+Kita sering membayangkan ikan besar itu sebagai hukuman untuk Yunus. Coba baca lagi Yunus 1:17 🐋
 
-Yunus 4:1-4. Setelah seluruh Niniwe bertobat, Yunus justru kesal. Ia mengutip sifat Tuhan yang paling indah, “pengasih dan penyayang, panjang sabar dan berlimpah kasih setia”, sebagai keluhan.
+“Maka atas penentuan TUHAN datanglah seekor ikan besar yang menelan Yunus.” Yunus baru saja dicampakkan ke laut dalam keadaan putus asa. Tanpa ikan itu, ia tenggelam. Ikan itu sudah disiapkan Tuhan untuk menyelamatkannya.
 
-Dan Tuhan dengan lembut bertanya: “Layakkah engkau marah?”
+Kadang yang terasa “menelan” hidup kita justru tempat Tuhan menjaga kita tetap hidup.
 
-Pernah sulit menerima ketika Tuhan memberkati orang yang menurutmu tidak layak? Kamu tidak sendirian.
+Ketik 🐋 kalau kamu sedang di fase “perut ikan”, kita doakan bersama.
 
-Seri Yunus bagian 12/14 📜
+Seri Yunus bagian 6/14 📜
 .
 .
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
@@ -3129,7 +3105,7 @@ sebutin satu hal yang bikin kamu senyum minggu ini 👇
 
 ## @ayat.tersembunyi — Sat 03 Oct 19:10 WIB → **Sun 04 Oct 01:10 NZ**
 
-Gambar (urut): `output/stories/ayat-m3-5.jpg`
+Gambar (urut): `output/stories/ayat-m2-6.jpg`
 
 ```
 
@@ -3231,6 +3207,168 @@ Gambar (urut): `output/stories/kapi-7-larut.jpg`
 
 ## @ayat.tersembunyi — Sun 04 Oct 08:00 WIB → **Sun 04 Oct 14:00 NZ**
 
+Gambar (urut): `output/ayat_minggu2/hari7_1.jpg`, `output/ayat_minggu2/hari7_2.jpg`, `output/ayat_minggu2/hari7_3.jpg`, `output/ayat_minggu2/hari7_4.jpg`, `output/ayat_minggu2/hari7_5.jpg`, `output/ayat_minggu2/hari7_6.jpg`
+
+```
+Di seluruh kitab Yunus, doa pertama sang nabi tidak diucapkan di bait suci. Doa itu lahir di perut ikan 🙏
+
+Yunus 2:1-9. Dan menariknya, banyak kalimat dalam doanya mirip dengan Mazmur, misalnya Mazmur 120:1. Di tempat paling gelap, Yunus berdoa dengan firman yang ia hafal.
+
+Puncaknya: “Keselamatan adalah dari TUHAN!”
+
+Ayat apa yang paling sering kamu doakan saat hari terasa gelap? Tulis di komentar 👇
+
+Seri Yunus bagian 7/14. Berikutnya: kesempatan kedua 📜
+.
+.
+#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 08:10 WIB → **Sun 04 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat-m2-7.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 13:00 WIB → **Sun 04 Oct 19:00 NZ**
+
+Gambar (urut): `output/ayat_minggu3/hari1_1.jpg`, `output/ayat_minggu3/hari1_2.jpg`, `output/ayat_minggu3/hari1_3.jpg`, `output/ayat_minggu3/hari1_4.jpg`, `output/ayat_minggu3/hari1_5.jpg`, `output/ayat_minggu3/hari1_6.jpg`
+
+```
+Yunus tidak berenang ke pantai. Ia diantar… dengan cara yang tidak anggun sama sekali 😅
+
+Yunus 2:10: “Lalu berfirmanlah TUHAN kepada ikan itu, dan ikan itupun memuntahkan Yunus ke darat.” Tuhan berfirman, ikan itu taat. Dan ini terjadi tepat setelah Yunus berseru, “Keselamatan adalah dari TUHAN!”
+
+Pemulihan dari Tuhan tidak selalu rapi, tapi selalu nyata.
+
+Pernah dipulihkan Tuhan dengan cara yang tidak kamu duga? Cerita di komentar 👇
+
+Seri Yunus bagian 8/14 📜
+.
+.
+#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 13:10 WIB → **Sun 04 Oct 19:10 NZ**
+
+Gambar (urut): `output/stories/ayat-m3-1.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 19:00 WIB → **Mon 05 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_minggu3/hari2_1.jpg`, `output/ayat_minggu3/hari2_2.jpg`, `output/ayat_minggu3/hari2_3.jpg`, `output/ayat_minggu3/hari2_4.jpg`, `output/ayat_minggu3/hari2_5.jpg`, `output/ayat_minggu3/hari2_6.jpg`
+
+```
+Tiga kata di Yunus 3:1 yang mungkin paling menghibur di seluruh kitab: “untuk kedua kalinya” 🤍
+
+Setelah lari, badai, dan perut ikan, Tuhan tidak memberi Yunus tugas yang lebih ringan dan tidak menceramahinya. Ia memberikan panggilan yang sama, sekali lagi. Dan kali ini Yunus pergi.
+
+Kegagalanmu tidak membatalkan panggilanmu.
+
+Ketik “KEDUA” kalau kamu sedang butuh kesempatan kedua dari Tuhan. Kita doakan bersama.
+
+Seri Yunus bagian 9/14 📜
+.
+.
+#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 19:10 WIB → **Mon 05 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat-m3-2.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 08:00 WIB → **Mon 05 Oct 14:00 NZ**
+
+Gambar (urut): `output/ayat_minggu3/hari3_1.jpg`, `output/ayat_minggu3/hari3_2.jpg`, `output/ayat_minggu3/hari3_3.jpg`, `output/ayat_minggu3/hari3_4.jpg`, `output/ayat_minggu3/hari3_5.jpg`, `output/ayat_minggu3/hari3_6.jpg`
+
+```
+Kenapa satu kota kafir yang kejam mau mendengarkan nabi dari negeri musuhnya? 🤔
+
+Yesus berkata Yunus menjadi “tanda” untuk orang Niniwe (Lukas 11:30). Menariknya, relief di istana Asyur menggambarkan sosok bijak berjubah kulit ikan, dan tanda tulisan paku untuk nama Niniwe menyerupai ikan di dalam bangunan.
+
+Sebagian penafsir menduga: seorang nabi yang “keluar dari perut ikan” akan sangat didengar di kota seperti itu. (Ini tafsiran, bukan isi ayat, tapi latarnya menarik untuk direnungkan.)
+
+Suka konten sejarah Alkitab seperti ini? Ketik 📜 dan kami buat lebih banyak.
+
+Seri Yunus bagian 10/14
+.
+.
+#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 08:10 WIB → **Mon 05 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat-m3-3.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 13:00 WIB → **Mon 05 Oct 19:00 NZ**
+
+Gambar (urut): `output/ayat_minggu3/hari4_1.jpg`, `output/ayat_minggu3/hari4_2.jpg`, `output/ayat_minggu3/hari4_3.jpg`, `output/ayat_minggu3/hari4_4.jpg`, `output/ayat_minggu3/hari4_5.jpg`, `output/ayat_minggu3/hari4_6.jpg`
+
+```
+Mungkin khotbah paling singkat di Alkitab: “Empat puluh hari lagi, maka Niniwe akan ditunggangbalikkan.” Dalam bahasa Ibrani hanya 5 kata 😮
+
+Tanpa ajakan, tanpa janji pengampunan. Tapi seluruh kota percaya kepada Allah, dari anak-anak sampai rajanya yang turun dari takhta dan duduk di abu. Dan Tuhan tidak jadi mendatangkan malapetaka (Yunus 3:4-10).
+
+Yang mengubah hati bukan kefasihan pengkhotbah, tapi Tuhan.
+
+Menurutmu, Yunus senang atau marah melihat ini? Tebak di komentar 👇 Jawabannya di post berikutnya.
+
+Seri Yunus bagian 11/14 📜
+.
+.
+#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 13:10 WIB → **Mon 05 Oct 19:10 NZ**
+
+Gambar (urut): `output/stories/ayat-m3-4.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 19:00 WIB → **Tue 06 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_minggu3/hari5_1.jpg`, `output/ayat_minggu3/hari5_2.jpg`, `output/ayat_minggu3/hari5_3.jpg`, `output/ayat_minggu3/hari5_4.jpg`, `output/ayat_minggu3/hari5_5.jpg`, `output/ayat_minggu3/hari5_6.jpg`
+
+```
+Kotanya bertobat. Nabinya marah. Sampai minta mati 😶
+
+Yunus 4:1-4. Setelah seluruh Niniwe bertobat, Yunus justru kesal. Ia mengutip sifat Tuhan yang paling indah, “pengasih dan penyayang, panjang sabar dan berlimpah kasih setia”, sebagai keluhan.
+
+Dan Tuhan dengan lembut bertanya: “Layakkah engkau marah?”
+
+Pernah sulit menerima ketika Tuhan memberkati orang yang menurutmu tidak layak? Kamu tidak sendirian.
+
+Seri Yunus bagian 12/14 📜
+.
+.
+#yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 19:10 WIB → **Tue 06 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat-m3-5.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Tue 06 Oct 08:00 WIB → **Tue 06 Oct 14:00 NZ**
+
 Gambar (urut): `output/ayat_minggu3/hari6_1.jpg`, `output/ayat_minggu3/hari6_2.jpg`, `output/ayat_minggu3/hari6_3.jpg`, `output/ayat_minggu3/hari6_4.jpg`, `output/ayat_minggu3/hari6_5.jpg`, `output/ayat_minggu3/hari6_6.jpg`
 
 ```
@@ -3248,7 +3386,7 @@ Seri Yunus bagian 13/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 08:10 WIB → **Sun 04 Oct 14:10 NZ**
+## @ayat.tersembunyi — Tue 06 Oct 08:10 WIB → **Tue 06 Oct 14:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-6.jpg`
 
@@ -3256,7 +3394,7 @@ Gambar (urut): `output/stories/ayat-m3-6.jpg`
 
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 13:00 WIB → **Sun 04 Oct 19:00 NZ**
+## @ayat.tersembunyi — Tue 06 Oct 13:00 WIB → **Tue 06 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari7_1.jpg`, `output/ayat_minggu3/hari7_2.jpg`, `output/ayat_minggu3/hari7_3.jpg`, `output/ayat_minggu3/hari7_4.jpg`, `output/ayat_minggu3/hari7_5.jpg`, `output/ayat_minggu3/hari7_6.jpg`
 
@@ -3275,7 +3413,7 @@ Terima kasih sudah mengikuti seri ini 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 13:10 WIB → **Sun 04 Oct 19:10 NZ**
+## @ayat.tersembunyi — Tue 06 Oct 13:10 WIB → **Tue 06 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-7.jpg`
 

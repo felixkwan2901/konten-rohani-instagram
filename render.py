@@ -1041,9 +1041,15 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                     rels = [reel]
             items.append({"id": f"{modul}-{day}-{slot}", "akun": "tenang", "waktu": at(offset + day - 1, config.AKUN["tenang"]["jam"][slot]),
                           "files": rels, "caption": caption + "\n.\n.\n" + tenang.TAGS})
-    import akun_baru  # @ayat.tersembunyi: semua post dari MINGGU_AYAT diambil berurutan, 3 per hari
+    import akun_baru  # @ayat.tersembunyi
     jam = config.AKUN["ayat"]["jam"]
-    slots = [(0, jam[-1])] + [(d, t) for d in range(1, 60) for t in jam]  # hari 1 cuma 1 post (sudah terposting)
+    fakta = akun_baru.fakta_singkat()  # hari 2-7 pagi: "Fakta 30 detik" (1 slide)
+    for i, (path, caption) in enumerate(fakta):
+        items.append({"id": f"ayat-fakta-{i + 1}", "akun": "ayat", "waktu": at(i + 1, jam[0]),
+                      "files": [f"ayat_singkat/{path.name}"], "caption": caption})
+    # carousel diambil berurutan: hari 1 = 1 post, hari 2-7 = 2 per hari (13:00, 19:00), setelahnya 3 per hari
+    slots = [(0, jam[-1])] + [(d, t) for d in range(1, 1 + len(fakta)) for t in jam[1:]] \
+            + [(d, t) for d in range(1 + len(fakta), 60) for t in jam]
     ayat_posts = [(week, day, pages, caption) for week, modul in enumerate(akun_baru.MINGGU_AYAT)
                   for day, (pages, caption) in enumerate(akun_baru.render_ayat(modul))]
     for (week, day, pages, caption), (d, t) in zip(ayat_posts, slots):
