@@ -18,9 +18,9 @@ AKUN = {
         "jam": ["08:00", "13:00", "19:00"],  # 3 post/hari, post diambil berurutan dari MINGGU_AYAT
     },
     "kapi": {
-        "handle": "kapi.percaya",      # tidak aktif: akunnya sudah diganti jadi ayat.tersembunyi, aset tetap disimpan
+        "handle": "kapi.percaya",      # maskot Kapi (aktif lagi 28 Sep 2026); 5 post/hari menyusul setelah konten dibuat
         "jam": "19:00",
-        "aktif": False,
+        "aktif": True,
     }
 }
 
