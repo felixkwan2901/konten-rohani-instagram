@@ -7,15 +7,15 @@ TIMEZONE = "Asia/Jakarta"
 AKUN = {
     "eli": {
         "handle": "sahabat.eli",      # karakter Eli, gaya child.ink
-        "jam": {"pagi": "06:00", "siang": "12:00", "malam": "21:00"},
+        "jam": {"pagi": "06:00", "pagi2": "09:00", "siang": "12:00", "sore": "17:00", "malam": "21:00"},
     },
     "tenang": {
         "handle": "diam.dan.percaya",  # 3 post/hari, gaya betteryouliving
-        "jam": {"pagi": "07:00", "siang": "12:00", "malam": "20:00"},
+        "jam": {"pagi": "06:00", "pagi2": "09:00", "siang": "12:00", "sore": "15:00", "petang": "18:00", "malam": "21:00"},
     },
     "ayat": {
-        "handle": "ayat.tersembunyi",  # ayat yang jarang dibahas, gaya kertas kuno (dulu akun Kapi)
-        "jam": "19:00",
+        "handle": "ayat.tersembunyi",  # ayat yang jarang dibahas, gaya kertas kuno
+        "jam": ["08:00", "13:00", "19:00"],  # 3 post/hari, post diambil berurutan dari MINGGU_AYAT
     },
     "kapi": {
         "handle": "kapi.percaya",      # tidak aktif: akunnya sudah diganti jadi ayat.tersembunyi, aset tetap disimpan
@@ -26,6 +26,9 @@ AKUN = {
 
 # Format B (notifikasi) di akun Tenang diposting sebagai Reels (True) atau carousel 4 slide (False).
 TENANG_NOTIF_REELS = True
+
+# Story otomatis (9:16, tanpa link) 10 menit setelah setiap post feed.
+STORY_OTOMATIS = True
 
 # Template carousel quote akun Tenang: "editorial" (baru, rata kiri) atau "klasik" (teks tengah di latar coklat).
 TENANG_QUOTE_TEMPLATE = "editorial"

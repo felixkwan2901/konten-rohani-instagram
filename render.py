@@ -2,7 +2,7 @@
 Jalankan: python3 render.py"""
 import json
 import re
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from io import BytesIO
 from pathlib import Path
 
@@ -199,6 +199,13 @@ def eli_image(slot, bubble, kutipan, ref, show_bubble=True, show_verse=True):
             y += 58
         d.text((540, y + 22), ref, font=f_r, fill="#8C6D22", anchor="ma")
     return img.convert("RGB")
+
+
+def render_eli_tambahan():
+    """Gambar untuk slot tambahan Eli (konten/eli_tambahan.py); post dengan 'file' memakai file yang sudah ada."""
+    from konten import eli_tambahan
+    return [save(eli_image(p["adegan"], p["balon"], p["kutipan"], p["ref"]), f"eli/hari{p['hari']}_{p['slot']}.jpg")
+            for p in eli_tambahan.POSTS if "file" not in p]
 
 
 def render_eli():
@@ -470,7 +477,7 @@ def dinding_layers(p, size=(W, H), fsize=44, seed=5):
             spot = next(((wd, x, y) for wd, x, y in row if wd == target and 60 < x < w - 60 - f.getlength(wd)), None)
             if spot:
                 wd, x, y = spot
-                sp = text_sprite(wd, f, "#FFFFFF")
+                sp = text_sprite(wd, f, "#FFFFFF" if is_dark(p["bg"]) else "#111111")
                 hits.append((sp, (int(x + f.getbbox(wd)[0] - 4), int(y + f.getbbox(wd)[1] - 4))))
                 break
     return base, hits
@@ -583,7 +590,8 @@ def render_tenang_suasana(p, key):
 
 
 TENANG_FORMAT = {"A": (render_tenang_quote, "POSTS"), "B": (render_tenang_notif, "NOTIF"), "C": (render_tenang_warna, "WARNA"),
-                 "D": (render_tenang_dinding, "DINDING"), "R": (render_tenang_suasana, "SUASANA")}
+                 "D": (render_tenang_dinding, "DINDING"), "R": (render_tenang_suasana, "SUASANA"),
+                 "W": (render_tenang_dinding, "DINDING")}  # W = dinding teks sebagai gambar, tidak diganti Reels
 TENANG_REELS = {"B": "notif", "R": "suasana", "D": "dinding"}
 TENANG_SUDAH_KLASIK = {"tenang-1-siang"}  # sudah diposting dengan template klasik, jangan diubah  # format yang punya versi Reels (python3 reels.py)
 
@@ -808,6 +816,32 @@ def reel_or_image(reel_rel, image_rel):
     return reel_rel if (OUT / reel_rel).exists() else image_rel
 
 
+def story_image(rel, handle, name):
+    """Versi Story 9:16 dari sebuah post gambar: latar = versi buram gambarnya, gambar di tengah, label kecil."""
+    src = Image.open(OUT / rel).convert("RGB")
+    bg = src.resize((1080, 1920)).filter(ImageFilter.GaussianBlur(40))
+    bg = Image.blend(bg, Image.new("RGB", bg.size, "#000000"), 0.25)
+    w = 960
+    fg = src.resize((w, int(src.height * w / src.width)))
+    y = (1920 - fg.height) // 2 - 40
+    bg.paste(fg, ((1080 - w) // 2, y))
+    d = ImageDraw.Draw(bg)
+    d.text((540, y + fg.height + 50), "post baru di feed  ·  @" + handle, font=font("sans_bold", 30), fill="#FFFFFF", anchor="ma")
+    return save(bg, f"stories/{name}.jpg")
+
+
+def add_stories(items, delay_minutes=10):
+    """Satu Story otomatis untuk setiap post feed, 10 menit setelahnya. Reels dipakai langsung (sudah 9:16),
+    post gambar/carousel dibuatkan versi 9:16 dari gambar pertamanya. Story tidak bisa diberi link lewat API."""
+    stories = []
+    for it in items:
+        first = it["files"][0]
+        when = (datetime.fromisoformat(it["waktu"]) + timedelta(minutes=delay_minutes)).isoformat()
+        media = first if first.endswith(".mp4") else story_image(first, config.AKUN[it["akun"]]["handle"], it["id"])
+        stories.append({"id": f"story-{it['id']}", "akun": it["akun"], "waktu": when, "files": [media], "story": True, "caption": ""})
+    return items + stories
+
+
 def build_schedule(eli_files, tenang_files, kapi_files):
     """Eli: Reels ayat 3x sehari; hari 7 siang = carousel cerita "Pot" yang bergerak + 1 Reels panjang.
     Kapi: Reels harian. Tenang: carousel quote harian."""
@@ -827,6 +861,15 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                 continue
         items.append({"id": f"eli-{day + 1}-{slot}", "akun": "eli", "waktu": at(day, config.AKUN["eli"]["jam"][slot]),
                       "files": [reel_or_image(f"reels/eli/hari{day + 1}_{slot}.mp4", rel)], "caption": eli_caps[i]})
+    from konten import eli_tambahan
+    for p in eli_tambahan.POSTS:
+        if "file" in p:
+            files, caption = [p["file"]], (OUT / p["caption_file"]).read_text()
+        else:
+            image = f"eli/hari{p['hari']}_{p['slot']}.jpg"
+            files, caption = [reel_or_image(f"reels/eli/hari{p['hari']}_{p['slot']}.mp4", image)], p["caption"]
+        items.append({"id": f"eli-{p['hari']}-{p['slot']}", "akun": "eli", "waktu": at(p["hari"] - 1, config.AKUN["eli"]["jam"][p["slot"]]),
+                      "files": files, "caption": caption})
     if (OUT / "reels/eli/minggu1_rangkuman.mp4").exists():
         items.append({"id": "eli-7-reels-panjang", "akun": "eli", "waktu": at(6, "18:00"),
                       "files": ["reels/eli/minggu1_rangkuman.mp4"], "caption": CAPTION_MINGGU})
@@ -841,16 +884,22 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                     rels = [reel]
             items.append({"id": f"{modul}-{day}-{slot}", "akun": "tenang", "waktu": at(offset + day - 1, config.AKUN["tenang"]["jam"][slot]),
                           "files": rels, "caption": caption + "\n.\n.\n" + tenang.TAGS})
-    import akun_baru  # @ayat.tersembunyi: carousel dari konten/ayat.py (minggu 1), konten/ayat_minggu2.py (minggu 2), ...
-    for week, modul in enumerate(akun_baru.MINGGU_AYAT):
-        for day, (pages, caption) in enumerate(akun_baru.render_ayat(modul)):
-            items.append({"id": f"ayat-m{week + 1}-{day + 1}", "akun": "ayat", "waktu": at(week * 7 + day, config.AKUN["ayat"]["jam"]),
-                          "files": [f"{modul}/{f.name}" for f in pages], "caption": caption})
+    import akun_baru  # @ayat.tersembunyi: semua post dari MINGGU_AYAT diambil berurutan, 3 per hari
+    jam = config.AKUN["ayat"]["jam"]
+    slots = [(0, jam[-1])] + [(d, t) for d in range(1, 60) for t in jam]  # hari 1 cuma 1 post (sudah terposting)
+    ayat_posts = [(week, day, pages, caption) for week, modul in enumerate(akun_baru.MINGGU_AYAT)
+                  for day, (pages, caption) in enumerate(akun_baru.render_ayat(modul))]
+    for (week, day, pages, caption), (d, t) in zip(ayat_posts, slots):
+        modul = akun_baru.MINGGU_AYAT[week]
+        items.append({"id": f"ayat-m{week + 1}-{day + 1}", "akun": "ayat", "waktu": at(d, t),
+                      "files": [f"{modul}/{f.name}" for f in pages], "caption": caption})
     for day, rel in enumerate(kapi_files if config.AKUN["kapi"].get("aktif", True) else []):
         p = kapi.POSTS[day]
         items.append({"id": f"kapi-{day + 1}", "akun": "kapi", "waktu": at(day, config.AKUN["kapi"]["jam"]),
                       "files": [reel_or_image(f"reels/kapi/hari{day + 1}.mp4", rel)],
                       "caption": p["caption"].format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi.TAGS})
+    if config.STORY_OTOMATIS:
+        items = add_stories(items)
     items.sort(key=lambda x: x["waktu"])
     (OUT / "schedule.json").write_text(json.dumps(items, ensure_ascii=False, indent=2))
     return items
@@ -872,6 +921,7 @@ def write_jadwal(items):
 
 if __name__ == "__main__":
     e, t, k = render_eli(), render_tenang(), render_kapi()
+    render_eli_tambahan()
     t2 = render_tenang("tenang_minggu2")  # selalu dirender; dijadwalkan hanya kalau config.TENANG_MINGGU2_AKTIF
     contact_sheet([[f for x in t2 if x[0] == d for f in x[4][:3]] for d in range(1, 8)], "preview_tenang_minggu2.jpg")
     contact_sheet([e[i:i + 3] for i in range(0, 21, 3)], "preview_eli.jpg")

@@ -2,6 +2,7 @@
 
   python3 reels.py              # semua: 21 Reels Eli, 7 Reels Kapi, Reels panjang Eli, carousel Pot bergerak
   python3 reels.py eli 1 2 3    # hanya Reels Eli nomor 1, 2, 3 (urutan di konten/eli.py)
+  python3 reels.py tambahan     # hanya Reels slot tambahan Eli (09:00 & 17:00)
   python3 reels.py kapi         # hanya Reels Kapi
   python3 reels.py minggu       # hanya Reels panjang "Satu minggu bersama Eli"
   python3 reels.py notif        # hanya Reels notifikasi akun Tenang (format B)
@@ -19,7 +20,7 @@ from PIL import Image, ImageDraw
 
 import cerita
 import render
-from konten import eli, kapi, tenang
+from konten import eli, eli_tambahan, kapi, tenang
 
 RW, RH, FPS, SECONDS = 1080, 1920, 30, 9
 TOP = 220  # posisi gambar 4:5 di kanvas 9:16, sedikit ke atas supaya ayat tidak tertutup caption Reels
@@ -32,11 +33,19 @@ def ease(t):
 
 def make_reel(index):
     slot, bubble, kutipan, ref = eli.POSTS[index]
+    return eli_reel(slot, bubble, kutipan, ref, f"reels/eli/hari{index // 3 + 1}_{slot}.mp4")
+
+
+def make_reel_tambahan(p):
+    """Reels untuk slot tambahan Eli (konten/eli_tambahan.py)."""
+    return eli_reel(p["adegan"], p["balon"], p["kutipan"], p["ref"], f"reels/eli/hari{p['hari']}_{p['slot']}.mp4")
+
+
+def eli_reel(slot, bubble, kutipan, ref, rel):
     paper = np.full((render.H, render.W, 3), Image.new("RGB", (1, 1), render.PAPER).getpixel((0, 0)), np.float32)
     stages = [np.asarray(render.eli_image(slot, bubble, kutipan, ref, show_bubble=b, show_verse=v), np.float32)
               for b, v in [(False, False), (True, False), (True, True)]]
 
-    rel = f"reels/eli/hari{index // 3 + 1}_{slot}.mp4"
     out = render.OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     ff = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
@@ -253,6 +262,10 @@ if __name__ == "__main__":
     if what in ("semua", "eli"):
         for i in nums or range(len(eli.POSTS)):
             print(make_reel(i))
+    if what in ("semua", "eli", "tambahan"):
+        for p in eli_tambahan.POSTS:
+            if "file" not in p:
+                print(make_reel_tambahan(p))
     if what in ("semua", "kapi"):
         for i in nums or range(len(kapi.POSTS)):
             print(kapi_reel(i))

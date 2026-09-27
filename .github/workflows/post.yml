@@ -38,6 +38,8 @@ jobs:
           IG_USER_ID_TENANG: ${{ secrets.IG_USER_ID_TENANG }}
           IG_TOKEN_AYAT: ${{ secrets.IG_TOKEN_AYAT }}
           IG_USER_ID_AYAT: ${{ secrets.IG_USER_ID_AYAT }}
+          IG_TOKEN_KAPI: ${{ secrets.IG_TOKEN_KAPI }}
+          IG_USER_ID_KAPI: ${{ secrets.IG_USER_ID_KAPI }}
         run: python publish.py ${{ inputs.cek && '--cek' || '' }} ${{ inputs.sekarang != '' && format('--sekarang {0}', inputs.sekarang) || '' }}
       - name: Simpan catatan post
         if: always()
