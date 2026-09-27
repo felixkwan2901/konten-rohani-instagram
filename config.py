@@ -8,6 +8,8 @@ AKUN = {
     "eli": {
         "handle": "sahabat.eli",      # karakter Eli, gaya child.ink
         "jam": {"pagi": "06:00", "pagi2": "09:00", "siang": "12:00", "sore": "17:00", "malam": "21:00"},
+        # minggu 2 dst. (bahasa Inggris): jam WIB yang pas untuk NZ (NZDT = WIB + 6 jam): 07:00, 12:00, 16:00, 18:00, 20:00 NZ
+        "jam_en": {"pagi": "01:00", "pagi2": "06:00", "siang": "10:00", "sore": "12:00", "malam": "14:00"},
     },
     "tenang": {
         "handle": "diam.dan.percaya",  # 10 post/hari mulai hari 2 (4 slot format baru di konten/tenang_keren.py)

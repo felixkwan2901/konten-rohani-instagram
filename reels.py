@@ -9,6 +9,7 @@
   python3 reels.py dinding      # hanya Reels dinding teks akun Tenang (format D)
   python3 reels.py suasana      # hanya Reels suasana akun Tenang (format R)
   python3 reels.py minggu2      # semua Reels akun Tenang minggu "Bukan milikku"
+  python3 reels.py w2           # semua Reels minggu 2 (4-10 Okt): Eli (Inggris), Kapi, Tenang
 """
 import importlib
 import math
@@ -290,6 +291,22 @@ if __name__ == "__main__":
         for fn, pool in ((notif_reel, t2.NOTIF), (dinding_reel, t2.DINDING), (suasana_reel, t2.SUASANA)):
             for i in range(len(pool)):
                 print(fn(i, modul="tenang_minggu2"))
+    if what == "w2":  # semua Reels minggu 2 (Eli Inggris, Tenang, Kapi)
+        import keren
+        from konten import eli_w2, kapi_w2, tenang_w2
+        for v in eli_w2.VERSE:
+            print(eli_reel(v["slot"], v["bubble"], v["kutipan"], v["ref"], f"reels/eli_w2/hari{v['hari']}_{v['slot']}.mp4"))
+        for hari, slots in kapi_w2.JADWAL.items():
+            for slot, (fmt, idx) in slots.items():
+                if fmt == "reel":
+                    print(kapi_reel_post(kapi_w2.KATA[idx], f"reels/kapi_w2/kata{idx + 1}.mp4"))
+        for day in tenang_w2.JADWAL:
+            for slot, fmt, idx in day:
+                fn = {"B": notif_reel, "D": dinding_reel, "R": suasana_reel}.get(fmt)
+                if fn:
+                    print(fn(idx, modul="tenang_w2"))
+        for i in range(len(importlib.import_module("konten.tenang_keren2").KINETIK)):
+            print(keren.kinetik_reel(i, "tenang_keren2"))
     if what in ("semua", "notif"):
         for i in nums or range(len(tenang.NOTIF)):
             print(notif_reel(i))

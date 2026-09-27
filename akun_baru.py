@@ -351,19 +351,56 @@ def render_ayat(modul="ayat"):
     return out
 
 
-def fakta_singkat():
-    """'Fakta 30 detik' (1 slide) -> [(path, caption)] dari konten/ayat_singkat.py."""
-    from konten import ayat_singkat as a
+def fakta_singkat(modul="ayat_singkat", folder="ayat_singkat"):
+    """'Fakta 30 detik' (1 slide) -> [(path, caption)] dari konten/<modul>.py (FAKTA)."""
+    import importlib
+    a = importlib.import_module(f"konten.{modul}")
     out = []
     for i, f in enumerate(a.FAKTA, 1):
         img, d, c = al_base(1, 1, i, f["tema"], header="FAKTA 30 DETIK")
         items = [(f["judul"], font("serif", 66), c["ink"], 40), (f["isi"], font("serif_italic", 42), c["ink"], 30),
                  (f["ref"].upper(), font("sans_bold", 26), c["accent"], 0)]
         draw_blocks(d, 110, (H - block_height(items, 860)) / 2, items, 860, align="center")
-        path = render.OUT / "ayat_singkat" / f"fakta{i}.jpg"
+        path = render.OUT / folder / f"fakta{i}.jpg"
         path.parent.mkdir(parents=True, exist_ok=True)
         img.convert("RGB").save(path, "JPEG", quality=92)
         out.append((path, f["caption"] + "\n.\n.\n" + a.TAGS))
+    return out
+
+
+def salah_kutip(modul="ayat_w2", folder="ayat_w2"):
+    """'Bukan kata Alkitab' (3 slide): kalimat populer dicap -> apa kata Alkitab -> pelajaran. -> [([paths], caption)]"""
+    import importlib
+    a = importlib.import_module(f"konten.{modul}")
+    out = []
+    for i, p in enumerate(a.SALAH, 1):
+        paths = []
+        for n in (1, 2, 3):
+            img, d, c = al_base(n, 3, 40 + i, p["tema"], invert=n == 3, header="BUKAN KATA ALKITAB")
+            if n == 1:
+                items = [("Kalimat ini sering dikira ayat Alkitab:", font("sans_medium", 34), c["dim"], 50),
+                         ("“" + p["kutipan"].strip("“”\"") + "”", font("serif", 70), c["ink"], 60)]
+                y = draw_blocks(d, 110, (H - block_height(items, 860)) / 2 - 60, items, 860, align="center")
+                stamp = Image.new("RGBA", (760, 120), (0, 0, 0, 0))
+                sd = ImageDraw.Draw(stamp)
+                sd.rounded_rectangle((6, 6, 754, 114), radius=14, outline="#C0392B", width=7)
+                sd.text((380, 60), p["label"], font=font("sans_bold", 50 if len(p["label"]) < 22 else 42), fill="#C0392B", anchor="mm")
+                stamp = stamp.rotate(-5, expand=True, resample=Image.BICUBIC)
+                img.paste(stamp, (int(W / 2 - stamp.width / 2), int(y + 10)), stamp)
+                d.text((W / 2, H - 190), "geser  ›", font=font("serif_italic", 40), fill=c["accent"], anchor="ma")
+            elif n == 2:
+                items = [("YANG SEBENARNYA", font("sans_bold", 26), c["accent"], 36), (p["sebenarnya"], font("serif", 44), c["ink"], 50),
+                         (p["ayat"], font("serif_italic", 44), c["ink"], 26), (p["ref"].upper(), font("sans_bold", 26), c["accent"], 0)]
+                draw_blocks(d, 110, (H - block_height(items, 860)) / 2, items, 860, align="center")
+            else:
+                items = [(p["pelajaran"], font("serif", 60), c["ink"], 60),
+                         ("Kamu pernah dengar kalimat ini? Tag temanmu 👇".replace(" 👇", ""), font("sans_medium", 32), c["ink"], 0)]
+                draw_blocks(d, 110, (H - block_height(items, 860)) / 2, items, 860, align="center")
+            path = render.OUT / folder / f"salah{i}_{n}.jpg"
+            path.parent.mkdir(parents=True, exist_ok=True)
+            img.convert("RGB").save(path, "JPEG", quality=92)
+            paths.append(path)
+        out.append((paths, p["caption"] + "\n.\n.\n" + a.TAGS))
     return out
 
 

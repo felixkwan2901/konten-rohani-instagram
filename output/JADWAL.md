@@ -3763,7 +3763,307 @@ Gambar (urut): `output/stories/kapi-7-larut.jpg`
 
 ```
 
+## @sahabat.eli — Sun 04 Oct 01:00 WIB → **Sun 04 Oct 07:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari1_pagi.mp4`
+
+```
+Good morning, friends! ☀️
+
+Eli is starting a brand new week, and this week's theme is BRAVE & LOVED 💙
+
+📖 Psalm 118:24
+“This is the day which the LORD hath made; we will rejoice and be glad in it.”
+
+It's Sunday! Whether you're at church, at home, or on the road, today is a gift from God 🎁
+
+What's one happy thing about your Sunday? Tell Eli below 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Sun 04 Oct 01:10 WIB → **Sun 04 Oct 07:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari1_pagi.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 06:00 WIB → **Sun 04 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari1_pagi_1.jpg`
+
+```
+Tidak apa-apa belum punya jawaban. Mulai saja dengan Dia 🤍
+
+📖 “TUHAN, pada waktu pagi Engkau mendengar seruanku, pada waktu pagi aku mengatur persembahan bagi-Mu, dan aku menunggu-nunggu.” — Mazmur 5:4
+
+Selamat hari Minggu. Ketik “Amin” kalau ini doamu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Sun 04 Oct 06:00 WIB → **Sun 04 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_w2/edukasi1_1.jpg`, `output/eli_w2/edukasi1_2.jpg`, `output/eli_w2/edukasi1_3.jpg`, `output/eli_w2/edukasi1_4.jpg`
+
+```
+Eli learned a new word today: GOSPEL 📖
+
+It means "good news"! Matthew, Mark, Luke, and John are the four Gospels, and they tell the good news about Jesus.
+
+📖 John 3:16
+
+Which Gospel story is your favourite? Tell Eli 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Sun 04 Oct 06:10 WIB → **Sun 04 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-1-pagi.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Sun 04 Oct 06:10 WIB → **Sun 04 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-1-pagi2.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Sun 04 Oct 07:00 WIB → **Sun 04 Oct 13:00 NZ**
+
+Gambar (urut): `output/kapi_w2/kata1.jpg`
+
+```
+selamat hari Minggu! 👑
+kalender boleh penuh, tapi takhtanya tetap punya Dia.
+
+“…Raja segala raja dan Tuan di atas segala tuan.” — Wahyu 19:16
+
+ketik 👑 kalau hari ini kamu mau serahin minggumu ke Dia
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Sun 04 Oct 07:10 WIB → **Sun 04 Oct 13:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-1-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 07:30 WIB → **Sun 04 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dump1_1.jpg`, `output/tenang_keren2/dump1_2.jpg`, `output/tenang_keren2/dump1_3.jpg`, `output/tenang_keren2/dump1_4.jpg`, `output/tenang_keren2/dump1_5.jpg`
+
+```
+pengingat untuk minggu yang baru 🤍
+
+Geser pelan-pelan. Mana yang paling kamu butuhkan minggu ini? Tulis nomornya di komentar.
+
+📖 “Percayalah kepada TUHAN selama-lamanya, sebab TUHAN ALLAH adalah gunung batu yang kekal.” — Yesaya 26:4
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 04 Oct 07:40 WIB → **Sun 04 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-1-pagi3.jpg`
+
+```
+
+```
+
 ## @ayat.tersembunyi — Sun 04 Oct 08:00 WIB → **Sun 04 Oct 14:00 NZ**
+
+Gambar (urut): `output/ayat_w2/fakta1.jpg`
+
+```
+Satu kitab penuh, tanpa sekali pun menyebut nama Allah. Itulah kitab Ester 📜
+
+Tapi baca kisahnya: raja yang tidak bisa tidur, waktu yang pas, orang yang tepat di tempat yang tepat. Tuhan bekerja, bahkan saat Ia tidak disebut.
+
+Pernah mengalami “kebetulan” yang ternyata cara Tuhan? Cerita di komentar 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 08:10 WIB → **Sun 04 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-fakta-1.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 09:00 WIB → **Sun 04 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable1.jpg`
+
+```
+Siapa yang dulu koleksi stiker bintang sekolah minggu? ⭐😭
+
+Tag teman sekolah minggumu dulu 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 04 Oct 09:10 WIB → **Sun 04 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-1-pagi2.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Sun 04 Oct 10:00 WIB → **Sun 04 Oct 16:00 NZ**
+
+Gambar (urut): `output/eli_w2/saran1_1.jpg`, `output/eli_w2/saran1_2.jpg`, `output/eli_w2/saran1_3.jpg`, `output/eli_w2/saran1_4.jpg`, `output/eli_w2/saran1_5.jpg`, `output/eli_w2/saran1_6.jpg`
+
+```
+You know you grew up in church when… 😄⛪
+
+1. You still know the "Father Abraham" actions
+2. After-church biscuits and cordial were the best part
+3. You can sing the books of the Bible
+4. Cotton wool sheep. Enough said.
+
+Which one is SO you? Tag a friend who grew up in church too 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Sun 04 Oct 10:10 WIB → **Sun 04 Oct 16:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-1-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 10:30 WIB → **Sun 04 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dulu1_1.jpg`, `output/tenang_keren2/dulu1_2.jpg`, `output/tenang_keren2/dulu1_3.jpg`, `output/tenang_keren2/dulu1_4.jpg`, `output/tenang_keren2/dulu1_5.jpg`
+
+```
+dulu vs sekarang: tentang gereja ⛪
+
+Siapa yang dulu juga ke gereja karena dibangunin mama? 😄 Ketik 1, 2, atau 3: mana yang paling kamu rasakan?
+
+📖 Ibrani 10:25
+
+Selamat hari Minggu 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 04 Oct 10:40 WIB → **Sun 04 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-1-siang0.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Sun 04 Oct 11:00 WIB → **Sun 04 Oct 17:00 NZ**
+
+Gambar (urut): `output/kapi_w2/komik1_1.jpg`, `output/kapi_w2/komik1_2.jpg`, `output/kapi_w2/komik1_3.jpg`, `output/kapi_w2/komik1_4.jpg`
+
+```
+panik 3 detik pas kantong persembahan makin dekat, dompet nggak ada 😭 siapa yang pernah?
+
+yang Tuhan lihat bukan nominalnya, tapi hatinya 🤍
+
+“Hendaklah masing-masing memberikan menurut kerelaan hatinya, jangan dengan sedih hati atau karena paksaan, sebab Allah mengasihi orang yang memberi dengan sukacita.” — 2 Korintus 9:7
+
+selamat hari Minggu! 🍊
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Sun 04 Oct 11:10 WIB → **Sun 04 Oct 17:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-1-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 12:00 WIB → **Sun 04 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari1_siang_1.jpg`, `output/tenang_w2/hari1_siang_2.jpg`, `output/tenang_w2/hari1_siang_3.jpg`, `output/tenang_w2/hari1_siang_4.jpg`, `output/tenang_w2/hari1_siang_5.jpg`
+
+```
+Kamu tidak kekurangan, karena kamu punya Gembala 🤍
+
+Mungkin minggu ini terasa serba kurang. Tapi Dia yang menggembalakanmu tahu persis apa yang kamu butuhkan, dan Dia tidak pernah lalai.
+
+📖 Mazmur 23:1
+
+Ketik “Gembalaku” kalau kamu mau mempercayakan minggu ini pada-Nya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Sun 04 Oct 12:00 WIB → **Sun 04 Oct 18:00 NZ**
+
+Gambar (urut): `output/eli_w2/kuis1.jpg`
+
+```
+Bible Quiz with Eli! 🤔
+
+Who walked on water toward Jesus?
+A. John
+B. Peter
+C. Andrew
+
+Answer A, B or C in the comments 👇 No peeking!
+.
+.
+.
+.
+.
+Answer: B. Peter (Matthew 14:29)
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Sun 04 Oct 12:10 WIB → **Sun 04 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-1-siang.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Sun 04 Oct 12:10 WIB → **Sun 04 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-1-sore.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 13:00 WIB → **Sun 04 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu2/hari7_1.jpg`, `output/ayat_minggu2/hari7_2.jpg`, `output/ayat_minggu2/hari7_3.jpg`, `output/ayat_minggu2/hari7_4.jpg`, `output/ayat_minggu2/hari7_5.jpg`, `output/ayat_minggu2/hari7_6.jpg`
 
@@ -3782,7 +4082,7 @@ Seri Yunus bagian 7/14. Berikutnya: kesempatan kedua 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 08:10 WIB → **Sun 04 Oct 14:10 NZ**
+## @ayat.tersembunyi — Sun 04 Oct 13:10 WIB → **Sun 04 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m2-7.jpg`
 
@@ -3790,7 +4090,554 @@ Gambar (urut): `output/stories/ayat-m2-7.jpg`
 
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 13:00 WIB → **Sun 04 Oct 19:00 NZ**
+## @diam.dan.percaya — Sun 04 Oct 13:30 WIB → **Sun 04 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik1.mp4`
+
+```
+Dia yang menggendongmu, dari dulu sampai nanti 🤍
+
+📖 “Sampai masa tuamu Aku tetap Dia dan sampai masa putih rambutmu Aku menggendong kamu. Aku telah melakukannya dan mau menanggung kamu terus; Aku mau memikul kamu dan menyelamatkan kamu.” — Yesaya 46:4
+
+Kirim ke seseorang yang sedang memikul terlalu banyak 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 04 Oct 13:40 WIB → **Sun 04 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik1.mp4`
+
+```
+
+```
+
+## @sahabat.eli — Sun 04 Oct 14:00 WIB → **Sun 04 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari1_malam.mp4`
+
+```
+Goodnight, little friend 🌙
+
+Before you sleep, Eli wants you to remember who you are.
+
+📖 1 John 3:1
+“See how great a love the Father has given to us, that we should be called children of God!”
+
+Not because you were perfect today. Just because He loves you 💙
+
+Parents: whisper this one to your kids tonight. Type 💙 if you did!
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Sun 04 Oct 14:10 WIB → **Sun 04 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari1_malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 15:00 WIB → **Sun 04 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari1_sore_1.jpg`
+
+```
+Coba temukan kata yang menyala 👀
+
+Dia mendengar setiap doa, bahkan yang cuma dibisikkan.
+
+📖 “Aku mengasihi TUHAN, sebab Ia mendengarkan suaraku dan permohonanku. Sebab Ia menyendengkan telinga-Nya kepadaku, maka seumur hidupku aku akan berseru kepada-Nya.” — Mazmur 116:1-2
+
+Ketik “DIA MENDENGAR” kalau kamu butuh diingatkan ini 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @kapi.percaya — Sun 04 Oct 15:00 WIB → **Sun 04 Oct 21:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata8.mp4`
+
+```
+sejauh apa pun kamu pergi, Bapa masih nunggu di depan pintu 🏠🤍
+
+“Ketika ia masih jauh, ayahnya telah melihatnya, lalu tergeraklah hatinya oleh belas kasihan. Ayahnya itu berlari mendapatkan dia lalu merangkul dan mencium dia.” — Lukas 15:20
+
+ketik 🏠 kalau kamu mau pulang
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @diam.dan.percaya — Sun 04 Oct 15:10 WIB → **Sun 04 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-1-sore.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Sun 04 Oct 15:10 WIB → **Sun 04 Oct 21:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata8.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 18:00 WIB → **Mon 05 Oct 00:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif1.mp4`
+
+```
+Kalau Tuhan kirim pesan di awal minggu, mungkin bunyinya begini 🤍
+
+Dia menjaga keluar masukmu: berangkat kerja, pulang sekolah, perjalanan jauh, semuanya.
+
+📖 Mazmur 121:8
+
+Geser sampai slide terakhir 👉
+Ketik “Aku dijaga” kalau kamu percaya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 04 Oct 18:10 WIB → **Mon 05 Oct 00:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif1.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Sun 04 Oct 19:00 WIB → **Mon 05 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata9.mp4`
+
+```
+kalau nggak ada yang bisa meluk kamu malam ini, ingat: ada lengan yang nggak pernah capek 🤍
+
+“Allah yang abadi adalah tempat perlindunganmu, dan di bawahmu ada lengan-lengan yang kekal.” — Ulangan 33:27
+
+kirim ke orang yang butuh dipeluk hari ini
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 19:00 WIB → **Mon 05 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_w2/salah1_1.jpg`, `output/ayat_w2/salah1_2.jpg`, `output/ayat_w2/salah1_3.jpg`
+
+```
+Kalimat ini sering dikira ayat Alkitab. Ternyata bukan 😮
+
+“Tuhan menolong orang yang menolong dirinya sendiri” adalah pepatah lama yang dipopulerkan Benjamin Franklin. Alkitab justru berkata Kristus mati untuk kita “waktu kita masih lemah” (Roma 5:6).
+
+Kerja keras tetap baik, tapi keselamatan adalah kasih karunia.
+
+Kamu pernah dengar kalimat ini disebut sebagai ayat? PERNAH / BELUM 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @kapi.percaya — Sun 04 Oct 19:10 WIB → **Mon 05 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata9.mp4`
+
+```
+
+```
+
+## @ayat.tersembunyi — Sun 04 Oct 19:10 WIB → **Mon 05 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-salah-1.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 19:30 WIB → **Mon 05 Oct 01:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable2.jpg`
+
+```
+Di rumahmu sudah mulai belum? 🎄😂
+
+Ketik lagu Natal favorit keluargamu di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 04 Oct 19:40 WIB → **Mon 05 Oct 01:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-1-malam0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 04 Oct 21:00 WIB → **Mon 05 Oct 03:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana1.mp4`
+
+```
+Setiap bintang adalah pengingat: janji-Nya belum selesai ✨
+
+📖 “Coba lihat ke langit, hitunglah bintang-bintang, jika engkau dapat menghitungnya.” Maka firman-Nya kepadanya: “Demikianlah banyaknya nanti keturunanmu.” — Kejadian 15:5
+
+Ketik ✨ kalau kamu sedang memegang sebuah janji Tuhan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 04 Oct 21:10 WIB → **Mon 05 Oct 03:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana1.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Sun 04 Oct 21:30 WIB → **Mon 05 Oct 03:30 NZ**
+
+Gambar (urut): `output/kapi_w2/pilih1.jpg`
+
+```
+PILIH SATU 👇
+
+A = duduk paling depan 🙋
+B = duduk paling belakang 🫣
+
+jawab A atau B di komentar. Kapi tim tengah (biar aman 😂)
+
+“Sebab lebih baik satu hari di pelataran-Mu dari pada seribu hari di tempat lain.” — Mazmur 84:11
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Sun 04 Oct 21:40 WIB → **Mon 05 Oct 03:40 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-1-larut.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Mon 05 Oct 01:00 WIB → **Mon 05 Oct 07:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari2_pagi.mp4`
+
+```
+Happy Monday! 🌤️
+
+New week, new things, maybe a few wobbly feelings too. That's okay!
+
+📖 Isaiah 41:10
+“Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God.”
+
+Eli's brave plan for today: take a deep breath and remember God is right there 🙌
+
+What's one thing you need to be brave for this week? 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Mon 05 Oct 01:10 WIB → **Mon 05 Oct 07:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari2_pagi.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 06:00 WIB → **Mon 05 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari2_pagi_1.jpg`
+
+```
+Kalau semuanya terasa habis, Dia tetap bagianmu 🤍
+
+📖 “Sekalipun dagingku dan hatiku habis lenyap, gunung batuku dan bagianku tetaplah Allah selama-lamanya.” — Mazmur 73:26
+
+Save untuk hari kamu merasa kosong 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Mon 05 Oct 06:00 WIB → **Mon 05 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_w2/edukasi2_1.jpg`, `output/eli_w2/edukasi2_2.jpg`, `output/eli_w2/edukasi2_3.jpg`, `output/eli_w2/edukasi2_4.jpg`
+
+```
+Eli learned about the bravest shepherd boy 🪨
+
+Goliath was about 3 metres (over 9 feet) tall! But David wasn't scared, because he knew God was bigger 💪
+
+📖 1 Samuel 17:47 (KJV)
+
+What's a "Goliath" you're facing this week? Eli will pray for you 🙏
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Mon 05 Oct 06:10 WIB → **Mon 05 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-2-pagi.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Mon 05 Oct 06:10 WIB → **Mon 05 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-2-pagi2.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Mon 05 Oct 07:00 WIB → **Mon 05 Oct 13:00 NZ**
+
+Gambar (urut): `output/kapi_w2/kata2.jpg`
+
+```
+kalau baterai sosialmu udah 3% dari pagi, kamu nggak sendirian 🫠🔋
+charge-nya bukan di kopi aja, tapi di Dia.
+
+“…orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.” — Yesaya 40:31
+
+save buat Senin-Senin berikutnya 🔖
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Mon 05 Oct 07:10 WIB → **Mon 05 Oct 13:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-2-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 07:30 WIB → **Mon 05 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dump2_1.jpg`, `output/tenang_keren2/dump2_2.jpg`, `output/tenang_keren2/dump2_3.jpg`, `output/tenang_keren2/dump2_4.jpg`, `output/tenang_keren2/dump2_5.jpg`
+
+```
+hal-hal kecil yang layak disyukuri 🤍
+
+“Bersyukurlah kepada TUHAN, sebab Ia baik! Bahwasanya untuk selama-lamanya kasih setia-Nya.” — Mazmur 136:1
+
+Tulis satu hal kecil yang kamu syukuri hari ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 05 Oct 07:40 WIB → **Mon 05 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-2-pagi3.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 08:00 WIB → **Mon 05 Oct 14:00 NZ**
+
+Gambar (urut): `output/ayat_w2/fakta2.jpg`
+
+```
+Detail yang jarang dibaca: Alkitab mencatat ukuran ranjang besi Og, raja Basan 🛏️
+
+Sembilan hasta panjangnya, empat hasta lebarnya, kurang lebih 4 × 1,8 meter. Og adalah sisa terakhir orang Refaim, tapi Israel tetap menang karena TUHAN menyertai mereka.
+
+📖 Ulangan 3:11
+
+Baru tahu detail ini? Ketik “BARU TAHU” 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 08:10 WIB → **Mon 05 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-fakta-2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 09:00 WIB → **Mon 05 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable3.jpg`
+
+```
+Selalu ada satu orang yang akhirnya kena tunjuk 😂🙏
+
+Biasanya di keluargamu siapa yang pimpin doa makan? Tag dia 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 05 Oct 09:10 WIB → **Mon 05 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-2-pagi2.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Mon 05 Oct 10:00 WIB → **Mon 05 Oct 16:00 NZ**
+
+Gambar (urut): `output/eli_w2/saran2_1.jpg`, `output/eli_w2/saran2_2.jpg`, `output/eli_w2/saran2_3.jpg`, `output/eli_w2/saran2_4.jpg`, `output/eli_w2/saran2_5.jpg`, `output/eli_w2/saran2_6.jpg`
+
+```
+Little ways to be kind this week, from Eli 💛
+
+1. Share something
+2. Say "Sit with us!"
+3. Write a thank-you note
+4. Help without being asked
+
+📖 Ephesians 4:32
+
+Save this for your family and try one today 🔖 Which one will you pick?
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Mon 05 Oct 10:10 WIB → **Mon 05 Oct 16:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-2-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 10:30 WIB → **Mon 05 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dulu2_1.jpg`, `output/tenang_keren2/dulu2_2.jpg`, `output/tenang_keren2/dulu2_3.jpg`, `output/tenang_keren2/dulu2_4.jpg`, `output/tenang_keren2/dulu2_5.jpg`
+
+```
+dulu vs sekarang: tentang istirahat 🤍
+
+Istirahat bukan tanda lemah. Istirahat adalah tanda percaya bahwa dunia tetap di tangan Tuhan.
+
+📖 Mazmur 127:2
+
+Kirim ke temanmu yang susah berhenti kerja 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 05 Oct 10:40 WIB → **Mon 05 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-2-siang0.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Mon 05 Oct 11:00 WIB → **Mon 05 Oct 17:00 NZ**
+
+Gambar (urut): `output/kapi_w2/komik2_1.jpg`, `output/kapi_w2/komik2_2.jpg`, `output/kapi_w2/komik2_3.jpg`, `output/kapi_w2/komik2_4.jpg`
+
+```
+grup WA pemuda: rame pas bahas makan, sepi pas bahas rapat 😂📱
+
+tapi yang datang sedikit pun tetap berarti. yuk saling dorong!
+
+“Dan marilah kita saling memperhatikan supaya kita saling mendorong dalam kasih dan dalam pekerjaan baik.” — Ibrani 10:24
+
+tag temen segrup yang suka read doang 👀
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Mon 05 Oct 11:10 WIB → **Mon 05 Oct 17:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-2-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 12:00 WIB → **Mon 05 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari2_siang_1.jpg`, `output/tenang_w2/hari2_siang_2.jpg`, `output/tenang_w2/hari2_siang_3.jpg`, `output/tenang_w2/hari2_siang_4.jpg`, `output/tenang_w2/hari2_siang_5.jpg`
+
+```
+Kekuatan baru untuk hari ini 🦅
+
+Kalau tenagamu sudah habis padahal minggu baru mulai, tidak apa-apa. Kekuatan baru bukan hasil memaksa diri, tapi hadiah untuk yang menanti-nantikan Tuhan.
+
+📖 Yesaya 40:31
+
+Save untuk Senin berikutnya 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Mon 05 Oct 12:00 WIB → **Mon 05 Oct 18:00 NZ**
+
+Gambar (urut): `output/eli_w2/kuis2.jpg`
+
+```
+Bible Quiz with Eli! 🤔
+
+What did Jesus say to the stormy sea?
+A. “Peace! Be still!”
+B. “Go away!”
+C. “Stop raining!”
+
+Answer A, B or C in the comments 👇 No peeking!
+.
+.
+.
+.
+.
+Answer: A. “Peace! Be still!” (Mark 4:39)
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Mon 05 Oct 12:10 WIB → **Mon 05 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-2-siang.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Mon 05 Oct 12:10 WIB → **Mon 05 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-2-sore.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 13:00 WIB → **Mon 05 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari1_1.jpg`, `output/ayat_minggu3/hari1_2.jpg`, `output/ayat_minggu3/hari1_3.jpg`, `output/ayat_minggu3/hari1_4.jpg`, `output/ayat_minggu3/hari1_5.jpg`, `output/ayat_minggu3/hari1_6.jpg`
 
@@ -3809,7 +4656,7 @@ Seri Yunus bagian 8/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 13:10 WIB → **Sun 04 Oct 19:10 NZ**
+## @ayat.tersembunyi — Mon 05 Oct 13:10 WIB → **Mon 05 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-1.jpg`
 
@@ -3817,7 +4664,552 @@ Gambar (urut): `output/stories/ayat-m3-1.jpg`
 
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 19:00 WIB → **Mon 05 Oct 01:00 NZ**
+## @diam.dan.percaya — Mon 05 Oct 13:30 WIB → **Mon 05 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik2.mp4`
+
+```
+Tidak semua pertanyaan harus dijawab hari ini 🤍
+
+📖 “Hal-hal yang tersembunyi ialah bagi TUHAN, Allah kita, tetapi hal-hal yang dinyatakan ialah bagi kita dan bagi anak-anak kita sampai selama-lamanya.” — Ulangan 29:29
+
+Ketik “aku titipkan” kalau ada pertanyaan yang mau kamu serahkan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 05 Oct 13:40 WIB → **Mon 05 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik2.mp4`
+
+```
+
+```
+
+## @sahabat.eli — Mon 05 Oct 14:00 WIB → **Mon 05 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari2_malam.mp4`
+
+```
+Time for bed, friends 🌙✨
+
+Lights off, blankets up, and one sweet promise to hold onto.
+
+📖 Proverbs 3:24
+“When you lie down, you will not be afraid. Yes, you will lie down, and your sleep will be sweet.”
+
+Eli is saying a little prayer for everyone reading this 🙏
+
+Who do you want Eli to pray for tonight? Write their first name below 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Mon 05 Oct 14:10 WIB → **Mon 05 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari2_malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 15:00 WIB → **Mon 05 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari2_sore_1.jpg`
+
+```
+Temukan pesannya 👀
+
+Kamu berharga di mata Tuhan. Bukan karena prestasi, tapi karena Dia yang menciptakanmu.
+
+📖 “Aku bersyukur kepada-Mu oleh karena kejadianku dahsyat dan ajaib; ajaib apa yang Kaubuat, dan jiwaku benar-benar menyadarinya.” — Mazmur 139:14
+
+Tag seseorang yang perlu dengar ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @kapi.percaya — Mon 05 Oct 15:00 WIB → **Mon 05 Oct 21:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata10.mp4`
+
+```
+Tuhan tau kapasitasmu, bahkan lebih dari kamu sendiri 🫂
+
+“…Allah setia dan karena itu Ia tidak akan membiarkan kamu dicobai melampaui kekuatanmu. Pada waktu kamu dicobai Ia akan memberikan kepadamu jalan ke luar, sehingga kamu dapat menanggungnya.” — 1 Korintus 10:13
+
+ketik 🫂 kalau kamu lagi di titik ini
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @diam.dan.percaya — Mon 05 Oct 15:10 WIB → **Mon 05 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-2-sore.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Mon 05 Oct 15:10 WIB → **Mon 05 Oct 21:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata10.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 18:00 WIB → **Tue 06 Oct 00:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif2.mp4`
+
+```
+Untuk kamu yang merasa tidak terlihat 🌅
+
+Mungkin orang lain lupa. Tapi kamu terlukis di telapak tangan-Nya.
+
+📖 Yesaya 49:16
+
+Kirim ke seseorang yang sedang merasa sendirian 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 05 Oct 18:10 WIB → **Tue 06 Oct 00:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif2.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Mon 05 Oct 19:00 WIB → **Tue 06 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata11.mp4`
+
+```
+genggamanmu capek. taruh dulu ke tangan yang lebih kuat 🫧
+
+“Serahkanlah segala kekuatiranmu kepada-Nya, sebab Ia yang memelihara kamu.” — 1 Petrus 5:7
+
+save buat malam-malam overthinking 🔖
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 19:00 WIB → **Tue 06 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_w2/salah2_1.jpg`, `output/ayat_w2/salah2_2.jpg`, `output/ayat_w2/salah2_3.jpg`
+
+```
+Beda satu kata, beda besar artinya 💰
+
+Alkitab tidak berkata “uang adalah akar segala kejahatan”, tapi “akar segala kejahatan ialah CINTA uang” (1 Timotius 6:10).
+
+Uang itu alat. Yang berbahaya adalah saat uang merebut tempat Tuhan di hati kita.
+
+Kamu selama ini dengar versi yang mana? 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @kapi.percaya — Mon 05 Oct 19:10 WIB → **Tue 06 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata11.mp4`
+
+```
+
+```
+
+## @ayat.tersembunyi — Mon 05 Oct 19:10 WIB → **Tue 06 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-salah-2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 19:30 WIB → **Tue 06 Oct 01:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable4.jpg`
+
+```
+Jawaban paling aman sedunia 😂🤍
+
+Jujur, khotbah Minggu kemarin tentang apa? Tulis di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 05 Oct 19:40 WIB → **Tue 06 Oct 01:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-2-malam0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 05 Oct 21:00 WIB → **Tue 06 Oct 03:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/dinding8.mp4`
+
+```
+Temukan pesannya 👀
+
+Tuhan menjagamu, bahkan saat kamu tidur.
+
+📖 “Sesungguhnya tidak terlelap dan tidak tertidur Penjaga Israel.” — Mazmur 121:4
+
+Selamat malam. Save untuk malam-malam yang gelisah 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 05 Oct 21:10 WIB → **Tue 06 Oct 03:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/dinding8.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Mon 05 Oct 21:30 WIB → **Tue 06 Oct 03:30 NZ**
+
+Gambar (urut): `output/kapi_w2/pilih2.jpg`
+
+```
+PILIH SATU 👇
+
+A = renungan audio / podcast 🎧
+B = renungan tulisan 📖
+
+jawab A atau B, sebutin juga rekomendasimu!
+
+“…renungkanlah itu siang dan malam…” — Yosua 1:8
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Mon 05 Oct 21:40 WIB → **Tue 06 Oct 03:40 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-2-larut.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Tue 06 Oct 01:00 WIB → **Tue 06 Oct 07:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari3_pagi.mp4`
+
+```
+Good morning! 💪☀️
+
+Eli found a superpower verse today!
+
+📖 2 Timothy 1:7
+“For God didn’t give us a spirit of fear, but of power, love, and self-control.”
+
+Power to do hard things. Love for the people around you. Self-control when you feel grumpy 😅
+
+Which one do YOU need most today: POWER, LOVE, or SELF-CONTROL? 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Tue 06 Oct 01:10 WIB → **Tue 06 Oct 07:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari3_pagi.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 06:00 WIB → **Tue 06 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari3_pagi_1.jpg`
+
+```
+Doa pendek sebelum masuk kantor, kelas, atau grup WA 🧡
+
+📖 “Awasilah mulutku, ya TUHAN, berjagalah pada pintu bibirku!” — Mazmur 141:3
+
+Ketik “Amin” kalau kamu butuh doa ini hari ini 😅
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Tue 06 Oct 06:00 WIB → **Tue 06 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_w2/edukasi3_1.jpg`, `output/eli_w2/edukasi3_2.jpg`, `output/eli_w2/edukasi3_3.jpg`, `output/eli_w2/edukasi3_4.jpg`
+
+```
+Eli learned about a brave queen 👑
+
+Esther spoke up for her people even though she was scared, and God used her to save them 💙
+
+📖 Esther 4:14
+
+Who is someone brave you look up to? Tell Eli 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Tue 06 Oct 06:10 WIB → **Tue 06 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-3-pagi.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Tue 06 Oct 06:10 WIB → **Tue 06 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-3-pagi2.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Tue 06 Oct 07:00 WIB → **Tue 06 Oct 13:00 NZ**
+
+Gambar (urut): `output/kapi_w2/kata3.jpg`
+
+```
+tangan dingin, suara gemeter, slide belum selesai 😭
+tenang, kamu nggak masuk ruangan itu sendirian 🍊
+
+“…kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau, ke mana pun engkau pergi.” — Yosua 1:9
+
+tag temen yang hari ini mau presentasi / interview 👇
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Tue 06 Oct 07:10 WIB → **Tue 06 Oct 13:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-3-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 07:30 WIB → **Tue 06 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dump3_1.jpg`, `output/tenang_keren2/dump3_2.jpg`, `output/tenang_keren2/dump3_3.jpg`, `output/tenang_keren2/dump3_4.jpg`, `output/tenang_keren2/dump3_5.jpg`
+
+```
+untuk kamu yang overthinking 🤍
+
+“Damai sejahtera Allah, yang melampaui segala akal, akan memelihara hati dan pikiranmu dalam Kristus Yesus.” — Filipi 4:7
+
+Kirim ke temanmu yang pikirannya ramai terus 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 06 Oct 07:40 WIB → **Tue 06 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-3-pagi3.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Tue 06 Oct 08:00 WIB → **Tue 06 Oct 14:00 NZ**
+
+Gambar (urut): `output/ayat_w2/fakta3.jpg`
+
+```
+Mazmur 117 cuma 2 ayat. Mazmur 119 ada 176 ayat. Jaraknya hanya satu pasal 😮
+
+Yang pendek mengajak semua bangsa memuji TUHAN. Yang panjang memuji firman-Nya dari awal sampai akhir.
+
+Coba baca Mazmur 117 sekarang, cuma 20 detik. Sudah? Ketik “AMIN” 🙏
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Tue 06 Oct 08:10 WIB → **Tue 06 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-fakta-3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 09:00 WIB → **Tue 06 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable5.jpg`
+
+```
+Bajunya digantung di lemari, dilihatin tiap hari 😭🎄
+
+Siapa yang juga begini waktu kecil? Tag saudaramu 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 06 Oct 09:10 WIB → **Tue 06 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-3-pagi2.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Tue 06 Oct 10:00 WIB → **Tue 06 Oct 16:00 NZ**
+
+Gambar (urut): `output/eli_w2/saran3_1.jpg`, `output/eli_w2/saran3_2.jpg`, `output/eli_w2/saran3_3.jpg`, `output/eli_w2/saran3_4.jpg`, `output/eli_w2/saran3_5.jpg`, `output/eli_w2/saran3_6.jpg`
+
+```
+How to pray when you're scared, from Eli 💙
+
+1. Keep it simple: "Jesus, help me"
+2. Breathe slowly and tell God what's scary
+3. Say a verse you know
+4. Tell a grown-up you trust
+
+If a scared feeling stays for a long time, please talk to a parent, teacher, or counsellor. You don't have to carry it alone 🤍
+
+Save this for tricky nights 🔖
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Tue 06 Oct 10:10 WIB → **Tue 06 Oct 16:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-3-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 10:30 WIB → **Tue 06 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dulu3_1.jpg`, `output/tenang_keren2/dulu3_2.jpg`, `output/tenang_keren2/dulu3_3.jpg`, `output/tenang_keren2/dulu3_4.jpg`, `output/tenang_keren2/dulu3_5.jpg`
+
+```
+dulu vs sekarang: tentang mengampuni 🤍
+
+Mengampuni tidak selalu mudah, dan tidak selalu cepat. Tapi selalu membebaskan.
+
+📖 Efesus 4:32
+
+Ketik “aku belajar” kalau kamu sedang belajar mengampuni 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 06 Oct 10:40 WIB → **Tue 06 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-3-siang0.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Tue 06 Oct 11:00 WIB → **Tue 06 Oct 17:00 NZ**
+
+Gambar (urut): `output/kapi_w2/komik3_1.jpg`, `output/kapi_w2/komik3_2.jpg`, `output/kapi_w2/komik3_3.jpg`, `output/kapi_w2/komik3_4.jpg`
+
+```
+baru Oktober, gereja udah mulai latihan Natal 🎄😂
+kamu dulu dapet peran apa? malaikat, gembala, atau domba?
+
+“Jangan takut, sebab sesungguhnya aku memberitakan kepadamu kesukaan besar untuk seluruh bangsa.” — Lukas 2:10
+
+tulis peran Natalmu di komentar 👇
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Tue 06 Oct 11:10 WIB → **Tue 06 Oct 17:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-3-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 12:00 WIB → **Tue 06 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari3_siang_1.jpg`, `output/tenang_w2/hari3_siang_2.jpg`, `output/tenang_w2/hari3_siang_3.jpg`, `output/tenang_w2/hari3_siang_4.jpg`, `output/tenang_w2/hari3_siang_5.jpg`
+
+```
+Ada damai yang tidak bisa dibeli di mana pun 🤍
+
+Dunia menawarkan hiburan sebentar. Yesus menawarkan damai yang tinggal, bahkan saat keadaan belum berubah.
+
+📖 Yohanes 14:27
+
+Tulis di komentar: apa yang paling membuatmu gelisah minggu ini? Kita saling mendoakan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Tue 06 Oct 12:00 WIB → **Tue 06 Oct 18:00 NZ**
+
+Gambar (urut): `output/eli_w2/kuis3.jpg`
+
+```
+Bible Quiz with Eli! 🤔
+
+How many smooth stones did David pick up?
+A. 3 stones
+B. 5 stones
+C. 7 stones
+
+Answer A, B or C in the comments 👇 No peeking!
+.
+.
+.
+.
+.
+Answer: B. 5 smooth stones (1 Samuel 17:40)
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Tue 06 Oct 12:10 WIB → **Tue 06 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-3-siang.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Tue 06 Oct 12:10 WIB → **Tue 06 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-3-sore.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Tue 06 Oct 13:00 WIB → **Tue 06 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari2_1.jpg`, `output/ayat_minggu3/hari2_2.jpg`, `output/ayat_minggu3/hari2_3.jpg`, `output/ayat_minggu3/hari2_4.jpg`, `output/ayat_minggu3/hari2_5.jpg`, `output/ayat_minggu3/hari2_6.jpg`
 
@@ -3836,7 +5228,7 @@ Seri Yunus bagian 9/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 19:10 WIB → **Mon 05 Oct 01:10 NZ**
+## @ayat.tersembunyi — Tue 06 Oct 13:10 WIB → **Tue 06 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-2.jpg`
 
@@ -3844,7 +5236,553 @@ Gambar (urut): `output/stories/ayat-m3-2.jpg`
 
 ```
 
-## @ayat.tersembunyi — Mon 05 Oct 08:00 WIB → **Mon 05 Oct 14:00 NZ**
+## @diam.dan.percaya — Tue 06 Oct 13:30 WIB → **Tue 06 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik3.mp4`
+
+```
+Kamu milik-Nya, dan itu cukup 🤍
+
+📖 “Janganlah takut, sebab Aku telah menebus engkau, Aku telah memanggil engkau dengan namamu, engkau ini kepunyaan-Ku.” — Yesaya 43:1
+
+Save untuk hari masa lalu datang mengganggu 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 06 Oct 13:40 WIB → **Tue 06 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik3.mp4`
+
+```
+
+```
+
+## @sahabat.eli — Tue 06 Oct 14:00 WIB → **Tue 06 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari3_malam.mp4`
+
+```
+Goodnight, friends 🌙
+
+Is it a little dark? A little quiet? Eli has a tiny verse that's easy to remember:
+
+📖 Psalm 56:3
+“When I am afraid, I will put my trust in you.”
+
+It's only 11 words. Can you say it with your eyes closed? 😴
+
+Parents: this is a perfect first memory verse. Save it for bedtime 🔖
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Tue 06 Oct 14:10 WIB → **Tue 06 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari3_malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 15:00 WIB → **Tue 06 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari3_sore_1.jpg`
+
+```
+Coba temukan kata yang menyala 👀
+
+Pelan-pelan saja. Tuhan tidak meninggalkanmu.
+
+📖 “…Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau, ke mana pun engkau pergi.” — Yosua 1:9
+
+Save untuk hari yang terasa lambat 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @kapi.percaya — Tue 06 Oct 15:00 WIB → **Tue 06 Oct 21:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata12.mp4`
+
+```
+semua orang lagi ribut, kamu tetap berdiri 🧱
+jerih payahmu buat Tuhan nggak ada yang sia-sia.
+
+“…berdirilah teguh, jangan goyah, dan giatlah selalu dalam pekerjaan Tuhan! Sebab kamu tahu, bahwa dalam persekutuan dengan Tuhan jerih payahmu tidak sia-sia.” — 1 Korintus 15:58
+
+ketik “TEGUH” kalau kamu lagi berjuang
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @diam.dan.percaya — Tue 06 Oct 15:10 WIB → **Tue 06 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-3-sore.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Tue 06 Oct 15:10 WIB → **Tue 06 Oct 21:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata12.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 18:00 WIB → **Wed 07 Oct 00:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana2.mp4`
+
+```
+Saat jalannya belum jelas, suara-Nya tetap jelas 🌫️
+
+📖 “Dan telingamu akan mendengar perkataan ini dari belakangmu: “Inilah jalan, berjalanlah mengikutinya,” entah kamu menganan atau mengiri.” — Yesaya 30:21
+
+Save untuk hari kamu harus mengambil keputusan 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 06 Oct 18:10 WIB → **Wed 07 Oct 00:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana2.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Tue 06 Oct 19:00 WIB → **Wed 07 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata13.mp4`
+
+```
+kamu boleh tidur. yang jagain kamu nggak pernah ngantuk 🌙✨
+
+“Ia takkan membiarkan kakimu goyah, Penjagamu tidak akan terlelap.” — Mazmur 121:3
+
+selamat istirahat 🤍
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @ayat.tersembunyi — Tue 06 Oct 19:00 WIB → **Wed 07 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_w2/salah3_1.jpg`, `output/ayat_w2/salah3_2.jpg`, `output/ayat_w2/salah3_3.jpg`
+
+```
+Kalimat yang sering diucapkan untuk menghibur, tapi isi ayat aslinya sedikit berbeda 🤍
+
+1 Korintus 10:13 bicara tentang pencobaan (godaan untuk berdosa), dan janjinya: Allah setia dan memberi jalan keluar.
+
+Kalau hidup terasa terlalu berat untuk ditanggung, itu bukan tanda imanmu lemah. Paulus sendiri pernah merasa bebannya begitu berat sampai putus asa akan hidupnya (2 Korintus 1:8). Kita diajak bersandar pada Tuhan, bukan pada kekuatan sendiri.
+
+Kamu pernah dengar kalimat ini? Kirim ke teman yang lagi berat bebannya 💌
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @kapi.percaya — Tue 06 Oct 19:10 WIB → **Wed 07 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata13.mp4`
+
+```
+
+```
+
+## @ayat.tersembunyi — Tue 06 Oct 19:10 WIB → **Wed 07 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-salah-3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 19:30 WIB → **Wed 07 Oct 01:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable6.jpg`
+
+```
+Pujian pembuka yang makin lama makin panjang 😂🎸
+
+Tag teman persekutuanmu yang selalu datang pas doa penutup 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 06 Oct 19:40 WIB → **Wed 07 Oct 01:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-3-malam0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 06 Oct 21:00 WIB → **Wed 07 Oct 03:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/dinding9.mp4`
+
+```
+Coba temukan kata yang menyala 👀
+
+Harapanmu tidak akan sia-sia.
+
+📖 “Karena masa depan sungguh ada, dan harapanmu tidak akan hilang.” — Amsal 23:18
+
+Ketik “TIDAK SIA-SIA” kalau kamu masih berharap 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 06 Oct 21:10 WIB → **Wed 07 Oct 03:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/dinding9.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Tue 06 Oct 21:30 WIB → **Wed 07 Oct 03:30 NZ**
+
+Gambar (urut): `output/kapi_w2/pilih3.jpg`
+
+```
+PILIH SATU 👇 (udah Oktober, boleh dong mulai mikirin kue Natal 🎄)
+
+A = nastar 🍍
+B = kastengel 🧀
+
+jawab A atau B. jawaban yang salah… nggak ada, dua-duanya enak 😂
+
+“…Hari ini telah lahir bagimu Juruselamat, yaitu Kristus, Tuhan, di kota Daud.” — Lukas 2:11
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Tue 06 Oct 21:40 WIB → **Wed 07 Oct 03:40 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-3-larut.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Wed 07 Oct 01:00 WIB → **Wed 07 Oct 07:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari4_pagi.mp4`
+
+```
+Happy Wednesday! 🌈
+
+Did you know God knows your name? Not just "a kid" but YOU 💙
+
+📖 Isaiah 43:1
+“Don’t be afraid, for I have redeemed you. I have called you by your name. You are mine.”
+
+Eli loves that last part: You are mine 🥹
+
+Write your first name in the comments and Eli will say hi! 👋
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Wed 07 Oct 01:10 WIB → **Wed 07 Oct 07:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari4_pagi.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 06:00 WIB → **Wed 07 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari4_pagi_1.jpg`
+
+```
+Doamu sampai. Dia mendengar 🤍
+
+📖 “Aku sangat menanti-nantikan TUHAN; lalu Ia menjenguk kepadaku dan mendengar teriakku minta tolong.” — Mazmur 40:2
+
+Kirim ke seseorang yang masih menunggu jawaban doa 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Wed 07 Oct 06:00 WIB → **Wed 07 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_w2/edukasi4_1.jpg`, `output/eli_w2/edukasi4_2.jpg`, `output/eli_w2/edukasi4_3.jpg`, `output/eli_w2/edukasi4_4.jpg`
+
+```
+Eli learned how BIG Noah's ark was 🚢
+
+About 135 metres long! That's longer than a soccer field 😮 And after the flood, God gave the rainbow as His promise 🌈
+
+📖 Genesis 9:13
+
+Next time you see a rainbow, what will you remember? 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Wed 07 Oct 06:10 WIB → **Wed 07 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-4-pagi.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Wed 07 Oct 06:10 WIB → **Wed 07 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-4-pagi2.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Wed 07 Oct 07:00 WIB → **Wed 07 Oct 13:00 NZ**
+
+Gambar (urut): `output/kapi_w2/kata4.jpg`
+
+```
+Google Maps aja bisa “rerouting”, apalagi Tuhan 🗺️
+
+“Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu.” — Amsal 3:6
+
+ketik 🗺️ kalau kamu lagi nunggu arahan dari Tuhan
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Wed 07 Oct 07:10 WIB → **Wed 07 Oct 13:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-4-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 07:30 WIB → **Wed 07 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dump4_1.jpg`, `output/tenang_keren2/dump4_2.jpg`, `output/tenang_keren2/dump4_3.jpg`, `output/tenang_keren2/dump4_4.jpg`, `output/tenang_keren2/dump4_5.jpg`
+
+```
+musim yang sedang kamu lewati 🍂
+
+“Untuk segala sesuatu ada masanya, untuk apa pun di bawah langit ada waktunya.” — Pengkhotbah 3:1
+
+Save untuk dibaca lagi saat musimmu terasa panjang 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 07 Oct 07:40 WIB → **Wed 07 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-4-pagi3.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Wed 07 Oct 08:00 WIB → **Wed 07 Oct 14:00 NZ**
+
+Gambar (urut): `output/ayat_w2/fakta4.jpg`
+
+```
+Salah satu mukjizat paling aneh di Alkitab: bahkan setelah Elisa meninggal, Tuhan masih bekerja 🤯
+
+Sebuah jenazah dilemparkan ke kuburnya, menyentuh tulang Elisa, lalu hidup kembali dan berdiri.
+
+📖 2 Raja-raja 13:21
+
+Kuasa itu bukan milik Elisa, tapi milik Tuhan. Pernah dengar kisah ini? PERNAH / BARU TAHU 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Wed 07 Oct 08:10 WIB → **Wed 07 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-fakta-4.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 09:00 WIB → **Wed 07 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable7.jpg`
+
+```
+Doa mama itu pelindung yang sering nggak kita sadari 🤍
+
+Kirim ke mama kamu, bilang terima kasih hari ini 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 07 Oct 09:10 WIB → **Wed 07 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-4-pagi2.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Wed 07 Oct 10:00 WIB → **Wed 07 Oct 16:00 NZ**
+
+Gambar (urut): `output/eli_w2/saran4_1.jpg`, `output/eli_w2/saran4_2.jpg`, `output/eli_w2/saran4_3.jpg`, `output/eli_w2/saran4_4.jpg`, `output/eli_w2/saran4_5.jpg`, `output/eli_w2/saran4_6.jpg`
+
+```
+Things only church kids understand 😂
+
+1. "One last song" is never the last song
+2. The rumbly tummy during prayer
+3. Picking the seat near the snacks
+4. Memory verse = lolly
+
+📖 Psalm 100:1
+
+What would you add to the list? 👇 Share with your church friends!
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Wed 07 Oct 10:10 WIB → **Wed 07 Oct 16:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-4-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 10:30 WIB → **Wed 07 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dulu4_1.jpg`, `output/tenang_keren2/dulu4_2.jpg`, `output/tenang_keren2/dulu4_3.jpg`, `output/tenang_keren2/dulu4_4.jpg`, `output/tenang_keren2/dulu4_5.jpg`
+
+```
+dulu vs sekarang: tentang bersyukur 🤍
+
+Habakuk memilih bersorak-sorak di dalam Tuhan, bahkan saat ladangnya kosong.
+
+📖 Habakuk 3:18
+
+Tulis satu hal yang tetap kamu syukuri minggu ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 07 Oct 10:40 WIB → **Wed 07 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-4-siang0.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Wed 07 Oct 11:00 WIB → **Wed 07 Oct 17:00 NZ**
+
+Gambar (urut): `output/kapi_w2/komik4_1.jpg`, `output/kapi_w2/komik4_2.jpg`, `output/kapi_w2/komik4_3.jpg`, `output/kapi_w2/komik4_4.jpg`
+
+```
+trauma terbesar mahasiswa: “file belum di-save” 😭💻
+
+kecewa boleh, nyerah jangan. Dia penolong yang sudah terbukti.
+
+“Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesengsaraan sangat terbukti.” — Mazmur 46:2
+
+tips dari Kapi: Ctrl+S tiap 5 menit 😂 tag temen yang lagi skripsian 👇
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Wed 07 Oct 11:10 WIB → **Wed 07 Oct 17:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-4-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 12:00 WIB → **Wed 07 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari4_siang_1.jpg`, `output/tenang_w2/hari4_siang_2.jpg`, `output/tenang_w2/hari4_siang_3.jpg`, `output/tenang_w2/hari4_siang_4.jpg`, `output/tenang_w2/hari4_siang_5.jpg`
+
+```
+Angkat matamu. Pertolonganmu datang dari Tuhan ⛰️
+
+Kadang kita sudah mencari ke mana-mana, lupa melihat ke atas. Dia yang menjadikan langit dan bumi sanggup menolongmu.
+
+📖 Mazmur 121:1-2
+
+Ketik “Pertolonganku dari TUHAN” sebagai doamu hari ini 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Wed 07 Oct 12:00 WIB → **Wed 07 Oct 18:00 NZ**
+
+Gambar (urut): `output/eli_w2/kuis4.jpg`
+
+```
+Bible Quiz with Eli! 🤔
+
+Which brave queen saved her people?
+A. Ruth
+B. Miriam
+C. Esther
+
+Answer A, B or C in the comments 👇 No peeking!
+.
+.
+.
+.
+.
+Answer: C. Queen Esther (Esther 4:14-16)
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Wed 07 Oct 12:10 WIB → **Wed 07 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-4-siang.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Wed 07 Oct 12:10 WIB → **Wed 07 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-4-sore.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Wed 07 Oct 13:00 WIB → **Wed 07 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari3_1.jpg`, `output/ayat_minggu3/hari3_2.jpg`, `output/ayat_minggu3/hari3_3.jpg`, `output/ayat_minggu3/hari3_4.jpg`, `output/ayat_minggu3/hari3_5.jpg`, `output/ayat_minggu3/hari3_6.jpg`
 
@@ -3863,7 +5801,7 @@ Seri Yunus bagian 10/14
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Mon 05 Oct 08:10 WIB → **Mon 05 Oct 14:10 NZ**
+## @ayat.tersembunyi — Wed 07 Oct 13:10 WIB → **Wed 07 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-3.jpg`
 
@@ -3871,7 +5809,548 @@ Gambar (urut): `output/stories/ayat-m3-3.jpg`
 
 ```
 
-## @ayat.tersembunyi — Mon 05 Oct 13:00 WIB → **Mon 05 Oct 19:00 NZ**
+## @diam.dan.percaya — Wed 07 Oct 13:30 WIB → **Wed 07 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik4.mp4`
+
+```
+Bahkan tangisanmu adalah doa yang Dia dengar 🤍
+
+📖 “…sebab TUHAN telah mendengar tangisku.” — Mazmur 6:9
+
+Ketik 🙏 dan kami ikut mendoakanmu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 07 Oct 13:40 WIB → **Wed 07 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik4.mp4`
+
+```
+
+```
+
+## @sahabat.eli — Wed 07 Oct 14:00 WIB → **Wed 07 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari4_malam.mp4`
+
+```
+Goodnight, little one 🌙⭐
+
+While you sleep, God is still wide awake and taking care of you.
+
+📖 Psalm 91:11
+“For he will put his angels in charge of you, to guard you in all your ways.”
+
+Snuggle in and rest. You are safe in God's hands 💙
+
+Send this to a family who could use a peaceful night 🤍
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Wed 07 Oct 14:10 WIB → **Wed 07 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari4_malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 15:00 WIB → **Wed 07 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari4_sore_1.jpg`
+
+```
+Temukan pesannya 👀
+
+Bersyukur untuk hal kecil: kopi hangat, pesan dari teman, napas yang masih ada.
+
+📖 “Pujilah TUHAN, hai jiwaku, dan janganlah lupakan segala kebaikan-Nya!” — Mazmur 103:2
+
+Tulis satu hal kecil yang kamu syukuri hari ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @kapi.percaya — Wed 07 Oct 15:00 WIB → **Wed 07 Oct 21:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata14.mp4`
+
+```
+nggak kepilih jadi tim inti, nggak kepilih jadi panitia… tapi kamu dipilih Tuhan 🌟
+
+“Bukan kamu yang memilih Aku, tetapi Akulah yang memilih kamu.” — Yohanes 15:16
+
+tag temen yang perlu dengar ini 👇
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @diam.dan.percaya — Wed 07 Oct 15:10 WIB → **Wed 07 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-4-sore.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Wed 07 Oct 15:10 WIB → **Wed 07 Oct 21:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata14.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 18:00 WIB → **Thu 08 Oct 00:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif3.mp4`
+
+```
+Rasa bersalah kemarin tidak perlu ikut ke hari ini 🤍
+
+Di dalam Kristus, yang lama sudah berlalu. Kamu boleh mulai lagi.
+
+📖 2 Korintus 5:17
+
+Ketik “Mulai lagi” kalau kamu butuh awal yang baru.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 07 Oct 18:10 WIB → **Thu 08 Oct 00:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif3.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Wed 07 Oct 19:00 WIB → **Thu 08 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata15.mp4`
+
+```
+sebelum scroll dan bandingin diri lagi, baca ini dulu 🤍
+
+“Aku bersyukur kepada-Mu oleh karena kejadianku dahsyat dan ajaib; ajaib apa yang Kaubuat, dan jiwaku benar-benar menyadarinya.” — Mazmur 139:14
+
+ketik 🤍 kalau kamu lagi butuh ini
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @ayat.tersembunyi — Wed 07 Oct 19:00 WIB → **Thu 08 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_w2/salah4_1.jpg`, `output/ayat_w2/salah4_2.jpg`, `output/ayat_w2/salah4_3.jpg`
+
+```
+Banyak yang mengira ini ada di Alkitab. Ternyata tidak ada 🙂
+
+“Kebersihan adalah sebagian dari iman” adalah ungkapan populer, bukan ayat Alkitab. Hidup bersih tetap baik, tapi Yesus berbicara tentang kebersihan yang lebih dalam: “Berbahagialah orang yang suci hatinya” (Matius 5:8).
+
+Kamu pernah mengira kalimat ini ayat Alkitab? YA / TIDAK 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @kapi.percaya — Wed 07 Oct 19:10 WIB → **Thu 08 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata15.mp4`
+
+```
+
+```
+
+## @ayat.tersembunyi — Wed 07 Oct 19:10 WIB → **Thu 08 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-salah-4.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 19:30 WIB → **Thu 08 Oct 01:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable8.jpg`
+
+```
+Tapi domba nomor 3 itu penting, ya 🐑😂🎄
+
+Dulu kamu dapat peran apa? Ceritain di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 07 Oct 19:40 WIB → **Thu 08 Oct 01:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-4-malam0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 07 Oct 21:00 WIB → **Thu 08 Oct 03:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana3.mp4`
+
+```
+Dia yang menempatkan bintang-bintang masih mengingatmu ✨
+
+📖 “Jika aku melihat langit-Mu, buatan jari-Mu, bulan dan bintang-bintang yang Kautempatkan: apakah manusia, sehingga Engkau mengingatnya? Apakah anak manusia, sehingga Engkau mengindahkannya?” — Mazmur 8:4-5
+
+Kirim ke seseorang yang merasa kecil dan terlupakan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 07 Oct 21:10 WIB → **Thu 08 Oct 03:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana3.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Wed 07 Oct 21:30 WIB → **Thu 08 Oct 03:30 NZ**
+
+Gambar (urut): `output/kapi_w2/pilih4.jpg`
+
+```
+PILIH SATU 👇
+
+A = saat teduh ditemani kopi ☕
+B = saat teduh ditemani teh 🍵
+
+jawab A atau B. yang penting saat teduhnya, bukan minumannya 😄
+
+“Diamlah dan ketahuilah, bahwa Akulah Allah!” — Mazmur 46:11
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Wed 07 Oct 21:40 WIB → **Thu 08 Oct 03:40 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-4-larut.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Thu 08 Oct 01:00 WIB → **Thu 08 Oct 07:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari5_pagi.mp4`
+
+```
+Good morning, team! 🙌
+
+Eli has the BEST teammate ever.
+
+📖 Romans 8:31
+“If God is for us, who can be against us?”
+
+When something feels too big today, remember whose team you're on 💪
+
+Type "TEAM GOD" if you're in! 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Thu 08 Oct 01:10 WIB → **Thu 08 Oct 07:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari5_pagi.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 06:00 WIB → **Thu 08 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari5_pagi_1.jpg`
+
+```
+Tenang yang sejati tidak tergantung keadaan 🤍
+
+📖 “Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti.” — Mazmur 46:2
+
+Save sebagai pengingat hari ini 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Thu 08 Oct 06:00 WIB → **Thu 08 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_w2/edukasi5_1.jpg`, `output/eli_w2/edukasi5_2.jpg`, `output/eli_w2/edukasi5_3.jpg`, `output/eli_w2/edukasi5_4.jpg`
+
+```
+Eli learned about Daniel and the lions 🦁
+
+Daniel prayed three times a day, even when it was against the rules. And God kept him safe in the lions' den!
+
+📖 Daniel 6:22
+
+When do you like to pray: morning, lunch, or bedtime? 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Thu 08 Oct 06:10 WIB → **Thu 08 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-5-pagi.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Thu 08 Oct 06:10 WIB → **Thu 08 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-5-pagi2.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Thu 08 Oct 07:00 WIB → **Thu 08 Oct 13:00 NZ**
+
+Gambar (urut): `output/kapi_w2/kata5.jpg`
+
+```
+bukan karena kamu super, tapi karena Dia yang kasih kekuatan 💪
+
+“Segala perkara dapat kutanggung di dalam Dia yang memberi kekuatan kepadaku.” — Filipi 4:13
+
+kirim ke bestie yang lagi dikejar deadline
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Thu 08 Oct 07:10 WIB → **Thu 08 Oct 13:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-5-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 07:30 WIB → **Thu 08 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dump5_1.jpg`, `output/tenang_keren2/dump5_2.jpg`, `output/tenang_keren2/dump5_3.jpg`, `output/tenang_keren2/dump5_4.jpg`, `output/tenang_keren2/dump5_5.jpg`
+
+```
+doa-doa pendek untuk hari ini 🙏
+
+“Tetaplah berdoa.” — 1 Tesalonika 5:17
+
+Doa nomor berapa yang paling kamu butuhkan? Ketik di komentar, kita saling mendoakan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 08 Oct 07:40 WIB → **Thu 08 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-5-pagi3.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Thu 08 Oct 08:00 WIB → **Thu 08 Oct 14:00 NZ**
+
+Gambar (urut): `output/ayat_w2/fakta5.jpg`
+
+```
+3.000 amsal. 1.005 nyanyian. Itu karya Salomo menurut 1 Raja-raja 4:32 ✍️
+
+Yang tercatat di Alkitab hanya sebagian kecilnya. Hikmat itu karunia dari Tuhan, bukan hasil kepintaran semata (1 Raja-raja 4:29).
+
+Amsal favoritmu yang mana? Tulis di komentar 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Thu 08 Oct 08:10 WIB → **Thu 08 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-fakta-5.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 09:00 WIB → **Thu 08 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable9.jpg`
+
+```
+Imannya langsung naik level 😂🙏
+
+Tag teman yang lagi nunggu “tanda” 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 08 Oct 09:10 WIB → **Thu 08 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-5-pagi2.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Thu 08 Oct 10:00 WIB → **Thu 08 Oct 16:00 NZ**
+
+Gambar (urut): `output/eli_w2/saran5_1.jpg`, `output/eli_w2/saran5_2.jpg`, `output/eli_w2/saran5_3.jpg`, `output/eli_w2/saran5_4.jpg`, `output/eli_w2/saran5_5.jpg`, `output/eli_w2/saran5_6.jpg`
+
+```
+Eli's tips for being brave at bedtime 🌙
+
+1. Nightlights are totally okay
+2. Say a bedtime verse
+3. Pray for someone else
+4. Talk about bad dreams in the morning
+
+📖 Psalm 3:5
+
+Parents: what's your family's bedtime routine? Share your tips below 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Thu 08 Oct 10:10 WIB → **Thu 08 Oct 16:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-5-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 10:30 WIB → **Thu 08 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dulu5_1.jpg`, `output/tenang_keren2/dulu5_2.jpg`, `output/tenang_keren2/dulu5_3.jpg`, `output/tenang_keren2/dulu5_4.jpg`, `output/tenang_keren2/dulu5_5.jpg`
+
+```
+dulu vs sekarang: tentang gagal 🤍
+
+Jatuh bukan akhir cerita. Bersama Tuhan, kamu akan bangun lagi.
+
+📖 Mikha 7:8
+
+Save untuk hari kamu merasa gagal 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 08 Oct 10:40 WIB → **Thu 08 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-5-siang0.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Thu 08 Oct 11:00 WIB → **Thu 08 Oct 17:00 NZ**
+
+Gambar (urut): `output/kapi_w2/komik5_1.jpg`, `output/kapi_w2/komik5_2.jpg`, `output/kapi_w2/komik5_3.jpg`, `output/kapi_w2/komik5_4.jpg`
+
+```
+pertanyaan wajib kumpul keluarga: kapan lulus, kapan kerja, kapan nyusul 😂
+
+jawab dengan senyum. waktunya Tuhan nggak pernah telat.
+
+“Ia membuat segala sesuatu indah pada waktunya.” — Pengkhotbah 3:11
+
+pertanyaan “kapan” apa yang paling sering kamu dapet? 👇
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Thu 08 Oct 11:10 WIB → **Thu 08 Oct 17:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-5-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 12:00 WIB → **Thu 08 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari5_siang_1.jpg`, `output/tenang_w2/hari5_siang_2.jpg`, `output/tenang_w2/hari5_siang_3.jpg`, `output/tenang_w2/hari5_siang_4.jpg`, `output/tenang_w2/hari5_siang_5.jpg`
+
+```
+Tuhan tidak cuma menoleransimu. Dia bergirang karena kamu 🤍
+
+Baca pelan-pelan Zefanya 3:17. Ia bersukacita, Ia membaharui, Ia bersorak-sorak, karena engkau.
+
+📖 Zefanya 3:17
+
+Tag seseorang yang perlu tahu ini hari ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Thu 08 Oct 12:00 WIB → **Thu 08 Oct 18:00 NZ**
+
+Gambar (urut): `output/eli_w2/kuis5.jpg`
+
+```
+Bible Quiz with Eli! 🤔
+
+What did God put in the sky as a promise?
+A. A star
+B. A rainbow
+C. A big cloud
+
+Answer A, B or C in the comments 👇 No peeking!
+.
+.
+.
+.
+.
+Answer: B. A rainbow (Genesis 9:13)
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Thu 08 Oct 12:10 WIB → **Thu 08 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-5-siang.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Thu 08 Oct 12:10 WIB → **Thu 08 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-5-sore.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Thu 08 Oct 13:00 WIB → **Thu 08 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari4_1.jpg`, `output/ayat_minggu3/hari4_2.jpg`, `output/ayat_minggu3/hari4_3.jpg`, `output/ayat_minggu3/hari4_4.jpg`, `output/ayat_minggu3/hari4_5.jpg`, `output/ayat_minggu3/hari4_6.jpg`
 
@@ -3890,7 +6369,7 @@ Seri Yunus bagian 11/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Mon 05 Oct 13:10 WIB → **Mon 05 Oct 19:10 NZ**
+## @ayat.tersembunyi — Thu 08 Oct 13:10 WIB → **Thu 08 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-4.jpg`
 
@@ -3898,7 +6377,551 @@ Gambar (urut): `output/stories/ayat-m3-4.jpg`
 
 ```
 
-## @ayat.tersembunyi — Mon 05 Oct 19:00 WIB → **Tue 06 Oct 01:00 NZ**
+## @diam.dan.percaya — Thu 08 Oct 13:30 WIB → **Thu 08 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik5.mp4`
+
+```
+Dunia bilang lebih. Tuhan bilang cukup 🤍
+
+📖 “Janganlah kamu menjadi hamba uang dan cukupkanlah dirimu dengan apa yang ada padamu. Karena Allah telah berfirman: “Aku sekali-kali tidak akan membiarkan engkau dan Aku sekali-kali tidak akan meninggalkan engkau.”” — Ibrani 13:5
+
+Kirim ke temanmu yang lagi capek mengejar semuanya 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 08 Oct 13:40 WIB → **Thu 08 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik5.mp4`
+
+```
+
+```
+
+## @sahabat.eli — Thu 08 Oct 14:00 WIB → **Thu 08 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari5_malam.mp4`
+
+```
+Goodnight, friends 🌙
+
+Forever is a really, really long time. And that's how long God's love lasts 💙
+
+📖 Jeremiah 31:3
+“Yes, I have loved you with an everlasting love.”
+
+No bad day, no mistake, no grumpy moment can switch it off.
+
+Drop a 💙 for someone you love, and tag them so they see it
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Thu 08 Oct 14:10 WIB → **Thu 08 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari5_malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 15:00 WIB → **Thu 08 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari5_sore_1.jpg`
+
+```
+Coba temukan kata yang menyala 👀
+
+Doakan. Lepaskan. Biar Tuhan bekerja.
+
+📖 “Bapa-Ku bekerja sampai sekarang, maka Aku pun bekerja juga.” — Yohanes 5:17
+
+Ketik “AKU LEPASKAN” kalau ada yang mau kamu serahkan hari ini 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @kapi.percaya — Thu 08 Oct 15:00 WIB → **Thu 08 Oct 21:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata16.mp4`
+
+```
+akar tumbuh duluan sebelum kelihatan buahnya 🌱
+Dia belum selesai sama kamu.
+
+“…Ia, yang memulai pekerjaan yang baik di antaramu, akan meneruskannya sampai pada akhirnya pada hari Kristus Yesus.” — Filipi 1:6
+
+save buat pengingat 🔖
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @diam.dan.percaya — Thu 08 Oct 15:10 WIB → **Thu 08 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-5-sore.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Thu 08 Oct 15:10 WIB → **Thu 08 Oct 21:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata16.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 18:00 WIB → **Fri 09 Oct 00:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/dinding10.mp4`
+
+```
+Temukan pesannya 👀
+
+Hatimu aman di tangan Tuhan.
+
+📖 “…seorang pun tidak akan merebut mereka dari tangan-Ku.” — Yohanes 10:28
+
+Kirim ke seseorang yang hatinya sedang rapuh 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 08 Oct 18:10 WIB → **Fri 09 Oct 00:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/dinding10.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Thu 08 Oct 19:00 WIB → **Fri 09 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata17.mp4`
+
+```
+sinyal ke surga nggak pernah “no service” 📶🙏
+
+“Berserulah kepada-Ku, maka Aku akan menjawab engkau dan akan memberitahukan kepadamu hal-hal yang besar dan yang tidak terpahami, yakni hal-hal yang tidak kauketahui.” — Yeremia 33:3
+
+tulis doamu di komentar, kita doakan bareng 🙏
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @ayat.tersembunyi — Thu 08 Oct 19:00 WIB → **Fri 09 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_w2/salah5_1.jpg`, `output/ayat_w2/salah5_2.jpg`, `output/ayat_w2/salah5_3.jpg`
+
+```
+Salah satu ayat paling favorit, tapi konteksnya jarang dibaca 📖
+
+Yeremia 29:11 ditulis untuk umat yang sedang dibuang ke Babel. Tuhan berkata pemulihan akan datang setelah 70 tahun (ayat 10). Artinya: janji ini bukan jaminan hidup tanpa masalah, tapi kepastian bahwa Tuhan punya rancangan damai sejahtera, bahkan di tengah pembuangan.
+
+Justru itu yang bikin ayat ini makin kuat. Kamu baru tahu konteksnya? 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @kapi.percaya — Thu 08 Oct 19:10 WIB → **Fri 09 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata17.mp4`
+
+```
+
+```
+
+## @ayat.tersembunyi — Thu 08 Oct 19:10 WIB → **Fri 09 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-salah-5.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 19:30 WIB → **Fri 09 Oct 01:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable10.jpg`
+
+```
+Tuhan tetap dengar kok, walau doanya sambil lari 😂🧦
+
+Kamu tim saat teduh pagi atau malam? Jawab di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 08 Oct 19:40 WIB → **Fri 09 Oct 01:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-5-malam0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 08 Oct 21:00 WIB → **Fri 09 Oct 03:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana4.mp4`
+
+```
+Hidup karena percaya, bukan karena melihat 🌫️
+
+📖 “Sebab hidup kami ini adalah hidup karena percaya, bukan karena melihat.” — 2 Korintus 5:7
+
+Ketik “satu langkah” kalau kamu sedang belajar percaya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 08 Oct 21:10 WIB → **Fri 09 Oct 03:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana4.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Thu 08 Oct 21:30 WIB → **Fri 09 Oct 03:30 NZ**
+
+Gambar (urut): `output/kapi_w2/pilih5.jpg`
+
+```
+PILIH SATU 👇
+
+A = lebih suka baca Perjanjian Lama 📜
+B = lebih suka baca Perjanjian Baru ✝️
+
+jawab A atau B, sebutin kitab favoritmu juga!
+
+“Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan dan untuk mendidik orang dalam kebenaran.” — 2 Timotius 3:16
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Thu 08 Oct 21:40 WIB → **Fri 09 Oct 03:40 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-5-larut.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Fri 09 Oct 01:00 WIB → **Fri 09 Oct 07:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari6_pagi.mp4`
+
+```
+Happy Friday! 🎉
+
+Look in the mirror today and say it with Eli: "God made me WONDERFUL!" 🪞
+
+📖 Psalm 139:14
+“I will give thanks to you, for I am fearfully and wonderfully made.”
+
+Your freckles, your laugh, your curly hair or straight hair: God made it all on purpose ✨
+
+What's one thing you like about how God made you? 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Fri 09 Oct 01:10 WIB → **Fri 09 Oct 07:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari6_pagi.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 06:00 WIB → **Fri 09 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari6_pagi_1.jpg`
+
+```
+Tidak ada pekerjaan yang terlalu kecil kalau dikerjakan untuk Tuhan 🤍
+
+📖 “Apa pun juga yang kamu perbuat, perbuatlah dengan segenap hatimu seperti untuk Tuhan dan bukan untuk manusia.” — Kolose 3:23
+
+Ketik “Pakai aku” sebagai doamu pagi ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Fri 09 Oct 06:00 WIB → **Fri 09 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_w2/edukasi6_1.jpg`, `output/eli_w2/edukasi6_2.jpg`, `output/eli_w2/edukasi6_3.jpg`, `output/eli_w2/edukasi6_4.jpg`
+
+```
+Eli's favourite fact this week 💙
+
+When the disciples tried to send kids away, Jesus said "Let them come!" Then He hugged and blessed them 🤗
+
+📖 Mark 10:14
+
+Parents: tell your kids today that Jesus has time for them. Share with a family who needs this 🤍
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Fri 09 Oct 06:10 WIB → **Fri 09 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-6-pagi.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Fri 09 Oct 06:10 WIB → **Fri 09 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-6-pagi2.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Fri 09 Oct 07:00 WIB → **Fri 09 Oct 13:00 NZ**
+
+Gambar (urut): `output/kapi_w2/kata6.jpg`
+
+```
+nggak perlu debat kusir, cukup cerita pengharapanmu dengan lembut 🤍
+
+“…Dan siap sedialah pada segala waktu untuk memberi pertanggungan jawab kepada tiap-tiap orang yang meminta pertanggungan jawab dari kamu tentang pengharapan yang ada padamu, tetapi haruslah dengan lemah lembut dan hormat.” — 1 Petrus 3:15-16
+
+save buat pengingat 🔖
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Fri 09 Oct 07:10 WIB → **Fri 09 Oct 13:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-6-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 07:30 WIB → **Fri 09 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dump6_1.jpg`, `output/tenang_keren2/dump6_2.jpg`, `output/tenang_keren2/dump6_3.jpg`, `output/tenang_keren2/dump6_4.jpg`, `output/tenang_keren2/dump6_5.jpg`
+
+```
+hal-hal yang tidak pernah Tuhan lakukan 🤍
+
+“TUHAN ialah Allah kekal yang menciptakan bumi dari ujung ke ujung; Ia tidak menjadi lelah dan tidak menjadi lesu, tidak terduga pengertian-Nya.” — Yesaya 40:28
+
+Ketik “tidak pernah” kalau kamu percaya 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 09 Oct 07:40 WIB → **Fri 09 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-6-pagi3.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Fri 09 Oct 08:00 WIB → **Fri 09 Oct 14:00 NZ**
+
+Gambar (urut): `output/ayat_w2/fakta6.jpg`
+
+```
+700 orang kidal, dan tidak meleset sehelai rambut pun 🎯
+
+📖 Hakim-hakim 20:16
+
+Detail kecil ini mengingatkan: apa yang orang anggap “beda” darimu bisa jadi justru keahlianmu.
+
+Tag temanmu yang kidal 😄👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Fri 09 Oct 08:10 WIB → **Fri 09 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-fakta-6.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 09:00 WIB → **Fri 09 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable11.jpg`
+
+```
+Semangat Natalnya nggak bisa ditahan 🎄✨
+
+Di rumahmu pohon Natal dipasang tanggal berapa? Ketik di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 09 Oct 09:10 WIB → **Fri 09 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-6-pagi2.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Fri 09 Oct 10:00 WIB → **Fri 09 Oct 16:00 NZ**
+
+Gambar (urut): `output/eli_w2/saran6_1.jpg`, `output/eli_w2/saran6_2.jpg`, `output/eli_w2/saran6_3.jpg`, `output/eli_w2/saran6_4.jpg`, `output/eli_w2/saran6_5.jpg`, `output/eli_w2/saran6_6.jpg`
+
+```
+Sunday school memories, anyone? 🥹⭐
+
+1. Felt board Bible stories
+2. "My God is so big" with all the actions
+3. Holding your offering coin super tight
+4. Gold star stickers
+
+📖 Psalm 145:4
+
+Which one brings back memories? Tag your old Sunday school friend 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Fri 09 Oct 10:10 WIB → **Fri 09 Oct 16:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-6-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 10:30 WIB → **Fri 09 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dulu6_1.jpg`, `output/tenang_keren2/dulu6_2.jpg`, `output/tenang_keren2/dulu6_3.jpg`, `output/tenang_keren2/dulu6_4.jpg`, `output/tenang_keren2/dulu6_5.jpg`
+
+```
+dulu vs sekarang: tentang saat teduh 📖
+
+Nggak harus lama. Nggak harus sempurna. Yang penting datang.
+
+📖 Mazmur 119:103
+
+Kamu biasanya saat teduh jam berapa? Share di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 09 Oct 10:40 WIB → **Fri 09 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-6-siang0.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Fri 09 Oct 11:00 WIB → **Fri 09 Oct 17:00 NZ**
+
+Gambar (urut): `output/kapi_w2/komik6_1.jpg`, `output/kapi_w2/komik6_2.jpg`, `output/kapi_w2/komik6_3.jpg`, `output/kapi_w2/komik6_4.jpg`
+
+```
+anggota paduan suara yang cuma lip sync, ngaku 🙋‍♂️🎶😂
+
+tetap latihan ya, tapi jangan lupa: yang paling penting hatinya.
+
+“Bersorak-soraklah bagi TUHAN, hai seluruh bumi, bergembiralah, bersorak-sorailah dan bermazmurlah!” — Mazmur 98:4
+
+gerejamu udah mulai latihan Natal belum? 🎄
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Fri 09 Oct 11:10 WIB → **Fri 09 Oct 17:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-6-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 12:00 WIB → **Fri 09 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari6_siang_1.jpg`, `output/tenang_w2/hari6_siang_2.jpg`, `output/tenang_w2/hari6_siang_3.jpg`, `output/tenang_w2/hari6_siang_4.jpg`, `output/tenang_w2/hari6_siang_5.jpg`
+
+```
+Kamu akan melewatinya, dan kamu tidak sendirian 🌊
+
+Tuhan tidak berjanji tidak akan ada air dan api. Tapi Dia berjanji menyertai, dan kamu tidak akan dihanyutkan.
+
+📖 Yesaya 43:2
+
+Ketik 🤍 kalau kamu sedang di tengah badai. Kita doakan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Fri 09 Oct 12:00 WIB → **Fri 09 Oct 18:00 NZ**
+
+Gambar (urut): `output/eli_w2/kuis6.jpg`
+
+```
+Bible Quiz with Eli! 🤔
+
+Who was kept safe in the lions' den?
+A. Daniel
+B. Joseph
+C. Jonah
+
+Answer A, B or C in the comments 👇 No peeking!
+.
+.
+.
+.
+.
+Answer: A. Daniel (Daniel 6:22)
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Fri 09 Oct 12:10 WIB → **Fri 09 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-6-siang.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Fri 09 Oct 12:10 WIB → **Fri 09 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-6-sore.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Fri 09 Oct 13:00 WIB → **Fri 09 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari5_1.jpg`, `output/ayat_minggu3/hari5_2.jpg`, `output/ayat_minggu3/hari5_3.jpg`, `output/ayat_minggu3/hari5_4.jpg`, `output/ayat_minggu3/hari5_5.jpg`, `output/ayat_minggu3/hari5_6.jpg`
 
@@ -3917,7 +6940,7 @@ Seri Yunus bagian 12/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Mon 05 Oct 19:10 WIB → **Tue 06 Oct 01:10 NZ**
+## @ayat.tersembunyi — Fri 09 Oct 13:10 WIB → **Fri 09 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-5.jpg`
 
@@ -3925,7 +6948,554 @@ Gambar (urut): `output/stories/ayat-m3-5.jpg`
 
 ```
 
-## @ayat.tersembunyi — Tue 06 Oct 08:00 WIB → **Tue 06 Oct 14:00 NZ**
+## @diam.dan.percaya — Fri 09 Oct 13:30 WIB → **Fri 09 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik6.mp4`
+
+```
+Tugasmu menanam. Tuhan yang menumbuhkan 🌱
+
+📖 “Karena itu yang penting bukanlah yang menanam atau yang menyiram, melainkan Allah yang memberi pertumbuhan.” — 1 Korintus 3:7
+
+Ketik 🌱 kalau kamu sedang menunggu hasil dari kesetiaanmu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 09 Oct 13:40 WIB → **Fri 09 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik6.mp4`
+
+```
+
+```
+
+## @sahabat.eli — Fri 09 Oct 14:00 WIB → **Fri 09 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari6_malam.mp4`
+
+```
+Goodnight, brave friends 🌙
+
+Eli learned something tonight: love is stronger than fear 💙
+
+📖 1 John 4:18
+“There is no fear in love; but perfect love casts out fear.”
+
+When you feel scared, remember how much God loves you. His love pushes the scary feelings out 🤍
+
+What helps you feel safe at night? A nightlight? A cuddle? Tell Eli 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Fri 09 Oct 14:10 WIB → **Fri 09 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari6_malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 15:00 WIB → **Fri 09 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari6_sore_1.jpg`
+
+```
+Temukan pesannya 👀
+
+Kasih-Nya lebih besar dari kesalahanmu.
+
+📖 “Jika kita mengaku dosa kita, maka Ia adalah setia dan adil, sehingga Ia akan mengampuni segala dosa kita dan menyucikan kita dari segala kejahatan.” — 1 Yohanes 1:9
+
+Save untuk hari kamu merasa gagal 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @kapi.percaya — Fri 09 Oct 15:00 WIB → **Fri 09 Oct 21:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata18.mp4`
+
+```
+teman bisa sibuk, grup bisa sepi. ada Sahabat yang udah buktiin kasih-Nya 🤍
+
+“Tidak ada kasih yang lebih besar dari pada kasih seorang yang memberikan nyawanya untuk sahabat-sahabatnya.” — Yohanes 15:13
+
+tag sahabat yang selalu ada buat kamu 👇
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @diam.dan.percaya — Fri 09 Oct 15:10 WIB → **Fri 09 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-6-sore.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Fri 09 Oct 15:10 WIB → **Fri 09 Oct 21:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata18.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 18:00 WIB → **Sat 10 Oct 00:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/dinding11.mp4`
+
+```
+Coba temukan kata yang menyala 👀
+
+Berhenti sejenak. Dengarkan suara-Nya.
+
+📖 “Domba-domba-Ku mendengarkan suara-Ku dan Aku mengenal mereka dan mereka mengikut Aku.” — Yohanes 10:27
+
+Malam ini, coba 5 menit tanpa HP. Ketik “SEJENAK” kalau kamu ikut 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 09 Oct 18:10 WIB → **Sat 10 Oct 00:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/dinding11.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Fri 09 Oct 19:00 WIB → **Sat 10 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata19.mp4`
+
+```
+malu boleh, tapi jangan kabur. datang aja, jujur aja 🤍
+
+“Jika kita mengaku dosa kita, maka Ia adalah setia dan adil, sehingga Ia akan mengampuni segala dosa kita dan menyucikan kita dari segala kejahatan.” — 1 Yohanes 1:9
+
+ketik 🤍 kalau kamu mau mulai lagi
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @ayat.tersembunyi — Fri 09 Oct 19:00 WIB → **Sat 10 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_w2/salah6_1.jpg`, `output/ayat_w2/salah6_2.jpg`, `output/ayat_w2/salah6_3.jpg`
+
+```
+Ayat yang sering ditulis di kaos olahraga, padahal konteksnya lebih dalam 💪
+
+Paulus menulis Filipi 4:13 dari penjara. Ayat 11-12 bercerita tentang belajar merasa cukup, baik saat kenyang maupun lapar, saat berkelimpahan maupun kekurangan.
+
+“Segala perkara dapat kutanggung” artinya: apa pun keadaannya, Kristus memberi kekuatan untuk bertahan.
+
+Kamu sedang butuh kekuatan untuk menang, atau untuk bertahan? 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @kapi.percaya — Fri 09 Oct 19:10 WIB → **Sat 10 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata19.mp4`
+
+```
+
+```
+
+## @ayat.tersembunyi — Fri 09 Oct 19:10 WIB → **Sat 10 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-salah-6.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 19:30 WIB → **Sat 10 Oct 01:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable12.jpg`
+
+```
+Kasih itu sabar, termasuk di parkiran gereja 😅🤍
+
+Tag teman yang selalu datang pas-pasan 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 09 Oct 19:40 WIB → **Sat 10 Oct 01:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-6-malam0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 09 Oct 21:00 WIB → **Sat 10 Oct 03:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif4.mp4`
+
+```
+Untuk kamu yang sibuk menolong semua orang 🌊
+
+Kamu juga butuh dipulihkan. Duduk sebentar, biarkan Dia menyegarkan jiwamu.
+
+📖 Mazmur 23:2-3
+
+Tag teman yang selalu ada untuk orang lain 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 09 Oct 21:10 WIB → **Sat 10 Oct 03:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif4.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Fri 09 Oct 21:30 WIB → **Sat 10 Oct 03:30 NZ**
+
+Gambar (urut): `output/kapi_w2/pilih6.jpg`
+
+```
+PILIH SATU 👇
+
+A = pelayanan main musik 🎸
+B = pelayanan operator slide lirik 💻
+
+jawab A atau B. salut buat operator slide yang ganti lirik pas banget di detik terakhir 🫡
+
+“Layanilah seorang akan yang lain, sesuai dengan karunia yang telah diperoleh tiap-tiap orang sebagai pengurus yang baik dari kasih karunia Allah.” — 1 Petrus 4:10
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Fri 09 Oct 21:40 WIB → **Sat 10 Oct 03:40 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-6-larut.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Sat 10 Oct 01:00 WIB → **Sat 10 Oct 07:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari7_pagi.mp4`
+
+```
+Saturday morning! 🥞☀️
+
+Pancakes, playtime, and a little chat with God before the fun starts.
+
+📖 Psalm 143:8
+“Cause me to hear your loving kindness in the morning, for I trust in you.”
+
+Eli's weekend challenge: say "Good morning, God!" before you get out of bed 😄
+
+What are you doing this weekend? 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Sat 10 Oct 01:10 WIB → **Sat 10 Oct 07:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari7_pagi.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 06:00 WIB → **Sat 10 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari7_pagi_1.jpg`
+
+```
+Minggu ini naik turun? Kasih-Nya tetap 🤍
+
+📖 “…tidak akan dapat memisahkan kita dari kasih Allah, yang ada dalam Kristus Yesus, Tuhan kita.” — Roma 8:39
+
+Selamat berakhir pekan. Kirim ke temanmu yang keras pada dirinya sendiri 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Sat 10 Oct 06:00 WIB → **Sat 10 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_w2/edukasi7_1.jpg`, `output/eli_w2/edukasi7_2.jpg`, `output/eli_w2/edukasi7_3.jpg`, `output/eli_w2/edukasi7_4.jpg`
+
+```
+Eli learned a beautiful name for Jesus: IMMANUEL ✨
+
+It means "God with us." Christmas is still about 11 weeks away, but this name is true every day of the year 💙
+
+📖 Matthew 1:23
+
+Do you know another name for Jesus? Write it below 👇
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Sat 10 Oct 06:10 WIB → **Sat 10 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-7-pagi.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Sat 10 Oct 06:10 WIB → **Sat 10 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-7-pagi2.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Sat 10 Oct 07:00 WIB → **Sat 10 Oct 13:00 NZ**
+
+Gambar (urut): `output/kapi_w2/kata7.jpg`
+
+```
+hari Sabtu = izin resmi buat senyum lebih lebar 😁🍊
+
+“Hati yang gembira adalah obat yang manjur, tetapi semangat yang patah mengeringkan tulang.” — Amsal 17:22
+
+sebutin satu hal kecil yang bikin kamu senyum minggu ini 👇
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Sat 10 Oct 07:10 WIB → **Sat 10 Oct 13:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-7-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 07:30 WIB → **Sat 10 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dump7_1.jpg`, `output/tenang_keren2/dump7_2.jpg`, `output/tenang_keren2/dump7_3.jpg`, `output/tenang_keren2/dump7_4.jpg`, `output/tenang_keren2/dump7_5.jpg`
+
+```
+sebelum hari Minggu 🤍
+
+“Aku bersukacita, ketika dikatakan orang kepadaku: “Mari kita pergi ke rumah TUHAN.”” — Mazmur 122:1
+
+Tag teman yang mau kamu ajak ibadah besok 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 10 Oct 07:40 WIB → **Sat 10 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-7-pagi3.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Sat 10 Oct 08:00 WIB → **Sat 10 Oct 14:00 NZ**
+
+Gambar (urut): `output/ayat_w2/fakta7.jpg`
+
+```
+Salah satu orang yang Alkitab sebut dipenuhi Roh Allah adalah… seorang pengrajin 🎨
+
+Bezaleel diberi keahlian untuk membuat perabot Kemah Suci dari emas, perak, tembaga, batu, dan kayu.
+
+📖 Keluaran 31:2-5
+
+Bakatmu juga bisa jadi ibadah. Kamu pandai di bidang apa? 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @ayat.tersembunyi — Sat 10 Oct 08:10 WIB → **Sat 10 Oct 14:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-fakta-7.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 09:00 WIB → **Sat 10 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable13.jpg`
+
+```
+Grup WA keluarga paling rohani 😂🙏
+
+Di grup keluargamu siapa yang rajin kirim ayat pagi? Tag dia 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 10 Oct 09:10 WIB → **Sat 10 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-7-pagi2.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Sat 10 Oct 10:00 WIB → **Sat 10 Oct 16:00 NZ**
+
+Gambar (urut): `output/eli_w2/saran7_1.jpg`, `output/eli_w2/saran7_2.jpg`, `output/eli_w2/saran7_3.jpg`, `output/eli_w2/saran7_4.jpg`, `output/eli_w2/saran7_5.jpg`, `output/eli_w2/saran7_6.jpg`
+
+```
+Little reminders for little hearts 💙
+
+1. God made you on purpose
+2. God knows your name
+3. Mistakes don't stop His love
+4. You are never alone
+
+📖 Isaiah 49:16
+
+Send this to a kid (or a grown-up!) who needs to hear it today 🤍
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Sat 10 Oct 10:10 WIB → **Sat 10 Oct 16:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-7-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 10:30 WIB → **Sat 10 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/dulu7_1.jpg`, `output/tenang_keren2/dulu7_2.jpg`, `output/tenang_keren2/dulu7_3.jpg`, `output/tenang_keren2/dulu7_4.jpg`, `output/tenang_keren2/dulu7_5.jpg`
+
+```
+dulu vs sekarang: tentang sahabat 🤍
+
+Bersyukur untuk sahabat yang tetap ada, bahkan di musim yang sulit.
+
+📖 Amsal 17:17
+
+Tag sahabat yang selalu mendoakanmu 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 10 Oct 10:40 WIB → **Sat 10 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-7-siang0.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Sat 10 Oct 11:00 WIB → **Sat 10 Oct 17:00 NZ**
+
+Gambar (urut): `output/kapi_w2/komik7_1.jpg`, `output/kapi_w2/komik7_2.jpg`, `output/kapi_w2/komik7_3.jpg`, `output/kapi_w2/komik7_4.jpg`
+
+```
+“bentar, ganti baju sekali lagi” — kata Kapi, 5 kali 😂👔
+
+rapi boleh, tapi hati yang siap lebih penting.
+
+“…Manusia melihat apa yang di depan mata, tetapi TUHAN melihat hati.” — 1 Samuel 16:7
+
+siapin bajunya dari malam ini, biar besok nggak telat ibadah 🙏
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Sat 10 Oct 11:10 WIB → **Sat 10 Oct 17:10 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-7-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 12:00 WIB → **Sat 10 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari7_siang_1.jpg`, `output/tenang_w2/hari7_siang_2.jpg`, `output/tenang_w2/hari7_siang_3.jpg`, `output/tenang_w2/hari7_siang_4.jpg`, `output/tenang_w2/hari7_siang_5.jpg`
+
+```
+Boleh tidur nyenyak malam ini 🌙
+
+Tidak semua urusan minggu ini beres, dan itu tidak apa-apa. Tidur juga bisa jadi cara kita bilang: “Tuhan, aku percaya Engkau yang pegang.”
+
+📖 Mazmur 4:9
+
+Selamat beristirahat. Follow @diam.dan.percaya untuk renungan setiap hari.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @sahabat.eli — Sat 10 Oct 12:00 WIB → **Sat 10 Oct 18:00 NZ**
+
+Gambar (urut): `output/eli_w2/kuis7.jpg`
+
+```
+Bible Quiz with Eli! 🤔
+
+Who stopped to help the hurt man?
+A. The priest
+B. The Samaritan
+C. The Levite
+
+Answer A, B or C in the comments 👇 No peeking!
+.
+.
+.
+.
+.
+Answer: B. The Good Samaritan (Luke 10:33-34)
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @diam.dan.percaya — Sat 10 Oct 12:10 WIB → **Sat 10 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-7-siang.jpg`
+
+```
+
+```
+
+## @sahabat.eli — Sat 10 Oct 12:10 WIB → **Sat 10 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/eli_w2-7-sore.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Sat 10 Oct 13:00 WIB → **Sat 10 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari6_1.jpg`, `output/ayat_minggu3/hari6_2.jpg`, `output/ayat_minggu3/hari6_3.jpg`, `output/ayat_minggu3/hari6_4.jpg`, `output/ayat_minggu3/hari6_5.jpg`, `output/ayat_minggu3/hari6_6.jpg`
 
@@ -3944,7 +7514,7 @@ Seri Yunus bagian 13/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Tue 06 Oct 08:10 WIB → **Tue 06 Oct 14:10 NZ**
+## @ayat.tersembunyi — Sat 10 Oct 13:10 WIB → **Sat 10 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-6.jpg`
 
@@ -3952,7 +7522,249 @@ Gambar (urut): `output/stories/ayat-m3-6.jpg`
 
 ```
 
-## @ayat.tersembunyi — Tue 06 Oct 13:00 WIB → **Tue 06 Oct 19:00 NZ**
+## @diam.dan.percaya — Sat 10 Oct 13:30 WIB → **Sat 10 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik7.mp4`
+
+```
+Minggu ini cukup. Pulanglah ke naungan-Nya 🤍
+
+📖 “Orang yang duduk dalam lindungan Yang Mahatinggi dan bermalam dalam naungan Yang Mahakuasa akan berkata kepada TUHAN: “Tempat perlindunganku dan kubu pertahananku, Allahku, yang kupercayai.”” — Mazmur 91:1-2
+
+Selamat berakhir pekan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 10 Oct 13:40 WIB → **Sat 10 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_keren2/kinetik7.mp4`
+
+```
+
+```
+
+## @sahabat.eli — Sat 10 Oct 14:00 WIB → **Sat 10 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari7_malam.mp4`
+
+```
+Goodnight, friends 🌙
+
+What a week! We learned we can be BRAVE because we are LOVED 💙
+
+📖 Matthew 28:20
+“Behold, I am with you always, even to the end of the age.”
+
+Jesus is with you tonight, tomorrow at church, and every single day.
+
+Which verse from this week was your favourite? Tell Eli 👇 See you tomorrow!
+.
+.
+#sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
+```
+
+## @sahabat.eli — Sat 10 Oct 14:10 WIB → **Sat 10 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_w2/hari7_malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 15:00 WIB → **Sat 10 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w2/hari7_sore_1.jpg`
+
+```
+Coba temukan kata yang menyala 👀
+
+Jangan menyerah. Dia belum selesai denganmu.
+
+📖 “Sebab itu kami tidak tawar hati, tetapi meskipun manusia lahiriah kami semakin merosot, namun manusia batiniah kami dibaharui dari sehari ke sehari.” — 2 Korintus 4:16
+
+Kirim ke temanmu yang hampir menyerah 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @kapi.percaya — Sat 10 Oct 15:00 WIB → **Sat 10 Oct 21:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata20.mp4`
+
+```
+rantainya udah dipatahin. nggak usah dipakai lagi ✨
+
+“Jadi apabila Anak itu memerdekakan kamu, kamupun benar-benar merdeka.” — Yohanes 8:36
+
+ketik “BEBAS” kalau kamu percaya
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @diam.dan.percaya — Sat 10 Oct 15:10 WIB → **Sat 10 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w2-7-sore.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Sat 10 Oct 15:10 WIB → **Sat 10 Oct 21:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata20.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 18:00 WIB → **Sun 11 Oct 00:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif5.mp4`
+
+```
+Keadaanmu bisa berubah. Kebaikan-Nya tidak 🤍
+
+📖 Mazmur 100:5
+
+Save dan baca lagi saat minggumu terasa berat 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 10 Oct 18:10 WIB → **Sun 11 Oct 00:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/notif5.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Sat 10 Oct 19:00 WIB → **Sun 11 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata21.mp4`
+
+```
+bukan cuma katanya orang. coba cicipi sendiri kebaikan-Nya 🍊
+
+“Kecaplah dan lihatlah, betapa baiknya TUHAN itu! Berbahagialah orang yang berlindung pada-Nya!” — Mazmur 34:9
+
+besok ibadah, yuk! tag temen yang mau kamu ajak 👇
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @ayat.tersembunyi — Sat 10 Oct 19:00 WIB → **Sun 11 Oct 01:00 NZ**
+
+Gambar (urut): `output/ayat_w2/salah7_1.jpg`, `output/ayat_w2/salah7_2.jpg`, `output/ayat_w2/salah7_3.jpg`
+
+```
+Plot twist: Alkitab tidak pernah menyebut apel 🍎
+
+Kejadian 3 hanya menyebut “buah” dari pohon pengetahuan tentang yang baik dan yang jahat. Gambaran apel muncul belakangan lewat tradisi dan lukisan.
+
+Yang penting bukan jenis buahnya, tapi pilihan untuk tidak taat, dan kabar baiknya, Tuhan tidak berhenti mencari manusia (Kejadian 3:9).
+
+Dari kecil kamu juga membayangkan apel? YA / TIDAK 👇
+.
+.
+#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi
+```
+
+## @kapi.percaya — Sat 10 Oct 19:10 WIB → **Sun 11 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi_w2/kata21.mp4`
+
+```
+
+```
+
+## @ayat.tersembunyi — Sat 10 Oct 19:10 WIB → **Sun 11 Oct 01:10 NZ**
+
+Gambar (urut): `output/stories/ayat_w2-salah-7.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 19:30 WIB → **Sun 11 Oct 01:30 NZ**
+
+Gambar (urut): `output/tenang_keren2/relatable14.jpg`
+
+```
+Iman seperti anak kecil 🐱🤍
+
+“Sesungguhnya barangsiapa tidak menyambut Kerajaan Allah seperti seorang anak kecil, ia tidak akan masuk ke dalamnya.” — Markus 10:15
+
+Ceritain doa paling lucu yang pernah kamu dengar dari anak kecil 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 10 Oct 19:40 WIB → **Sun 11 Oct 01:40 NZ**
+
+Gambar (urut): `output/stories/tenang_keren2-7-malam0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 10 Oct 21:00 WIB → **Sun 11 Oct 03:00 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana5.mp4`
+
+```
+Tidak ada malam yang terlalu gelap bagi-Nya 🌙
+
+📖 “Juga kegelapan tidak menggelapkan bagi-Mu, dan malam menjadi terang seperti siang; kegelapan sama seperti terang.” — Mazmur 139:12
+
+Selamat beristirahat. Save untuk malam yang panjang 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 10 Oct 21:10 WIB → **Sun 11 Oct 03:10 NZ**
+
+Gambar (urut): `output/reels/tenang_w2/suasana5.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Sat 10 Oct 21:30 WIB → **Sun 11 Oct 03:30 NZ**
+
+Gambar (urut): `output/kapi_w2/pilih7.jpg`
+
+```
+PILIH SATU 👇
+
+A = retret di gunung 🏔️
+B = retret di pantai 🏖️
+
+jawab A atau B, dan ceritain retret paling berkesanmu!
+
+“Aku melayangkan mataku ke gunung-gunung; dari manakah akan datang pertolonganku? Pertolonganku ialah dari TUHAN, yang menjadikan langit dan bumi.” — Mazmur 121:1-2
+.
+.
+#kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
+```
+
+## @kapi.percaya — Sat 10 Oct 21:40 WIB → **Sun 11 Oct 03:40 NZ**
+
+Gambar (urut): `output/stories/kapi_w2-7-larut.jpg`
+
+```
+
+```
+
+## @ayat.tersembunyi — Sun 11 Oct 13:00 WIB → **Sun 11 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari7_1.jpg`, `output/ayat_minggu3/hari7_2.jpg`, `output/ayat_minggu3/hari7_3.jpg`, `output/ayat_minggu3/hari7_4.jpg`, `output/ayat_minggu3/hari7_5.jpg`, `output/ayat_minggu3/hari7_6.jpg`
 
@@ -3971,7 +7783,7 @@ Terima kasih sudah mengikuti seri ini 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Tue 06 Oct 13:10 WIB → **Tue 06 Oct 19:10 NZ**
+## @ayat.tersembunyi — Sun 11 Oct 13:10 WIB → **Sun 11 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-7.jpg`
 

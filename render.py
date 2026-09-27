@@ -226,23 +226,37 @@ def eli_text_slide(label, n, total, title, body, number=None, sub=None):
     return img
 
 
-def eli_edukasi(e, idx):
+ELI_LABEL = {
+    "id": {"belajar": "ELI BELAJAR", "geser": "Geser untuk tahu jawabannya  ›", "tips": "TIPS DARI ELI", "tips_pre": "Tips dari Eli: ",
+           "tips_geser": "Geser untuk lihat tipsnya  ›", "tips_tutup": "Coba ya! Eli doakan kamu.", "kuis": "Kuis Alkitab!",
+           "jawab": "jawab di komentar ya!"},
+    "en": {"belajar": "ELI LEARNS", "geser": "Swipe for the answer  ›", "tips": "FROM ELI", "tips_pre": "",
+           "tips_geser": "Swipe to see  ›", "tips_tutup": "Eli is praying for you!", "kuis": "Bible Quiz!",
+           "jawab": "answer in the comments!"},
+}
+
+
+def eli_edukasi(e, idx, folder="eli", lang="id"):
+    lb = ELI_LABEL[lang]
     total = 2 + len(e["jawab"])
-    slides = [eli_image("siang", e["tanya"], "Geser untuk tahu jawabannya  ›", "ELI BELAJAR")]
-    slides += [eli_text_slide("ELI BELAJAR", n, total, t, b) for n, (t, b) in enumerate(e["jawab"], 2)]
+    slides = [eli_image("siang", e["tanya"], lb["geser"], lb["belajar"])]
+    slides += [eli_text_slide(lb["belajar"], n, total, t, b) for n, (t, b) in enumerate(e["jawab"], 2)]
     slides.append(eli_image("pagi", e["tutup"], e["ayat"], e["ref"]))
-    return [save(im, f"eli/edukasi{idx + 1}_{n}.jpg") for n, im in enumerate(slides, 1)]
+    return [save(im, f"{folder}/edukasi{idx + 1}_{n}.jpg") for n, im in enumerate(slides, 1)]
 
 
-def eli_saran(t, idx):
+def eli_saran(t, idx, folder="eli", lang="id"):
+    lb = ELI_LABEL[lang]
     total = 2 + len(t["tips"])
-    slides = [eli_image("pagi", "Tips dari Eli: " + t["judul"].lower() + "!", "Geser untuk lihat tipsnya  ›", "TIPS DARI ELI")]
-    slides += [eli_text_slide("TIPS DARI ELI", n, total, judul, isi, number=n - 1) for n, (judul, isi) in enumerate(t["tips"], 2)]
-    slides.append(eli_image("malam", "Coba ya! Eli doakan kamu.", t["ayat"], t["ref"]))
-    return [save(im, f"eli/saran{idx + 1}_{n}.jpg") for n, im in enumerate(slides, 1)]
+    judul = lb["tips_pre"] + (t["judul"].lower() if lang == "id" else t["judul"])
+    slides = [eli_image("pagi", judul + ("!" if lang == "id" else ""), lb["tips_geser"], lb["tips"])]
+    slides += [eli_text_slide(lb["tips"], n, total, jd, isi, number=n - 1) for n, (jd, isi) in enumerate(t["tips"], 2)]
+    slides.append(eli_image("malam", t.get("tutup", lb["tips_tutup"]), t["ayat"], t["ref"]))
+    return [save(im, f"{folder}/saran{idx + 1}_{n}.jpg") for n, im in enumerate(slides, 1)]
 
 
-def eli_kuis(q, idx):
+def eli_kuis(q, idx, folder="eli", lang="id"):
+    lb = ELI_LABEL[lang]
     img = Image.new("RGBA", (W, H), PAPER)
     img.alpha_composite(svg_layer(
         f'<rect x="90" y="90" width="900" height="600" fill="{PAPER}" stroke="{NAVY}" stroke-width="4"/>'
@@ -250,7 +264,7 @@ def eli_kuis(q, idx):
         f'<ellipse cx="720" cy="250" rx="210" ry="100" fill="#FBE38E"/><path d="M620,330 L560,390 L660,338 Z" fill="#FBE38E"/>'
         f'<g transform="translate(360,658) scale(2.9)">{eli_fig("bingung", "dagu")}</g>'))
     d = ImageDraw.Draw(img)
-    d.text((720, 212), "Kuis Alkitab!", font=font("tangan", 56), fill=NAVY, anchor="ma")
+    d.text((720, 212), lb["kuis"], font=font("tangan", 56), fill=NAVY, anchor="ma")
     d.text((110, 668), "@" + config.AKUN["eli"]["handle"].upper(), font=font("sans_bold", 22), fill=NAVY)
     y = 740
     for ln in wrap(d, q["tanya"], font("tangan", 56), 900):
@@ -263,20 +277,26 @@ def eli_kuis(q, idx):
         d.ellipse((160, top + 14, 228, top + 82), fill=NAVY)
         d.text((194, top + 48), "ABC"[i], font=font("sans_bold", 36), fill=PAPER, anchor="mm")
         d.text((260, top + 48), opt, font=font("serif", 42), fill=NAVY, anchor="lm")
-    d.text((W / 2, H - 70), "jawab di komentar ya!", font=font("tangan", 36), fill=mix(NAVY, PAPER, 0.3), anchor="ma")
-    return [save(img, f"eli/kuis{idx + 1}.jpg")]
+    d.text((W / 2, H - 70), lb["jawab"], font=font("tangan", 36), fill=mix(NAVY, PAPER, 0.3), anchor="ma")
+    return [save(img, f"{folder}/kuis{idx + 1}.jpg")]
 
 
-def render_eli_variasi():
-    """{(hari, slot): (files, caption)} untuk konten/eli_variasi.py."""
-    from konten import eli_variasi as ev
+def render_eli_variasi(modul="eli_variasi", folder="eli", lang="id"):
+    """{(hari, slot): (files, caption)} untuk konten/eli_variasi.py (atau minggu lain dengan skema sama)."""
+    import importlib
+    ev = importlib.import_module(f"konten.{modul}")
     out = {}
     for hari, slots in ev.JADWAL.items():
         for slot, (fmt, idx) in slots.items():
             if fmt == "edukasi":
-                out[(hari, slot)] = (eli_edukasi(ev.EDUKASI[idx], idx), ev.EDUKASI[idx]["caption"] + "\n.\n.\n" + ev.TAGS)
+                out[(hari, slot)] = (eli_edukasi(ev.EDUKASI[idx], idx, folder, lang), ev.EDUKASI[idx]["caption"] + "\n.\n.\n" + ev.TAGS)
             elif fmt == "saran":
-                out[(hari, slot)] = (eli_saran(ev.SARAN[idx], idx), ev.SARAN[idx]["caption"] + "\n.\n.\n" + ev.TAGS)
+                out[(hari, slot)] = (eli_saran(ev.SARAN[idx], idx, folder, lang), ev.SARAN[idx]["caption"] + "\n.\n.\n" + ev.TAGS)
+            elif fmt == "kuis" and lang == "en":
+                q = ev.KUIS[idx]
+                cap = (f"Bible Quiz with Eli! 🤔\n\n{q['tanya']}\nA. {q['pilihan'][0]}\nB. {q['pilihan'][1]}\nC. {q['pilihan'][2]}\n\n"
+                       f"Answer A, B or C in the comments 👇 No peeking!\n.\n.\n.\n.\n.\nAnswer: {q['jawab']}\n.\n.\n{ev.TAGS}")
+                out[(hari, slot)] = (eli_kuis(q, idx, folder, lang), cap)
             elif fmt == "kuis":
                 q = ev.KUIS[idx]
                 cap = (f"Kuis Alkitab dari Eli! 🤔\n\n{q['tanya']}\nA. {q['pilihan'][0]}\nB. {q['pilihan'][1]}\nC. {q['pilihan'][2]}\n\n"
@@ -804,7 +824,7 @@ def render_kapi():
     return [save(kapi_kata_image(p), f"kapi/hari{day}.jpg") for day, p in enumerate(kapi.POSTS, 1)]
 
 
-def kapi_komik(k, idx):
+def kapi_komik(k, idx, folder="kapi"):
     """Komik lucu Kapi: 4 slide, teks di atas, Kapi di bawah, ayat di slide terakhir."""
     fg = "#1A1A1A" if not is_dark(k["bg"]) else "#FFFFFF"
     files = []
@@ -826,11 +846,11 @@ def kapi_komik(k, idx):
                 y += 44
         img.alpha_composite(kapi_sprite({"ekspresi": ekspresi, "properti": prop}), (540 - 310, 1250 - 620))
         kapi_handle(img, k, fg, H - 96)
-        files.append(save(img, f"kapi/komik{idx + 1}_{n}.jpg"))
+        files.append(save(img, f"{folder}/komik{idx + 1}_{n}.jpg"))
     return files
 
 
-def kapi_pilih(p, idx):
+def kapi_pilih(p, idx, folder="kapi"):
     """Post 'pilih satu': dua pilihan A/B, dijawab di komentar."""
     fg = "#FFFFFF" if is_dark(p["bg"]) else "#111111"
     img = Image.new("RGBA", (W, H), p["bg"])
@@ -847,32 +867,33 @@ def kapi_pilih(p, idx):
     d.text((W / 2, 790), "jawab A atau B di komentar", font=font("sans", 36), fill=mix(fg, p["bg"], 0.25), anchor="ma")
     img.alpha_composite(kapi_sprite({"ekspresi": p["ekspresi"], "properti": "none"}, k=1.1), (540 - 310, 1300 - 620))
     kapi_handle(img, p, fg, H - 96)
-    return [save(img, f"kapi/pilih{idx + 1}.jpg")]
+    return [save(img, f"{folder}/pilih{idx + 1}.jpg")]
 
 
-def render_kapi_tambahan():
+def render_kapi_tambahan(modul="kapi_tambahan", folder="kapi"):
     """Semua post tambahan Kapi -> {(hari, slot): (files, caption, reel_rel_atau_None)}."""
-    from konten import kapi_tambahan as kt
+    import importlib
+    kt = importlib.import_module(f"konten.{modul}")
     out = {}
     for hari, slots in kt.JADWAL.items():
         for slot, (fmt, idx) in slots.items():
             if fmt == "kata":
                 p = kt.KATA[idx]
-                out[(hari, slot)] = ([save(kapi_kata_image(p), f"kapi/kata{idx + 1}.jpg")], p["caption"], None)
+                out[(hari, slot)] = ([save(kapi_kata_image(p), f"{folder}/kata{idx + 1}.jpg")], p["caption"], None)
             elif fmt == "reel":
                 p = kt.KATA[idx]
-                image = save(kapi_kata_image(p), f"kapi/kata{idx + 1}.jpg")
-                out[(hari, slot)] = ([image], p["caption"], f"reels/kapi/kata{idx + 1}.mp4")
+                image = save(kapi_kata_image(p), f"{folder}/kata{idx + 1}.jpg")
+                out[(hari, slot)] = ([image], p["caption"], f"reels/{folder}/kata{idx + 1}.mp4")
             elif fmt == "komik":
                 k = kt.KOMIK[idx]
-                out[(hari, slot)] = (kapi_komik(k, idx), k["caption"], None)
+                out[(hari, slot)] = (kapi_komik(k, idx, folder), k["caption"], None)
             elif fmt == "pilih":
                 p = kt.PILIH[idx]
-                out[(hari, slot)] = (kapi_pilih(p, idx), p["caption"], None)
+                out[(hari, slot)] = (kapi_pilih(p, idx, folder), p["caption"], None)
             elif fmt == "wallpaper":
-                folder = OUT / f"kapi/wallpaper_{kapi.WALLPAPER['nama']}"
+                wp = OUT / f"kapi/wallpaper_{kapi.WALLPAPER['nama']}"
                 files = [f"kapi/wallpaper_{kapi.WALLPAPER['nama']}/slide_{n}.jpg" for n in range(1, 6)]
-                cap = (folder / "caption.txt").read_text() if (folder / "caption.txt").exists() else ""
+                cap = (wp / "caption.txt").read_text() if (wp / "caption.txt").exists() else ""
                 out[(hari, slot)] = (files, cap, None)
     return out
 
@@ -1031,8 +1052,10 @@ def build_schedule(eli_files, tenang_files, kapi_files):
         items.append({"id": "eli-7-reels-panjang", "akun": "eli", "waktu": at(6, "18:00"),
                       "files": ["reels/eli/minggu1_rangkuman.mp4"], "caption": CAPTION_MINGGU})
     tenang_weeks = [("tenang", tenang_files, 0)]
+    if (ROOT / "konten/tenang_w2.py").exists():
+        tenang_weeks.append(("tenang_w2", render_tenang("tenang_w2"), 7))
     if config.TENANG_MINGGU2_AKTIF:  # minggu "Bukan milikku": aktifkan setelah ada izin dari Ps Tulus / IFGF
-        tenang_weeks.append(("tenang_minggu2", render_tenang("tenang_minggu2"), 7))
+        tenang_weeks.append(("tenang_minggu2", render_tenang("tenang_minggu2"), 7 * len(tenang_weeks)))
     for modul, week_files, offset in tenang_weeks:
         for day, slot, fmt, idx, rels, caption in week_files:
             if fmt in TENANG_REELS and (fmt != "B" or config.TENANG_NOTIF_REELS):
@@ -1053,7 +1076,7 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                       "files": [f"ayat_singkat/{path.name}"], "caption": caption})
     # carousel diambil berurutan: hari 1 = 1 post, hari 2-7 = 2 per hari (13:00, 19:00), setelahnya 3 per hari
     slots = [(0, jam[-1])] + [(d, t) for d in range(1, 1 + len(fakta)) for t in jam[1:]] \
-            + [(d, t) for d in range(1 + len(fakta), 60) for t in jam]
+            + [(d, jam[1]) for d in range(1 + len(fakta), 90)]  # mulai minggu 2: 08:00 fakta, 13:00 carousel, 19:00 "bukan kata Alkitab"
     ayat_posts = [(week, day, pages, caption) for week, modul in enumerate(akun_baru.MINGGU_AYAT)
                   for day, (pages, caption) in enumerate(akun_baru.render_ayat(modul))]
     for (week, day, pages, caption), (d, t) in zip(ayat_posts, slots):
@@ -1075,10 +1098,49 @@ def build_schedule(eli_files, tenang_files, kapi_files):
         items.append({"id": f"kapi-{day + 1}", "akun": "kapi", "waktu": at(slot_day, config.AKUN["kapi"]["jam"]["malam"]),
                       "files": [reel_or_image(f"reels/kapi/hari{day + 1}.mp4", rel)],
                       "caption": p["caption"].format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi.TAGS})
+    items += minggu_kedua(at)
     if config.STORY_OTOMATIS:
         items = add_stories(items)
     items.sort(key=lambda x: x["waktu"])
     (OUT / "schedule.json").write_text(json.dumps(items, ensure_ascii=False, indent=2))
+    return items
+
+
+def minggu_kedua(at, off=7):
+    """Minggu 2 (Minggu 4 - Sabtu 10 Okt 2026). Tiap bagian hanya dijadwalkan kalau file kontennya ada.
+    Eli minggu ini berbahasa Inggris dengan jam yang cocok untuk NZ/Australia (config.AKUN['eli']['jam_en'])."""
+    import akun_baru
+    import keren
+    items = []
+    if (ROOT / "konten/eli_w2.py").exists():
+        from konten import eli_w2
+        jam = config.AKUN["eli"]["jam_en"]
+        for v in eli_w2.VERSE:
+            rel = save(eli_image(v["slot"], v["bubble"], v["kutipan"], v["ref"]), f"eli_w2/hari{v['hari']}_{v['slot']}.jpg")
+            items.append({"id": f"eli_w2-{v['hari']}-{v['slot']}", "akun": "eli", "waktu": at(off + v["hari"] - 1, jam[v["slot"]]),
+                          "files": [reel_or_image(f"reels/eli_w2/hari{v['hari']}_{v['slot']}.mp4", rel)], "caption": v["caption"]})
+        for (hari, slot), (files, caption) in render_eli_variasi("eli_w2", "eli_w2", "en").items():
+            items.append({"id": f"eli_w2-{hari}-{slot}", "akun": "eli", "waktu": at(off + hari - 1, jam[slot]),
+                          "files": files, "caption": caption})
+    if (ROOT / "konten/tenang_keren2.py").exists():
+        for (hari, slot), (files, caption) in keren.render_keren("tenang_keren2").items():
+            items.append({"id": f"tenang_keren2-{hari}-{slot}", "akun": "tenang", "waktu": at(off + hari - 1, config.AKUN["tenang"]["jam"][slot]),
+                          "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
+    if (ROOT / "konten/kapi_w2.py").exists() and config.AKUN["kapi"].get("aktif", True):
+        from konten import kapi_w2
+        for (hari, slot), (files, caption, reel) in render_kapi_tambahan("kapi_w2", "kapi_w2").items():
+            if reel and (OUT / reel).exists():
+                files = [reel]
+            items.append({"id": f"kapi_w2-{hari}-{slot}", "akun": "kapi", "waktu": at(off + hari - 1, config.AKUN["kapi"]["jam"][slot]),
+                          "files": files, "caption": caption.format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi_w2.TAGS})
+    if (ROOT / "konten/ayat_w2.py").exists():
+        jam = config.AKUN["ayat"]["jam"]
+        for i, (path, caption) in enumerate(akun_baru.fakta_singkat("ayat_w2", "ayat_w2")):
+            items.append({"id": f"ayat_w2-fakta-{i + 1}", "akun": "ayat", "waktu": at(off + i, jam[0]),
+                          "files": [f"ayat_w2/{path.name}"], "caption": caption})
+        for i, (paths, caption) in enumerate(akun_baru.salah_kutip("ayat_w2", "ayat_w2")):
+            items.append({"id": f"ayat_w2-salah-{i + 1}", "akun": "ayat", "waktu": at(off + i, jam[2]),
+                          "files": [f"ayat_w2/{p.name}" for p in paths], "caption": caption})
     return items
 
 

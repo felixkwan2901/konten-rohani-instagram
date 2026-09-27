@@ -6,6 +6,7 @@ animasi karakter. Semua gambar/foto dibuat sendiri (tanpa foto stok).
   python3 keren.py kinetik 1  # Reels tipografi nomor 1
   python3 keren.py jalan 1 2  # Reels animasi karakter nomor 1 dan 2
 """
+import importlib
 import math
 import subprocess
 import sys
@@ -157,9 +158,9 @@ def dump_slide(kind, text, n, total, seed):
     return img
 
 
-def render_dump(i):
-    p = tk.DUMP[i]
-    files = [save(dump_slide(kind, text, n, len(p["slides"]), seed=i * 10 + n), f"{MOD}/dump{i + 1}_{n}.jpg")
+def render_dump(i, m=tk, mod=MOD):
+    p = m.DUMP[i]
+    files = [save(dump_slide(kind, text, n, len(p["slides"]), seed=i * 10 + n), f"{mod}/dump{i + 1}_{n}.jpg")
              for n, (kind, text) in enumerate(p["slides"], 1)]
     return files, p["caption"]
 
@@ -228,12 +229,12 @@ def dulu_penutup(ayat, ref, n, total):
     return img
 
 
-def render_dulu(i):
-    p = tk.DULU[i]
+def render_dulu(i, m=tk, mod=MOD):
+    p = m.DULU[i]
     total = len(p["pasangan"]) + 2
     slides = [dulu_cover(p["judul"], total)] + [dulu_slide(a, b, n, total) for n, (a, b) in enumerate(p["pasangan"], 2)] \
         + [dulu_penutup(p["ayat"], p["ref"], total, total)]
-    return [save(s, f"{MOD}/dulu{i + 1}_{n}.jpg") for n, s in enumerate(slides, 1)], p["caption"]
+    return [save(s, f"{mod}/dulu{i + 1}_{n}.jpg") for n, s in enumerate(slides, 1)], p["caption"]
 
 
 # ---------- suara latar lembut untuk Reels baru ----------
@@ -247,7 +248,7 @@ def add_pad(silent, out, seconds, root=220.0):
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(silent), "-f", "lavfi", "-i",
                     f"aevalsrc='({tone})*{env}':s=44100:d={seconds}", "-c:v", "libx264", "-preset", "slow", "-crf", "24", "-maxrate", "4M",
                     "-bufsize", "8M", "-pix_fmt", "yuv420p", "-movflags", "+faststart", "-c:a", "aac", "-b:a", "128k",
-                    "-shortest", str(out)]  # dikompres: butiran film bikin file raksasa (jsDelivr maks 20 MB), check=True)
+                    "-shortest", str(out)], check=True)  # dikompres: butiran film bikin file raksasa (jsDelivr maks 20 MB)
     silent.unlink()
 
 
@@ -314,9 +315,9 @@ def kinetik_bg(seed, w, h):
     return Image.fromarray(np.clip(base, 0, 255).astype(np.uint8))
 
 
-def kinetik_reel(i):
-    p = tk.KINETIK[i]
-    rel = f"reels/{MOD}/kinetik{i + 1}.mp4"
+def kinetik_reel(i, mod=MOD):
+    p = importlib.import_module(f"konten.{mod}").KINETIK[i]
+    rel = f"reels/{mod}/kinetik{i + 1}.mp4"
     per_word, hold, gap = 0.34, 1.3, 0.35
     phrases, t = [], 0.6
     for fr in p["frasa"]:
@@ -596,20 +597,47 @@ def jalan_reel(i, seconds=13):
     return finish(ff, silent, out, seconds, (174.6, 196.0, 164.8, 220.0, 185.0, 207.6)[i % 6], rel)
 
 
-def render_keren():
-    """Carousel (F, V) -> {(hari, slot): (files, caption)}; Reels (K, J) dipakai kalau file-nya sudah ada."""
-    for old in (OUT / MOD).glob("*.jpg"):
+def relatable(p, i, mod):
+    """Teks relatable gaya @jesusarmyid: latar putih, teks hitam besar rata kiri, handle kanan atas."""
+    img = Image.new("RGB", (W, H), "#FFFFFF")
+    d = ImageDraw.Draw(img)
+    d.text((W - 70, 90), HANDLE.upper(), font=font("sans_bold", 40), fill="#111111", anchor="ra")
+    size = 84
+    while True:
+        f = font("sans", size)
+        rows = []
+        for para in p["teks"].split("\n"):
+            rows += wrap(d, para, f, W - 150) + [""]
+        rows = rows[:-1]
+        if len(rows) * size * 1.18 < H * 0.62 or size <= 56:
+            break
+        size -= 4
+    y = H * 0.52 - len(rows) * size * 1.18 / 2
+    if p.get("atas"):
+        d.text((75, y - 80), p["atas"], font=font("sans_medium", 34), fill="#8A8A8A")
+    for r in rows:
+        d.text((75, y), r, font=f, fill="#111111")
+        y += size * 1.18 if r else size * 0.6
+    return [save(img, f"{mod}/relatable{i + 1}.jpg")]
+
+
+def render_keren(mod=MOD):
+    """Carousel (F, V, T) -> {(hari, slot): (files, caption)}; Reels (K, J) dipakai kalau file-nya sudah ada."""
+    m = importlib.import_module(f"konten.{mod}")
+    for old in (OUT / mod).glob("*.jpg"):
         old.unlink()
     out = {}
-    for hari, slots in tk.JADWAL.items():
+    for hari, slots in m.JADWAL.items():
         for slot, (fmt, idx) in slots.items():
             if fmt == "F":
-                out[(hari, slot)] = render_dump(idx)
+                out[(hari, slot)] = render_dump(idx, m, mod)
             elif fmt == "V":
-                out[(hari, slot)] = render_dulu(idx)
+                out[(hari, slot)] = render_dulu(idx, m, mod)
+            elif fmt == "T":
+                out[(hari, slot)] = (relatable(m.RELATABLE[idx], idx, mod), m.RELATABLE[idx]["caption"])
             else:
-                rel = f"reels/{MOD}/{'kinetik' if fmt == 'K' else 'jalan'}{idx + 1}.mp4"
-                pool = tk.KINETIK if fmt == "K" else tk.JALAN
+                rel = f"reels/{mod}/{'kinetik' if fmt == 'K' else 'jalan'}{idx + 1}.mp4"
+                pool = m.KINETIK if fmt == "K" else m.JALAN
                 if (OUT / rel).exists():
                     out[(hari, slot)] = ([rel], pool[idx]["caption"])
     return out
@@ -617,13 +645,17 @@ def render_keren():
 
 if __name__ == "__main__":
     what = sys.argv[1] if len(sys.argv) > 1 else "semua"
+    mod = MOD
+    if what == "w2":  # python3 keren.py w2 [kinetik] -> minggu 2 (konten/tenang_keren2.py)
+        mod, what = "tenang_keren2", (sys.argv[2] if len(sys.argv) > 2 else "semua")
+        sys.argv = sys.argv[1:]
     nums = [int(a) - 1 for a in sys.argv[2:]]
     if what in ("semua", "foto"):
-        for k, (files, _) in render_keren().items():
+        for k, (files, _) in render_keren(mod).items():
             print(k, len(files))
     if what in ("semua", "kinetik"):
-        for i in nums or range(len(tk.KINETIK)):
-            print(kinetik_reel(i))
-    if what in ("semua", "jalan"):
+        for i in nums or range(len(importlib.import_module(f"konten.{mod}").KINETIK)):
+            print(kinetik_reel(i, mod))
+    if what in ("semua", "jalan") and mod == MOD:
         for i in nums or range(len(tk.JALAN)):
             print(jalan_reel(i))
