@@ -92,10 +92,10 @@ def main():
     if args.cek:
         ok = True
         for akun, info in config.AKUN.items():
-            if not info.get("aktif", True):
-                continue
             key = akun.upper()
             token, user_id = os.environ.get(f"IG_TOKEN_{key}"), os.environ.get(f"IG_USER_ID_{key}")
+            if not info.get("aktif", True) and not token:
+                continue  # akun nonaktif tanpa token: lewati
             if not (token and user_id):
                 print(f"❌ {akun}: IG_TOKEN_{key} / IG_USER_ID_{key} belum diisi")
                 ok = False
