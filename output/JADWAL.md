@@ -135,9 +135,33 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
+## @kapi.percaya — Sun 27 Sep 19:00 WIB → **Mon 28 Sep 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi/hari1.mp4`
+
+```
+capek ya, bro? 🫠
+istirahat dulu. Yesus nggak ke mana-mana.
+
+“Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu.” — Matius 11:28
+
+tag temen yang lagi capek 👇
+.
+.
+#yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
+```
+
 ## @ayat.tersembunyi — Sun 27 Sep 19:10 WIB → **Mon 28 Sep 01:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m1-1.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Sun 27 Sep 19:10 WIB → **Mon 28 Sep 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi/hari1.mp4`
 
 ```
 
@@ -518,9 +542,32 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
+## @kapi.percaya — Mon 28 Sep 19:00 WIB → **Tue 29 Sep 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi/hari2.mp4`
+
+```
+hidup boleh naik turun, kasih setia-Nya flat terus — flat di level maksimal 📈
+
+“Tak berkesudahan kasih setia TUHAN... selalu baru tiap pagi.” — Ratapan 3:22-23
+
+save buat hari Senin berikutnya 🔖
+.
+.
+#yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
+```
+
 ## @ayat.tersembunyi — Mon 28 Sep 19:10 WIB → **Tue 29 Sep 01:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m1-4.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Mon 28 Sep 19:10 WIB → **Tue 29 Sep 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi/hari2.mp4`
 
 ```
 
@@ -894,9 +941,33 @@ Berikutnya: seri Yunus, 14 bagian. Follow supaya tidak ketinggalan 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
+## @kapi.percaya — Tue 29 Sep 19:00 WIB → **Wed 30 Sep 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi/hari3.mp4`
+
+```
+kamu bisa bohong ke semua orang. tapi nggak ke Dia 🤍
+Dan kabar baiknya: Dia tetap sayang.
+
+“TUHAN, Engkau menyelidiki dan mengenal aku.” — Mazmur 139:1
+
+ketik 🤍 kalau ini kamu banget
+.
+.
+#yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
+```
+
 ## @ayat.tersembunyi — Tue 29 Sep 19:10 WIB → **Wed 30 Sep 01:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m1-7.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Tue 29 Sep 19:10 WIB → **Wed 30 Sep 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi/hari3.mp4`
 
 ```
 
@@ -1267,9 +1338,32 @@ Seri Yunus bagian 3/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
+## @kapi.percaya — Wed 30 Sep 19:00 WIB → **Thu 01 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi/hari4.mp4`
+
+```
+sebelum overthinking, coba over-praying dulu 🙏
+
+“Janganlah hendaknya kamu kuatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur.” — Filipi 4:6
+
+kirim ke bestie yang suka panik duluan 👇
+.
+.
+#yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
+```
+
 ## @ayat.tersembunyi — Wed 30 Sep 19:10 WIB → **Thu 01 Oct 01:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m2-3.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Wed 30 Sep 19:10 WIB → **Thu 01 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi/hari4.mp4`
 
 ```
 
@@ -1643,9 +1737,32 @@ Seri Yunus bagian 6/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
+## @kapi.percaya — Thu 01 Oct 19:00 WIB → **Fri 02 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi/hari5.mp4`
+
+```
+bukan hasil usahamu. itu hadiah 🎁
+
+“Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah.” — Efesus 2:8
+
+ketik “AMIN” kalau setuju 🙌
+.
+.
+#yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
+```
+
 ## @ayat.tersembunyi — Thu 01 Oct 19:10 WIB → **Fri 02 Oct 01:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m2-6.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Thu 01 Oct 19:10 WIB → **Fri 02 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi/hari5.mp4`
 
 ```
 
@@ -2021,9 +2138,32 @@ Seri Yunus bagian 9/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
+## @kapi.percaya — Fri 02 Oct 19:00 WIB → **Sat 03 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi/hari6.mp4`
+
+```
+nggak harus lihat semuanya dulu baru melangkah 🚶
+
+“Sebab hidup kami ini adalah hidup karena percaya, bukan karena melihat.” — 2 Korintus 5:7
+
+save & share 🔖
+.
+.
+#yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
+```
+
 ## @ayat.tersembunyi — Fri 02 Oct 19:10 WIB → **Sat 03 Oct 01:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-2.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Fri 02 Oct 19:10 WIB → **Sat 03 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi/hari6.mp4`
 
 ```
 
@@ -2418,9 +2558,32 @@ Seri Yunus bagian 12/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
+## @kapi.percaya — Sat 03 Oct 19:00 WIB → **Sun 04 Oct 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi/hari7.mp4`
+
+```
+selamat hari Minggu! sebutin satu hal yang kamu syukuri minggu ini 👇🧡
+
+“Mengucap syukurlah dalam segala hal, sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.” — 1 Tesalonika 5:18
+
+follow @kapi.percaya biar tiap hari diingetin 🧡
+.
+.
+#yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
+```
+
 ## @ayat.tersembunyi — Sat 03 Oct 19:10 WIB → **Sun 04 Oct 01:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-5.jpg`
+
+```
+
+```
+
+## @kapi.percaya — Sat 03 Oct 19:10 WIB → **Sun 04 Oct 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi/hari7.mp4`
 
 ```
 

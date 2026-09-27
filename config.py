@@ -20,7 +20,7 @@ AKUN = {
     "kapi": {
         "handle": "kapi.percaya",      # maskot Kapi (aktif lagi 28 Sep 2026); 5 post/hari menyusul setelah konten dibuat
         "jam": "19:00",
-        "aktif": False,  # nyalakan lagi setelah IG_TOKEN_KAPI diperbaiki
+        "aktif": True,
     }
 }
 
