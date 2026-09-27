@@ -73,7 +73,7 @@ POSTS = [
         "ref": "Mazmur 46:11",
         "refleksi": ["Hari ini, berhenti sebentar.", "", "Biarkan Dia yang", "memegang kendali."],
         "cta": ["Follow @{handle}", "untuk renungan setiap hari."],
-        "caption": "Diamlah. 🤍\n\nDi hari Minggu ini, ambil waktu untuk berhenti. Tidak perlu memikirkan semuanya — Dia tetap Allah.\n\n📖 Mazmur 46:11\n\nSelamat hari Minggu. Follow @{handle} untuk renungan setiap hari.",
+        "caption": "Diamlah. 🤍\n\nDi akhir pekan ini, ambil waktu untuk berhenti. Tidak perlu memikirkan semuanya — Dia tetap Allah.\n\n📖 Mazmur 46:11\n\nSelamat berakhir pekan. Follow @{handle} untuk renungan setiap hari.",
     },
 ]
 

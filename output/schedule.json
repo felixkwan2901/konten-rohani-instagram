@@ -2,7 +2,7 @@
   {
     "id": "eli-1-pagi",
     "akun": "eli",
-    "waktu": "2026-09-28T06:00:00+07:00",
+    "waktu": "2026-09-27T06:00:00+07:00",
     "files": [
       "reels/eli/hari1_pagi.mp4"
     ],
@@ -11,7 +11,7 @@
   {
     "id": "tenang-1-pagi",
     "akun": "tenang",
-    "waktu": "2026-09-28T07:00:00+07:00",
+    "waktu": "2026-09-27T07:00:00+07:00",
     "files": [
       "tenang/hari1_pagi_1.jpg"
     ],
@@ -20,7 +20,7 @@
   {
     "id": "eli-1-siang",
     "akun": "eli",
-    "waktu": "2026-09-28T12:00:00+07:00",
+    "waktu": "2026-09-27T12:00:00+07:00",
     "files": [
       "reels/eli/hari1_siang.mp4"
     ],
@@ -29,7 +29,7 @@
   {
     "id": "tenang-1-siang",
     "akun": "tenang",
-    "waktu": "2026-09-28T12:00:00+07:00",
+    "waktu": "2026-09-27T12:00:00+07:00",
     "files": [
       "tenang/hari1_siang_1.jpg",
       "tenang/hari1_siang_2.jpg",
@@ -42,7 +42,7 @@
   {
     "id": "ayat-m1-1",
     "akun": "ayat",
-    "waktu": "2026-09-28T19:00:00+07:00",
+    "waktu": "2026-09-27T19:00:00+07:00",
     "files": [
       "ayat/hari1_1.jpg",
       "ayat/hari1_2.jpg",
@@ -56,7 +56,7 @@
   {
     "id": "tenang-1-malam",
     "akun": "tenang",
-    "waktu": "2026-09-28T20:00:00+07:00",
+    "waktu": "2026-09-27T20:00:00+07:00",
     "files": [
       "reels/tenang/notif1.mp4"
     ],
@@ -65,7 +65,7 @@
   {
     "id": "eli-1-malam",
     "akun": "eli",
-    "waktu": "2026-09-28T21:00:00+07:00",
+    "waktu": "2026-09-27T21:00:00+07:00",
     "files": [
       "reels/eli/hari1_malam.mp4"
     ],
@@ -74,7 +74,7 @@
   {
     "id": "eli-2-pagi",
     "akun": "eli",
-    "waktu": "2026-09-29T06:00:00+07:00",
+    "waktu": "2026-09-28T06:00:00+07:00",
     "files": [
       "reels/eli/hari2_pagi.mp4"
     ],
@@ -83,7 +83,7 @@
   {
     "id": "tenang-2-pagi",
     "akun": "tenang",
-    "waktu": "2026-09-29T07:00:00+07:00",
+    "waktu": "2026-09-28T07:00:00+07:00",
     "files": [
       "tenang/hari2_pagi_1.jpg"
     ],
@@ -92,7 +92,7 @@
   {
     "id": "eli-2-siang",
     "akun": "eli",
-    "waktu": "2026-09-29T12:00:00+07:00",
+    "waktu": "2026-09-28T12:00:00+07:00",
     "files": [
       "reels/eli/hari2_siang.mp4"
     ],
@@ -101,7 +101,7 @@
   {
     "id": "tenang-2-siang",
     "akun": "tenang",
-    "waktu": "2026-09-29T12:00:00+07:00",
+    "waktu": "2026-09-28T12:00:00+07:00",
     "files": [
       "tenang/hari2_siang_1.jpg",
       "tenang/hari2_siang_2.jpg",
@@ -114,7 +114,7 @@
   {
     "id": "ayat-m1-2",
     "akun": "ayat",
-    "waktu": "2026-09-29T19:00:00+07:00",
+    "waktu": "2026-09-28T19:00:00+07:00",
     "files": [
       "ayat/hari2_1.jpg",
       "ayat/hari2_2.jpg",
@@ -128,7 +128,7 @@
   {
     "id": "tenang-2-malam",
     "akun": "tenang",
-    "waktu": "2026-09-29T20:00:00+07:00",
+    "waktu": "2026-09-28T20:00:00+07:00",
     "files": [
       "reels/tenang/suasana1.mp4"
     ],
@@ -137,7 +137,7 @@
   {
     "id": "eli-2-malam",
     "akun": "eli",
-    "waktu": "2026-09-29T21:00:00+07:00",
+    "waktu": "2026-09-28T21:00:00+07:00",
     "files": [
       "reels/eli/hari2_malam.mp4"
     ],
@@ -146,7 +146,7 @@
   {
     "id": "eli-3-pagi",
     "akun": "eli",
-    "waktu": "2026-09-30T06:00:00+07:00",
+    "waktu": "2026-09-29T06:00:00+07:00",
     "files": [
       "reels/eli/hari3_pagi.mp4"
     ],
@@ -155,7 +155,7 @@
   {
     "id": "tenang-3-pagi",
     "akun": "tenang",
-    "waktu": "2026-09-30T07:00:00+07:00",
+    "waktu": "2026-09-29T07:00:00+07:00",
     "files": [
       "tenang/hari3_pagi_1.jpg"
     ],
@@ -164,7 +164,7 @@
   {
     "id": "eli-3-siang",
     "akun": "eli",
-    "waktu": "2026-09-30T12:00:00+07:00",
+    "waktu": "2026-09-29T12:00:00+07:00",
     "files": [
       "reels/eli/hari3_siang.mp4"
     ],
@@ -173,7 +173,7 @@
   {
     "id": "tenang-3-siang",
     "akun": "tenang",
-    "waktu": "2026-09-30T12:00:00+07:00",
+    "waktu": "2026-09-29T12:00:00+07:00",
     "files": [
       "tenang/hari3_siang_1.jpg",
       "tenang/hari3_siang_2.jpg",
@@ -186,7 +186,7 @@
   {
     "id": "ayat-m1-3",
     "akun": "ayat",
-    "waktu": "2026-09-30T19:00:00+07:00",
+    "waktu": "2026-09-29T19:00:00+07:00",
     "files": [
       "ayat/hari3_1.jpg",
       "ayat/hari3_2.jpg",
@@ -200,7 +200,7 @@
   {
     "id": "tenang-3-malam",
     "akun": "tenang",
-    "waktu": "2026-09-30T20:00:00+07:00",
+    "waktu": "2026-09-29T20:00:00+07:00",
     "files": [
       "reels/tenang/dinding1.mp4"
     ],
@@ -209,7 +209,7 @@
   {
     "id": "eli-3-malam",
     "akun": "eli",
-    "waktu": "2026-09-30T21:00:00+07:00",
+    "waktu": "2026-09-29T21:00:00+07:00",
     "files": [
       "reels/eli/hari3_malam.mp4"
     ],
@@ -218,7 +218,7 @@
   {
     "id": "eli-4-pagi",
     "akun": "eli",
-    "waktu": "2026-10-01T06:00:00+07:00",
+    "waktu": "2026-09-30T06:00:00+07:00",
     "files": [
       "reels/eli/hari4_pagi.mp4"
     ],
@@ -227,7 +227,7 @@
   {
     "id": "tenang-4-pagi",
     "akun": "tenang",
-    "waktu": "2026-10-01T07:00:00+07:00",
+    "waktu": "2026-09-30T07:00:00+07:00",
     "files": [
       "tenang/hari4_pagi_1.jpg"
     ],
@@ -236,7 +236,7 @@
   {
     "id": "eli-4-siang",
     "akun": "eli",
-    "waktu": "2026-10-01T12:00:00+07:00",
+    "waktu": "2026-09-30T12:00:00+07:00",
     "files": [
       "reels/eli/hari4_siang.mp4"
     ],
@@ -245,7 +245,7 @@
   {
     "id": "tenang-4-siang",
     "akun": "tenang",
-    "waktu": "2026-10-01T12:00:00+07:00",
+    "waktu": "2026-09-30T12:00:00+07:00",
     "files": [
       "tenang/hari4_siang_1.jpg",
       "tenang/hari4_siang_2.jpg",
@@ -258,7 +258,7 @@
   {
     "id": "ayat-m1-4",
     "akun": "ayat",
-    "waktu": "2026-10-01T19:00:00+07:00",
+    "waktu": "2026-09-30T19:00:00+07:00",
     "files": [
       "ayat/hari4_1.jpg",
       "ayat/hari4_2.jpg",
@@ -272,7 +272,7 @@
   {
     "id": "tenang-4-malam",
     "akun": "tenang",
-    "waktu": "2026-10-01T20:00:00+07:00",
+    "waktu": "2026-09-30T20:00:00+07:00",
     "files": [
       "reels/tenang/notif2.mp4"
     ],
@@ -281,7 +281,7 @@
   {
     "id": "eli-4-malam",
     "akun": "eli",
-    "waktu": "2026-10-01T21:00:00+07:00",
+    "waktu": "2026-09-30T21:00:00+07:00",
     "files": [
       "reels/eli/hari4_malam.mp4"
     ],
@@ -290,16 +290,16 @@
   {
     "id": "eli-5-pagi",
     "akun": "eli",
-    "waktu": "2026-10-02T06:00:00+07:00",
+    "waktu": "2026-10-01T06:00:00+07:00",
     "files": [
       "reels/eli/hari5_pagi.mp4"
     ],
-    "caption": "Good morning! ☀️\n\nHappy Friday from Eli 📖\n\n✨ Hebrews 11:1\n\"Now faith is confidence in what we hope for and assurance about what we do not see.\"\n\nToday God wants to remind you:\nFaith isn't pretending everything is fine. Faith is believing that the One who sees everything is working, even when you can't see it yet.\n\nKeep believing. The story isn't over 🌟\n\n—\nShare this with your Friday crew 💛\n.\n.\n#morningverse #hebrews #fridayfaith #christianmorning\n#dailydevotional #eli #sahabateli"
+    "caption": "Good morning! ☀️\n\nHappy Thursday from Eli 📖\n\n✨ Hebrews 11:1\n\"Now faith is confidence in what we hope for and assurance about what we do not see.\"\n\nToday God wants to remind you:\nFaith isn't pretending everything is fine. Faith is believing that the One who sees everything is working, even when you can't see it yet.\n\nKeep believing. The story isn't over 🌟\n\n—\nShare this with your crew 💛\n.\n.\n#morningverse #hebrews #thursdayfaith #christianmorning\n#dailydevotional #eli #sahabateli"
   },
   {
     "id": "tenang-5-pagi",
     "akun": "tenang",
-    "waktu": "2026-10-02T07:00:00+07:00",
+    "waktu": "2026-10-01T07:00:00+07:00",
     "files": [
       "tenang/hari5_pagi_1.jpg"
     ],
@@ -308,7 +308,7 @@
   {
     "id": "eli-5-siang",
     "akun": "eli",
-    "waktu": "2026-10-02T12:00:00+07:00",
+    "waktu": "2026-10-01T12:00:00+07:00",
     "files": [
       "reels/eli/hari5_siang.mp4"
     ],
@@ -317,7 +317,7 @@
   {
     "id": "tenang-5-siang",
     "akun": "tenang",
-    "waktu": "2026-10-02T12:00:00+07:00",
+    "waktu": "2026-10-01T12:00:00+07:00",
     "files": [
       "tenang/hari5_siang_1.jpg",
       "tenang/hari5_siang_2.jpg",
@@ -330,7 +330,7 @@
   {
     "id": "ayat-m1-5",
     "akun": "ayat",
-    "waktu": "2026-10-02T19:00:00+07:00",
+    "waktu": "2026-10-01T19:00:00+07:00",
     "files": [
       "ayat/hari5_1.jpg",
       "ayat/hari5_2.jpg",
@@ -344,7 +344,7 @@
   {
     "id": "tenang-5-malam",
     "akun": "tenang",
-    "waktu": "2026-10-02T20:00:00+07:00",
+    "waktu": "2026-10-01T20:00:00+07:00",
     "files": [
       "reels/tenang/suasana2.mp4"
     ],
@@ -353,25 +353,25 @@
   {
     "id": "eli-5-malam",
     "akun": "eli",
-    "waktu": "2026-10-02T21:00:00+07:00",
+    "waktu": "2026-10-01T21:00:00+07:00",
     "files": [
       "reels/eli/hari5_malam.mp4"
     ],
-    "caption": "Jumat malam yang baik 🌙\n\nSatu minggu sudah terlewati ✨\n\n📖 Mazmur 4:9\n\"Dengan tenteram aku mau membaringkan diri, lalu segera tidur, sebab hanya Engkaulah, ya TUHAN, yang membiarkan aku diam dengan aman.\"\n\nTuhan,\nSatu minggu penuh sudah kami jalani — dengan semua kelelahannya, kegagalannya, dan juga berkat-berkatnya yang mungkin belum kami sadari. Malam ini kami baringkan diri ini di hadapan-Mu. Kami aman dalam tangan-Mu. Terima kasih untuk minggu ini.\nAmin. 🙏\n\nSelamat beristirahat dengan tenang 💙\n\n—\n🔖 Save untuk malam ini\n.\n.\n#doamalam #jumat #akhirminggu #renunganmalam\n#amandidalamTuhan #eli #sahabateli"
+    "caption": "Kamis malam yang baik 🌙\n\nMinggu ini hampir selesai ✨\n\n📖 Mazmur 4:9\n\"Dengan tenteram aku mau membaringkan diri, lalu segera tidur, sebab hanya Engkaulah, ya TUHAN, yang membiarkan aku diam dengan aman.\"\n\nTuhan,\nSatu minggu penuh sudah kami jalani — dengan semua kelelahannya, kegagalannya, dan juga berkat-berkatnya yang mungkin belum kami sadari. Malam ini kami baringkan diri ini di hadapan-Mu. Kami aman dalam tangan-Mu. Terima kasih untuk minggu ini.\nAmin. 🙏\n\nSelamat beristirahat dengan tenang 💙\n\n—\n🔖 Save untuk malam ini\n.\n.\n#doamalam #kamis #renunganmalam\n#amandidalamTuhan #eli #sahabateli"
   },
   {
     "id": "eli-6-pagi",
     "akun": "eli",
-    "waktu": "2026-10-03T06:00:00+07:00",
+    "waktu": "2026-10-02T06:00:00+07:00",
     "files": [
       "reels/eli/hari6_pagi.mp4"
     ],
-    "caption": "Selamat Sabtu! ☀️\n\nEli semangat karena kamu juga harus semangat hari ini! 📖\n\n✨ Yosua 1:9\n\"Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi.\"\n\nHari ini Tuhan mau ingatkan kamu:\nKemanapun kamu pergi hari ini — ke tempat kerja, ke mall, ke keluarga — Tuhan ikut. Kamu tidak pernah sendirian 💛\n\nNikmati Sabtu-mu ya! 🌟\n\n—\nBagikan ke sahabatmu 💛\n.\n.\n#selamatSabtu #renunganpagi #firmanTuhan #Tuhanmenyertai\n#weekend #eli #sahabateli"
+    "caption": "Selamat hari Jumat! ☀️\n\nEli semangat karena kamu juga harus semangat hari ini! 📖\n\n✨ Yosua 1:9\n\"Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi.\"\n\nHari ini Tuhan mau ingatkan kamu:\nKemanapun kamu pergi hari ini — ke tempat kerja, ke mall, ke keluarga — Tuhan ikut. Kamu tidak pernah sendirian 💛\n\nNikmati Jumat-mu ya! 🌟\n\n—\nBagikan ke sahabatmu 💛\n.\n.\n#selamatJumat #renunganpagi #firmanTuhan #Tuhanmenyertai\n#jumatberkah #eli #sahabateli"
   },
   {
     "id": "tenang-6-pagi",
     "akun": "tenang",
-    "waktu": "2026-10-03T07:00:00+07:00",
+    "waktu": "2026-10-02T07:00:00+07:00",
     "files": [
       "tenang/hari6_pagi_1.jpg"
     ],
@@ -380,16 +380,16 @@
   {
     "id": "eli-6-siang",
     "akun": "eli",
-    "waktu": "2026-10-03T12:00:00+07:00",
+    "waktu": "2026-10-02T12:00:00+07:00",
     "files": [
       "reels/eli/hari6_siang.mp4"
     ],
-    "caption": "Saturday check-in with Eli 🌤️\n\nHow's your weekend going?\n\n📖 Matthew 11:28\n\"Come to me, all you who are weary and burdened, and I will give you rest.\"\n\nEli wants to ask:\nWhat do you most need rest from right now — physically, emotionally, or spiritually?\n\nTake a moment. Answer honestly 👇\nYou deserve rest.\nEli reads every comment 💙\n\n—\n.\n.\n#saturdayverse #matthewbible #christianweekend #rest\n#godgivesrest #eli #sahabateli"
+    "caption": "Friday check-in with Eli 🌤️\n\nAlmost the weekend. How are you, really?\n\n📖 Matthew 11:28\n\"Come to me, all you who are weary and burdened, and I will give you rest.\"\n\nEli wants to ask:\nWhat do you most need rest from right now — physically, emotionally, or spiritually?\n\nTake a moment. Answer honestly 👇\nYou deserve rest.\nEli reads every comment 💙\n\n—\n.\n.\n#fridayverse #matthewbible #christianlife #rest\n#godgivesrest #eli #sahabateli"
   },
   {
     "id": "tenang-6-siang",
     "akun": "tenang",
-    "waktu": "2026-10-03T12:00:00+07:00",
+    "waktu": "2026-10-02T12:00:00+07:00",
     "files": [
       "tenang/hari6_siang_1.jpg",
       "tenang/hari6_siang_2.jpg",
@@ -402,7 +402,7 @@
   {
     "id": "ayat-m1-6",
     "akun": "ayat",
-    "waktu": "2026-10-03T19:00:00+07:00",
+    "waktu": "2026-10-02T19:00:00+07:00",
     "files": [
       "ayat/hari6_1.jpg",
       "ayat/hari6_2.jpg",
@@ -416,7 +416,7 @@
   {
     "id": "tenang-6-malam",
     "akun": "tenang",
-    "waktu": "2026-10-03T20:00:00+07:00",
+    "waktu": "2026-10-02T20:00:00+07:00",
     "files": [
       "reels/tenang/dinding2.mp4"
     ],
@@ -425,25 +425,25 @@
   {
     "id": "eli-6-malam",
     "akun": "eli",
-    "waktu": "2026-10-03T21:00:00+07:00",
+    "waktu": "2026-10-02T21:00:00+07:00",
     "files": [
       "reels/eli/hari6_malam.mp4"
     ],
-    "caption": "Selamat malam, selamat akhir pekan 🌙\n\nIni berkat khusus dari Eli buat kamu ✨\n\n📖 Bilangan 6:24-26\n\"TUHAN memberkati engkau dan melindungi engkau; TUHAN menyinari engkau dengan wajah-Nya dan memberi engkau kasih karunia; TUHAN menghadapkan wajah-Nya kepadamu dan memberi engkau damai sejahtera.\"\n\nTuhan yang memberkati,\nBiarlah berkat ini bukan hanya kata-kata, tapi nyata dalam hidup setiap orang yang membaca ini. Lindungi mereka malam ini. Sinari mereka dengan kasih karunia-Mu. Dan pagi hari esok, biarlah mereka merasakan damai-Mu.\nAmin. 🙏\n\nKamu dikasihi dan diberkati 💙\n\n—\n🔖 Kirimkan ini ke orang yang kamu kasihi\n.\n.\n#doamalam #berkat #sabtu #renunganmalam\n#diberkati #eli #sahabateli"
+    "caption": "Selamat malam, selamat akhir pekan 🌙\n\nIni berkat khusus dari Eli buat kamu ✨\n\n📖 Bilangan 6:24-26\n\"TUHAN memberkati engkau dan melindungi engkau; TUHAN menyinari engkau dengan wajah-Nya dan memberi engkau kasih karunia; TUHAN menghadapkan wajah-Nya kepadamu dan memberi engkau damai sejahtera.\"\n\nTuhan yang memberkati,\nBiarlah berkat ini bukan hanya kata-kata, tapi nyata dalam hidup setiap orang yang membaca ini. Lindungi mereka malam ini. Sinari mereka dengan kasih karunia-Mu. Dan pagi hari esok, biarlah mereka merasakan damai-Mu.\nAmin. 🙏\n\nKamu dikasihi dan diberkati 💙\n\n—\n🔖 Kirimkan ini ke orang yang kamu kasihi\n.\n.\n#doamalam #berkat #jumat #renunganmalam\n#diberkati #eli #sahabateli"
   },
   {
     "id": "eli-7-pagi",
     "akun": "eli",
-    "waktu": "2026-10-04T06:00:00+07:00",
+    "waktu": "2026-10-03T06:00:00+07:00",
     "files": [
       "reels/eli/hari7_pagi.mp4"
     ],
-    "caption": "Sunday morning! ☀️\n\nEli's favorite day of the week 📖\n\n✨ Psalm 122:1\n\"I rejoiced with those who said to me, 'Let us go to the house of the Lord.'\"\n\nToday God wants to remind you:\nWhether you're heading to church today or worshipping from your couch — the point is turning your heart toward Him. He's always glad when you do.\n\nHave a blessed Sunday 🌟\n\n—\nShare this with your church community 💛\n.\n.\n#sundaymorning #church #christiansunday #godsday\n#sundayworship #eli #sahabateli"
+    "caption": "Saturday morning! ☀️\n\nTomorrow is Eli's favorite day: Sunday 📖\n\n✨ Psalm 122:1\n\"I rejoiced with those who said to me, 'Let us go to the house of the Lord.'\"\n\nToday God wants to remind you:\nWhether you'll be at church tomorrow or worshipping from your couch — the point is turning your heart toward Him. He's always glad when you do.\n\nHave a blessed weekend 🌟\n\n—\nShare this with your church community 💛\n.\n.\n#saturdaymorning #church #readyforsunday #godsday\n#christianweekend #eli #sahabateli"
   },
   {
     "id": "tenang-7-pagi",
     "akun": "tenang",
-    "waktu": "2026-10-04T07:00:00+07:00",
+    "waktu": "2026-10-03T07:00:00+07:00",
     "files": [
       "tenang/hari7_pagi_1.jpg"
     ],
@@ -452,7 +452,7 @@
   {
     "id": "eli-7-cerita-pot",
     "akun": "eli",
-    "waktu": "2026-10-04T12:00:00+07:00",
+    "waktu": "2026-10-03T12:00:00+07:00",
     "files": [
       "contoh/carousel_pot_1.mp4",
       "contoh/carousel_pot_2.mp4",
@@ -465,7 +465,7 @@
   {
     "id": "tenang-7-siang",
     "akun": "tenang",
-    "waktu": "2026-10-04T12:00:00+07:00",
+    "waktu": "2026-10-03T12:00:00+07:00",
     "files": [
       "tenang/hari7_siang_1.jpg",
       "tenang/hari7_siang_2.jpg",
@@ -473,12 +473,12 @@
       "tenang/hari7_siang_4.jpg",
       "tenang/hari7_siang_5.jpg"
     ],
-    "caption": "Diamlah. 🤍\n\nDi hari Minggu ini, ambil waktu untuk berhenti. Tidak perlu memikirkan semuanya — Dia tetap Allah.\n\n📖 Mazmur 46:11\n\nSelamat hari Minggu. Follow @diam.dan.percaya untuk renungan setiap hari.\n.\n.\n#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa"
+    "caption": "Diamlah. 🤍\n\nDi akhir pekan ini, ambil waktu untuk berhenti. Tidak perlu memikirkan semuanya — Dia tetap Allah.\n\n📖 Mazmur 46:11\n\nSelamat berakhir pekan. Follow @diam.dan.percaya untuk renungan setiap hari.\n.\n.\n#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa"
   },
   {
     "id": "eli-7-reels-panjang",
     "akun": "eli",
-    "waktu": "2026-10-04T18:00:00+07:00",
+    "waktu": "2026-10-03T18:00:00+07:00",
     "files": [
       "reels/eli/minggu1_rangkuman.mp4"
     ],
@@ -487,7 +487,7 @@
   {
     "id": "ayat-m1-7",
     "akun": "ayat",
-    "waktu": "2026-10-04T19:00:00+07:00",
+    "waktu": "2026-10-03T19:00:00+07:00",
     "files": [
       "ayat/hari7_1.jpg",
       "ayat/hari7_2.jpg",
@@ -501,7 +501,7 @@
   {
     "id": "tenang-7-malam",
     "akun": "tenang",
-    "waktu": "2026-10-04T20:00:00+07:00",
+    "waktu": "2026-10-03T20:00:00+07:00",
     "files": [
       "reels/tenang/notif3.mp4"
     ],
@@ -510,16 +510,16 @@
   {
     "id": "eli-7-malam",
     "akun": "eli",
-    "waktu": "2026-10-04T21:00:00+07:00",
+    "waktu": "2026-10-03T21:00:00+07:00",
     "files": [
       "reels/eli/hari7_malam.mp4"
     ],
-    "caption": "Minggu malam yang damai 🌙\n\nSatu minggu penuh Pengharapan sudah kita jalani bersama ✨\n\n📖 Mazmur 23:1-3\n\"TUHAN adalah gembalaku, takkan kekurangan aku. Ia membaringkan aku di padang yang berumput hijau; Ia membimbing aku ke air yang tenang; Ia menyegarkan jiwaku.\"\n\nGembala yang baik,\nTerima kasih untuk semua yang sudah Kau pimpin minggu ini. Untuk saat-saat yang indah dan untuk saat-saat yang berat — semuanya ada dalam tangan-Mu. Minggu depan, pimpin kami lagi. Kami percaya pada-Mu.\nAmin. 🙏\n\nSampai besok 💙\nEli akan ada lagi buat kamu 🌟\n\n—\n🔖 Save sebagai penutup minggu ini\n.\n.\n#doamalam #mazmur23 #minggumalam #renunganmalam\n#gembalayangbaik #eli #sahabateli"
+    "caption": "Sabtu malam yang damai 🌙\n\nSatu minggu penuh Pengharapan sudah kita jalani bersama ✨\n\n📖 Mazmur 23:1-3\n\"TUHAN adalah gembalaku, takkan kekurangan aku. Ia membaringkan aku di padang yang berumput hijau; Ia membimbing aku ke air yang tenang; Ia menyegarkan jiwaku.\"\n\nGembala yang baik,\nTerima kasih untuk semua yang sudah Kau pimpin minggu ini. Untuk saat-saat yang indah dan untuk saat-saat yang berat — semuanya ada dalam tangan-Mu. Minggu depan, pimpin kami lagi. Kami percaya pada-Mu.\nAmin. 🙏\n\nSampai besok 💙\nEli akan ada lagi buat kamu 🌟\n\n—\n🔖 Save sebagai penutup minggu ini\n.\n.\n#doamalam #mazmur23 #sabtumalam #renunganmalam\n#gembalayangbaik #eli #sahabateli"
   },
   {
     "id": "ayat-m2-1",
     "akun": "ayat",
-    "waktu": "2026-10-05T19:00:00+07:00",
+    "waktu": "2026-10-04T19:00:00+07:00",
     "files": [
       "ayat_minggu2/hari1_1.jpg",
       "ayat_minggu2/hari1_2.jpg",
@@ -533,7 +533,7 @@
   {
     "id": "ayat-m2-2",
     "akun": "ayat",
-    "waktu": "2026-10-06T19:00:00+07:00",
+    "waktu": "2026-10-05T19:00:00+07:00",
     "files": [
       "ayat_minggu2/hari2_1.jpg",
       "ayat_minggu2/hari2_2.jpg",
@@ -547,7 +547,7 @@
   {
     "id": "ayat-m2-3",
     "akun": "ayat",
-    "waktu": "2026-10-07T19:00:00+07:00",
+    "waktu": "2026-10-06T19:00:00+07:00",
     "files": [
       "ayat_minggu2/hari3_1.jpg",
       "ayat_minggu2/hari3_2.jpg",
@@ -561,7 +561,7 @@
   {
     "id": "ayat-m2-4",
     "akun": "ayat",
-    "waktu": "2026-10-08T19:00:00+07:00",
+    "waktu": "2026-10-07T19:00:00+07:00",
     "files": [
       "ayat_minggu2/hari4_1.jpg",
       "ayat_minggu2/hari4_2.jpg",
@@ -575,7 +575,7 @@
   {
     "id": "ayat-m2-5",
     "akun": "ayat",
-    "waktu": "2026-10-09T19:00:00+07:00",
+    "waktu": "2026-10-08T19:00:00+07:00",
     "files": [
       "ayat_minggu2/hari5_1.jpg",
       "ayat_minggu2/hari5_2.jpg",
@@ -589,7 +589,7 @@
   {
     "id": "ayat-m2-6",
     "akun": "ayat",
-    "waktu": "2026-10-10T19:00:00+07:00",
+    "waktu": "2026-10-09T19:00:00+07:00",
     "files": [
       "ayat_minggu2/hari6_1.jpg",
       "ayat_minggu2/hari6_2.jpg",
@@ -603,7 +603,7 @@
   {
     "id": "ayat-m2-7",
     "akun": "ayat",
-    "waktu": "2026-10-11T19:00:00+07:00",
+    "waktu": "2026-10-10T19:00:00+07:00",
     "files": [
       "ayat_minggu2/hari7_1.jpg",
       "ayat_minggu2/hari7_2.jpg",
@@ -617,7 +617,7 @@
   {
     "id": "ayat-m3-1",
     "akun": "ayat",
-    "waktu": "2026-10-12T19:00:00+07:00",
+    "waktu": "2026-10-11T19:00:00+07:00",
     "files": [
       "ayat_minggu3/hari1_1.jpg",
       "ayat_minggu3/hari1_2.jpg",
@@ -631,7 +631,7 @@
   {
     "id": "ayat-m3-2",
     "akun": "ayat",
-    "waktu": "2026-10-13T19:00:00+07:00",
+    "waktu": "2026-10-12T19:00:00+07:00",
     "files": [
       "ayat_minggu3/hari2_1.jpg",
       "ayat_minggu3/hari2_2.jpg",
@@ -645,7 +645,7 @@
   {
     "id": "ayat-m3-3",
     "akun": "ayat",
-    "waktu": "2026-10-14T19:00:00+07:00",
+    "waktu": "2026-10-13T19:00:00+07:00",
     "files": [
       "ayat_minggu3/hari3_1.jpg",
       "ayat_minggu3/hari3_2.jpg",
@@ -659,7 +659,7 @@
   {
     "id": "ayat-m3-4",
     "akun": "ayat",
-    "waktu": "2026-10-15T19:00:00+07:00",
+    "waktu": "2026-10-14T19:00:00+07:00",
     "files": [
       "ayat_minggu3/hari4_1.jpg",
       "ayat_minggu3/hari4_2.jpg",
@@ -673,7 +673,7 @@
   {
     "id": "ayat-m3-5",
     "akun": "ayat",
-    "waktu": "2026-10-16T19:00:00+07:00",
+    "waktu": "2026-10-15T19:00:00+07:00",
     "files": [
       "ayat_minggu3/hari5_1.jpg",
       "ayat_minggu3/hari5_2.jpg",
@@ -687,7 +687,7 @@
   {
     "id": "ayat-m3-6",
     "akun": "ayat",
-    "waktu": "2026-10-17T19:00:00+07:00",
+    "waktu": "2026-10-16T19:00:00+07:00",
     "files": [
       "ayat_minggu3/hari6_1.jpg",
       "ayat_minggu3/hari6_2.jpg",
@@ -701,7 +701,7 @@
   {
     "id": "ayat-m3-7",
     "akun": "ayat",
-    "waktu": "2026-10-18T19:00:00+07:00",
+    "waktu": "2026-10-17T19:00:00+07:00",
     "files": [
       "ayat_minggu3/hari7_1.jpg",
       "ayat_minggu3/hari7_2.jpg",

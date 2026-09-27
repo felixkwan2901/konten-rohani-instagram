@@ -1,7 +1,7 @@
 """Pengaturan utama. Ganti handle di sini setelah username Instagram-nya pasti."""
 
 # Senin pertama konten. Semua jam dalam WIB (Asia/Jakarta).
-START_DATE = "2026-09-28"
+START_DATE = "2026-09-27"  # hari 1 = Minggu 27 Sep (sudah terposting), hari 2 = Senin
 TIMEZONE = "Asia/Jakarta"
 
 AKUN = {

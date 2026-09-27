@@ -2,7 +2,7 @@
 
 Jam Business Suite mengikuti zona waktu komputer (NZ). Pakai kolom **jam NZ**.
 
-## @sahabat.eli — Mon 28 Sep 06:00 WIB → **Mon 28 Sep 12:00 NZ**
+## @sahabat.eli — Sun 27 Sep 06:00 WIB → **Sun 27 Sep 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_pagi.mp4`
 
@@ -27,7 +27,7 @@ Bagikan ke temanmu yang butuh ini 💛
 #kristensejati #renunganIndonesia #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Mon 28 Sep 07:00 WIB → **Mon 28 Sep 13:00 NZ**
+## @diam.dan.percaya — Sun 27 Sep 07:00 WIB → **Sun 27 Sep 13:00 NZ**
 
 Gambar (urut): `output/tenang/hari1_pagi_1.jpg`
 
@@ -42,7 +42,7 @@ Ketik “Amin” kalau ini doamu juga hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Mon 28 Sep 12:00 WIB → **Mon 28 Sep 18:00 NZ**
+## @sahabat.eli — Sun 27 Sep 12:00 WIB → **Sun 27 Sep 18:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_siang.mp4`
 
@@ -67,7 +67,7 @@ Eli reads every comment 💙
 #dailyword #godishere #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Mon 28 Sep 12:00 WIB → **Mon 28 Sep 18:00 NZ**
+## @diam.dan.percaya — Sun 27 Sep 12:00 WIB → **Sun 27 Sep 18:00 NZ**
 
 Gambar (urut): `output/tenang/hari1_siang_1.jpg`, `output/tenang/hari1_siang_2.jpg`, `output/tenang/hari1_siang_3.jpg`, `output/tenang/hari1_siang_4.jpg`, `output/tenang/hari1_siang_5.jpg`
 
@@ -84,7 +84,7 @@ Ketik “Amin” kalau kamu sedang menunggu juga.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @ayat.tersembunyi — Mon 28 Sep 19:00 WIB → **Tue 29 Sep 01:00 NZ**
+## @ayat.tersembunyi — Sun 27 Sep 19:00 WIB → **Mon 28 Sep 01:00 NZ**
 
 Gambar (urut): `output/ayat/hari1_1.jpg`, `output/ayat/hari1_2.jpg`, `output/ayat/hari1_3.jpg`, `output/ayat/hari1_4.jpg`, `output/ayat/hari1_5.jpg`, `output/ayat/hari1_6.jpg`
 
@@ -103,7 +103,7 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
-## @diam.dan.percaya — Mon 28 Sep 20:00 WIB → **Tue 29 Sep 02:00 NZ**
+## @diam.dan.percaya — Sun 27 Sep 20:00 WIB → **Mon 28 Sep 02:00 NZ**
 
 Gambar (urut): `output/reels/tenang/notif1.mp4`
 
@@ -121,7 +121,7 @@ Ketik “Aku datang” kalau kamu butuh ini hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Mon 28 Sep 21:00 WIB → **Tue 29 Sep 03:00 NZ**
+## @sahabat.eli — Sun 27 Sep 21:00 WIB → **Mon 28 Sep 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_malam.mp4`
 
@@ -148,7 +148,7 @@ Save post ini untuk kamu baca lagi malam ini 🔖
 #tidurtenang #kristensebelumtidur #eli #sahabateli
 ```
 
-## @sahabat.eli — Tue 29 Sep 06:00 WIB → **Tue 29 Sep 12:00 NZ**
+## @sahabat.eli — Mon 28 Sep 06:00 WIB → **Mon 28 Sep 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari2_pagi.mp4`
 
@@ -173,7 +173,7 @@ Bagikan ke temanmu yang lagi butuh semangat 💛
 #kristensejati #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Tue 29 Sep 07:00 WIB → **Tue 29 Sep 13:00 NZ**
+## @diam.dan.percaya — Mon 28 Sep 07:00 WIB → **Mon 28 Sep 13:00 NZ**
 
 Gambar (urut): `output/tenang/hari2_pagi_1.jpg`
 
@@ -190,7 +190,7 @@ Save buat pengingat minggu depan 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Tue 29 Sep 12:00 WIB → **Tue 29 Sep 18:00 NZ**
+## @sahabat.eli — Mon 28 Sep 12:00 WIB → **Mon 28 Sep 18:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari2_siang.mp4`
 
@@ -215,7 +215,7 @@ Eli reads every comment 💙
 #bibleverseoftheday #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Tue 29 Sep 12:00 WIB → **Tue 29 Sep 18:00 NZ**
+## @diam.dan.percaya — Mon 28 Sep 12:00 WIB → **Mon 28 Sep 18:00 NZ**
 
 Gambar (urut): `output/tenang/hari2_siang_1.jpg`, `output/tenang/hari2_siang_2.jpg`, `output/tenang/hari2_siang_3.jpg`, `output/tenang/hari2_siang_4.jpg`, `output/tenang/hari2_siang_5.jpg`
 
@@ -232,7 +232,7 @@ Simpan post ini untuk hari yang berat 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @ayat.tersembunyi — Tue 29 Sep 19:00 WIB → **Wed 30 Sep 01:00 NZ**
+## @ayat.tersembunyi — Mon 28 Sep 19:00 WIB → **Tue 29 Sep 01:00 NZ**
 
 Gambar (urut): `output/ayat/hari2_1.jpg`, `output/ayat/hari2_2.jpg`, `output/ayat/hari2_3.jpg`, `output/ayat/hari2_4.jpg`, `output/ayat/hari2_5.jpg`, `output/ayat/hari2_6.jpg`
 
@@ -251,7 +251,7 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
-## @diam.dan.percaya — Tue 29 Sep 20:00 WIB → **Wed 30 Sep 02:00 NZ**
+## @diam.dan.percaya — Mon 28 Sep 20:00 WIB → **Tue 29 Sep 02:00 NZ**
 
 Gambar (urut): `output/reels/tenang/suasana1.mp4`
 
@@ -268,7 +268,7 @@ Save untuk hari yang terasa berkabut 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Tue 29 Sep 21:00 WIB → **Wed 30 Sep 03:00 NZ**
+## @sahabat.eli — Mon 28 Sep 21:00 WIB → **Tue 29 Sep 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari2_malam.mp4`
 
@@ -295,7 +295,7 @@ Tuhan jaga kamu malam ini.
 #tidurtenang #eli #sahabateli
 ```
 
-## @sahabat.eli — Wed 30 Sep 06:00 WIB → **Wed 30 Sep 12:00 NZ**
+## @sahabat.eli — Tue 29 Sep 06:00 WIB → **Tue 29 Sep 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari3_pagi.mp4`
 
@@ -320,7 +320,7 @@ Share this with someone whose night has been too long 💛
 #godisfaithful #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Wed 30 Sep 07:00 WIB → **Wed 30 Sep 13:00 NZ**
+## @diam.dan.percaya — Tue 29 Sep 07:00 WIB → **Tue 29 Sep 13:00 NZ**
 
 Gambar (urut): `output/tenang/hari3_pagi_1.jpg`
 
@@ -335,7 +335,7 @@ Kirim ke temanmu yang lagi overthinking 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Wed 30 Sep 12:00 WIB → **Wed 30 Sep 18:00 NZ**
+## @sahabat.eli — Tue 29 Sep 12:00 WIB → **Tue 29 Sep 18:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari3_siang.mp4`
 
@@ -360,7 +360,7 @@ Eli baca semua komentar 💙
 #kristenmuda #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Wed 30 Sep 12:00 WIB → **Wed 30 Sep 18:00 NZ**
+## @diam.dan.percaya — Tue 29 Sep 12:00 WIB → **Tue 29 Sep 18:00 NZ**
 
 Gambar (urut): `output/tenang/hari3_siang_1.jpg`, `output/tenang/hari3_siang_2.jpg`, `output/tenang/hari3_siang_3.jpg`, `output/tenang/hari3_siang_4.jpg`, `output/tenang/hari3_siang_5.jpg`
 
@@ -377,7 +377,7 @@ Tulis di komentar: apa yang paling kamu takutkan minggu ini? Kita doakan bersama
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @ayat.tersembunyi — Wed 30 Sep 19:00 WIB → **Thu 01 Oct 01:00 NZ**
+## @ayat.tersembunyi — Tue 29 Sep 19:00 WIB → **Wed 30 Sep 01:00 NZ**
 
 Gambar (urut): `output/ayat/hari3_1.jpg`, `output/ayat/hari3_2.jpg`, `output/ayat/hari3_3.jpg`, `output/ayat/hari3_4.jpg`, `output/ayat/hari3_5.jpg`, `output/ayat/hari3_6.jpg`
 
@@ -396,7 +396,7 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
-## @diam.dan.percaya — Wed 30 Sep 20:00 WIB → **Thu 01 Oct 02:00 NZ**
+## @diam.dan.percaya — Tue 29 Sep 20:00 WIB → **Wed 30 Sep 02:00 NZ**
 
 Gambar (urut): `output/reels/tenang/dinding1.mp4`
 
@@ -413,7 +413,7 @@ Ketik “SERAHKAN” kalau kamu butuh diingatkan ini 🤍
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Wed 30 Sep 21:00 WIB → **Thu 01 Oct 03:00 NZ**
+## @sahabat.eli — Tue 29 Sep 21:00 WIB → **Wed 30 Sep 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari3_malam.mp4`
 
@@ -439,7 +439,7 @@ Selamat beristirahat 💙
 #eli #sahabateli
 ```
 
-## @sahabat.eli — Thu 01 Oct 06:00 WIB → **Thu 01 Oct 12:00 NZ**
+## @sahabat.eli — Wed 30 Sep 06:00 WIB → **Wed 30 Sep 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari4_pagi.mp4`
 
@@ -464,7 +464,7 @@ Tag temanmu yang butuh ayat ini hari ini 💛
 #kristensejati #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Thu 01 Oct 07:00 WIB → **Thu 01 Oct 13:00 NZ**
+## @diam.dan.percaya — Wed 30 Sep 07:00 WIB → **Wed 30 Sep 13:00 NZ**
 
 Gambar (urut): `output/tenang/hari4_pagi_1.jpg`
 
@@ -479,7 +479,7 @@ Ketik “Amin” kalau ini doamu pagi ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Thu 01 Oct 12:00 WIB → **Thu 01 Oct 18:00 NZ**
+## @sahabat.eli — Wed 30 Sep 12:00 WIB → **Wed 30 Sep 18:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari4_siang.mp4`
 
@@ -505,7 +505,7 @@ Eli reads every comment 💙
 #godhasaplan #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Thu 01 Oct 12:00 WIB → **Thu 01 Oct 18:00 NZ**
+## @diam.dan.percaya — Wed 30 Sep 12:00 WIB → **Wed 30 Sep 18:00 NZ**
 
 Gambar (urut): `output/tenang/hari4_siang_1.jpg`, `output/tenang/hari4_siang_2.jpg`, `output/tenang/hari4_siang_3.jpg`, `output/tenang/hari4_siang_4.jpg`, `output/tenang/hari4_siang_5.jpg`
 
@@ -522,7 +522,7 @@ Ketik “Aku serahkan” sebagai doamu hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @ayat.tersembunyi — Thu 01 Oct 19:00 WIB → **Fri 02 Oct 01:00 NZ**
+## @ayat.tersembunyi — Wed 30 Sep 19:00 WIB → **Thu 01 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat/hari4_1.jpg`, `output/ayat/hari4_2.jpg`, `output/ayat/hari4_3.jpg`, `output/ayat/hari4_4.jpg`, `output/ayat/hari4_5.jpg`, `output/ayat/hari4_6.jpg`
 
@@ -541,7 +541,7 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
-## @diam.dan.percaya — Thu 01 Oct 20:00 WIB → **Fri 02 Oct 02:00 NZ**
+## @diam.dan.percaya — Wed 30 Sep 20:00 WIB → **Thu 01 Oct 02:00 NZ**
 
 Gambar (urut): `output/reels/tenang/notif2.mp4`
 
@@ -558,7 +558,7 @@ Kirim ini ke seseorang yang hampir menyerah sama mimpinya 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Thu 01 Oct 21:00 WIB → **Fri 02 Oct 03:00 NZ**
+## @sahabat.eli — Wed 30 Sep 21:00 WIB → **Thu 01 Oct 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari4_malam.mp4`
 
@@ -582,14 +582,14 @@ Tidur yang nyenyak 💙
 #eli #sahabateli
 ```
 
-## @sahabat.eli — Fri 02 Oct 06:00 WIB → **Fri 02 Oct 12:00 NZ**
+## @sahabat.eli — Thu 01 Oct 06:00 WIB → **Thu 01 Oct 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari5_pagi.mp4`
 
 ```
 Good morning! ☀️
 
-Happy Friday from Eli 📖
+Happy Thursday from Eli 📖
 
 ✨ Hebrews 11:1
 "Now faith is confidence in what we hope for and assurance about what we do not see."
@@ -600,14 +600,14 @@ Faith isn't pretending everything is fine. Faith is believing that the One who s
 Keep believing. The story isn't over 🌟
 
 —
-Share this with your Friday crew 💛
+Share this with your crew 💛
 .
 .
-#morningverse #hebrews #fridayfaith #christianmorning
+#morningverse #hebrews #thursdayfaith #christianmorning
 #dailydevotional #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Fri 02 Oct 07:00 WIB → **Fri 02 Oct 13:00 NZ**
+## @diam.dan.percaya — Thu 01 Oct 07:00 WIB → **Thu 01 Oct 13:00 NZ**
 
 Gambar (urut): `output/tenang/hari5_pagi_1.jpg`
 
@@ -622,7 +622,7 @@ Save buat hari kamu merasa tertinggal 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Fri 02 Oct 12:00 WIB → **Fri 02 Oct 18:00 NZ**
+## @sahabat.eli — Thu 01 Oct 12:00 WIB → **Thu 01 Oct 18:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari5_siang.mp4`
 
@@ -648,7 +648,7 @@ Eli baca semua komentar 💙
 #prosestuhan #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Fri 02 Oct 12:00 WIB → **Fri 02 Oct 18:00 NZ**
+## @diam.dan.percaya — Thu 01 Oct 12:00 WIB → **Thu 01 Oct 18:00 NZ**
 
 Gambar (urut): `output/tenang/hari5_siang_1.jpg`, `output/tenang/hari5_siang_2.jpg`, `output/tenang/hari5_siang_3.jpg`, `output/tenang/hari5_siang_4.jpg`, `output/tenang/hari5_siang_5.jpg`
 
@@ -665,7 +665,7 @@ Kalau kamu sedang di masa ini, ketik 🤍 — kamu tidak sendiri.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @ayat.tersembunyi — Fri 02 Oct 19:00 WIB → **Sat 03 Oct 01:00 NZ**
+## @ayat.tersembunyi — Thu 01 Oct 19:00 WIB → **Fri 02 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat/hari5_1.jpg`, `output/ayat/hari5_2.jpg`, `output/ayat/hari5_3.jpg`, `output/ayat/hari5_4.jpg`, `output/ayat/hari5_5.jpg`, `output/ayat/hari5_6.jpg`
 
@@ -684,7 +684,7 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
-## @diam.dan.percaya — Fri 02 Oct 20:00 WIB → **Sat 03 Oct 02:00 NZ**
+## @diam.dan.percaya — Thu 01 Oct 20:00 WIB → **Fri 02 Oct 02:00 NZ**
 
 Gambar (urut): `output/reels/tenang/suasana2.mp4`
 
@@ -699,14 +699,14 @@ Kirim ke temanmu yang lagi di musim gelap 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Fri 02 Oct 21:00 WIB → **Sat 03 Oct 03:00 NZ**
+## @sahabat.eli — Thu 01 Oct 21:00 WIB → **Fri 02 Oct 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari5_malam.mp4`
 
 ```
-Jumat malam yang baik 🌙
+Kamis malam yang baik 🌙
 
-Satu minggu sudah terlewati ✨
+Minggu ini hampir selesai ✨
 
 📖 Mazmur 4:9
 "Dengan tenteram aku mau membaringkan diri, lalu segera tidur, sebab hanya Engkaulah, ya TUHAN, yang membiarkan aku diam dengan aman."
@@ -721,16 +721,16 @@ Selamat beristirahat dengan tenang 💙
 🔖 Save untuk malam ini
 .
 .
-#doamalam #jumat #akhirminggu #renunganmalam
+#doamalam #kamis #renunganmalam
 #amandidalamTuhan #eli #sahabateli
 ```
 
-## @sahabat.eli — Sat 03 Oct 06:00 WIB → **Sat 03 Oct 12:00 NZ**
+## @sahabat.eli — Fri 02 Oct 06:00 WIB → **Fri 02 Oct 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari6_pagi.mp4`
 
 ```
-Selamat Sabtu! ☀️
+Selamat hari Jumat! ☀️
 
 Eli semangat karena kamu juga harus semangat hari ini! 📖
 
@@ -740,17 +740,17 @@ Eli semangat karena kamu juga harus semangat hari ini! 📖
 Hari ini Tuhan mau ingatkan kamu:
 Kemanapun kamu pergi hari ini — ke tempat kerja, ke mall, ke keluarga — Tuhan ikut. Kamu tidak pernah sendirian 💛
 
-Nikmati Sabtu-mu ya! 🌟
+Nikmati Jumat-mu ya! 🌟
 
 —
 Bagikan ke sahabatmu 💛
 .
 .
-#selamatSabtu #renunganpagi #firmanTuhan #Tuhanmenyertai
-#weekend #eli #sahabateli
+#selamatJumat #renunganpagi #firmanTuhan #Tuhanmenyertai
+#jumatberkah #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Sat 03 Oct 07:00 WIB → **Sat 03 Oct 13:00 NZ**
+## @diam.dan.percaya — Fri 02 Oct 07:00 WIB → **Fri 02 Oct 13:00 NZ**
 
 Gambar (urut): `output/tenang/hari6_pagi_1.jpg`
 
@@ -765,14 +765,14 @@ Ketik “Tolong aku percaya” sebagai doamu hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 03 Oct 12:00 WIB → **Sat 03 Oct 18:00 NZ**
+## @sahabat.eli — Fri 02 Oct 12:00 WIB → **Fri 02 Oct 18:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari6_siang.mp4`
 
 ```
-Saturday check-in with Eli 🌤️
+Friday check-in with Eli 🌤️
 
-How's your weekend going?
+Almost the weekend. How are you, really?
 
 📖 Matthew 11:28
 "Come to me, all you who are weary and burdened, and I will give you rest."
@@ -787,11 +787,11 @@ Eli reads every comment 💙
 —
 .
 .
-#saturdayverse #matthewbible #christianweekend #rest
+#fridayverse #matthewbible #christianlife #rest
 #godgivesrest #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Sat 03 Oct 12:00 WIB → **Sat 03 Oct 18:00 NZ**
+## @diam.dan.percaya — Fri 02 Oct 12:00 WIB → **Fri 02 Oct 18:00 NZ**
 
 Gambar (urut): `output/tenang/hari6_siang_1.jpg`, `output/tenang/hari6_siang_2.jpg`, `output/tenang/hari6_siang_3.jpg`, `output/tenang/hari6_siang_4.jpg`, `output/tenang/hari6_siang_5.jpg`
 
@@ -808,7 +808,7 @@ Selamat menikmati akhir pekan.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @ayat.tersembunyi — Sat 03 Oct 19:00 WIB → **Sun 04 Oct 01:00 NZ**
+## @ayat.tersembunyi — Fri 02 Oct 19:00 WIB → **Sat 03 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat/hari6_1.jpg`, `output/ayat/hari6_2.jpg`, `output/ayat/hari6_3.jpg`, `output/ayat/hari6_4.jpg`, `output/ayat/hari6_5.jpg`, `output/ayat/hari6_6.jpg`
 
@@ -827,7 +827,7 @@ Follow untuk ayat-ayat lain yang jarang dibahas 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
-## @diam.dan.percaya — Sat 03 Oct 20:00 WIB → **Sun 04 Oct 02:00 NZ**
+## @diam.dan.percaya — Fri 02 Oct 20:00 WIB → **Sat 03 Oct 02:00 NZ**
 
 Gambar (urut): `output/reels/tenang/dinding2.mp4`
 
@@ -844,7 +844,7 @@ Ketik “TEPAT” kalau kamu masih menunggu 🤍
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 03 Oct 21:00 WIB → **Sun 04 Oct 03:00 NZ**
+## @sahabat.eli — Fri 02 Oct 21:00 WIB → **Sat 03 Oct 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari6_malam.mp4`
 
@@ -866,36 +866,36 @@ Kamu dikasihi dan diberkati 💙
 🔖 Kirimkan ini ke orang yang kamu kasihi
 .
 .
-#doamalam #berkat #sabtu #renunganmalam
+#doamalam #berkat #jumat #renunganmalam
 #diberkati #eli #sahabateli
 ```
 
-## @sahabat.eli — Sun 04 Oct 06:00 WIB → **Sun 04 Oct 12:00 NZ**
+## @sahabat.eli — Sat 03 Oct 06:00 WIB → **Sat 03 Oct 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari7_pagi.mp4`
 
 ```
-Sunday morning! ☀️
+Saturday morning! ☀️
 
-Eli's favorite day of the week 📖
+Tomorrow is Eli's favorite day: Sunday 📖
 
 ✨ Psalm 122:1
 "I rejoiced with those who said to me, 'Let us go to the house of the Lord.'"
 
 Today God wants to remind you:
-Whether you're heading to church today or worshipping from your couch — the point is turning your heart toward Him. He's always glad when you do.
+Whether you'll be at church tomorrow or worshipping from your couch — the point is turning your heart toward Him. He's always glad when you do.
 
-Have a blessed Sunday 🌟
+Have a blessed weekend 🌟
 
 —
 Share this with your church community 💛
 .
 .
-#sundaymorning #church #christiansunday #godsday
-#sundayworship #eli #sahabateli
+#saturdaymorning #church #readyforsunday #godsday
+#christianweekend #eli #sahabateli
 ```
 
-## @diam.dan.percaya — Sun 04 Oct 07:00 WIB → **Sun 04 Oct 13:00 NZ**
+## @diam.dan.percaya — Sat 03 Oct 07:00 WIB → **Sat 03 Oct 13:00 NZ**
 
 Gambar (urut): `output/tenang/hari7_pagi_1.jpg`
 
@@ -910,7 +910,7 @@ Kirim ke seseorang yang merasa ceritanya sudah tamat 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sun 04 Oct 12:00 WIB → **Sun 04 Oct 18:00 NZ**
+## @sahabat.eli — Sat 03 Oct 12:00 WIB → **Sat 03 Oct 18:00 NZ**
 
 Gambar (urut): `output/contoh/carousel_pot_1.mp4`, `output/contoh/carousel_pot_2.mp4`, `output/contoh/carousel_pot_3.mp4`, `output/contoh/carousel_pot_4.mp4`, `output/contoh/carousel_pot_5.mp4`
 
@@ -932,24 +932,24 @@ Ketik 🌱 kalau kamu sedang di masa menunggu.
 #renunganharian #komikkristen #ayatalkitab #firmanTuhan #pengharapan #indahpadawaktunya #sahabateli
 ```
 
-## @diam.dan.percaya — Sun 04 Oct 12:00 WIB → **Sun 04 Oct 18:00 NZ**
+## @diam.dan.percaya — Sat 03 Oct 12:00 WIB → **Sat 03 Oct 18:00 NZ**
 
 Gambar (urut): `output/tenang/hari7_siang_1.jpg`, `output/tenang/hari7_siang_2.jpg`, `output/tenang/hari7_siang_3.jpg`, `output/tenang/hari7_siang_4.jpg`, `output/tenang/hari7_siang_5.jpg`
 
 ```
 Diamlah. 🤍
 
-Di hari Minggu ini, ambil waktu untuk berhenti. Tidak perlu memikirkan semuanya — Dia tetap Allah.
+Di akhir pekan ini, ambil waktu untuk berhenti. Tidak perlu memikirkan semuanya — Dia tetap Allah.
 
 📖 Mazmur 46:11
 
-Selamat hari Minggu. Follow @diam.dan.percaya untuk renungan setiap hari.
+Selamat berakhir pekan. Follow @diam.dan.percaya untuk renungan setiap hari.
 .
 .
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sun 04 Oct 18:00 WIB → **Mon 05 Oct 00:00 NZ**
+## @sahabat.eli — Sat 03 Oct 18:00 WIB → **Sun 04 Oct 00:00 NZ**
 
 Gambar (urut): `output/reels/eli/minggu1_rangkuman.mp4`
 
@@ -966,7 +966,7 @@ Save video ini buat diputar ulang saat butuh pengingat 🔖
 #renunganharian #ayatalkitab #pengharapan #firmanTuhan #kristenindonesia #reelskristen #sahabateli
 ```
 
-## @ayat.tersembunyi — Sun 04 Oct 19:00 WIB → **Mon 05 Oct 01:00 NZ**
+## @ayat.tersembunyi — Sat 03 Oct 19:00 WIB → **Sun 04 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat/hari7_1.jpg`, `output/ayat/hari7_2.jpg`, `output/ayat/hari7_3.jpg`, `output/ayat/hari7_4.jpg`, `output/ayat/hari7_5.jpg`, `output/ayat/hari7_6.jpg`
 
@@ -985,7 +985,7 @@ Follow untuk kisah baru minggu depan 📜
 #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #belajaralkitab #renunganalkitab #ayattersembunyi
 ```
 
-## @diam.dan.percaya — Sun 04 Oct 20:00 WIB → **Mon 05 Oct 02:00 NZ**
+## @diam.dan.percaya — Sat 03 Oct 20:00 WIB → **Sun 04 Oct 02:00 NZ**
 
 Gambar (urut): `output/reels/tenang/notif3.mp4`
 
@@ -1002,12 +1002,12 @@ Save untuk malam-malam yang berat 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sun 04 Oct 21:00 WIB → **Mon 05 Oct 03:00 NZ**
+## @sahabat.eli — Sat 03 Oct 21:00 WIB → **Sun 04 Oct 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari7_malam.mp4`
 
 ```
-Minggu malam yang damai 🌙
+Sabtu malam yang damai 🌙
 
 Satu minggu penuh Pengharapan sudah kita jalani bersama ✨
 
@@ -1025,11 +1025,11 @@ Eli akan ada lagi buat kamu 🌟
 🔖 Save sebagai penutup minggu ini
 .
 .
-#doamalam #mazmur23 #minggumalam #renunganmalam
+#doamalam #mazmur23 #sabtumalam #renunganmalam
 #gembalayangbaik #eli #sahabateli
 ```
 
-## @ayat.tersembunyi — Mon 05 Oct 19:00 WIB → **Tue 06 Oct 01:00 NZ**
+## @ayat.tersembunyi — Sun 04 Oct 19:00 WIB → **Mon 05 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu2/hari1_1.jpg`, `output/ayat_minggu2/hari1_2.jpg`, `output/ayat_minggu2/hari1_3.jpg`, `output/ayat_minggu2/hari1_4.jpg`, `output/ayat_minggu2/hari1_5.jpg`, `output/ayat_minggu2/hari1_6.jpg`
 
@@ -1048,7 +1048,7 @@ Ini bagian 1 dari seri Yunus (14 post). Follow supaya tidak ketinggalan 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Tue 06 Oct 19:00 WIB → **Wed 07 Oct 01:00 NZ**
+## @ayat.tersembunyi — Mon 05 Oct 19:00 WIB → **Tue 06 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu2/hari2_1.jpg`, `output/ayat_minggu2/hari2_2.jpg`, `output/ayat_minggu2/hari2_3.jpg`, `output/ayat_minggu2/hari2_4.jpg`, `output/ayat_minggu2/hari2_5.jpg`, `output/ayat_minggu2/hari2_6.jpg`
 
@@ -1065,7 +1065,7 @@ Seri Yunus bagian 2/14. Save & follow 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Wed 07 Oct 19:00 WIB → **Thu 08 Oct 01:00 NZ**
+## @ayat.tersembunyi — Tue 06 Oct 19:00 WIB → **Wed 07 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu2/hari3_1.jpg`, `output/ayat_minggu2/hari3_2.jpg`, `output/ayat_minggu2/hari3_3.jpg`, `output/ayat_minggu2/hari3_4.jpg`, `output/ayat_minggu2/hari3_5.jpg`, `output/ayat_minggu2/hari3_6.jpg`
 
@@ -1084,7 +1084,7 @@ Seri Yunus bagian 3/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Thu 08 Oct 19:00 WIB → **Fri 09 Oct 01:00 NZ**
+## @ayat.tersembunyi — Wed 07 Oct 19:00 WIB → **Thu 08 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu2/hari4_1.jpg`, `output/ayat_minggu2/hari4_2.jpg`, `output/ayat_minggu2/hari4_3.jpg`, `output/ayat_minggu2/hari4_4.jpg`, `output/ayat_minggu2/hari4_5.jpg`, `output/ayat_minggu2/hari4_6.jpg`
 
@@ -1103,7 +1103,7 @@ Seri Yunus bagian 4/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Fri 09 Oct 19:00 WIB → **Sat 10 Oct 01:00 NZ**
+## @ayat.tersembunyi — Thu 08 Oct 19:00 WIB → **Fri 09 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu2/hari5_1.jpg`, `output/ayat_minggu2/hari5_2.jpg`, `output/ayat_minggu2/hari5_3.jpg`, `output/ayat_minggu2/hari5_4.jpg`, `output/ayat_minggu2/hari5_5.jpg`, `output/ayat_minggu2/hari5_6.jpg`
 
@@ -1122,7 +1122,7 @@ Seri Yunus bagian 5/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sat 10 Oct 19:00 WIB → **Sun 11 Oct 01:00 NZ**
+## @ayat.tersembunyi — Fri 09 Oct 19:00 WIB → **Sat 10 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu2/hari6_1.jpg`, `output/ayat_minggu2/hari6_2.jpg`, `output/ayat_minggu2/hari6_3.jpg`, `output/ayat_minggu2/hari6_4.jpg`, `output/ayat_minggu2/hari6_5.jpg`, `output/ayat_minggu2/hari6_6.jpg`
 
@@ -1141,7 +1141,7 @@ Seri Yunus bagian 6/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sun 11 Oct 19:00 WIB → **Mon 12 Oct 01:00 NZ**
+## @ayat.tersembunyi — Sat 10 Oct 19:00 WIB → **Sun 11 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu2/hari7_1.jpg`, `output/ayat_minggu2/hari7_2.jpg`, `output/ayat_minggu2/hari7_3.jpg`, `output/ayat_minggu2/hari7_4.jpg`, `output/ayat_minggu2/hari7_5.jpg`, `output/ayat_minggu2/hari7_6.jpg`
 
@@ -1160,7 +1160,7 @@ Seri Yunus bagian 7/14. Minggu depan: kesempatan kedua 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Mon 12 Oct 19:00 WIB → **Tue 13 Oct 01:00 NZ**
+## @ayat.tersembunyi — Sun 11 Oct 19:00 WIB → **Mon 12 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari1_1.jpg`, `output/ayat_minggu3/hari1_2.jpg`, `output/ayat_minggu3/hari1_3.jpg`, `output/ayat_minggu3/hari1_4.jpg`, `output/ayat_minggu3/hari1_5.jpg`, `output/ayat_minggu3/hari1_6.jpg`
 
@@ -1179,7 +1179,7 @@ Seri Yunus bagian 8/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Tue 13 Oct 19:00 WIB → **Wed 14 Oct 01:00 NZ**
+## @ayat.tersembunyi — Mon 12 Oct 19:00 WIB → **Tue 13 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari2_1.jpg`, `output/ayat_minggu3/hari2_2.jpg`, `output/ayat_minggu3/hari2_3.jpg`, `output/ayat_minggu3/hari2_4.jpg`, `output/ayat_minggu3/hari2_5.jpg`, `output/ayat_minggu3/hari2_6.jpg`
 
@@ -1198,7 +1198,7 @@ Seri Yunus bagian 9/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Wed 14 Oct 19:00 WIB → **Thu 15 Oct 01:00 NZ**
+## @ayat.tersembunyi — Tue 13 Oct 19:00 WIB → **Wed 14 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari3_1.jpg`, `output/ayat_minggu3/hari3_2.jpg`, `output/ayat_minggu3/hari3_3.jpg`, `output/ayat_minggu3/hari3_4.jpg`, `output/ayat_minggu3/hari3_5.jpg`, `output/ayat_minggu3/hari3_6.jpg`
 
@@ -1217,7 +1217,7 @@ Seri Yunus bagian 10/14
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Thu 15 Oct 19:00 WIB → **Fri 16 Oct 01:00 NZ**
+## @ayat.tersembunyi — Wed 14 Oct 19:00 WIB → **Thu 15 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari4_1.jpg`, `output/ayat_minggu3/hari4_2.jpg`, `output/ayat_minggu3/hari4_3.jpg`, `output/ayat_minggu3/hari4_4.jpg`, `output/ayat_minggu3/hari4_5.jpg`, `output/ayat_minggu3/hari4_6.jpg`
 
@@ -1236,7 +1236,7 @@ Seri Yunus bagian 11/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Fri 16 Oct 19:00 WIB → **Sat 17 Oct 01:00 NZ**
+## @ayat.tersembunyi — Thu 15 Oct 19:00 WIB → **Fri 16 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari5_1.jpg`, `output/ayat_minggu3/hari5_2.jpg`, `output/ayat_minggu3/hari5_3.jpg`, `output/ayat_minggu3/hari5_4.jpg`, `output/ayat_minggu3/hari5_5.jpg`, `output/ayat_minggu3/hari5_6.jpg`
 
@@ -1255,7 +1255,7 @@ Seri Yunus bagian 12/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sat 17 Oct 19:00 WIB → **Sun 18 Oct 01:00 NZ**
+## @ayat.tersembunyi — Fri 16 Oct 19:00 WIB → **Sat 17 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari6_1.jpg`, `output/ayat_minggu3/hari6_2.jpg`, `output/ayat_minggu3/hari6_3.jpg`, `output/ayat_minggu3/hari6_4.jpg`, `output/ayat_minggu3/hari6_5.jpg`, `output/ayat_minggu3/hari6_6.jpg`
 
@@ -1274,7 +1274,7 @@ Seri Yunus bagian 13/14 📜
 #yunus #kitabyunus #ayatalkitab #faktaalkitab #alkitab #kristenindonesia #ayattersembunyi
 ```
 
-## @ayat.tersembunyi — Sun 18 Oct 19:00 WIB → **Mon 19 Oct 01:00 NZ**
+## @ayat.tersembunyi — Sat 17 Oct 19:00 WIB → **Sun 18 Oct 01:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari7_1.jpg`, `output/ayat_minggu3/hari7_2.jpg`, `output/ayat_minggu3/hari7_3.jpg`, `output/ayat_minggu3/hari7_4.jpg`, `output/ayat_minggu3/hari7_5.jpg`, `output/ayat_minggu3/hari7_6.jpg`
 

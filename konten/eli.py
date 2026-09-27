@@ -20,7 +20,7 @@ POSTS = [
     ("siang", "Don't give up your dream.", "“There is surely a future hope for you, and your hope will not be cut off.”", "Proverbs 23:18"),
     ("malam", "Tuhan tempat aku pulang.", "“Allah itu bagi kita tempat perlindungan dan kekuatan.”", "Mazmur 46:2"),
 
-    ("pagi", "Happy Friday!", "“Now faith is confidence in what we hope for and assurance about what we do not see.”", "Hebrews 11:1"),
+    ("pagi", "Happy Thursday!", "“Now faith is confidence in what we hope for and assurance about what we do not see.”", "Hebrews 11:1"),
     ("siang", "Kapan ya jawabannya?", "“Ia membuat segala sesuatu indah pada waktunya.”", "Pengkhotbah 3:11"),
     ("malam", "Makasih Tuhan, untuk minggu ini.", "“Dengan tenteram aku mau membaringkan diri, lalu segera tidur.”", "Mazmur 4:9"),
 
@@ -28,7 +28,7 @@ POSTS = [
     ("siang", "Do you need rest?", "“Come to me, all you who are weary and burdened, and I will give you rest.”", "Matthew 11:28"),
     ("malam", "Berkat buat kamu!", "“TUHAN memberkati engkau dan melindungi engkau.”", "Bilangan 6:24"),
 
-    ("pagi", "It's Sunday!", "“I rejoiced with those who said to me, ‘Let us go to the house of the Lord.’”", "Psalm 122:1"),
-    ("siang", "Tadi dengar apa di gereja?", "“Janganlah kita menjauhkan diri dari pertemuan-pertemuan ibadah kita.”", "Ibrani 10:25"),
+    ("pagi", "Tomorrow is Sunday!", "“I rejoiced with those who said to me, ‘Let us go to the house of the Lord.’”", "Psalm 122:1"),
+    ("siang", "Besok ke gereja, yuk!", "“Janganlah kita menjauhkan diri dari pertemuan-pertemuan ibadah kita.”", "Ibrani 10:25"),
     ("malam", "Sampai besok ya!", "“TUHAN adalah gembalaku, takkan kekurangan aku.”", "Mazmur 23:1"),
 ]

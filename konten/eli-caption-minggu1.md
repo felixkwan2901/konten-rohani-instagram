@@ -4,7 +4,7 @@
 
 ---
 
-## HARI 1 — SENIN
+## HARI 1 — MINGGU
 
 ### 🌅 POST PAGI (06:00) — Indonesia
 **Ayat:** Yeremia 29:11
@@ -95,7 +95,7 @@ Save post ini untuk kamu baca lagi malam ini 🔖
 
 ---
 
-## HARI 2 — SELASA
+## HARI 2 — SENIN
 
 ### 🌅 POST PAGI (06:00) — Indonesia
 **Ayat:** Ratapan 3:22-23
@@ -173,7 +173,7 @@ Tuhan jaga kamu malam ini.
 
 ---
 
-## HARI 3 — RABU
+## HARI 3 — SELASA
 
 ### 🌅 POST PAGI (06:00) — English
 **Ayat:** Psalm 30:5
@@ -250,7 +250,7 @@ Selamat beristirahat 💙
 
 ---
 
-## HARI 4 — KAMIS
+## HARI 4 — RABU
 
 ### 🌅 POST PAGI (06:00) — Indonesia
 **Ayat:** Filipi 4:13
@@ -326,7 +326,7 @@ Tidur yang nyenyak 💙
 
 ---
 
-## HARI 5 — JUMAT
+## HARI 5 — KAMIS
 
 ### 🌅 POST PAGI (06:00) — English
 **Ayat:** Hebrews 11:1
@@ -334,7 +334,7 @@ Tidur yang nyenyak 💙
 ```
 Good morning! ☀️
 
-Happy Friday from Eli 📖
+Happy Thursday from Eli 📖
 
 ✨ Hebrews 11:1
 "Now faith is confidence in what we hope for and assurance about what we do not see."
@@ -345,10 +345,10 @@ Faith isn't pretending everything is fine. Faith is believing that the One who s
 Keep believing. The story isn't over 🌟
 
 —
-Share this with your Friday crew 💛
+Share this with your crew 💛
 .
 .
-#morningverse #hebrews #fridayfaith #christianmorning
+#morningverse #hebrews #thursdayfaith #christianmorning
 #dailydevotional #eli #sahabateli
 ```
 
@@ -381,9 +381,9 @@ Eli baca semua komentar 💙
 **Ayat:** Mazmur 4:9
 **Caption:**
 ```
-Jumat malam yang baik 🌙
+Kamis malam yang baik 🌙
 
-Satu minggu sudah terlewati ✨
+Minggu ini hampir selesai ✨
 
 📖 Mazmur 4:9
 "Dengan tenteram aku mau membaringkan diri, lalu segera tidur, sebab hanya Engkaulah, ya TUHAN, yang membiarkan aku diam dengan aman."
@@ -398,19 +398,19 @@ Selamat beristirahat dengan tenang 💙
 🔖 Save untuk malam ini
 .
 .
-#doamalam #jumat #akhirminggu #renunganmalam
+#doamalam #kamis #renunganmalam
 #amandidalamTuhan #eli #sahabateli
 ```
 
 ---
 
-## HARI 6 — SABTU
+## HARI 6 — JUMAT
 
 ### 🌅 POST PAGI (06:00) — Indonesia
 **Ayat:** Yosua 1:9
 **Caption:**
 ```
-Selamat Sabtu! ☀️
+Selamat hari Jumat! ☀️
 
 Eli semangat karena kamu juga harus semangat hari ini! 📖
 
@@ -420,23 +420,23 @@ Eli semangat karena kamu juga harus semangat hari ini! 📖
 Hari ini Tuhan mau ingatkan kamu:
 Kemanapun kamu pergi hari ini — ke tempat kerja, ke mall, ke keluarga — Tuhan ikut. Kamu tidak pernah sendirian 💛
 
-Nikmati Sabtu-mu ya! 🌟
+Nikmati Jumat-mu ya! 🌟
 
 —
 Bagikan ke sahabatmu 💛
 .
 .
-#selamatSabtu #renunganpagi #firmanTuhan #Tuhanmenyertai
-#weekend #eli #sahabateli
+#selamatJumat #renunganpagi #firmanTuhan #Tuhanmenyertai
+#jumatberkah #eli #sahabateli
 ```
 
 ### ☀️ POST SIANG (12:00) — English
 **Ayat:** Matthew 11:28
 **Caption:**
 ```
-Saturday check-in with Eli 🌤️
+Friday check-in with Eli 🌤️
 
-How's your weekend going?
+Almost the weekend. How are you, really?
 
 📖 Matthew 11:28
 "Come to me, all you who are weary and burdened, and I will give you rest."
@@ -451,7 +451,7 @@ Eli reads every comment 💙
 —
 .
 .
-#saturdayverse #matthewbible #christianweekend #rest
+#fridayverse #matthewbible #christianlife #rest
 #godgivesrest #eli #sahabateli
 ```
 
@@ -476,51 +476,51 @@ Kamu dikasihi dan diberkati 💙
 🔖 Kirimkan ini ke orang yang kamu kasihi
 .
 .
-#doamalam #berkat #sabtu #renunganmalam
+#doamalam #berkat #jumat #renunganmalam
 #diberkati #eli #sahabateli
 ```
 
 ---
 
-## HARI 7 — MINGGU
+## HARI 7 — SABTU
 
 ### 🌅 POST PAGI (06:00) — English
 **Ayat:** Psalm 122:1
 **Caption:**
 ```
-Sunday morning! ☀️
+Saturday morning! ☀️
 
-Eli's favorite day of the week 📖
+Tomorrow is Eli's favorite day: Sunday 📖
 
 ✨ Psalm 122:1
 "I rejoiced with those who said to me, 'Let us go to the house of the Lord.'"
 
 Today God wants to remind you:
-Whether you're heading to church today or worshipping from your couch — the point is turning your heart toward Him. He's always glad when you do.
+Whether you'll be at church tomorrow or worshipping from your couch — the point is turning your heart toward Him. He's always glad when you do.
 
-Have a blessed Sunday 🌟
+Have a blessed weekend 🌟
 
 —
 Share this with your church community 💛
 .
 .
-#sundaymorning #church #christiansunday #godsday
-#sundayworship #eli #sahabateli
+#saturdaymorning #church #readyforsunday #godsday
+#christianweekend #eli #sahabateli
 ```
 
 ### ☀️ POST SIANG (12:00) — Indonesia
 **Ayat:** Ibrani 10:25
 **Caption:**
 ```
-Minggu siang dari Eli! 🌤️
+Sabtu siang dari Eli! 🌤️
 
-Setelah ibadah tadi, Eli mau tanya...
+Besok ibadah, Eli mau tanya...
 
 📖 Ibrani 10:25
 "Janganlah kita menjauhkan diri dari pertemuan-pertemuan ibadah kita, seperti dibiasakan oleh beberapa orang, tetapi marilah kita saling menasihati."
 
 Pertanyaan Eli:
-Apa satu hal dari khotbah atau renungan hari ini yang paling kena di hatimu? 💭
+Apa satu hal yang mau kamu doakan sebelum ibadah besok? 💭
 
 Tulis di bawah ya 👇
 Eli mau belajar juga dari jawaban kalian 💙
@@ -528,7 +528,7 @@ Eli mau belajar juga dari jawaban kalian 💙
 —
 .
 .
-#minggusiang #renunganMinggu #ibadah #firman
+#sabtusiang #persiapanibadah #ibadah #firman
 #komunitas #eli #sahabateli
 ```
 
@@ -536,7 +536,7 @@ Eli mau belajar juga dari jawaban kalian 💙
 **Ayat:** Mazmur 23:1-3
 **Caption:**
 ```
-Minggu malam yang damai 🌙
+Sabtu malam yang damai 🌙
 
 Satu minggu penuh Pengharapan sudah kita jalani bersama ✨
 
@@ -554,7 +554,7 @@ Eli akan ada lagi buat kamu 🌟
 🔖 Save sebagai penutup minggu ini
 .
 .
-#doamalam #mazmur23 #minggumalam #renunganmalam
+#doamalam #mazmur23 #sabtumalam #renunganmalam
 #gembalayangbaik #eli #sahabateli
 ```
 
