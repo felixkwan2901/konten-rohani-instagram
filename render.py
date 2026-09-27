@@ -1060,7 +1060,9 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                           "files": files, "caption": caption.format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi_tambahan.TAGS})
     for day, rel in enumerate(kapi_files if kapi_aktif else []):
         p = kapi.POSTS[day]
-        items.append({"id": f"kapi-{day + 1}", "akun": "kapi", "waktu": at(day, config.AKUN["kapi"]["jam"]["malam"]),
+        # kapi-2 diposting lebih awal (Senin dini hari), jadi kapi-3 dst. maju satu hari: kapi-3 = Senin 19:00, kapi-8 = Sabtu 19:00
+        slot_day = day if day < 2 else day - 1
+        items.append({"id": f"kapi-{day + 1}", "akun": "kapi", "waktu": at(slot_day, config.AKUN["kapi"]["jam"]["malam"]),
                       "files": [reel_or_image(f"reels/kapi/hari{day + 1}.mp4", rel)],
                       "caption": p["caption"].format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi.TAGS})
     if config.STORY_OTOMATIS:

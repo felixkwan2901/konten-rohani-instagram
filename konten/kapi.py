@@ -22,6 +22,8 @@ POSTS = [
      "caption": "nggak harus lihat semuanya dulu baru melangkah 🚶\n\n“Sebab hidup kami ini adalah hidup karena percaya, bukan karena melihat.” — 2 Korintus 5:7\n\nsave & share 🔖"},
     {"bg": "#F26B1D", "atas": "hari Minggu gini,", "besar": "SYUKUR", "bawah": "dulu, bestie.", "ekspresi": "semangat", "properti": "jeruk+bintang",
      "caption": "selamat hari Minggu! sebutin satu hal yang kamu syukuri minggu ini 👇🧡\n\n“Mengucap syukurlah dalam segala hal, sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.” — 1 Tesalonika 5:18\n\nfollow @{handle} biar tiap hari diingetin 🧡"},
+    {"bg": "#F2B705", "atas": "minggu ini melelahkan?", "besar": "SUKACITA", "bawah": "tetap dari Tuhan.", "ekspresi": "semangat", "properti": "jeruk+bintang",
+     "caption": "capeknya nyata, tapi sukacitanya lebih kuat 🍊✨\n\n“Jangan kamu bersusah hati, sebab sukacita karena TUHAN itulah perlindunganmu!” — Nehemia 8:10\n\nsebutin satu hal yang bikin kamu senyum minggu ini 👇"},
 ]
 
 

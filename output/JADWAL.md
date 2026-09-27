@@ -624,6 +624,22 @@ save buat hari Senin berikutnya 🔖
 #yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
 ```
 
+## @kapi.percaya — Mon 28 Sep 19:00 WIB → **Tue 29 Sep 01:00 NZ**
+
+Gambar (urut): `output/reels/kapi/hari3.mp4`
+
+```
+kamu bisa bohong ke semua orang. tapi nggak ke Dia 🤍
+Dan kabar baiknya: Dia tetap sayang.
+
+“TUHAN, Engkau menyelidiki dan mengenal aku.” — Mazmur 139:1
+
+ketik 🤍 kalau ini kamu banget
+.
+.
+#yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
+```
+
 ## @ayat.tersembunyi — Mon 28 Sep 19:10 WIB → **Tue 29 Sep 01:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m1-4.jpg`
@@ -635,6 +651,14 @@ Gambar (urut): `output/stories/ayat-m1-4.jpg`
 ## @kapi.percaya — Mon 28 Sep 19:10 WIB → **Tue 29 Sep 01:10 NZ**
 
 Gambar (urut): `output/reels/kapi/hari2.mp4`
+
+```
+
+```
+
+## @kapi.percaya — Mon 28 Sep 19:10 WIB → **Tue 29 Sep 01:10 NZ**
+
+Gambar (urut): `output/reels/kapi/hari3.mp4`
 
 ```
 
@@ -1107,15 +1131,14 @@ Berikutnya: seri Yunus, 14 bagian. Follow supaya tidak ketinggalan 📜
 
 ## @kapi.percaya — Tue 29 Sep 19:00 WIB → **Wed 30 Sep 01:00 NZ**
 
-Gambar (urut): `output/reels/kapi/hari3.mp4`
+Gambar (urut): `output/reels/kapi/hari4.mp4`
 
 ```
-kamu bisa bohong ke semua orang. tapi nggak ke Dia 🤍
-Dan kabar baiknya: Dia tetap sayang.
+sebelum overthinking, coba over-praying dulu 🙏
 
-“TUHAN, Engkau menyelidiki dan mengenal aku.” — Mazmur 139:1
+“Janganlah hendaknya kamu kuatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur.” — Filipi 4:6
 
-ketik 🤍 kalau ini kamu banget
+kirim ke bestie yang suka panik duluan 👇
 .
 .
 #yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
@@ -1131,7 +1154,7 @@ Gambar (urut): `output/stories/ayat-m1-7.jpg`
 
 ## @kapi.percaya — Tue 29 Sep 19:10 WIB → **Wed 30 Sep 01:10 NZ**
 
-Gambar (urut): `output/reels/kapi/hari3.mp4`
+Gambar (urut): `output/reels/kapi/hari4.mp4`
 
 ```
 
@@ -1592,14 +1615,14 @@ Seri Yunus bagian 3/14 📜
 
 ## @kapi.percaya — Wed 30 Sep 19:00 WIB → **Thu 01 Oct 01:00 NZ**
 
-Gambar (urut): `output/reels/kapi/hari4.mp4`
+Gambar (urut): `output/reels/kapi/hari5.mp4`
 
 ```
-sebelum overthinking, coba over-praying dulu 🙏
+bukan hasil usahamu. itu hadiah 🎁
 
-“Janganlah hendaknya kamu kuatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur.” — Filipi 4:6
+“Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah.” — Efesus 2:8
 
-kirim ke bestie yang suka panik duluan 👇
+ketik “AMIN” kalau setuju 🙌
 .
 .
 #yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
@@ -1615,7 +1638,7 @@ Gambar (urut): `output/stories/ayat-m2-3.jpg`
 
 ## @kapi.percaya — Wed 30 Sep 19:10 WIB → **Thu 01 Oct 01:10 NZ**
 
-Gambar (urut): `output/reels/kapi/hari4.mp4`
+Gambar (urut): `output/reels/kapi/hari5.mp4`
 
 ```
 
@@ -2083,14 +2106,14 @@ Seri Yunus bagian 6/14 📜
 
 ## @kapi.percaya — Thu 01 Oct 19:00 WIB → **Fri 02 Oct 01:00 NZ**
 
-Gambar (urut): `output/reels/kapi/hari5.mp4`
+Gambar (urut): `output/reels/kapi/hari6.mp4`
 
 ```
-bukan hasil usahamu. itu hadiah 🎁
+nggak harus lihat semuanya dulu baru melangkah 🚶
 
-“Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah.” — Efesus 2:8
+“Sebab hidup kami ini adalah hidup karena percaya, bukan karena melihat.” — 2 Korintus 5:7
 
-ketik “AMIN” kalau setuju 🙌
+save & share 🔖
 .
 .
 #yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
@@ -2106,7 +2129,7 @@ Gambar (urut): `output/stories/ayat-m2-6.jpg`
 
 ## @kapi.percaya — Thu 01 Oct 19:10 WIB → **Fri 02 Oct 01:10 NZ**
 
-Gambar (urut): `output/reels/kapi/hari5.mp4`
+Gambar (urut): `output/reels/kapi/hari6.mp4`
 
 ```
 
@@ -2577,14 +2600,14 @@ Seri Yunus bagian 9/14 📜
 
 ## @kapi.percaya — Fri 02 Oct 19:00 WIB → **Sat 03 Oct 01:00 NZ**
 
-Gambar (urut): `output/reels/kapi/hari6.mp4`
+Gambar (urut): `output/reels/kapi/hari7.mp4`
 
 ```
-nggak harus lihat semuanya dulu baru melangkah 🚶
+selamat hari Minggu! sebutin satu hal yang kamu syukuri minggu ini 👇🧡
 
-“Sebab hidup kami ini adalah hidup karena percaya, bukan karena melihat.” — 2 Korintus 5:7
+“Mengucap syukurlah dalam segala hal, sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.” — 1 Tesalonika 5:18
 
-save & share 🔖
+follow @kapi.percaya biar tiap hari diingetin 🧡
 .
 .
 #yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
@@ -2600,7 +2623,7 @@ Gambar (urut): `output/stories/ayat-m3-2.jpg`
 
 ## @kapi.percaya — Fri 02 Oct 19:10 WIB → **Sat 03 Oct 01:10 NZ**
 
-Gambar (urut): `output/reels/kapi/hari6.mp4`
+Gambar (urut): `output/reels/kapi/hari7.mp4`
 
 ```
 
@@ -3091,14 +3114,14 @@ Seri Yunus bagian 12/14 📜
 
 ## @kapi.percaya — Sat 03 Oct 19:00 WIB → **Sun 04 Oct 01:00 NZ**
 
-Gambar (urut): `output/reels/kapi/hari7.mp4`
+Gambar (urut): `output/reels/kapi/hari8.mp4`
 
 ```
-selamat hari Minggu! sebutin satu hal yang kamu syukuri minggu ini 👇🧡
+capeknya nyata, tapi sukacitanya lebih kuat 🍊✨
 
-“Mengucap syukurlah dalam segala hal, sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.” — 1 Tesalonika 5:18
+“Jangan kamu bersusah hati, sebab sukacita karena TUHAN itulah perlindunganmu!” — Nehemia 8:10
 
-follow @kapi.percaya biar tiap hari diingetin 🧡
+sebutin satu hal yang bikin kamu senyum minggu ini 👇
 .
 .
 #yesus #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #kapi
@@ -3114,7 +3137,7 @@ Gambar (urut): `output/stories/ayat-m3-5.jpg`
 
 ## @kapi.percaya — Sat 03 Oct 19:10 WIB → **Sun 04 Oct 01:10 NZ**
 
-Gambar (urut): `output/reels/kapi/hari7.mp4`
+Gambar (urut): `output/reels/kapi/hari8.mp4`
 
 ```
 
