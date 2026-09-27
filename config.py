@@ -18,8 +18,8 @@ AKUN = {
         "jam": ["08:00", "13:00", "19:00"],  # 3 post/hari, post diambil berurutan dari MINGGU_AYAT
     },
     "kapi": {
-        "handle": "kapi.percaya",      # maskot Kapi (aktif lagi 28 Sep 2026); 5 post/hari menyusul setelah konten dibuat
-        "jam": "19:00",
+        "handle": "kapi.percaya",      # maskot Kapi, 5 post/hari
+        "jam": {"pagi": "07:00", "siang": "11:00", "sore": "15:00", "malam": "19:00", "larut": "21:30"},
         "aktif": True,
     }
 }

@@ -689,7 +689,7 @@ def kapi_parts(p, top):
     return fg, {"atas": atas, "besar": word, "bawah": bawah}, pos
 
 
-def kapi_sprite(p, blink=False, k=1.45):
+def kapi_sprite(p, blink=False, k=1.45):  # noqa: E302
     """Kapi sebagai gambar transparan 620x640, kaki di (310, 620)."""
     svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="620" height="640"><g transform="translate(310,620) scale({k})">'
            f'{kapi_svg("merem" if blink else p["ekspresi"], p["properti"])}</g></svg>')
@@ -703,17 +703,92 @@ def kapi_handle(img, p, fg, y):
     d.text((60, y + 28), "©2026", font=font("sans_bold", 20), fill=dim)
 
 
+def kapi_kata_image(p):
+    """Satu post kata besar Kapi (1080x1350)."""
+    img = Image.new("RGBA", (W, H), p["bg"])
+    fg, parts, pos = kapi_parts(p, 380)
+    for key, sp in parts.items():
+        img.alpha_composite(sp, pos[key])
+    img.alpha_composite(kapi_sprite(p), (560 - 310, 1280 - 620))
+    kapi_handle(img, p, fg, H - 96)
+    return img
+
+
 def render_kapi():
+    return [save(kapi_kata_image(p), f"kapi/hari{day}.jpg") for day, p in enumerate(kapi.POSTS, 1)]
+
+
+def kapi_komik(k, idx):
+    """Komik lucu Kapi: 4 slide, teks di atas, Kapi di bawah, ayat di slide terakhir."""
+    fg = "#1A1A1A" if not is_dark(k["bg"]) else "#FFFFFF"
     files = []
-    for day, p in enumerate(kapi.POSTS, 1):
-        img = Image.new("RGBA", (W, H), p["bg"])
-        fg, parts, pos = kapi_parts(p, 380)
-        for key, sp in parts.items():
-            img.alpha_composite(sp, pos[key])
-        img.alpha_composite(kapi_sprite(p), (560 - 310, 1280 - 620))
-        kapi_handle(img, p, fg, H - 96)
-        files.append(save(img, f"kapi/hari{day}.jpg"))
+    for n, (text, ekspresi, prop) in enumerate(k["slides"], 1):
+        img = Image.new("RGBA", (W, H), k["bg"])
+        d = ImageDraw.Draw(img)
+        d.text((70, 80), k["judul"].upper(), font=font("sans_bold", 24), fill=mix(fg, k["bg"], 0.4))
+        d.text((W - 70, 80), f"{n}/{len(k['slides'])}", font=font("sans_bold", 24), fill=mix(fg, k["bg"], 0.4), anchor="ra")
+        y = 230
+        f = font("sans_bold", 62)
+        for ln in wrap(d, text, f, 900):
+            d.text((W / 2, y), ln, font=f, fill=fg, anchor="ma")
+            y += 80
+        if n == len(k["slides"]):
+            y += 24
+            fi = font("serif_italic", 32)
+            for ln in wrap(d, k["ayat"], fi, 880):
+                d.text((W / 2, y), ln, font=fi, fill=mix(fg, k["bg"], 0.25), anchor="ma")
+                y += 44
+        img.alpha_composite(kapi_sprite({"ekspresi": ekspresi, "properti": prop}), (540 - 310, 1250 - 620))
+        kapi_handle(img, k, fg, H - 96)
+        files.append(save(img, f"kapi/komik{idx + 1}_{n}.jpg"))
     return files
+
+
+def kapi_pilih(p, idx):
+    """Post 'pilih satu': dua pilihan A/B, dijawab di komentar."""
+    fg = "#FFFFFF" if is_dark(p["bg"]) else "#111111"
+    img = Image.new("RGBA", (W, H), p["bg"])
+    d = ImageDraw.Draw(img)
+    d.text((W / 2, 150), "P I L I H     S A T U", font=font("sans_bold", 38), fill=fg, anchor="ma")
+    box = mix(p["bg"], fg, 0.14)
+    for i, (label, text) in enumerate((("A", p["a"]), ("B", p["b"]))):
+        top = 290 + i * 270
+        d.rounded_rectangle((110, top, W - 110, top + 180), radius=36, fill=box)
+        d.ellipse((150, top + 45, 240, top + 135), fill=fg)
+        d.text((195, top + 90), label, font=font("tebal", 52), fill=p["bg"], anchor="mm")
+        d.text((280, top + 90), text, font=font("sans_bold", 56), fill=fg, anchor="lm")
+    d.text((W / 2, 492), "atau", font=font("serif_italic", 40), fill=mix(fg, p["bg"], 0.35), anchor="mm")
+    d.text((W / 2, 790), "jawab A atau B di komentar", font=font("sans", 36), fill=mix(fg, p["bg"], 0.25), anchor="ma")
+    img.alpha_composite(kapi_sprite({"ekspresi": p["ekspresi"], "properti": "none"}, k=1.1), (540 - 310, 1300 - 620))
+    kapi_handle(img, p, fg, H - 96)
+    return [save(img, f"kapi/pilih{idx + 1}.jpg")]
+
+
+def render_kapi_tambahan():
+    """Semua post tambahan Kapi -> {(hari, slot): (files, caption, reel_rel_atau_None)}."""
+    from konten import kapi_tambahan as kt
+    out = {}
+    for hari, slots in kt.JADWAL.items():
+        for slot, (fmt, idx) in slots.items():
+            if fmt == "kata":
+                p = kt.KATA[idx]
+                out[(hari, slot)] = ([save(kapi_kata_image(p), f"kapi/kata{idx + 1}.jpg")], p["caption"], None)
+            elif fmt == "reel":
+                p = kt.KATA[idx]
+                image = save(kapi_kata_image(p), f"kapi/kata{idx + 1}.jpg")
+                out[(hari, slot)] = ([image], p["caption"], f"reels/kapi/kata{idx + 1}.mp4")
+            elif fmt == "komik":
+                k = kt.KOMIK[idx]
+                out[(hari, slot)] = (kapi_komik(k, idx), k["caption"], None)
+            elif fmt == "pilih":
+                p = kt.PILIH[idx]
+                out[(hari, slot)] = (kapi_pilih(p, idx), p["caption"], None)
+            elif fmt == "wallpaper":
+                folder = OUT / f"kapi/wallpaper_{kapi.WALLPAPER['nama']}"
+                files = [f"kapi/wallpaper_{kapi.WALLPAPER['nama']}/slide_{n}.jpg" for n in range(1, 6)]
+                cap = (folder / "caption.txt").read_text() if (folder / "caption.txt").exists() else ""
+                out[(hari, slot)] = (files, cap, None)
+    return out
 
 
 def render_kapi_wallpapers():
@@ -893,9 +968,17 @@ def build_schedule(eli_files, tenang_files, kapi_files):
         modul = akun_baru.MINGGU_AYAT[week]
         items.append({"id": f"ayat-m{week + 1}-{day + 1}", "akun": "ayat", "waktu": at(d, t),
                       "files": [f"{modul}/{f.name}" for f in pages], "caption": caption})
-    for day, rel in enumerate(kapi_files if config.AKUN["kapi"].get("aktif", True) else []):
+    kapi_aktif = config.AKUN["kapi"].get("aktif", True)
+    if kapi_aktif:
+        from konten import kapi_tambahan
+        for (hari, slot), (files, caption, reel) in render_kapi_tambahan().items():
+            if reel and (OUT / reel).exists():
+                files = [reel]
+            items.append({"id": f"kapi-{hari}-{slot}", "akun": "kapi", "waktu": at(hari - 1, config.AKUN["kapi"]["jam"][slot]),
+                          "files": files, "caption": caption.format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi_tambahan.TAGS})
+    for day, rel in enumerate(kapi_files if kapi_aktif else []):
         p = kapi.POSTS[day]
-        items.append({"id": f"kapi-{day + 1}", "akun": "kapi", "waktu": at(day, config.AKUN["kapi"]["jam"]),
+        items.append({"id": f"kapi-{day + 1}", "akun": "kapi", "waktu": at(day, config.AKUN["kapi"]["jam"]["malam"]),
                       "files": [reel_or_image(f"reels/kapi/hari{day + 1}.mp4", rel)],
                       "caption": p["caption"].format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi.TAGS})
     if config.STORY_OTOMATIS:

@@ -71,9 +71,11 @@ def eli_reel(slot, bubble, kutipan, ref, rel):
 
 
 def kapi_reel(index, seconds=7):
+    return kapi_reel_post(kapi.POSTS[index], f"reels/kapi/hari{index + 1}.mp4", seconds)
+
+
+def kapi_reel_post(p, rel, seconds=7):
     """Kalimat atas muncul -> KATA BESAR menghentak -> kalimat bawah masuk -> Kapi melompat masuk, lalu bergoyang & berkedip."""
-    p = kapi.POSTS[index]
-    rel = f"reels/kapi/hari{index + 1}.mp4"
     out = render.OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     fg, parts, pos = render.kapi_parts(p, 640)
@@ -269,6 +271,12 @@ if __name__ == "__main__":
     if what in ("semua", "kapi"):
         for i in nums or range(len(kapi.POSTS)):
             print(kapi_reel(i))
+    if what in ("semua", "kapi", "kapi_tambahan"):
+        from konten import kapi_tambahan as kt
+        for hari, slots in kt.JADWAL.items():
+            for slot, (fmt, idx) in slots.items():
+                if fmt == "reel":
+                    print(kapi_reel_post(kt.KATA[idx], f"reels/kapi/kata{idx + 1}.mp4"))
     if what in ("semua", "minggu"):
         print(weekly_reel())
     if what in ("semua", "dinding"):
