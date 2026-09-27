@@ -9,6 +9,10 @@ on:
         description: "Hanya cek token (tidak memposting)"
         type: boolean
         default: false
+      sekarang:
+        description: "ID post yang diposting sekarang juga, pisahkan dengan spasi (misal: tenang-1-pagi eli-1-siang)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -34,7 +38,7 @@ jobs:
           IG_USER_ID_TENANG: ${{ secrets.IG_USER_ID_TENANG }}
           IG_TOKEN_AYAT: ${{ secrets.IG_TOKEN_AYAT }}
           IG_USER_ID_AYAT: ${{ secrets.IG_USER_ID_AYAT }}
-        run: python publish.py ${{ inputs.cek && '--cek' || '' }}
+        run: python publish.py ${{ inputs.cek && '--cek' || '' }} ${{ inputs.sekarang != '' && format('--sekarang {0}', inputs.sekarang) || '' }}
       - name: Simpan catatan post
         if: always()
         run: |

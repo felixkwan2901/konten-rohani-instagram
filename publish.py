@@ -79,6 +79,7 @@ def publish(item, user_id, token, base_url):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--sekarang", nargs="+", metavar="ID", help="posting post tertentu sekarang juga (abaikan jadwal)")
     ap.add_argument("--cek", action="store_true", help="cek token & user ID setiap akun tanpa memposting apa pun")
     ap.add_argument("--tandai", nargs="+", metavar="ID",
                     help="tandai post sebagai sudah diposting manual (misal: tenang-1-siang), supaya tidak diposting ulang")
@@ -124,9 +125,20 @@ def main():
     now = datetime.now(timezone.utc)
     failed = False
 
+    wanted = set(args.sekarang or [])
+    unknown = wanted - {i["id"] for i in schedule}
+    if unknown:
+        print("ID tidak ada di jadwal:", ", ".join(sorted(unknown)))
     for item in schedule:
         due = datetime.fromisoformat(item["waktu"])
-        if item["id"] in posted or due > now or now - due > timedelta(hours=args.window_hours):
+        if item["id"] in posted:
+            if item["id"] in wanted:
+                print(f"-> {item['id']} sudah pernah diposting, dilewati")
+            continue
+        if wanted:
+            if item["id"] not in wanted:
+                continue
+        elif due > now or now - due > timedelta(hours=args.window_hours):
             continue
         akun = item["akun"].upper()
         token, user_id = os.environ.get(f"IG_TOKEN_{akun}"), os.environ.get(f"IG_USER_ID_{akun}")
