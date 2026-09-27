@@ -201,6 +201,92 @@ def eli_image(slot, bubble, kutipan, ref, show_bubble=True, show_verse=True):
     return img.convert("RGB")
 
 
+def eli_text_slide(label, n, total, title, body, number=None, sub=None):
+    """Slide teks gaya Eli: label kecil, judul tulisan tangan, isi serif, Eli kecil di pojok."""
+    img = Image.new("RGBA", (W, H), PAPER)
+    img.alpha_composite(svg_layer(f'<rect x="60" y="60" width="{W - 120}" height="{H - 120}" fill="none" stroke="{NAVY}" stroke-width="3"/>'
+                                  f'<g transform="translate(900,1230) scale(1.9)">{eli_fig("senyum", "bawah")}</g>'))
+    d = ImageDraw.Draw(img)
+    d.text((100, 100), f"{label}  ·  {n}/{total}", font=font("sans_bold", 24), fill=mix(NAVY, PAPER, 0.35))
+    y = 330
+    if number is not None:
+        d.ellipse((100, y, 200, y + 100), fill=NAVY)
+        d.text((150, y + 50), str(number), font=font("sans_bold", 54), fill=PAPER, anchor="mm")
+        y += 140
+    for ln in wrap(d, title, font("tangan", 66), 860):
+        d.text((100, y), ln, font=font("tangan", 66), fill=NAVY)
+        y += 82
+    y += 24
+    for ln in wrap(d, body, font("serif", 44), 800):
+        d.text((100, y), ln, font=font("serif", 44), fill=NAVY)
+        y += 62
+    if sub:
+        d.text((100, y + 20), sub, font=font("serif_italic", 32), fill="#8C6D22")
+    d.text((100, H - 110), "@" + config.AKUN["eli"]["handle"].upper(), font=font("sans_bold", 22), fill=NAVY)
+    return img
+
+
+def eli_edukasi(e, idx):
+    total = 2 + len(e["jawab"])
+    slides = [eli_image("siang", e["tanya"], "Geser untuk tahu jawabannya  ›", "ELI BELAJAR")]
+    slides += [eli_text_slide("ELI BELAJAR", n, total, t, b) for n, (t, b) in enumerate(e["jawab"], 2)]
+    slides.append(eli_image("pagi", e["tutup"], e["ayat"], e["ref"]))
+    return [save(im, f"eli/edukasi{idx + 1}_{n}.jpg") for n, im in enumerate(slides, 1)]
+
+
+def eli_saran(t, idx):
+    total = 2 + len(t["tips"])
+    slides = [eli_image("pagi", "Tips dari Eli: " + t["judul"].lower() + "!", "Geser untuk lihat tipsnya  ›", "TIPS DARI ELI")]
+    slides += [eli_text_slide("TIPS DARI ELI", n, total, judul, isi, number=n - 1) for n, (judul, isi) in enumerate(t["tips"], 2)]
+    slides.append(eli_image("malam", "Coba ya! Eli doakan kamu.", t["ayat"], t["ref"]))
+    return [save(im, f"eli/saran{idx + 1}_{n}.jpg") for n, im in enumerate(slides, 1)]
+
+
+def eli_kuis(q, idx):
+    img = Image.new("RGBA", (W, H), PAPER)
+    img.alpha_composite(svg_layer(
+        f'<rect x="90" y="90" width="900" height="600" fill="{PAPER}" stroke="{NAVY}" stroke-width="4"/>'
+        f'<line x1="130" y1="660" x2="950" y2="660" stroke="{NAVY}" stroke-width="3" opacity="0.35"/>'
+        f'<ellipse cx="720" cy="250" rx="210" ry="100" fill="#FBE38E"/><path d="M620,330 L560,390 L660,338 Z" fill="#FBE38E"/>'
+        f'<g transform="translate(360,658) scale(2.9)">{eli_fig("bingung", "dagu")}</g>'))
+    d = ImageDraw.Draw(img)
+    d.text((720, 212), "Kuis Alkitab!", font=font("tangan", 56), fill=NAVY, anchor="ma")
+    d.text((110, 668), "@" + config.AKUN["eli"]["handle"].upper(), font=font("sans_bold", 22), fill=NAVY)
+    y = 740
+    for ln in wrap(d, q["tanya"], font("tangan", 56), 900):
+        d.text((W / 2, y), ln, font=font("tangan", 56), fill=NAVY, anchor="ma")
+        y += 70
+    y += 20
+    for i, opt in enumerate(q["pilihan"]):
+        top = y + i * 118
+        d.rounded_rectangle((140, top, W - 140, top + 96), radius=48, fill="#DCE7F7", outline=NAVY, width=3)
+        d.ellipse((160, top + 14, 228, top + 82), fill=NAVY)
+        d.text((194, top + 48), "ABC"[i], font=font("sans_bold", 36), fill=PAPER, anchor="mm")
+        d.text((260, top + 48), opt, font=font("serif", 42), fill=NAVY, anchor="lm")
+    d.text((W / 2, H - 70), "jawab di komentar ya!", font=font("tangan", 36), fill=mix(NAVY, PAPER, 0.3), anchor="ma")
+    return [save(img, f"eli/kuis{idx + 1}.jpg")]
+
+
+def render_eli_variasi():
+    """{(hari, slot): (files, caption)} untuk konten/eli_variasi.py."""
+    from konten import eli_variasi as ev
+    out = {}
+    for hari, slots in ev.JADWAL.items():
+        for slot, (fmt, idx) in slots.items():
+            if fmt == "edukasi":
+                out[(hari, slot)] = (eli_edukasi(ev.EDUKASI[idx], idx), ev.EDUKASI[idx]["caption"] + "\n.\n.\n" + ev.TAGS)
+            elif fmt == "saran":
+                out[(hari, slot)] = (eli_saran(ev.SARAN[idx], idx), ev.SARAN[idx]["caption"] + "\n.\n.\n" + ev.TAGS)
+            elif fmt == "kuis":
+                q = ev.KUIS[idx]
+                cap = (f"Kuis Alkitab dari Eli! 🤔\n\n{q['tanya']}\nA. {q['pilihan'][0]}\nB. {q['pilihan'][1]}\nC. {q['pilihan'][2]}\n\n"
+                       f"Jawab A, B, atau C di komentar 👇 Jangan intip jawabannya dulu!\n.\n.\n.\n.\n.\nJawaban: {q['jawab']}\n.\n.\n{ev.TAGS}")
+                out[(hari, slot)] = (eli_kuis(q, idx), cap)
+            elif fmt == "payung":
+                out[(hari, slot)] = (["contoh/reel_payung.mp4"], (OUT / "contoh/reel_payung_caption.txt").read_text())
+    return out
+
+
 def render_eli_tambahan():
     """Gambar untuk slot tambahan Eli (konten/eli_tambahan.py); post dengan 'file' memakai file yang sudah ada."""
     from konten import eli_tambahan
@@ -934,16 +1020,12 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                 items.append({"id": "eli-7-cerita-pot", "akun": "eli", "waktu": at(day, config.AKUN["eli"]["jam"][slot]),
                               "files": pot, "caption": cerita.CAPTION_POT})
                 continue
+        if 1 <= day <= 5 and slot == "siang":
+            continue  # hari 2-6 siang diganti kuis / Reels cerita (konten/eli_variasi.py)
         items.append({"id": f"eli-{day + 1}-{slot}", "akun": "eli", "waktu": at(day, config.AKUN["eli"]["jam"][slot]),
                       "files": [reel_or_image(f"reels/eli/hari{day + 1}_{slot}.mp4", rel)], "caption": eli_caps[i]})
-    from konten import eli_tambahan
-    for p in eli_tambahan.POSTS:
-        if "file" in p:
-            files, caption = [p["file"]], (OUT / p["caption_file"]).read_text()
-        else:
-            image = f"eli/hari{p['hari']}_{p['slot']}.jpg"
-            files, caption = [reel_or_image(f"reels/eli/hari{p['hari']}_{p['slot']}.mp4", image)], p["caption"]
-        items.append({"id": f"eli-{p['hari']}-{p['slot']}", "akun": "eli", "waktu": at(p["hari"] - 1, config.AKUN["eli"]["jam"][p["slot"]]),
+    for (hari, slot), (files, caption) in render_eli_variasi().items():  # edukasi, kuis, tips (bukan Reels)
+        items.append({"id": f"eli-{hari}-{slot}", "akun": "eli", "waktu": at(hari - 1, config.AKUN["eli"]["jam"][slot]),
                       "files": files, "caption": caption})
     if (OUT / "reels/eli/minggu1_rangkuman.mp4").exists():
         items.append({"id": "eli-7-reels-panjang", "akun": "eli", "waktu": at(6, "18:00"),

@@ -338,20 +338,17 @@ Gambar (urut): `output/stories/ayat-m1-2.jpg`
 
 ## @sahabat.eli — Mon 28 Sep 09:00 WIB → **Mon 28 Sep 15:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari2_pagi2.mp4`
+Gambar (urut): `output/eli/edukasi1_1.jpg`, `output/eli/edukasi1_2.jpg`, `output/eli/edukasi1_3.jpg`, `output/eli/edukasi1_4.jpg`
 
 ```
-Pagi-pagi, Eli mau ingatkan kamu 📖
+Eli baru tahu: Alkitab ditulis oleh sekitar 40 penulis selama kurang lebih 1.500 tahun, tapi pesannya tetap satu 📖
 
-✨ Mazmur 119:105
-“Firman-Mu itu pelita bagi kakiku dan terang bagi jalanku.”
+“Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar…” — 2 Timotius 3:16
 
-Sebelum sibuk hari ini, ambil satu ayat dulu. Firman-Nya menerangi langkahmu.
-
-Tulis “Amin” kalau kamu percaya ini 💛
+Kamu sudah tahu fakta ini? Jawab: SUDAH / BARU TAHU 👇
 .
 .
-#renunganpagi #ayatalkitab #firmanTuhan #renunganharian #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Mon 28 Sep 09:00 WIB → **Mon 28 Sep 15:00 NZ**
@@ -371,7 +368,7 @@ Selamat menjalani hari ini.
 
 ## @sahabat.eli — Mon 28 Sep 09:10 WIB → **Mon 28 Sep 15:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari2_pagi2.mp4`
+Gambar (urut): `output/stories/eli-2-pagi2.jpg`
 
 ```
 
@@ -412,27 +409,26 @@ Gambar (urut): `output/stories/kapi-2-siang.jpg`
 
 ## @sahabat.eli — Mon 28 Sep 12:00 WIB → **Mon 28 Sep 18:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari2_siang.mp4`
+Gambar (urut): `output/eli/kuis1.jpg`
 
 ```
-Midday check-in with Eli 🌤️
+Kuis Alkitab dari Eli! 🤔
 
-Still going? Keep going.
+Siapa yang ditelan ikan besar?
+A. Daniel
+B. Yunus
+C. Musa
 
-📖 Isaiah 40:31
-"But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
-
-Tell me honestly:
-What's draining your energy the most right now? 
-
-Drop it below 👇 You don't have to carry it alone.
-Eli reads every comment 💙
-
-—
+Jawab A, B, atau C di komentar 👇 Jangan intip jawabannya dulu!
 .
 .
-#middayverse #hopeinGod #christianlife #dailydevotional
-#bibleverseoftheday #eli #sahabateli
+.
+.
+.
+Jawaban: B. Yunus (Yunus 1:17)
+.
+.
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Mon 28 Sep 12:00 WIB → **Mon 28 Sep 18:00 NZ**
@@ -454,7 +450,7 @@ Simpan post ini untuk hari yang berat 🔖
 
 ## @sahabat.eli — Mon 28 Sep 12:10 WIB → **Mon 28 Sep 18:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari2_siang.mp4`
+Gambar (urut): `output/stories/eli-2-siang.jpg`
 
 ```
 
@@ -545,25 +541,25 @@ Gambar (urut): `output/reels/kapi/kata2.mp4`
 
 ## @sahabat.eli — Mon 28 Sep 17:00 WIB → **Mon 28 Sep 23:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari2_sore.mp4`
+Gambar (urut): `output/eli/saran1_1.jpg`, `output/eli/saran1_2.jpg`, `output/eli/saran1_3.jpg`, `output/eli/saran1_4.jpg`, `output/eli/saran1_5.jpg`, `output/eli/saran1_6.jpg`
 
 ```
-Afternoon break with Eli 🌤️
+Nggak sempat saat teduh lama? Coba versi 5 menit dari Eli ⏱️📖
 
-📖 Isaiah 40:29
-“He gives strength to the weary and increases the power of the weak.”
+1. Pilih satu ayat
+2. Baca pelan-pelan 2 kali
+3. Tanya: apa kata Tuhan untukku hari ini?
+4. Tutup dengan doa singkat
 
-If today drained you, bring your tiredness to Him. He gives strength, not just advice.
-
-Eli reads every comment 💙
+Save dan coba besok pagi 🔖
 .
 .
-#bibleverse #christianlife #dailydevotion #faith #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @sahabat.eli — Mon 28 Sep 17:10 WIB → **Mon 28 Sep 23:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari2_sore.mp4`
+Gambar (urut): `output/stories/eli-2-sore.jpg`
 
 ```
 
@@ -841,20 +837,17 @@ Gambar (urut): `output/stories/ayat-m1-5.jpg`
 
 ## @sahabat.eli — Tue 29 Sep 09:00 WIB → **Tue 29 Sep 15:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari3_pagi2.mp4`
+Gambar (urut): `output/eli/edukasi2_1.jpg`, `output/eli/edukasi2_2.jpg`, `output/eli/edukasi2_3.jpg`, `output/eli/edukasi2_4.jpg`
 
 ```
-Pagi-pagi, Eli mau ingatkan kamu 📖
+Kenalan lagi sama Eli! Nama Eli berasal dari Elia, artinya kurang lebih “Allahku adalah TUHAN” 💙
 
-✨ Yeremia 33:3
-“Berserulah kepada-Ku, maka Aku akan menjawab engkau…”
+Di Alkitab juga ada Imam Eli yang membesarkan Samuel kecil. Seru ya?
 
-Tidak ada doa yang terlalu kecil. Dia mengundang kita untuk berseru kepada-Nya.
-
-Tulis “Amin” kalau kamu percaya ini 💛
+Kamu tahu arti namamu sendiri? Tulis di komentar 👇
 .
 .
-#renunganpagi #ayatalkitab #firmanTuhan #renunganharian #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Tue 29 Sep 09:00 WIB → **Tue 29 Sep 15:00 NZ**
@@ -874,7 +867,7 @@ Ketik “Aku tetap berdoa” 🙏
 
 ## @sahabat.eli — Tue 29 Sep 09:10 WIB → **Tue 29 Sep 15:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari3_pagi2.mp4`
+Gambar (urut): `output/stories/eli-3-pagi2.jpg`
 
 ```
 
@@ -915,27 +908,26 @@ Gambar (urut): `output/stories/kapi-3-siang.jpg`
 
 ## @sahabat.eli — Tue 29 Sep 12:00 WIB → **Tue 29 Sep 18:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari3_siang.mp4`
+Gambar (urut): `output/eli/kuis2.jpg`
 
 ```
-Hei, lagi sibuk? ⏸️
+Kuis Alkitab dari Eli! 🤔
 
-Berhenti sebentar yuk. 60 detik aja.
+Siapa yang membangun bahtera?
+A. Nuh
+B. Abraham
+C. Daud
 
-📖 Roma 5:3-4
-"Kita malah bermegah juga dalam kesengsaraan kita, karena kita tahu, bahwa kesengsaraan itu menimbulkan ketekunan, dan ketekunan menimbulkan tahan uji dan tahan uji menimbulkan pengharapan."
-
-Pertanyaan dari Eli:
-Kesulitan apa yang sekarang sedang membentukmu jadi lebih kuat? 💪
-
-Tulis di bawah ya 👇
-Eli baca semua komentar 💙
-
-—
+Jawab A, B, atau C di komentar 👇 Jangan intip jawabannya dulu!
 .
 .
-#renungansiang #ayathari #firman #pertumbuhan
-#kristenmuda #eli #sahabateli
+.
+.
+.
+Jawaban: A. Nuh (Kejadian 6:13-14)
+.
+.
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Tue 29 Sep 12:00 WIB → **Tue 29 Sep 18:00 NZ**
@@ -957,7 +949,7 @@ Tulis di komentar: apa yang paling kamu takutkan minggu ini? Kita doakan bersama
 
 ## @sahabat.eli — Tue 29 Sep 12:10 WIB → **Tue 29 Sep 18:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari3_siang.mp4`
+Gambar (urut): `output/stories/eli-3-siang.jpg`
 
 ```
 
@@ -1046,25 +1038,26 @@ Gambar (urut): `output/reels/kapi/kata4.mp4`
 
 ## @sahabat.eli — Tue 29 Sep 17:00 WIB → **Tue 29 Sep 23:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari3_sore.mp4`
+Gambar (urut): `output/eli/saran2_1.jpg`, `output/eli/saran2_2.jpg`, `output/eli/saran2_3.jpg`, `output/eli/saran2_4.jpg`, `output/eli/saran2_5.jpg`, `output/eli/saran2_6.jpg`
 
 ```
-Afternoon break with Eli 🌤️
+Bingung mau doa apa? Coba 4 langkah dari Eli 🙏
 
-📖 Zephaniah 3:17
-“The Lord your God is with you, the Mighty Warrior who saves.”
+Puji → Akui → Syukuri → Minta
 
-Whatever you're facing this afternoon, you're not facing it alone.
+Tidak harus panjang, yang penting jujur.
 
-Eli reads every comment 💙
+📖 Filipi 4:6
+
+Save untuk dicoba malam ini 🔖
 .
 .
-#bibleverse #christianlife #dailydevotion #faith #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @sahabat.eli — Tue 29 Sep 17:10 WIB → **Tue 29 Sep 23:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari3_sore.mp4`
+Gambar (urut): `output/stories/eli-3-sore.jpg`
 
 ```
 
@@ -1337,20 +1330,19 @@ Gambar (urut): `output/stories/ayat-m2-1.jpg`
 
 ## @sahabat.eli — Wed 30 Sep 09:00 WIB → **Wed 30 Sep 15:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari4_pagi2.mp4`
+Gambar (urut): `output/eli/edukasi3_1.jpg`, `output/eli/edukasi3_2.jpg`, `output/eli/edukasi3_3.jpg`, `output/eli/edukasi3_4.jpg`
 
 ```
-Pagi-pagi, Eli mau ingatkan kamu 📖
+Eli baru tahu arti “Amin” 🙏
 
-✨ Yesaya 43:4
-“Oleh karena engkau berharga di mata-Ku dan mulia, dan Aku ini mengasihi engkau…”
+“Amin” artinya kurang lebih: sungguh, benar, jadilah demikian. Jadi waktu kita bilang “Amin”, kita setuju sepenuh hati dengan doa atau firman itu.
 
-Nilaimu tidak ditentukan oleh nilai rapor, likes, atau pendapat orang. Kamu berharga di mata-Nya.
+📖 2 Korintus 1:20
 
-Tulis “Amin” kalau kamu percaya ini 💛
+Ketik “AMIN” kalau kamu setuju 😄
 .
 .
-#renunganpagi #ayatalkitab #firmanTuhan #renunganharian #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Wed 30 Sep 09:00 WIB → **Wed 30 Sep 15:00 NZ**
@@ -1370,7 +1362,7 @@ Kirim ke temanmu yang sedang merasa lambat 💌
 
 ## @sahabat.eli — Wed 30 Sep 09:10 WIB → **Wed 30 Sep 15:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari4_pagi2.mp4`
+Gambar (urut): `output/stories/eli-4-pagi2.jpg`
 
 ```
 
@@ -1409,28 +1401,19 @@ Gambar (urut): `output/stories/kapi-4-siang.jpg`
 
 ## @sahabat.eli — Wed 30 Sep 12:00 WIB → **Wed 30 Sep 18:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari4_siang.mp4`
+Gambar (urut): `output/contoh/reel_payung.mp4`
 
 ```
-Eli's midday reminder 🌤️
+Hujannya belum berhenti... tapi kamu nggak sendirian ☔
 
-Pause. Breathe. Read this.
+Tuhan nggak selalu langsung menghentikan badai. Tapi Dia selalu datang dan berdiri di sampingmu, di tengah hujan.
 
-📖 Proverbs 23:18
-"There is surely a future hope for you, and your hope will not be cut off."
+📖 “Apabila engkau menyeberang melalui air, Aku akan menyertai engkau.” — Yesaya 43:2
 
-A question from Eli:
-Is there a dream or a hope you've almost given up on? 
-
-I want to hear it 👇
-Sometimes saying it out loud is the first step to holding on.
-Eli reads every comment 💙
-
-—
+Kirim ini ke seseorang yang lagi “kehujanan” minggu ini 💙
 .
 .
-#middayverse #hope #christianlife #dontgiveup
-#godhasaplan #eli #sahabateli
+#renunganharian #komikkristen #ayatalkitab #Tuhanmenyertai #kristenindonesia #reelskristen #sahabateli
 ```
 
 ## @diam.dan.percaya — Wed 30 Sep 12:00 WIB → **Wed 30 Sep 18:00 NZ**
@@ -1452,7 +1435,7 @@ Ketik “Aku serahkan” sebagai doamu hari ini.
 
 ## @sahabat.eli — Wed 30 Sep 12:10 WIB → **Wed 30 Sep 18:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari4_siang.mp4`
+Gambar (urut): `output/contoh/reel_payung.mp4`
 
 ```
 
@@ -1539,24 +1522,27 @@ Gambar (urut): `output/reels/kapi/kata6.mp4`
 
 ## @sahabat.eli — Wed 30 Sep 17:00 WIB → **Wed 30 Sep 23:00 NZ**
 
-Gambar (urut): `output/contoh/reel_payung.mp4`
+Gambar (urut): `output/eli/saran3_1.jpg`, `output/eli/saran3_2.jpg`, `output/eli/saran3_3.jpg`, `output/eli/saran3_4.jpg`, `output/eli/saran3_5.jpg`, `output/eli/saran3_6.jpg`
 
 ```
-Hujannya belum berhenti... tapi kamu nggak sendirian ☔
+Mau hafal ayat tapi gampang lupa? Ini tips dari Eli 📝
 
-Tuhan nggak selalu langsung menghentikan badai. Tapi Dia selalu datang dan berdiri di sampingmu, di tengah hujan.
+1. Tulis di kertas tempel
+2. Ucapkan keras 3x sehari
+3. Hafal per potongan
+4. Ajak teman saling tes
 
-📖 “Apabila engkau menyeberang melalui air, Aku akan menyertai engkau.” — Yesaya 43:2
+📖 Mazmur 119:11
 
-Kirim ini ke seseorang yang lagi “kehujanan” minggu ini 💙
+Ayat apa yang mau kamu hafal minggu ini? 👇
 .
 .
-#renunganharian #komikkristen #ayatalkitab #Tuhanmenyertai #kristenindonesia #reelskristen #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @sahabat.eli — Wed 30 Sep 17:10 WIB → **Wed 30 Sep 23:10 NZ**
 
-Gambar (urut): `output/contoh/reel_payung.mp4`
+Gambar (urut): `output/stories/eli-4-sore.jpg`
 
 ```
 
@@ -1826,20 +1812,17 @@ Gambar (urut): `output/stories/ayat-m2-4.jpg`
 
 ## @sahabat.eli — Thu 01 Oct 09:00 WIB → **Thu 01 Oct 15:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari5_pagi2.mp4`
+Gambar (urut): `output/eli/edukasi4_1.jpg`, `output/eli/edukasi4_2.jpg`, `output/eli/edukasi4_3.jpg`, `output/eli/edukasi4_4.jpg`
 
 ```
-Pagi-pagi, Eli mau ingatkan kamu 📖
+Perjanjian Lama dan Perjanjian Baru itu bukan dua cerita yang berbeda. Keduanya satu cerita besar tentang kasih Tuhan, dan puncaknya di Yesus 📖
 
-✨ 1 Petrus 5:7
-“Serahkanlah segala kekuatiranmu kepada-Nya, sebab Ia yang memelihara kamu.”
+📖 Matius 5:17
 
-Apa yang kamu kuatirkan pagi ini? Serahkan satu per satu kepada-Nya.
-
-Tulis “Amin” kalau kamu percaya ini 💛
+Kamu paling suka baca kitab apa? Tulis di komentar 👇
 .
 .
-#renunganpagi #ayatalkitab #firmanTuhan #renunganharian #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Thu 01 Oct 09:00 WIB → **Thu 01 Oct 15:00 NZ**
@@ -1859,7 +1842,7 @@ Save untuk hari yang terasa sepi 🔖
 
 ## @sahabat.eli — Thu 01 Oct 09:10 WIB → **Thu 01 Oct 15:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari5_pagi2.mp4`
+Gambar (urut): `output/stories/eli-5-pagi2.jpg`
 
 ```
 
@@ -1898,28 +1881,26 @@ Gambar (urut): `output/stories/kapi-5-siang.jpg`
 
 ## @sahabat.eli — Thu 01 Oct 12:00 WIB → **Thu 01 Oct 18:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari5_siang.mp4`
+Gambar (urut): `output/eli/kuis3.jpg`
 
 ```
-Hei! ⏸️
+Kuis Alkitab dari Eli! 🤔
 
-60 detik yuk.
+Yesus lahir di kota apa?
+A. Nazaret
+B. Yerusalem
+C. Betlehem
 
-📖 Pengkhotbah 3:11
-"Ia membuat segala sesuatu indah pada waktunya."
-
-Pertanyaan dari Eli hari ini:
-Ada hal apa yang sedang kamu tunggu yang rasanya tidak kunjung datang? 🕰️
-
-Ceritakan di bawah 👇
-Kamu tidak sendirian dalam menunggu.
-Eli baca semua komentar 💙
-
-—
+Jawab A, B, atau C di komentar 👇 Jangan intip jawabannya dulu!
 .
 .
-#renungansiang #indahpadawaktunya #firman #menunggu
-#prosestuhan #eli #sahabateli
+.
+.
+.
+Jawaban: C. Betlehem (Matius 2:1)
+.
+.
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Thu 01 Oct 12:00 WIB → **Thu 01 Oct 18:00 NZ**
@@ -1941,7 +1922,7 @@ Kalau kamu sedang di masa ini, ketik 🤍 — kamu tidak sendiri.
 
 ## @sahabat.eli — Thu 01 Oct 12:10 WIB → **Thu 01 Oct 18:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari5_siang.mp4`
+Gambar (urut): `output/stories/eli-5-siang.jpg`
 
 ```
 
@@ -2032,25 +2013,27 @@ Gambar (urut): `output/reels/kapi/kata8.mp4`
 
 ## @sahabat.eli — Thu 01 Oct 17:00 WIB → **Thu 01 Oct 23:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari5_sore.mp4`
+Gambar (urut): `output/eli/saran4_1.jpg`, `output/eli/saran4_2.jpg`, `output/eli/saran4_3.jpg`, `output/eli/saran4_4.jpg`, `output/eli/saran4_5.jpg`, `output/eli/saran4_6.jpg`
 
 ```
-Afternoon break with Eli 🌤️
+Kalau lagi sedih, ini kata Eli 💙
 
-📖 Romans 12:12
-“Be joyful in hope, patient in affliction, faithful in prayer.”
+1. Tidak apa-apa menangis
+2. Cerita ke orang yang kamu percaya
+3. Bawa ke Tuhan dalam doa
+4. Baca Mazmur
 
-Hope, patience, prayer. Three small habits for a hard week.
+Kalau sedihnya berat dan lama, jangan dipendam sendiri. Bicarakan dengan orang dewasa yang kamu percaya atau konselor ya.
 
-Eli reads every comment 💙
+📖 Mazmur 34:19
 .
 .
-#bibleverse #christianlife #dailydevotion #faith #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @sahabat.eli — Thu 01 Oct 17:10 WIB → **Thu 01 Oct 23:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari5_sore.mp4`
+Gambar (urut): `output/stories/eli-5-sore.jpg`
 
 ```
 
@@ -2320,20 +2303,17 @@ Gambar (urut): `output/stories/ayat-m2-7.jpg`
 
 ## @sahabat.eli — Fri 02 Oct 09:00 WIB → **Fri 02 Oct 15:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari6_pagi2.mp4`
+Gambar (urut): `output/eli/edukasi5_1.jpg`, `output/eli/edukasi5_2.jpg`, `output/eli/edukasi5_3.jpg`, `output/eli/edukasi5_4.jpg`
 
 ```
-Pagi-pagi, Eli mau ingatkan kamu 📖
+Fakta seru dari Eli 🤓
 
-✨ Mazmur 34:9
-“Kecaplah dan lihatlah, betapa baiknya TUHAN itu!”
+Pasal terpanjang di Alkitab: Mazmur 119 (176 ayat). Pasal terpendek: Mazmur 117 (cuma 2 ayat). Dan salah satu ayat terpendek: “Maka menangislah Yesus.”
 
-Coba hitung satu kebaikan Tuhan yang kamu alami minggu ini. Pasti ada.
-
-Tulis “Amin” kalau kamu percaya ini 💛
+Tantangan: coba baca Mazmur 117 sekarang, cuma 30 detik 😄
 .
 .
-#renunganpagi #ayatalkitab #firmanTuhan #renunganharian #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Fri 02 Oct 09:00 WIB → **Fri 02 Oct 15:00 NZ**
@@ -2353,7 +2333,7 @@ Ketik “Aku serahkan” sebagai doamu.
 
 ## @sahabat.eli — Fri 02 Oct 09:10 WIB → **Fri 02 Oct 15:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari6_pagi2.mp4`
+Gambar (urut): `output/stories/eli-6-pagi2.jpg`
 
 ```
 
@@ -2394,28 +2374,26 @@ Gambar (urut): `output/stories/kapi-6-siang.jpg`
 
 ## @sahabat.eli — Fri 02 Oct 12:00 WIB → **Fri 02 Oct 18:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari6_siang.mp4`
+Gambar (urut): `output/eli/kuis4.jpg`
 
 ```
-Friday check-in with Eli 🌤️
+Kuis Alkitab dari Eli! 🤔
 
-Almost the weekend. How are you, really?
+Anak kecil itu membawa berapa roti dan ikan?
+A. 5 roti, 2 ikan
+B. 7 roti, 3 ikan
+C. 2 roti, 5 ikan
 
-📖 Matthew 11:28
-"Come to me, all you who are weary and burdened, and I will give you rest."
-
-Eli wants to ask:
-What do you most need rest from right now — physically, emotionally, or spiritually?
-
-Take a moment. Answer honestly 👇
-You deserve rest.
-Eli reads every comment 💙
-
-—
+Jawab A, B, atau C di komentar 👇 Jangan intip jawabannya dulu!
 .
 .
-#fridayverse #matthewbible #christianlife #rest
-#godgivesrest #eli #sahabateli
+.
+.
+.
+Jawaban: A. 5 roti jelai dan 2 ikan (Yohanes 6:9)
+.
+.
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Fri 02 Oct 12:00 WIB → **Fri 02 Oct 18:00 NZ**
@@ -2437,7 +2415,7 @@ Selamat menikmati akhir pekan.
 
 ## @sahabat.eli — Fri 02 Oct 12:10 WIB → **Fri 02 Oct 18:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari6_siang.mp4`
+Gambar (urut): `output/stories/eli-6-siang.jpg`
 
 ```
 
@@ -2528,25 +2506,26 @@ Gambar (urut): `output/reels/kapi/kata10.mp4`
 
 ## @sahabat.eli — Fri 02 Oct 17:00 WIB → **Fri 02 Oct 23:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari6_sore.mp4`
+Gambar (urut): `output/eli/saran5_1.jpg`, `output/eli/saran5_2.jpg`, `output/eli/saran5_3.jpg`, `output/eli/saran5_4.jpg`, `output/eli/saran5_5.jpg`
 
 ```
-Afternoon break with Eli 🌤️
+Kebiasaan kecil sebelum tidur dari Eli 🌙
 
-📖 James 5:16
-“The prayer of a righteous person is powerful and effective.”
+1. Tulis 3 hal kecil yang kamu syukuri
+2. Doakan satu orang yang menolongmu
+3. Bilang terima kasih
 
-Drop a prayer request below. Let's pray for each other this weekend.
+📖 1 Tesalonika 5:18
 
-Eli reads every comment 💙
+Tulis 1 hal yang kamu syukuri hari ini 👇
 .
 .
-#bibleverse #christianlife #dailydevotion #faith #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @sahabat.eli — Fri 02 Oct 17:10 WIB → **Fri 02 Oct 23:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari6_sore.mp4`
+Gambar (urut): `output/stories/eli-6-sore.jpg`
 
 ```
 
@@ -2820,20 +2799,17 @@ Gambar (urut): `output/stories/ayat-m3-3.jpg`
 
 ## @sahabat.eli — Sat 03 Oct 09:00 WIB → **Sat 03 Oct 15:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari7_pagi2.mp4`
+Gambar (urut): `output/eli/edukasi6_1.jpg`, `output/eli/edukasi6_2.jpg`, `output/eli/edukasi6_3.jpg`, `output/eli/edukasi6_4.jpg`
 
 ```
-Pagi-pagi, Eli mau ingatkan kamu 📖
+Besok hari Minggu! Tahu nggak kenapa kita ibadah hari Minggu? 🌅
 
-✨ Mazmur 95:6
-“Masuklah, marilah kita sujud menyembah, berlutut di hadapan TUHAN yang menjadikan kita.”
+Karena Yesus bangkit pada hari pertama minggu itu, dan jemaat mula-mula sudah berkumpul di hari itu (Kisah Para Rasul 20:7).
 
-Besok hari Minggu. Siapkan hatimu dari sekarang untuk bertemu Tuhan.
-
-Tulis “Amin” kalau kamu percaya ini 💛
+Sampai ketemu di gereja besok ya! Ajak satu temanmu 🙌
 .
 .
-#renunganpagi #ayatalkitab #firmanTuhan #renunganharian #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @diam.dan.percaya — Sat 03 Oct 09:00 WIB → **Sat 03 Oct 15:00 NZ**
@@ -2853,7 +2829,7 @@ Tulis satu hal yang kamu syukuri hari ini 👇
 
 ## @sahabat.eli — Sat 03 Oct 09:10 WIB → **Sat 03 Oct 15:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari7_pagi2.mp4`
+Gambar (urut): `output/stories/eli-7-pagi2.jpg`
 
 ```
 
@@ -3020,25 +2996,27 @@ Gambar (urut): `output/reels/kapi/kata12.mp4`
 
 ## @sahabat.eli — Sat 03 Oct 17:00 WIB → **Sat 03 Oct 23:00 NZ**
 
-Gambar (urut): `output/reels/eli/hari7_sore.mp4`
+Gambar (urut): `output/eli/saran6_1.jpg`, `output/eli/saran6_2.jpg`, `output/eli/saran6_3.jpg`, `output/eli/saran6_4.jpg`, `output/eli/saran6_5.jpg`, `output/eli/saran6_6.jpg`
 
 ```
-Afternoon break with Eli 🌤️
+Besok hari Minggu! Ini tips siap-siap ibadah dari Eli ⛪
 
-📖 Psalm 107:1
-“Give thanks to the Lord, for he is good; his love endures forever.”
+1. Tidur lebih awal
+2. Siapkan pakaian & Alkitab malam ini
+3. Datang 10 menit lebih awal
+4. Ajak satu teman
 
-One week of hope done. What are you thankful for? Tell Eli below.
+📖 Mazmur 122:1
 
-Eli reads every comment 💙
+Tag teman yang mau kamu ajak ibadah besok 👇
 .
 .
-#bibleverse #christianlife #dailydevotion #faith #sahabateli
+#sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
 ## @sahabat.eli — Sat 03 Oct 17:10 WIB → **Sat 03 Oct 23:10 NZ**
 
-Gambar (urut): `output/reels/eli/hari7_sore.mp4`
+Gambar (urut): `output/stories/eli-7-sore.jpg`
 
 ```
 
