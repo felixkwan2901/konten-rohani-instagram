@@ -79,11 +79,35 @@ def publish(item, user_id, token, base_url):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--cek", action="store_true", help="cek token & user ID setiap akun tanpa memposting apa pun")
     ap.add_argument("--tandai", nargs="+", metavar="ID",
                     help="tandai post sebagai sudah diposting manual (misal: tenang-1-siang), supaya tidak diposting ulang")
     ap.add_argument("--window-hours", type=float, default=6,
                     help="lewati post yang terlambat lebih dari ini (misal setelah workflow mati lama)")
     args = ap.parse_args()
+
+    if args.cek:
+        ok = True
+        for akun, info in config.AKUN.items():
+            if not info.get("aktif", True):
+                continue
+            key = akun.upper()
+            token, user_id = os.environ.get(f"IG_TOKEN_{key}"), os.environ.get(f"IG_USER_ID_{key}")
+            if not (token and user_id):
+                print(f"❌ {akun}: IG_TOKEN_{key} / IG_USER_ID_{key} belum diisi")
+                ok = False
+                continue
+            try:
+                me = api("GET", "me", fields="user_id,username", access_token=token)
+            except RuntimeError as e:
+                print(f"❌ {akun}: token ditolak Instagram ({str(e)[:160]})")
+                ok = False
+                continue
+            match = str(me.get("user_id")) == user_id.strip()
+            print(f"{'✅' if match else '⚠️ '} {akun}: token untuk @{me.get('username')}, user ID "
+                  f"{'cocok' if match else 'TIDAK cocok (cek IG_USER_ID_' + key + ')'}")
+            ok = ok and match
+        sys.exit(0 if ok else 1)
 
     if args.tandai:
         posted = json.loads(STATE.read_text()) if STATE.exists() else {}

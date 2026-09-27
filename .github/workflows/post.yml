@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/15 * * * *"   # cek tiap 15 menit (GitHub bisa telat beberapa menit)
   workflow_dispatch:
+    inputs:
+      cek:
+        description: "Hanya cek token (tidak memposting)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -29,7 +34,7 @@ jobs:
           IG_USER_ID_TENANG: ${{ secrets.IG_USER_ID_TENANG }}
           IG_TOKEN_AYAT: ${{ secrets.IG_TOKEN_AYAT }}
           IG_USER_ID_AYAT: ${{ secrets.IG_USER_ID_AYAT }}
-        run: python publish.py
+        run: python publish.py ${{ inputs.cek && '--cek' || '' }}
       - name: Simpan catatan post
         if: always()
         run: |
