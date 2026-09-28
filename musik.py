@@ -262,6 +262,149 @@ def buat_semua():
             buat_original("malam", 60, ["Am7", "Fmaj7", "Cmaj7", "Gsus"], [["E5", "-"], ["C5", "-"], ["G5", "E5"], ["D5", "-"]])]
 
 
+# ---------- lagu unik per Reels (tidak ada dua Reels dengan musik yang sama) ----------
+
+def mhz(m):
+    return 440.0 * 2 ** ((m - 69) / 12)
+
+
+def midi(name):
+    return int(round(69 + 12 * np.log2(hz(name) / 440.0)))
+
+
+QUAL = {"M": [0, 4, 7], "m": [0, 3, 7], "M7": [0, 4, 7, 11], "m7": [0, 3, 7, 10], "sus": [0, 5, 7], "add9": [0, 4, 7, 14]}
+PROGS = [
+    [(0, "M"), (7, "M"), (9, "m"), (5, "M")], [(9, "m"), (5, "M"), (0, "M"), (7, "M")], [(0, "M"), (9, "m"), (5, "M"), (7, "M")],
+    [(0, "M7"), (5, "M7"), (0, "M7"), (5, "M7")], [(5, "M"), (7, "M"), (4, "m"), (9, "m")], [(0, "add9"), (4, "m"), (5, "M"), (7, "sus")],
+    [(2, "m7"), (7, "M"), (0, "M7"), (9, "m7")], [(0, "M"), (7, "M"), (9, "m"), (4, "m"), (5, "M"), (0, "M"), (5, "M"), (7, "M")],
+    [(9, "m7"), (2, "m7"), (7, "sus"), (0, "M7")], [(0, "M"), (5, "add9"), (9, "m7"), (7, "sus")], [(5, "M7"), (4, "m7"), (2, "m7"), (0, "add9")],
+    [(0, "M"), (2, "m"), (5, "M"), (0, "M")],
+]
+PENTA = [0, 2, 4, 7, 9]
+RHYTHMS = [[1, 1, 2], [2, 1, 1], [1.5, .5, 2], [1, 1, 1, 1], [3, 1], [.5, .5, 1, 2], [2, 2], [1, .5, .5, 2]]
+
+
+def felt(f, dur, vel=0.5):  # piano redup (felt piano): harmonik atas dipotong, serangan lembut
+    n = int(SR * (dur + 1.8))
+    t = np.arange(n) / SR
+    out = sum(np.sin(2 * np.pi * f * k * t) * (1 / k ** 2.2) * np.exp(-t * (0.7 + 0.8 * k)) for k in range(1, 5))
+    return out * np.minimum(1, t / 0.02) * np.clip(1 - (t - dur) / 0.5, 0, 1) * vel * 0.4
+
+
+def musicbox(f, dur, vel=0.5):
+    return bell(f * 2, dur * 0.6, vel * 0.8)
+
+
+def marimba(f, dur, vel=0.5):
+    n = int(SR * (dur + 0.6))
+    t = np.arange(n) / SR
+    out = np.sin(2 * np.pi * f * t) * np.exp(-t * 6) + 0.25 * np.sin(2 * np.pi * f * 4 * t) * np.exp(-t * 18)
+    return out * np.minimum(1, t / 0.002) * vel * 0.5
+
+
+def strings(f, dur, vel=0.5):
+    n = int(SR * (dur + 1.2))
+    t = np.arange(n) / SR
+    vib = 1 + 0.004 * np.sin(2 * np.pi * 5.2 * t)
+    out = sum(np.sin(2 * np.pi * f * k * vib * t) / k ** 1.6 for k in range(1, 6))
+    return out * np.minimum(1, t / 0.5) * np.clip(1 - (t - dur) / 1.2, 0, 1) * vel * 0.06
+
+
+HYMN = {"amazing": (AMAZING, 3, 67), "yesus": (YESUS, 4, 60), "joyful": (JOYFUL, 4, 60)}  # (melodi, ketukan/bar, nada dasar)
+
+
+def gen_melody(rng, prog, key, bars_per_chord, bpb):
+    """Melodi baru: motif 2 bar diulang dengan variasi (A A' B A), nada dari pentatonik + nada akor."""
+    def motif():
+        notes, b = [], 0
+        while b < 2 * bpb:
+            rh = RHYTHMS[rng.integers(len(RHYTHMS))]
+            for d in rh:
+                if b + d > 2 * bpb:
+                    d = 2 * bpb - b
+                if d <= 0:
+                    break
+                deg = PENTA[rng.integers(5)] + 12 * int(rng.integers(0, 2))
+                notes.append((key + 12 + deg if rng.random() > 0.12 else None, d))
+                b += d
+        return notes
+    a, bm = motif(), motif()
+    var = [(n + (2 if n is not None and rng.random() < 0.3 else 0), d) if n else (n, d) for n, d in a]
+    return a + var + bm + a
+
+
+def lagu_unik(rel, seconds, used):
+    """Susun lagu khusus untuk satu Reels (seed = nama file). Gaya menyesuaikan akun & jenis Reels."""
+    seed = abs(hash(rel)) % (2 ** 32)
+    import zlib
+    seed = zlib.crc32(rel.encode())
+    for attempt in range(20):
+        rng = np.random.default_rng(seed + attempt)
+        name = Path(rel).stem
+        if "/kapi" in rel:
+            mood, bpm, insts = "ceria", int(rng.integers(100, 126)), [pluck, marimba]
+        elif "/eli" in rel:
+            mood = "tidur" if "malam" in name else "anak"
+            bpm = int(rng.integers(62, 76)) if mood == "tidur" else int(rng.integers(84, 104))
+            insts = [musicbox, bell, felt] if mood == "tidur" else [bell, marimba, piano]
+        else:
+            mood, bpm, insts = "teduh", int(rng.integers(56, 82)), [piano, felt, musicbox, strings]
+        key = int(rng.integers(0, 12)) + 48  # C3..B3
+        hymn = None
+        if rng.random() < 0.3:
+            hymn = {"ceria": "joyful", "anak": ["joyful", "yesus"][rng.integers(2)], "tidur": "yesus"}.get(mood, ["amazing", "yesus"][rng.integers(2)])
+        prog = PROGS[rng.integers(len(PROGS))]
+        lead = insts[rng.integers(len(insts))]
+        comp = [piano, felt, strings][rng.integers(3)] if mood != "ceria" else pluck
+        sig = (hymn, PROGS.index(prog), key % 12, bpm, lead.__name__, comp.__name__)
+        if sig not in used:
+            used.add(sig)
+            break
+    L = Lagu(bpm, seconds)
+    bpb = 3 if hymn == "amazing" else 4
+    if hymn:
+        mel, bpb, base = HYMN[hymn]
+        shift = key + 12 - base
+        notes = [(None if nm == "-" else midi(nm) + shift, d) for nm, d in mel]
+        chords = {"amazing": AMAZING_AKOR, "yesus": YESUS_AKOR, "joyful": JOYFUL_AKOR}[hymn]
+        prog = [(midi(CHORD[c][0]) % 12 - base % 12 + (4 if False else 0), "m" if c in ("Em", "Am", "Bm", "Dm") else "M") for c in chords]
+        start_offset = 1 if hymn == "amazing" else 0
+    else:
+        notes = gen_melody(rng, prog, key, 1, bpb)
+        start_offset = 0
+    b = 0
+    total_beats = seconds / L.beat + 4
+    while b < total_beats:
+        for i, (deg, q) in enumerate(prog):
+            root = key + deg % 12 + (12 if (key + deg % 12) < 52 else 0)
+            tones = [root + x for x in QUAL[q]]
+            at = b + start_offset + i * bpb
+            if mood == "ceria":
+                for k in range(bpb):
+                    L.add(bass(mhz(root - 12), L.beat * 0.45, 0.6), at + k)
+                    L.add(comp(mhz(tones[1 + k % 2]), L.beat * 0.3, 0.3), at + k + 0.5)
+                    if k % 2 == 1:
+                        L.add(clap(vel=0.6), at + k)
+                    L.add(shaker(), at + k + 0.5)
+            else:
+                L.add(felt(mhz(root - 12), bpb * L.beat, 0.35), at)
+                pat = [0, 1, 2, 1, 2, 1, 0, 1][: int(bpb / 0.5)] if rng.random() < 0.7 else [0, 2, 1, 2][:bpb]
+                step = bpb / len(pat)
+                for k, pi in enumerate(pat):
+                    L.add(comp(mhz(tones[pi % len(tones)]), step * L.beat * 1.8, 0.22 if k else 0.28), at + k * step)
+                if lead is not strings:
+                    for tn in tones[:3]:
+                        L.add(pad(mhz(tn), bpb * L.beat, 0.35), at)
+        mb = b
+        for m_note, d in notes:
+            if m_note is not None:
+                L.add(lead(mhz(m_note), d * L.beat * 0.95, 0.5), mb)
+            mb += d
+        b += max(len(prog) * bpb, mb - b)
+    wet = 0.15 if mood == "ceria" else 0.3 + 0.1 * rng.random()
+    return tulis(reverb(L.buf, 1.3 if mood == "ceria" else 2.6, wet, seed=seed % 1000), "unik/" + rel.replace("/", "_")[:-4]), sig
+
+
 # ---------- pasang ke Reels ----------
 
 def pilih_lagu(rel):
@@ -304,7 +447,8 @@ def pasang(rel, lagu):
         fc, amap = music + ";[0:a]volume=1.0[t];[m][t]amix=inputs=2:duration=first:normalize=0[a]", "[a]"
     else:
         fc, amap = music, "[m]"
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-i", str(OUT / "musik" / f"{lagu}.wav"),
+    wav = Path(lagu) if str(lagu).endswith(".wav") else OUT / "musik" / f"{lagu}.wav"
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-i", str(wav),
                     "-filter_complex", fc, "-map", "0:v", "-map", amap, "-c:v", "copy", "-c:a", "aac", "-b:a", "160k",
                     "-movflags", "+faststart", str(tmp)], check=True)
     tmp.replace(src)
@@ -315,13 +459,14 @@ def pasang_semua():
     """Semua Reels di jadwal yang belum diposting -> diberi musik. Mengembalikan daftar file yang diubah."""
     schedule = json.loads((OUT / "schedule.json").read_text())
     posted = json.loads((ROOT / "state/posted.json").read_text())
-    done, changed = set(), []
+    done, changed, used = set(), [], set()
     for it in schedule:
         for f in it["files"]:
             if f.endswith(".mp4") and f.startswith("reels/") and it["id"] not in posted and f not in done:
                 done.add(f)
-                changed.append(pasang(f, pilih_lagu(f)))
-                print(f, "<-", pilih_lagu(f))
+                wav, sig = lagu_unik(f, durasi(OUT / f) + 1, used)
+                changed.append(pasang(f, str(wav)))
+                print(f, "<-", sig)
     return changed
 
 
