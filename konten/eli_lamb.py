@@ -1,6 +1,6 @@
 """@sahabat.eli -> Eli the Lamb: domba kecil fotorealistik (gambar AI) yang hidup sehari-hari di New Zealand.
 Bahasa Inggris. Humor relatable NZ (PAK'nSAVE, cuaca, macet Auckland, dairy, pie, jandals...).
-Rohani hanya 1x seminggu: hari Minggu pagi. 3 post/hari (07:00, 12:00, 20:00 NZ), malam = Reels (zoom pelan + musik).
+Rohani hanya 1x seminggu: hari Minggu pagi. Pasangan: Ruthie (domba coklat karamel), untuk konten suami-istri. 3 post/hari (07:00, 12:00, 20:00 NZ), malam = Reels (zoom pelan + musik).
 
 Gambar dibuat di Gemini/ChatGPT dari foto referensi Eli, lalu disimpan sebagai
 output/eli_lamb/raw/<id>.jpg (atau .png), misalnya output/eli_lamb/raw/1-pagi.jpg.
@@ -10,6 +10,13 @@ Merek (PAK'nSAVE, The Warehouse, Bunnings) hanya disebut di teks; di prompt paka
 CHARACTER = ("Photorealistic fluffy white baby lamb named Eli, standing or sitting upright like a person, big gentle dark eyes, "
              "soft cream curly wool, small pink nose, slightly chubby, wholesome and funny expression, realistic fur detail, "
              "natural lighting, shot on a 50mm lens, Instagram photo, no text, no logos")
+
+PARTNER = ("Ruthie, Eli's wife: a photorealistic fluffy caramel-brown lamb, standing or sitting upright like a person, "
+           "long eyelashes, big warm brown eyes, soft light-brown curly wool, a small pastel flower tucked behind one ear, "
+           "sassy but sweet expression, same realistic style and size as Eli, no text, no logos")
+COUPLE = ("Two photorealistic lambs as a married couple: Eli (fluffy WHITE lamb, big gentle dark eyes) and his wife Ruthie "
+          "(fluffy CARAMEL-BROWN lamb with long eyelashes and a small pastel flower behind one ear), upright like people, "
+          "realistic fur, natural lighting, 50mm lens, Instagram photo, no text, no logos")
 
 TAGS = "#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb"
 FAITH_TAGS = "#newzealand #kiwi #sundayvibes #faith #psalm23 #goodshepherd #lamb #elithelamb"
@@ -88,8 +95,42 @@ _DATA = [
      "See you at church tomorrow? 😄👔\n\nWhat time is your Sunday service?", False),
 ]
 
+# versi pasangan (Eli & Ruthie) untuk beberapa post: (hari, slot) -> (teks, adegan, caption)
+COUPLE_POSTS = {
+    (1, 'pagi2'): ("Me: we're only getting milk.\nHer: grabs the biggest trolley.",
+        'Ruthie happily pushing a giant shopping trolley into a big discount supermarket with yellow signage while Eli walks behind holding one bottle of milk, looking worried, car park',
+        "Every PAK'nSAVE trip ever 🛒😅\n\nTag the one who always grabs the trolley."),
+    (2, 'malam'): ("Her: it's freezing.\nMe: put on a jumper.\nHer: turns the heater to 28.",
+        'Ruthie wrapped in a blanket turning up a heater with a satisfied smile, Eli beside her in a jumper holding the power bill with a horrified face, cosy NZ lounge at night',
+        'Every Kiwi winter argument ❄️⚡\n\nTeam jumper or team heater?'),
+    (3, 'malam'): ("Her: it's just a game.\nMe during the rugby:",
+        'Eli on the couch clutching a cushion, screaming at a TV showing a rugby match, Ruthie next to him calmly sipping tea and rolling her eyes, snacks everywhere',
+        "It's NOT just a game 🏉😤\n\nTag your rugby-watching partner."),
+    (4, 'malam'): ("Him: I'll fold it later.\nThe laundry, 3 weeks later:",
+        'Ruthie with hands on hips staring at Eli, who is buried under a giant mountain of unfolded laundry on the bed with only his face showing, evening light',
+        "“Later” is a very flexible word 🧺😂\n\nWho's the folder in your house?"),
+    (5, 'pagi2'): ("Her: I'm just grabbing one thing.\nThe trolley 40 minutes later:",
+        'Ruthie happily pushing an overflowing trolley full of cushions, candles, snacks and a lamp in a big red discount store aisle, Eli following with a tired face',
+        "One thing. That was the plan. 🛍️\n\nWhat's always in your basket?"),
+    (6, 'pagi2'): ("Her: I'm not hungry.\nAlso her: eats half my chips.",
+        "Eli and Ruthie sitting on a beach bench, Ruthie sneakily eating chips from Eli's fish and chips paper while he looks at her in disbelief, seagulls watching, sunny NZ beach",
+        'Every. Single. Time. 🍟😂\n\nTag the chip thief in your life.'),
+    (6, 'malam'): ('Date night before marriage: dinner out.\nDate night now: couch, blanket,\nasleep by 9:30.',
+        'Eli and Ruthie asleep together on a couch under one blanket, a bag of chips and the TV still on, cosy living room at night',
+        'Honestly? Best date ever 😴💕\n\nWhat does date night look like for you?'),
+    (7, 'pagi'): ("Her: we don't need anything.\nAlso her: $64 of fancy cheese.",
+        'Ruthie at a sunny outdoor farmers market stall holding several blocks of fancy cheese and a jar of honey, Eli holding the wallet with a shocked face',
+        "Farmers market math 🧀💸\n\nWhat's your must-buy at the market?"),
+    (7, 'malam'): ('Her: which outfit, this one or this one?\nMe: the first one.\nHer: wears the third one.',
+        'Ruthie in front of a wardrobe holding up two little dresses with three more on the bed, Eli sitting on the bed looking confused, bedroom at night',
+        'Getting ready for church tomorrow 😄👗\n\nSee you Sunday? What time is your service?'),
+}
+
 POSTS = []
 for hari, slot, teks, adegan, caption, faith in _DATA:
-    POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam",
-                  "prompt": f"{CHARACTER}. Scene: {adegan}.",
+    pasangan = (hari, slot) in COUPLE_POSTS
+    if pasangan:
+        teks, adegan, caption = COUPLE_POSTS[(hari, slot)]
+    POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam", "pasangan": pasangan,
+                  "prompt": f"{COUPLE if pasangan else CHARACTER}. Scene: {adegan}.",
                   "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})

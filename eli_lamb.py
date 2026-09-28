@@ -131,7 +131,8 @@ def prompts_html():
     rows = []
     for p in el.POSTS:
         done = "✅" if raw_path(p["id"]) else "⬜"
-        rows.append(f"""<div class="card"><div class="head">{done} <b>{p['id']}.jpg</b> · {days[p['hari'] - 1]} · {p['slot']}
+        who = "👫 Eli + Ruthie (upload kedua foto referensi)" if p.get("pasangan") else "🐑 Eli"
+        rows.append(f"""<div class="card"><div class="head">{done} <b>{p['id']}.jpg</b> · {days[p['hari'] - 1]} · {p['slot']} · {who}
 <span class="meme">{html.escape(p['teks']).replace(chr(10), ' / ')}</span></div>
 <textarea readonly>{html.escape(p['prompt'])}</textarea><button onclick="copyText(this)">Copy prompt</button></div>""")
     page = f"""<!DOCTYPE html><html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -143,8 +144,12 @@ textarea{{width:100%;box-sizing:border-box;height:92px;font-size:13px;border:1px
 button{{margin-top:6px;padding:8px 14px;border:0;border-radius:6px;background:#1b1b1b;color:#fff;font-size:14px}}
 .ref{{background:#fff8e6}}</style></head><body>
 <h1>🐑 Eli the Lamb — prompt minggu 4–10 Okt</h1>
-<div class="card ref"><b>1. Foto referensi (sekali saja)</b><br>Buat di Gemini, pilih yang paling lucu, simpan. Untuk semua post berikutnya: upload foto ini + tempel prompt adegannya, dan tambahkan kalimat <i>"Use the attached lamb as the exact same character."</i>
+<div class="card ref"><b>1. Foto referensi (sekali saja)</b><br>Buat di Gemini, pilih yang paling lucu, simpan. Untuk semua post berikutnya: upload foto ini (dan foto Ruthie untuk post 👫) + tempel prompt adegannya, dan tambahkan kalimat <i>"Use the attached lambs as the exact same characters."</i>
 <textarea readonly>{html.escape(el.CHARACTER)}. Full body, plain soft background, character reference photo.</textarea><button onclick="copyText(this)">Copy prompt</button></div>
+<div class="card ref"><b>1b. Foto referensi Ruthie (istri Eli, sekali saja)</b><br>Upload foto Eli juga dan tambahkan <i>"same style and size as the attached lamb, but a different character"</i>.
+<textarea readonly>{html.escape(el.PARTNER)}. Full body, plain soft background, character reference photo.</textarea><button onclick="copyText(this)">Copy prompt</button></div>
+<div class="card ref"><b>1c. Foto berdua (opsional, bagus untuk foto profil)</b><br>Upload kedua referensi, lalu:
+<textarea readonly>{html.escape(el.COUPLE)}. Scene: Eli and Ruthie sitting close together on a wooden bench on a green New Zealand hillside at golden hour, smiling at the camera, couple portrait.</textarea><button onclick="copyText(this)">Copy prompt</button></div>
 <p><b>2. Tiap post:</b> simpan hasilnya dengan nama file di kartu (misalnya <code>1-pagi.jpg</code>) lalu kirim ke Mac, folder <code>konten-rohani-instagram/output/eli_lamb/raw/</code>. Teks meme ditambahkan otomatis, jadi gambarnya harus tanpa tulisan.</p>
 {''.join(rows)}
 <script>function copyText(b){{const t=b.previousElementSibling;t.select();navigator.clipboard.writeText(t.value);b.textContent='Copied ✓';setTimeout(()=>b.textContent='Copy prompt',1500)}}</script>
