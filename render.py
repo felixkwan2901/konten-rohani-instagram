@@ -1099,6 +1099,8 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                       "files": [reel_or_image(f"reels/kapi/hari{day + 1}.mp4", rel)],
                       "caption": p["caption"].format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi.TAGS})
     items += minggu_kedua(at)
+    if config.AKUN["eli"].get("pause_lama"):  # Eli lama (kartun) dipause; hanya Eli & Ruthie (gambar AI) yang diposting
+        items = [it for it in items if it["akun"] != "eli" or it["id"].startswith("eli_lamb")]
     if config.STORY_OTOMATIS:
         items = add_stories(items)
     items.sort(key=lambda x: x["waktu"])
