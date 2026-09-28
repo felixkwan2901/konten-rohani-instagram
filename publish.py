@@ -75,7 +75,13 @@ def publish(item, user_id, token, base_url):
         creation = api("POST", f"{user_id}/media", media_type="CAROUSEL", children=",".join(children),
                        caption=item["caption"], access_token=token)["id"]
     wait_ready(creation, token)
-    return api("POST", f"{user_id}/media_publish", creation_id=creation, access_token=token)["id"]
+    for attempt in range(3):  # kadang Instagram belum "melihat" container-nya (error 2207006): tunggu lalu coba lagi
+        try:
+            return api("POST", f"{user_id}/media_publish", creation_id=creation, access_token=token)["id"]
+        except RuntimeError as e:
+            if attempt == 2 or not any(k in str(e) for k in ("2207006", "2207027", "is_transient\":true")):
+                raise
+            time.sleep(20)
 
 
 def main():
