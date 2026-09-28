@@ -177,7 +177,7 @@ SARAN = [
      "tips": [("Nightlights are okay", "Lots of brave people sleep with a little light on!"),
               ("Say a bedtime verse", "Pick one short verse and say it every night."),
               ("Pray for someone else", "Thinking about others helps our hearts feel calm."),
-              ("Talk about bad dreams", "Tell a parent in the morning. Dreams are not real.")],
+              ("Talk about bad dreams", "Tell a parent in the morning. Bad dreams can't hurt you.")],
      "ayat": "“I laid me down and slept; I awaked; for the LORD sustained me.”", "ref": "Psalm 3:5",  # KJV
      "caption": "Eli's tips for being brave at bedtime 🌙\n\n1. Nightlights are totally okay\n2. Say a bedtime verse\n3. Pray for someone else\n4. Talk about bad dreams in the morning\n\n📖 Psalm 3:5\n\nParents: what's your family's bedtime routine? Share your tips below 👇"},
     {"judul": "Sunday school memories",

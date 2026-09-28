@@ -6,7 +6,7 @@ Kutipan ayat: Alkitab Terjemahan Baru (TB)."""
 TAGS = "#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi"
 
 FAKTA = [
-    {"tema": "perkamen", "judul": "Ada satu kitab di Alkitab yang tidak menyebut nama Allah sekali pun.",
+    {"tema": "perkamen", "judul": "Dalam teks Ibraninya, kitab Ester tidak menyebut nama Allah sekali pun.",
      "isi": "Kitab Ester. Tapi tangan Tuhan terasa di setiap “kebetulan” dalam kisahnya.", "ref": "Kitab Ester",
      "caption": "Satu kitab penuh, tanpa sekali pun menyebut nama Allah. Itulah kitab Ester 📜\n\nTapi baca kisahnya: raja yang tidak bisa tidur, waktu yang pas, orang yang tepat di tempat yang tepat. Tuhan bekerja, bahkan saat Ia tidak disebut.\n\nPernah mengalami “kebetulan” yang ternyata cara Tuhan? Cerita di komentar 👇"},
     {"tema": "malam", "judul": "Alkitab mencatat ukuran ranjang seorang raja raksasa.",
@@ -15,15 +15,15 @@ FAKTA = [
     {"tema": "gurun", "judul": "Pasal terpendek dan terpanjang di Alkitab hampir bersebelahan.",
      "isi": "Mazmur 117 hanya 2 ayat. Dua pasal kemudian, Mazmur 119 punya 176 ayat.", "ref": "Mazmur 117 · Mazmur 119",
      "caption": "Mazmur 117 cuma 2 ayat. Mazmur 119 ada 176 ayat. Jaraknya hanya satu pasal 😮\n\nYang pendek mengajak semua bangsa memuji TUHAN. Yang panjang memuji firman-Nya dari awal sampai akhir.\n\nCoba baca Mazmur 117 sekarang, cuma 20 detik. Sudah? Ketik “AMIN” 🙏"},
-    {"tema": "mata_air", "judul": "Seorang mayat hidup kembali setelah menyentuh tulang Nabi Elisa.",
+    {"tema": "mata_air", "judul": "Sesosok jenazah hidup kembali setelah menyentuh tulang Nabi Elisa.",
      "isi": "Jenazah itu dilemparkan ke kubur Elisa. Begitu kena tulangnya, orang itu hidup kembali dan berdiri.", "ref": "2 Raja-raja 13:21",
      "caption": "Salah satu mukjizat paling aneh di Alkitab: bahkan setelah Elisa meninggal, Tuhan masih bekerja 🤯\n\nSebuah jenazah dilemparkan ke kuburnya, menyentuh tulang Elisa, lalu hidup kembali dan berdiri.\n\n📖 2 Raja-raja 13:21\n\nKuasa itu bukan milik Elisa, tapi milik Tuhan. Pernah dengar kisah ini? PERNAH / BARU TAHU 👇"},
     {"tema": "debu", "judul": "Raja Salomo menggubah 3.000 amsal dan 1.005 nyanyian.",
      "isi": "Hanya sebagian kecil yang sampai kepada kita di dalam Alkitab.", "ref": "1 Raja-raja 4:32",
      "caption": "3.000 amsal. 1.005 nyanyian. Itu karya Salomo menurut 1 Raja-raja 4:32 ✍️\n\nYang tercatat di Alkitab hanya sebagian kecilnya. Hikmat itu karunia dari Tuhan, bukan hasil kepintaran semata (1 Raja-raja 4:29).\n\nAmsal favoritmu yang mana? Tulis di komentar 👇"},
     {"tema": "laut", "judul": "Ada 700 prajurit kidal yang bisa mengumban batu tanpa meleset sehelai rambut pun.",
-     "isi": "Mereka dari suku Benyamin. Yang dianggap “beda” justru jadi keahlian.", "ref": "Hakim-hakim 20:16",
-     "caption": "700 orang kidal, dan tidak meleset sehelai rambut pun 🎯\n\n📖 Hakim-hakim 20:16\n\nDetail kecil ini mengingatkan: apa yang orang anggap “beda” darimu bisa jadi justru keahlianmu.\n\nTag temanmu yang kidal 😄👇"},
+     "isi": "Mereka dari suku Benyamin, dalam kisah perang saudara yang tragis (Hakim-hakim 20). Detail kecil yang menunjukkan Alkitab mencatat sejarah dengan jujur.", "ref": "Hakim-hakim 20:16",
+     "caption": "700 orang kidal, dan tidak meleset sehelai rambut pun 🎯\n\n📖 Hakim-hakim 20:16\n\nDetail kecil dari kisah perang saudara yang tragis di Hakim-hakim 20. Alkitab mencatat sejarah umat-Nya dengan jujur, termasuk bagian yang kelam.\n\nTag temanmu yang kidal 😄👇"},
     {"tema": "plum", "judul": "Tuhan memenuhi seorang seniman dengan Roh-Nya… untuk membuat karya seni.",
      "isi": "Namanya Bezaleel. Ia dipenuhi Roh Allah dengan keahlian untuk mengerjakan emas, perak, tembaga, batu, dan kayu.", "ref": "Keluaran 31:2-5",
      "caption": "Salah satu orang yang Alkitab sebut dipenuhi Roh Allah adalah… seorang pengrajin 🎨\n\nBezaleel diberi keahlian untuk membuat perabot Kemah Suci dari emas, perak, tembaga, batu, dan kayu.\n\n📖 Keluaran 31:2-5\n\nBakatmu juga bisa jadi ibadah. Kamu pandai di bidang apa? 👇"},

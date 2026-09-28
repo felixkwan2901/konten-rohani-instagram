@@ -61,7 +61,7 @@ POSTS = [
     {
         "warna": "krem",
         "hook": "Kamu akan melewatinya.",
-        "masalah": ["Airnya tinggi.", "Apinya panas.", "", "Tuhan tidak bilang", "kamu tidak akan melewatinya."],
+        "masalah": ["Airnya tinggi.", "Apinya panas.", "", "Tuhan tidak janji jalannya kering.", "Dia janji menyertaimu."],
         "ayat": "“Apabila engkau menyeberang melalui air, Aku akan menyertai engkau, atau melalui sungai-sungai, engkau tidak akan dihanyutkan; apabila engkau berjalan melalui api, engkau tidak akan dihanguskan, dan nyala api tidak akan membakar engkau.”",
         "ref": "Yesaya 43:2",
         "refleksi": ["Dia tidak berjanji jalannya mudah.", "", "Dia berjanji", "kamu tidak melewatinya sendirian."],
@@ -117,7 +117,7 @@ DINDING = [
      "caption": "Temukan pesannya 👀\n\nBersyukur untuk hal kecil: kopi hangat, pesan dari teman, napas yang masih ada.\n\n📖 “Pujilah TUHAN, hai jiwaku, dan janganlah lupakan segala kebaikan-Nya!” — Mazmur 103:2\n\nTulis satu hal kecil yang kamu syukuri hari ini 👇"},
     {"bg": "#C62F2F", "teks": "#7E1414", "kalimat": "DOAKAN LALU LEPASKAN BIAR TUHAN BEKERJA",
      "sorot": ["DOAKAN", "LEPASKAN", "TUHAN", "BEKERJA"],
-     "caption": "Coba temukan kata yang menyala 👀\n\nDoakan. Lepaskan. Biar Tuhan bekerja.\n\n📖 “Bapa-Ku bekerja sampai sekarang, maka Aku pun bekerja juga.” — Yohanes 5:17\n\nKetik “AKU LEPASKAN” kalau ada yang mau kamu serahkan hari ini 🤍"},
+     "caption": "Coba temukan kata yang menyala 👀\n\nDoakan. Lepaskan. Biar Tuhan bekerja.\n\n📖 “Serahkanlah hidupmu kepada TUHAN dan percayalah kepada-Nya, dan Ia akan bertindak.” — Mazmur 37:5\n\nKetik “AKU LEPASKAN” kalau ada yang mau kamu serahkan hari ini 🤍"},
     {"bg": "#8C2F39", "teks": "#A34450", "kalimat": "KASIH-NYA LEBIH BESAR DARI KESALAHANMU",
      "sorot": ["KASIH-NYA", "LEBIH", "BESAR", "KESALAHANMU"],
      "caption": "Temukan pesannya 👀\n\nKasih-Nya lebih besar dari kesalahanmu.\n\n📖 “Jika kita mengaku dosa kita, maka Ia adalah setia dan adil, sehingga Ia akan mengampuni segala dosa kita dan menyucikan kita dari segala kejahatan.” — 1 Yohanes 1:9\n\nSave untuk hari kamu merasa gagal 🔖"},

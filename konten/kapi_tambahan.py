@@ -24,7 +24,7 @@ KATA = [
      "caption": "prosesnya lama? itu bukan berarti Tuhan lupa ⏳\n\n“Adalah baik menanti dengan diam pertolongan TUHAN.” — Ratapan 3:26\n\nketik ⏳ kalau kamu lagi nunggu sesuatu"},
     {"bg": "#F4F4F2", "atas": "ngerasa kurang terus?", "besar": "CUKUP", "bawah": "kasih karunia-Nya.", "ekspresi": "merem", "properti": "alkitab",
      "caption": "nggak perlu jadi versi paling hebat buat dikasihi 🤍\n\n“Cukuplah kasih karunia-Ku bagimu.” — 2 Korintus 12:9\n\nkirim ke temen yang suka ngerasa kurang"},
-    {"bg": "#1E9BD7", "atas": "kemarin gagal?", "besar": "BARU", "bawah": "hari ini lembaran.", "ekspresi": "semangat", "properti": "jeruk",
+    {"bg": "#1E9BD7", "atas": "kemarin gagal? hari ini lembaran", "besar": "BARU", "bawah": "mulai lagi, yuk.", "ekspresi": "semangat", "properti": "jeruk",
      "caption": "gagal kemarin nggak menentukan hari ini 🍊\n\n“Jadi siapa yang ada di dalam Kristus, ia adalah ciptaan baru: yang lama sudah berlalu, sesungguhnya yang baru sudah datang.” — 2 Korintus 5:17\n\nketik “BARU” buat mulai lagi hari ini"},
     {"bg": "#111111", "atas": "lagi di masa gelap?", "besar": "TERANG", "bawah": "tetap bersinar.", "ekspresi": "senang", "properti": "bintang",
      "caption": "gelap bukan berarti Dia nggak ada ✨\n\n“Akulah terang dunia; barangsiapa mengikut Aku, ia tidak akan berjalan dalam kegelapan, melainkan ia akan mempunyai terang hidup.” — Yohanes 8:12\n\nsave & share 🔖"},
@@ -89,7 +89,7 @@ PILIH = [
     {"bg": "#F26B1D", "a": "Alkitab cetak", "b": "Alkitab di HP", "ekspresi": "senang",
      "caption": "PILIH SATU 👇\n\nA = Alkitab cetak 📖\nB = Alkitab di aplikasi HP 📱\n\nyang penting dibaca, bukan cuma dipajang 😂\n\n“Firman-Mu itu pelita bagi kakiku dan terang bagi jalanku.” — Mazmur 119:105"},
     {"bg": "#111111", "a": "doa sendiri", "b": "doa bareng-bareng", "ekspresi": "semangat",
-     "caption": "PILIH SATU 👇\n\nA = doa sendiri 🙇\nB = doa bareng-bareng 🙌\n\ndua-duanya penting sih. tapi kamu lebih nyaman yang mana?\n\n“Sebab di mana dua atau tiga orang berkumpul dalam Nama-Ku, di situ Aku ada di tengah-tengah mereka.” — Matius 18:20"},
+     "caption": "PILIH SATU 👇\n\nA = doa sendiri 🙇\nB = doa bareng-bareng 🙌\n\ndua-duanya penting sih. tapi kamu lebih nyaman yang mana?\n\n“Mereka bertekun dalam pengajaran rasul-rasul dan dalam persekutuan. Dan mereka selalu berkumpul untuk memecahkan roti dan berdoa.” — Kisah Para Rasul 2:42"},
 ]
 
 # hari 2..7: slot -> (format, indeks). "wallpaper" = carousel wallpaper set1 yang sudah ada.

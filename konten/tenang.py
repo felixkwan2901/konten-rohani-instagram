@@ -206,7 +206,7 @@ DINDING = [
      "caption": "Coba temukan kata yang menyala 👀\n\n📖 “Sekalipun aku berjalan dalam lembah kekelaman, aku tidak takut bahaya, sebab Engkau besertaku.” — Mazmur 23:4\n\nSave untuk hari yang menakutkan 🔖"},
     {"bg": "#E9D8C4", "teks": "#D2BFA8", "kalimat": "SATU HARI SAJA BERSAMA TUHAN",
      "sorot": ["SATU", "HARI", "BERSAMA", "TUHAN"],
-     "caption": "Temukan pesannya 👀\n\nSatu hari saja, bersama Tuhan. Besok urusan besok.\n\n📖 “Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang bijaksana.” — Mazmur 90:12"},
+     "caption": "Temukan pesannya 👀\n\nSatu hari saja, bersama Tuhan. Besok urusan besok.\n\n📖 “Sebab itu janganlah kamu kuatir akan hari besok, karena hari besok mempunyai kesusahannya sendiri. Kesusahan sehari cukuplah untuk sehari.” — Matius 6:34"},
     {"bg": "#1F3A5F", "teks": "#34578A", "kalimat": "DIA TAHU DIA PEDULI DIA DEKAT",
      "sorot": ["DIA", "TAHU", "PEDULI", "DEKAT"],
      "caption": "Temukan pesannya 👀\n\nDia tahu. Dia peduli. Dia dekat.\n\n📖 “TUHAN dekat pada setiap orang yang berseru kepada-Nya.” — Mazmur 145:18\n\nKetik 🤍 kalau kamu butuh diingatkan ini."},

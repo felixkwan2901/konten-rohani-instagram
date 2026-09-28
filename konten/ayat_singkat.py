@@ -4,7 +4,7 @@ Supaya tidak semua post berupa carousel panjang. Kutipan ayat: Alkitab TB."""
 TAGS = "#faktaalkitab #ayatalkitab #alkitab #kristenindonesia #belajaralkitab #ayattersembunyi"
 
 FAKTA = [
-    {"tema": "perkamen", "judul": "Ayat terpendek di Alkitab kita hanya 3 kata.",
+    {"tema": "perkamen", "judul": "Salah satu ayat terpendek di Alkitab: hanya 3 kata.",
      "isi": "“Maka menangislah Yesus.” Ia tahu Lazarus akan dibangkitkan, tapi Ia tetap menangis bersama yang berduka.", "ref": "Yohanes 11:35",
      "caption": "3 kata, tapi dalam banget: “Maka menangislah Yesus.” 🤍\n\nYesus tahu Lazarus akan Ia bangkitkan, tapi Ia tetap ikut menangis bersama yang berduka.\n\nPernah merasa Tuhan tidak peduli dengan air matamu? Ayat ini jawabannya."},
     {"tema": "malam", "judul": "Orang dengan umur terpanjang di Alkitab: 969 tahun.",
@@ -21,5 +21,5 @@ FAKTA = [
      "caption": "Detail kecil yang jarang diperhatikan: keledai itu belum pernah ditunggangi orang (Markus 11:2) 🫏\n\nYesus datang ke Yerusalem bukan dengan kuda perang, tapi dengan keledai muda. Raja yang datang membawa damai.\n\nPernah dengar detail ini sebelumnya? PERNAH / BARU TAHU 👇"},
     {"tema": "debu", "judul": "“Jangan takut” adalah kalimat yang berulang kali Tuhan ucapkan.",
      "isi": "Kepada Abraham, kepada Maria, kepada para gembala… dan kepadamu hari ini.", "ref": "Kejadian 15:1 · Lukas 1:30 · Lukas 2:10",
-     "caption": "“Jangan takut.” Tuhan mengatakannya kepada Abraham, kepada Maria, kepada para gembala… dan hari ini, kepadamu 🤍\n\n📖 Kejadian 15:1 · Lukas 1:30 · Lukas 2:10\n\nApa yang sedang kamu takutkan? Tulis satu kata saja, kita doakan 🙏"},
+     "caption": "“Jangan takut.” Tuhan menyampaikannya kepada Abraham, dan lewat malaikat-Nya kepada Maria dan para gembala… dan hari ini, kepadamu 🤍\n\n📖 Kejadian 15:1 · Lukas 1:30 · Lukas 2:10\n\nApa yang sedang kamu takutkan? Tulis satu kata saja, kita doakan 🙏"},
 ]

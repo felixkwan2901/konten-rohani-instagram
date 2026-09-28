@@ -971,9 +971,9 @@ Gambar (urut): `output/stories/ayat-fakta-2.jpg`
 Gambar (urut): `output/eli/edukasi2_1.jpg`, `output/eli/edukasi2_2.jpg`, `output/eli/edukasi2_3.jpg`, `output/eli/edukasi2_4.jpg`
 
 ```
-Kenalan lagi sama Eli! Nama Eli berasal dari Elia, artinya kurang lebih “Allahku adalah TUHAN” 💙
+Kenalan lagi sama Eli! Nama Eli diambil dari nama Elia, artinya kurang lebih “Allahku adalah TUHAN” 💙
 
-Di Alkitab juga ada Imam Eli yang membesarkan Samuel kecil. Seru ya?
+Di Alkitab juga ada Imam Eli (nama yang berbeda), yang membesarkan Samuel kecil. Seru ya?
 
 Kamu tahu arti namamu sendiri? Tulis di komentar 👇
 .
@@ -1751,7 +1751,7 @@ Temukan pesannya 👀
 
 Satu hari saja, bersama Tuhan. Besok urusan besok.
 
-📖 “Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang bijaksana.” — Mazmur 90:12
+📖 “Sebab itu janganlah kamu kuatir akan hari besok, karena hari besok mempunyai kesusahannya sendiri. Kesusahan sehari cukuplah untuk sehari.” — Matius 6:34
 .
 .
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
@@ -3265,7 +3265,7 @@ Gambar (urut): `output/stories/tenang-7-pagi3.jpg`
 Gambar (urut): `output/ayat_singkat/fakta6.jpg`
 
 ```
-“Jangan takut.” Tuhan mengatakannya kepada Abraham, kepada Maria, kepada para gembala… dan hari ini, kepadamu 🤍
+“Jangan takut.” Tuhan menyampaikannya kepada Abraham, dan lewat malaikat-Nya kepada Maria dan para gembala… dan hari ini, kepadamu 🤍
 
 📖 Kejadian 15:1 · Lukas 1:30 · Lukas 2:10
 
@@ -3437,7 +3437,7 @@ Gambar (urut): `output/stories/tenang-7-siang.jpg`
 Gambar (urut): `output/ayat_minggu2/hari5_1.jpg`, `output/ayat_minggu2/hari5_2.jpg`, `output/ayat_minggu2/hari5_3.jpg`, `output/ayat_minggu2/hari5_4.jpg`, `output/ayat_minggu2/hari5_5.jpg`, `output/ayat_minggu2/hari5_6.jpg`
 
 ```
-Salah satu ironi paling tajam di Alkitab: para pelaut kafir berdoa, sang nabi Allah tertidur nyenyak ⛈️
+Salah satu ironi paling tajam di Alkitab: para pelaut penyembah berhala berdoa, sang nabi Allah tertidur nyenyak ⛈️
 
 Yunus 1:4-16. Tuhan mengirim badai. Awak kapal berteriak kepada allah mereka, sementara Yunus tidur di ruang kapal paling bawah. Nakhoda kafir yang harus membangunkan nabi untuk berdoa.
 
@@ -3749,7 +3749,7 @@ B = doa bareng-bareng 🙌
 
 dua-duanya penting sih. tapi kamu lebih nyaman yang mana?
 
-“Sebab di mana dua atau tiga orang berkumpul dalam Nama-Ku, di situ Aku ada di tengah-tengah mereka.” — Matius 18:20
+“Mereka bertekun dalam pengajaran rasul-rasul dan dalam persekutuan. Dan mereka selalu berkumpul untuk memecahkan roti dan berdoa.” — Kisah Para Rasul 2:42
 .
 .
 #kapi #kristen #anakmudakristen #renungan #ayatalkitab #kristenindonesia #humorkristen
@@ -4737,7 +4737,7 @@ Tag seseorang yang perlu dengar ini 👇
 Gambar (urut): `output/reels/kapi_w2/kata10.mp4`
 
 ```
-Tuhan tau kapasitasmu, bahkan lebih dari kamu sendiri 🫂
+lagi dicobai? Allah setia, dan Dia nggak ninggalin kamu tanpa jalan keluar 🫂
 
 “…Allah setia dan karena itu Ia tidak akan membiarkan kamu dicobai melampaui kekuatanmu. Pada waktu kamu dicobai Ia akan memberikan kepadamu jalan ke luar, sehingga kamu dapat menanggungnya.” — 1 Korintus 10:13
 
@@ -4992,7 +4992,7 @@ Gambar (urut): `output/kapi_w2/kata3.jpg`
 tangan dingin, suara gemeter, slide belum selesai 😭
 tenang, kamu nggak masuk ruangan itu sendirian 🍊
 
-“…kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau, ke mana pun engkau pergi.” — Yosua 1:9
+“…Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau, ke mana pun engkau pergi.” — Yosua 1:9
 
 tag temen yang hari ini mau presentasi / interview 👇
 .
@@ -5787,7 +5787,7 @@ Gambar (urut): `output/stories/eli_w2-4-sore.jpg`
 Gambar (urut): `output/ayat_minggu3/hari3_1.jpg`, `output/ayat_minggu3/hari3_2.jpg`, `output/ayat_minggu3/hari3_3.jpg`, `output/ayat_minggu3/hari3_4.jpg`, `output/ayat_minggu3/hari3_5.jpg`, `output/ayat_minggu3/hari3_6.jpg`
 
 ```
-Kenapa satu kota kafir yang kejam mau mendengarkan nabi dari negeri musuhnya? 🤔
+Kenapa satu kota penyembah berhala yang kejam mau mendengarkan nabi dari negeri musuhnya? 🤔
 
 Yesus berkata Yunus menjadi “tanda” untuk orang Niniwe (Lukas 11:30). Menariknya, relief di istana Asyur menggambarkan sosok bijak berjubah kulit ikan, dan tanda tulisan paku untuk nama Niniwe menyerupai ikan di dalam bangunan.
 
@@ -6130,7 +6130,7 @@ Gambar (urut): `output/stories/eli_w2-5-pagi2.jpg`
 Gambar (urut): `output/kapi_w2/kata5.jpg`
 
 ```
-bukan karena kamu super, tapi karena Dia yang kasih kekuatan 💪
+bukan jaminan semua beres, tapi Dia kasih kekuatan buat bertahan 💪
 
 “Segala perkara dapat kutanggung di dalam Dia yang memberi kekuatan kepadaku.” — Filipi 4:13
 
@@ -6199,7 +6199,7 @@ Gambar (urut): `output/stories/ayat_w2-fakta-5.jpg`
 Gambar (urut): `output/tenang_keren2/relatable9.jpg`
 
 ```
-Imannya langsung naik level 😂🙏
+Tanda paling jelas tetap firman, doa, dan nasihat orang dewasa rohani 😂🙏
 
 Tag teman yang lagi nunggu “tanda” 👇
 .
@@ -6437,7 +6437,7 @@ Coba temukan kata yang menyala 👀
 
 Doakan. Lepaskan. Biar Tuhan bekerja.
 
-📖 “Bapa-Ku bekerja sampai sekarang, maka Aku pun bekerja juga.” — Yohanes 5:17
+📖 “Serahkanlah hidupmu kepada TUHAN dan percayalah kepada-Nya, dan Ia akan bertindak.” — Mazmur 37:5
 
 Ketik “AKU LEPASKAN” kalau ada yang mau kamu serahkan hari ini 🤍
 .
@@ -6749,7 +6749,7 @@ Gambar (urut): `output/ayat_w2/fakta6.jpg`
 
 📖 Hakim-hakim 20:16
 
-Detail kecil ini mengingatkan: apa yang orang anggap “beda” darimu bisa jadi justru keahlianmu.
+Detail kecil dari kisah perang saudara yang tragis di Hakim-hakim 20. Alkitab mencatat sejarah umat-Nya dengan jujur, termasuk bagian yang kelam.
 
 Tag temanmu yang kidal 😄👇
 .
@@ -7500,11 +7500,11 @@ Gambar (urut): `output/stories/eli_w2-7-sore.jpg`
 Gambar (urut): `output/ayat_minggu3/hari6_1.jpg`, `output/ayat_minggu3/hari6_2.jpg`, `output/ayat_minggu3/hari6_3.jpg`, `output/ayat_minggu3/hari6_4.jpg`, `output/ayat_minggu3/hari6_5.jpg`, `output/ayat_minggu3/hari6_6.jpg`
 
 ```
-Ada satu frasa yang muncul 4 kali di kitab Yunus dan jarang disadari: “atas penentuan TUHAN” 🌿
+Ada satu frasa yang muncul 4 kali di kitab Yunus dan jarang disadari: “atas penentuan TUHAN” (atau “Allah”) 🌿
 
 Atas penentuan TUHAN datanglah ikan (1:17), tumbuhlah pohon jarak (4:6), datanglah seekor ulat (4:7), dan bertiuplah angin timur (4:8). Yang menyelamatkan, yang menghibur, dan yang mengecewakan, semuanya ada di tangan-Nya.
 
-Lalu Tuhan menunjukkan isi hati Yunus: ia menangisi sebatang pohon, tapi tidak peduli pada satu kota penuh manusia (4:10).
+Lalu Tuhan menunjukkan isi hati Yunus: ia sayang pada sebatang pohon, tapi tidak peduli pada satu kota penuh manusia (4:10).
 
 “Pohon jarak” apa yang paling kamu sayangi sekarang? Jawab dalam hati, atau tulis di komentar.
 

@@ -59,7 +59,7 @@ POSTS = [
              ("kutip", "“Tetapi Yunus bersiap untuk melarikan diri ke Tarsis, jauh dari hadapan TUHAN; ia pergi ke Yafo dan mendapat di sana sebuah kapal, yang akan berangkat ke Tarsis. Ia membayar biaya perjalanannya…”"),
              ("ref", "Yunus 1:3")],
             [("label", "Bukan tersesat. Disengaja."),
-             ("teks", "Niniwe ada di timur, sekitar 900 km lewat darat. Tarsis ada di barat, di ujung dunia yang dikenal saat itu (kemungkinan di Spanyol)."),
+             ("teks", "Niniwe ada di timur, sekitar 900 km garis lurus, lebih jauh lagi lewat darat. Tarsis ada di barat, di ujung dunia yang dikenal saat itu (kemungkinan di Spanyol)."),
              ("teks", "Arahnya berlawanan 180 derajat.")],
             [("sub", "Pelajarannya", 30),
              ("poin", "1.  Lari dari Tuhan selalu ada harganya, dan kita sendiri yang membayarnya."),
@@ -96,7 +96,7 @@ POSTS = [
     {   # 12 — pelaut berdoa, nabi tidur
         "tema": "badai",
         "slides": [
-            [("judul", "Saat badai datang,", 0), ("judul", "para pelaut kafir berdoa.", 30), ("judul2", "Sang nabi tertidur.", 50),
+            [("judul", "Saat badai datang,", 0), ("judul", "para pelaut penyembah berhala berdoa.", 30), ("judul2", "Sang nabi tertidur.", 50),
              ("kecil", "Seri Yunus · bagian 5")],
             [("label", "Badai itu bukan kebetulan"),
              ("kutip", "“Tetapi TUHAN menurunkan angin ribut ke laut, lalu terjadilah badai besar, sehingga kapal itu hampir-hampir terpukul hancur.”"),
@@ -112,10 +112,10 @@ POSTS = [
              ("poin", "1.  Orang yang belum mengenal Tuhan kadang lebih peka daripada kita."),
              ("poin", "2.  Tuhan tetap bekerja, bahkan lewat orang yang sedang lari dari-Nya."),
              ("poin", "3.  Badai bisa jadi cara Tuhan membangunkan kita.")],
-            [("judul", "Kalau hari ini ada badai,", 0), ("judul2", "mungkin Tuhan sedang membangunkanmu.", 40),
-             ("kecil", "Kirim ke temanmu yang lagi di tengah badai.")],
+            [("judul", "Kalau hari ini ada badai,", 0), ("judul2", "Tuhan tetap memegang kendali.", 40),
+             ("kecil", "Kirim ke temanmu yang perlu diingatkan ini.")],
         ],
-        "caption": "Salah satu ironi paling tajam di Alkitab: para pelaut kafir berdoa, sang nabi Allah tertidur nyenyak ⛈️\n\nYunus 1:4-16. Tuhan mengirim badai. Awak kapal berteriak kepada allah mereka, sementara Yunus tidur di ruang kapal paling bawah. Nakhoda kafir yang harus membangunkan nabi untuk berdoa.\n\nDan di akhir pasal, justru para pelaut itu yang takut akan TUHAN.\n\nPernah “dibangunkan” Tuhan lewat orang yang tidak kamu sangka? Cerita di komentar 👇\n\nSeri Yunus bagian 5/14 📜",
+        "caption": "Salah satu ironi paling tajam di Alkitab: para pelaut penyembah berhala berdoa, sang nabi Allah tertidur nyenyak ⛈️\n\nYunus 1:4-16. Tuhan mengirim badai. Awak kapal berteriak kepada allah mereka, sementara Yunus tidur di ruang kapal paling bawah. Nakhoda kafir yang harus membangunkan nabi untuk berdoa.\n\nDan di akhir pasal, justru para pelaut itu yang takut akan TUHAN.\n\nPernah “dibangunkan” Tuhan lewat orang yang tidak kamu sangka? Cerita di komentar 👇\n\nSeri Yunus bagian 5/14 📜",
     },
     {   # 13 — ikan: penyelamatan
         "tema": "jalan",

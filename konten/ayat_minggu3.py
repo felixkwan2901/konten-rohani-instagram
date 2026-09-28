@@ -54,7 +54,7 @@ POSTS = [
     {   # 17 — latar budaya Niniwe & ikan
         "tema": "plum",
         "slides": [
-            [("judul", "Kenapa satu kota kafir", 0), ("judul", "mau mendengarkan", 30), ("judul2", "nabi dari negeri musuh?", 50),
+            [("judul", "Kenapa satu kota penyembah berhala", 0), ("judul", "mau mendengarkan", 30), ("judul2", "nabi dari negeri musuh?", 50),
              ("kecil", "Seri Yunus · bagian 10 · latar sejarah")],
             [("label", "Satu petunjuk dari Yesus"),
              ("kutip", "“Sebab seperti Yunus menjadi tanda untuk orang-orang Niniwe, demikian pulalah Anak Manusia akan menjadi tanda untuk angkatan ini.”"),
@@ -63,7 +63,7 @@ POSTS = [
              ("teks", "Relief di istana-istana Asyur menggambarkan sosok bijak berjubah kulit ikan. Dan tanda tulisan paku untuk nama Niniwe menyerupai ikan di dalam sebuah bangunan."),
              ("kecil", "(Temuan arkeologi & latar sejarah)")],
             [("label", "Dugaan sebagian penafsir"),
-             ("teks", "Bayangkan seorang nabi datang dengan kisah ‘keluar dari perut ikan’, ke kota yang budayanya lekat dengan simbol ikan. Pesannya pasti didengar."),
+             ("teks", "Bayangkan seorang nabi datang dengan kisah ‘keluar dari perut ikan’, ke kota yang budayanya lekat dengan simbol ikan. Pesannya mungkin sangat didengar."),
              ("kecil", "(Ini dugaan dan tafsiran, bukan isi ayat.)")],
             [("sub", "Pelajarannya", 30),
              ("poin", "1.  Tuhan mengenal budaya orang yang ingin Ia jangkau."),
@@ -72,7 +72,7 @@ POSTS = [
             [("judul", "Kisah ‘perut ikan’mu", 0), ("judul2", "bisa jadi pintu untuk orang lain.", 40),
              ("kecil", "Save & kirim ke temanmu yang suka sejarah Alkitab.")],
         ],
-        "caption": "Kenapa satu kota kafir yang kejam mau mendengarkan nabi dari negeri musuhnya? 🤔\n\nYesus berkata Yunus menjadi “tanda” untuk orang Niniwe (Lukas 11:30). Menariknya, relief di istana Asyur menggambarkan sosok bijak berjubah kulit ikan, dan tanda tulisan paku untuk nama Niniwe menyerupai ikan di dalam bangunan.\n\nSebagian penafsir menduga: seorang nabi yang “keluar dari perut ikan” akan sangat didengar di kota seperti itu. (Ini tafsiran, bukan isi ayat, tapi latarnya menarik untuk direnungkan.)\n\nSuka konten sejarah Alkitab seperti ini? Ketik 📜 dan kami buat lebih banyak.\n\nSeri Yunus bagian 10/14",
+        "caption": "Kenapa satu kota penyembah berhala yang kejam mau mendengarkan nabi dari negeri musuhnya? 🤔\n\nYesus berkata Yunus menjadi “tanda” untuk orang Niniwe (Lukas 11:30). Menariknya, relief di istana Asyur menggambarkan sosok bijak berjubah kulit ikan, dan tanda tulisan paku untuk nama Niniwe menyerupai ikan di dalam bangunan.\n\nSebagian penafsir menduga: seorang nabi yang “keluar dari perut ikan” akan sangat didengar di kota seperti itu. (Ini tafsiran, bukan isi ayat, tapi latarnya menarik untuk direnungkan.)\n\nSuka konten sejarah Alkitab seperti ini? Ketik 📜 dan kami buat lebih banyak.\n\nSeri Yunus bagian 10/14",
     },
     {   # 18 — khotbah satu kalimat
         "tema": "debu",
@@ -108,7 +108,7 @@ POSTS = [
             [("label", "Reaksi Yunus"),
              ("kutip", "“Tetapi hal itu sangat mengesalkan hati Yunus, lalu marahlah ia.”"),
              ("ref", "Yunus 4:1", 30),
-             ("teks", "Kebangunan rohani terbesar dalam kisah para nabi, dan nabinya kesal.")],
+             ("teks", "Salah satu pertobatan massal terbesar di Alkitab, dan nabinya kesal.")],
             [("label", "Sifat Tuhan dijadikan keluhan"),
              ("kutip", "“…sebab aku tahu, bahwa Engkaulah Allah yang pengasih dan penyayang, yang panjang sabar dan berlimpah kasih setia…”"),
              ("ref", "Yunus 4:2", 30),
@@ -129,7 +129,7 @@ POSTS = [
     {   # 20 — pohon jarak, ulat, angin timur
         "tema": "jalan",
         "slides": [
-            [("judul", "Frasa yang sama muncul", 0), ("judul", "4 kali di kitab Yunus.", 30), ("judul2", "Hampir tidak ada yang sadar.", 50),
+            [("judul", "Kata kerja yang sama muncul", 0), ("judul", "4 kali di kitab Yunus.", 30), ("judul2", "Hampir tidak ada yang sadar.", 50),
              ("kecil", "Seri Yunus · bagian 13")],
             [("sub", "“Atas penentuan TUHAN…”", 30),
              ("poin", "1.  …datanglah seekor ikan besar (1:17)"),
@@ -142,7 +142,7 @@ POSTS = [
             [("label", "Lalu pelajarannya"),
              ("kutip", "“Engkau sayang kepada pohon jarak itu, yang untuknya sedikitpun engkau tidak berjerih payah dan yang tidak engkau tumbuhkan…”"),
              ("ref", "Yunus 4:10", 30),
-             ("teks", "Yunus menangisi sebatang pohon, tapi tidak peduli pada satu kota penuh manusia.")],
+             ("teks", "Yunus sayang pada sebatang pohon, tapi tidak peduli pada satu kota penuh manusia.")],
             [("sub", "Pelajarannya", 30),
              ("poin", "1.  Tuhan memakai hal kecil (ulat, angin, pohon) untuk mengajar hati kita."),
              ("poin", "2.  Hal yang menyenangkan dan hal yang mengecewakan bisa sama-sama ‘atas penentuan Tuhan’."),
@@ -150,7 +150,7 @@ POSTS = [
             [("judul", "“Pohon jarak” apa", 0), ("judul2", "yang paling kamu sayangi?", 40),
              ("kecil", "Renungkan. Berikutnya: ending kitab Yunus yang tidak biasa.")],
         ],
-        "caption": "Ada satu frasa yang muncul 4 kali di kitab Yunus dan jarang disadari: “atas penentuan TUHAN” 🌿\n\nAtas penentuan TUHAN datanglah ikan (1:17), tumbuhlah pohon jarak (4:6), datanglah seekor ulat (4:7), dan bertiuplah angin timur (4:8). Yang menyelamatkan, yang menghibur, dan yang mengecewakan, semuanya ada di tangan-Nya.\n\nLalu Tuhan menunjukkan isi hati Yunus: ia menangisi sebatang pohon, tapi tidak peduli pada satu kota penuh manusia (4:10).\n\n“Pohon jarak” apa yang paling kamu sayangi sekarang? Jawab dalam hati, atau tulis di komentar.\n\nSeri Yunus bagian 13/14 📜",
+        "caption": "Ada satu frasa yang muncul 4 kali di kitab Yunus dan jarang disadari: “atas penentuan TUHAN” (atau “Allah”) 🌿\n\nAtas penentuan TUHAN datanglah ikan (1:17), tumbuhlah pohon jarak (4:6), datanglah seekor ulat (4:7), dan bertiuplah angin timur (4:8). Yang menyelamatkan, yang menghibur, dan yang mengecewakan, semuanya ada di tangan-Nya.\n\nLalu Tuhan menunjukkan isi hati Yunus: ia sayang pada sebatang pohon, tapi tidak peduli pada satu kota penuh manusia (4:10).\n\n“Pohon jarak” apa yang paling kamu sayangi sekarang? Jawab dalam hati, atau tulis di komentar.\n\nSeri Yunus bagian 13/14 📜",
     },
     {   # 21 — akhir yang terbuka & yang lebih besar dari Yunus
         "tema": "laut",
@@ -170,7 +170,7 @@ POSTS = [
             [("sub", "Yunus dan Yesus", 30),
              ("poin", "1.  Yunus dilempar ke laut. Yesus menyerahkan diri-Nya."),
              ("poin", "2.  Yunus tiga hari di perut ikan. Yesus tiga hari di kubur, lalu bangkit."),
-             ("poin", "3.  Yunus menangisi pohon. Yesus menangisi kota Yerusalem."),
+             ("poin", "3.  Yunus mengasihani pohon. Yesus menangisi kota Yerusalem (Lukas 19:41)."),
              ("poin", "4.  Yunus lari dari musuhnya. Yesus mati untuk musuh-musuh-Nya.")],
             [("judul", "Seri Yunus selesai.", 0), ("judul2", "Bagian mana yang paling kena?", 40),
              ("kecil", "Tulis nomornya (1–14). Kitab apa yang harus kita bahas berikutnya?")],
