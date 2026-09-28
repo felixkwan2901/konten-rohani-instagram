@@ -2,7 +2,7 @@
 
 Jam Business Suite mengikuti zona waktu komputer (NZ). Pakai kolom **jam NZ**.
 
-## @sahabat.eli — Sun 27 Sep 06:00 WIB → **Sun 27 Sep 12:00 NZ**
+## @eliandruthie — Sun 27 Sep 06:00 WIB → **Sun 27 Sep 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_pagi.mp4`
 
@@ -42,7 +42,7 @@ Ketik “Amin” kalau ini doamu juga hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sun 27 Sep 06:10 WIB → **Sun 27 Sep 12:10 NZ**
+## @eliandruthie — Sun 27 Sep 06:10 WIB → **Sun 27 Sep 12:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_pagi.mp4`
 
@@ -58,7 +58,7 @@ Gambar (urut): `output/stories/tenang-1-pagi.jpg`
 
 ```
 
-## @sahabat.eli — Sun 27 Sep 12:00 WIB → **Sun 27 Sep 18:00 NZ**
+## @eliandruthie — Sun 27 Sep 12:00 WIB → **Sun 27 Sep 18:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_siang.mp4`
 
@@ -100,7 +100,7 @@ Ketik “Amin” kalau kamu sedang menunggu juga.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sun 27 Sep 12:10 WIB → **Sun 27 Sep 18:10 NZ**
+## @eliandruthie — Sun 27 Sep 12:10 WIB → **Sun 27 Sep 18:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_siang.mp4`
 
@@ -167,7 +167,7 @@ Gambar (urut): `output/reels/kapi/hari1.mp4`
 
 ```
 
-## @sahabat.eli — Sun 27 Sep 21:00 WIB → **Mon 28 Sep 03:00 NZ**
+## @eliandruthie — Sun 27 Sep 21:00 WIB → **Mon 28 Sep 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_malam.mp4`
 
@@ -212,7 +212,7 @@ Ketik “Aku datang” kalau kamu butuh ini hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sun 27 Sep 21:10 WIB → **Mon 28 Sep 03:10 NZ**
+## @eliandruthie — Sun 27 Sep 21:10 WIB → **Mon 28 Sep 03:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari1_malam.mp4`
 
@@ -228,7 +228,7 @@ Gambar (urut): `output/reels/tenang/notif1.mp4`
 
 ```
 
-## @sahabat.eli — Mon 28 Sep 06:00 WIB → **Mon 28 Sep 12:00 NZ**
+## @eliandruthie — Mon 28 Sep 06:00 WIB → **Mon 28 Sep 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari2_pagi.mp4`
 
@@ -270,7 +270,7 @@ Save buat pengingat minggu depan 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Mon 28 Sep 06:10 WIB → **Mon 28 Sep 12:10 NZ**
+## @eliandruthie — Mon 28 Sep 06:10 WIB → **Mon 28 Sep 12:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari2_pagi.mp4`
 
@@ -355,7 +355,7 @@ Gambar (urut): `output/stories/ayat-fakta-1.jpg`
 
 ```
 
-## @sahabat.eli — Mon 28 Sep 09:00 WIB → **Mon 28 Sep 15:00 NZ**
+## @eliandruthie — Mon 28 Sep 09:00 WIB → **Mon 28 Sep 15:00 NZ**
 
 Gambar (urut): `output/eli/edukasi1_1.jpg`, `output/eli/edukasi1_2.jpg`, `output/eli/edukasi1_3.jpg`, `output/eli/edukasi1_4.jpg`
 
@@ -385,7 +385,7 @@ Selamat menjalani hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Mon 28 Sep 09:10 WIB → **Mon 28 Sep 15:10 NZ**
+## @eliandruthie — Mon 28 Sep 09:10 WIB → **Mon 28 Sep 15:10 NZ**
 
 Gambar (urut): `output/stories/eli-2-pagi2.jpg`
 
@@ -449,7 +449,7 @@ Gambar (urut): `output/stories/kapi-2-siang.jpg`
 
 ```
 
-## @sahabat.eli — Mon 28 Sep 12:00 WIB → **Mon 28 Sep 18:00 NZ**
+## @eliandruthie — Mon 28 Sep 12:00 WIB → **Mon 28 Sep 18:00 NZ**
 
 Gambar (urut): `output/eli/kuis1.jpg`
 
@@ -490,7 +490,7 @@ Simpan post ini untuk hari yang berat 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Mon 28 Sep 12:10 WIB → **Mon 28 Sep 18:10 NZ**
+## @eliandruthie — Mon 28 Sep 12:10 WIB → **Mon 28 Sep 18:10 NZ**
 
 Gambar (urut): `output/stories/eli-2-siang.jpg`
 
@@ -604,7 +604,7 @@ Gambar (urut): `output/reels/kapi/kata2.mp4`
 
 ```
 
-## @sahabat.eli — Mon 28 Sep 17:00 WIB → **Mon 28 Sep 23:00 NZ**
+## @eliandruthie — Mon 28 Sep 17:00 WIB → **Mon 28 Sep 23:00 NZ**
 
 Gambar (urut): `output/eli/saran1_1.jpg`, `output/eli/saran1_2.jpg`, `output/eli/saran1_3.jpg`, `output/eli/saran1_4.jpg`, `output/eli/saran1_5.jpg`, `output/eli/saran1_6.jpg`
 
@@ -622,7 +622,7 @@ Save dan coba besok pagi 🔖
 #sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
-## @sahabat.eli — Mon 28 Sep 17:10 WIB → **Mon 28 Sep 23:10 NZ**
+## @eliandruthie — Mon 28 Sep 17:10 WIB → **Mon 28 Sep 23:10 NZ**
 
 Gambar (urut): `output/stories/eli-2-sore.jpg`
 
@@ -752,7 +752,7 @@ Gambar (urut): `output/reels/tenang_keren/jalan1.mp4`
 
 ```
 
-## @sahabat.eli — Mon 28 Sep 21:00 WIB → **Tue 29 Sep 03:00 NZ**
+## @eliandruthie — Mon 28 Sep 21:00 WIB → **Tue 29 Sep 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari2_malam.mp4`
 
@@ -796,7 +796,7 @@ Save untuk hari yang terasa berkabut 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Mon 28 Sep 21:10 WIB → **Tue 29 Sep 03:10 NZ**
+## @eliandruthie — Mon 28 Sep 21:10 WIB → **Tue 29 Sep 03:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari2_malam.mp4`
 
@@ -841,7 +841,7 @@ Gambar (urut): `output/stories/kapi-2-larut.jpg`
 
 ```
 
-## @sahabat.eli — Tue 29 Sep 06:00 WIB → **Tue 29 Sep 12:00 NZ**
+## @eliandruthie — Tue 29 Sep 06:00 WIB → **Tue 29 Sep 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari3_pagi.mp4`
 
@@ -881,7 +881,7 @@ Kirim ke temanmu yang lagi overthinking 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Tue 29 Sep 06:10 WIB → **Tue 29 Sep 12:10 NZ**
+## @eliandruthie — Tue 29 Sep 06:10 WIB → **Tue 29 Sep 12:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari3_pagi.mp4`
 
@@ -966,7 +966,7 @@ Gambar (urut): `output/stories/ayat-fakta-2.jpg`
 
 ```
 
-## @sahabat.eli — Tue 29 Sep 09:00 WIB → **Tue 29 Sep 15:00 NZ**
+## @eliandruthie — Tue 29 Sep 09:00 WIB → **Tue 29 Sep 15:00 NZ**
 
 Gambar (urut): `output/eli/edukasi2_1.jpg`, `output/eli/edukasi2_2.jpg`, `output/eli/edukasi2_3.jpg`, `output/eli/edukasi2_4.jpg`
 
@@ -996,7 +996,7 @@ Ketik “Aku tetap berdoa” 🙏
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Tue 29 Sep 09:10 WIB → **Tue 29 Sep 15:10 NZ**
+## @eliandruthie — Tue 29 Sep 09:10 WIB → **Tue 29 Sep 15:10 NZ**
 
 Gambar (urut): `output/stories/eli-3-pagi2.jpg`
 
@@ -1062,7 +1062,7 @@ Gambar (urut): `output/stories/kapi-3-siang.jpg`
 
 ```
 
-## @sahabat.eli — Tue 29 Sep 12:00 WIB → **Tue 29 Sep 18:00 NZ**
+## @eliandruthie — Tue 29 Sep 12:00 WIB → **Tue 29 Sep 18:00 NZ**
 
 Gambar (urut): `output/eli/kuis2.jpg`
 
@@ -1103,7 +1103,7 @@ Tulis di komentar: apa yang paling kamu takutkan minggu ini? Kita doakan bersama
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Tue 29 Sep 12:10 WIB → **Tue 29 Sep 18:10 NZ**
+## @eliandruthie — Tue 29 Sep 12:10 WIB → **Tue 29 Sep 18:10 NZ**
 
 Gambar (urut): `output/stories/eli-3-siang.jpg`
 
@@ -1215,7 +1215,7 @@ Gambar (urut): `output/reels/kapi/kata4.mp4`
 
 ```
 
-## @sahabat.eli — Tue 29 Sep 17:00 WIB → **Tue 29 Sep 23:00 NZ**
+## @eliandruthie — Tue 29 Sep 17:00 WIB → **Tue 29 Sep 23:00 NZ**
 
 Gambar (urut): `output/eli/saran2_1.jpg`, `output/eli/saran2_2.jpg`, `output/eli/saran2_3.jpg`, `output/eli/saran2_4.jpg`, `output/eli/saran2_5.jpg`, `output/eli/saran2_6.jpg`
 
@@ -1234,7 +1234,7 @@ Save untuk dicoba malam ini 🔖
 #sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
-## @sahabat.eli — Tue 29 Sep 17:10 WIB → **Tue 29 Sep 23:10 NZ**
+## @eliandruthie — Tue 29 Sep 17:10 WIB → **Tue 29 Sep 23:10 NZ**
 
 Gambar (urut): `output/stories/eli-3-sore.jpg`
 
@@ -1338,7 +1338,7 @@ Gambar (urut): `output/reels/tenang_keren/jalan2.mp4`
 
 ```
 
-## @sahabat.eli — Tue 29 Sep 21:00 WIB → **Wed 30 Sep 03:00 NZ**
+## @eliandruthie — Tue 29 Sep 21:00 WIB → **Wed 30 Sep 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari3_malam.mp4`
 
@@ -1381,7 +1381,7 @@ Ketik “SERAHKAN” kalau kamu butuh diingatkan ini 🤍
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Tue 29 Sep 21:10 WIB → **Wed 30 Sep 03:10 NZ**
+## @eliandruthie — Tue 29 Sep 21:10 WIB → **Wed 30 Sep 03:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari3_malam.mp4`
 
@@ -1423,7 +1423,7 @@ Gambar (urut): `output/stories/kapi-3-larut.jpg`
 
 ```
 
-## @sahabat.eli — Wed 30 Sep 06:00 WIB → **Wed 30 Sep 12:00 NZ**
+## @eliandruthie — Wed 30 Sep 06:00 WIB → **Wed 30 Sep 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari4_pagi.mp4`
 
@@ -1463,7 +1463,7 @@ Ketik “Amin” kalau ini doamu pagi ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Wed 30 Sep 06:10 WIB → **Wed 30 Sep 12:10 NZ**
+## @eliandruthie — Wed 30 Sep 06:10 WIB → **Wed 30 Sep 12:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari4_pagi.mp4`
 
@@ -1548,7 +1548,7 @@ Gambar (urut): `output/stories/ayat-fakta-3.jpg`
 
 ```
 
-## @sahabat.eli — Wed 30 Sep 09:00 WIB → **Wed 30 Sep 15:00 NZ**
+## @eliandruthie — Wed 30 Sep 09:00 WIB → **Wed 30 Sep 15:00 NZ**
 
 Gambar (urut): `output/eli/edukasi3_1.jpg`, `output/eli/edukasi3_2.jpg`, `output/eli/edukasi3_3.jpg`, `output/eli/edukasi3_4.jpg`
 
@@ -1580,7 +1580,7 @@ Kirim ke temanmu yang sedang merasa lambat 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Wed 30 Sep 09:10 WIB → **Wed 30 Sep 15:10 NZ**
+## @eliandruthie — Wed 30 Sep 09:10 WIB → **Wed 30 Sep 15:10 NZ**
 
 Gambar (urut): `output/stories/eli-4-pagi2.jpg`
 
@@ -1642,7 +1642,7 @@ Gambar (urut): `output/stories/kapi-4-siang.jpg`
 
 ```
 
-## @sahabat.eli — Wed 30 Sep 12:00 WIB → **Wed 30 Sep 18:00 NZ**
+## @eliandruthie — Wed 30 Sep 12:00 WIB → **Wed 30 Sep 18:00 NZ**
 
 Gambar (urut): `output/contoh/reel_payung.mp4`
 
@@ -1676,7 +1676,7 @@ Ketik “Aku serahkan” sebagai doamu hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Wed 30 Sep 12:10 WIB → **Wed 30 Sep 18:10 NZ**
+## @eliandruthie — Wed 30 Sep 12:10 WIB → **Wed 30 Sep 18:10 NZ**
 
 Gambar (urut): `output/contoh/reel_payung.mp4`
 
@@ -1788,7 +1788,7 @@ Gambar (urut): `output/reels/kapi/kata6.mp4`
 
 ```
 
-## @sahabat.eli — Wed 30 Sep 17:00 WIB → **Wed 30 Sep 23:00 NZ**
+## @eliandruthie — Wed 30 Sep 17:00 WIB → **Wed 30 Sep 23:00 NZ**
 
 Gambar (urut): `output/eli/saran3_1.jpg`, `output/eli/saran3_2.jpg`, `output/eli/saran3_3.jpg`, `output/eli/saran3_4.jpg`, `output/eli/saran3_5.jpg`, `output/eli/saran3_6.jpg`
 
@@ -1808,7 +1808,7 @@ Ayat apa yang mau kamu hafal minggu ini? 👇
 #sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
-## @sahabat.eli — Wed 30 Sep 17:10 WIB → **Wed 30 Sep 23:10 NZ**
+## @eliandruthie — Wed 30 Sep 17:10 WIB → **Wed 30 Sep 23:10 NZ**
 
 Gambar (urut): `output/stories/eli-4-sore.jpg`
 
@@ -1912,7 +1912,7 @@ Gambar (urut): `output/reels/tenang_keren/jalan3.mp4`
 
 ```
 
-## @sahabat.eli — Wed 30 Sep 21:00 WIB → **Thu 01 Oct 03:00 NZ**
+## @eliandruthie — Wed 30 Sep 21:00 WIB → **Thu 01 Oct 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari4_malam.mp4`
 
@@ -1953,7 +1953,7 @@ Kirim ini ke seseorang yang hampir menyerah sama mimpinya 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Wed 30 Sep 21:10 WIB → **Thu 01 Oct 03:10 NZ**
+## @eliandruthie — Wed 30 Sep 21:10 WIB → **Thu 01 Oct 03:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari4_malam.mp4`
 
@@ -1995,7 +1995,7 @@ Gambar (urut): `output/stories/kapi-4-larut.jpg`
 
 ```
 
-## @sahabat.eli — Thu 01 Oct 06:00 WIB → **Thu 01 Oct 12:00 NZ**
+## @eliandruthie — Thu 01 Oct 06:00 WIB → **Thu 01 Oct 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari5_pagi.mp4`
 
@@ -2035,7 +2035,7 @@ Save buat hari kamu merasa tertinggal 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Thu 01 Oct 06:10 WIB → **Thu 01 Oct 12:10 NZ**
+## @eliandruthie — Thu 01 Oct 06:10 WIB → **Thu 01 Oct 12:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari5_pagi.mp4`
 
@@ -2120,7 +2120,7 @@ Gambar (urut): `output/stories/ayat-fakta-4.jpg`
 
 ```
 
-## @sahabat.eli — Thu 01 Oct 09:00 WIB → **Thu 01 Oct 15:00 NZ**
+## @eliandruthie — Thu 01 Oct 09:00 WIB → **Thu 01 Oct 15:00 NZ**
 
 Gambar (urut): `output/eli/edukasi4_1.jpg`, `output/eli/edukasi4_2.jpg`, `output/eli/edukasi4_3.jpg`, `output/eli/edukasi4_4.jpg`
 
@@ -2150,7 +2150,7 @@ Save untuk hari yang terasa sepi 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Thu 01 Oct 09:10 WIB → **Thu 01 Oct 15:10 NZ**
+## @eliandruthie — Thu 01 Oct 09:10 WIB → **Thu 01 Oct 15:10 NZ**
 
 Gambar (urut): `output/stories/eli-5-pagi2.jpg`
 
@@ -2212,7 +2212,7 @@ Gambar (urut): `output/stories/kapi-5-siang.jpg`
 
 ```
 
-## @sahabat.eli — Thu 01 Oct 12:00 WIB → **Thu 01 Oct 18:00 NZ**
+## @eliandruthie — Thu 01 Oct 12:00 WIB → **Thu 01 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli/kuis3.jpg`
 
@@ -2253,7 +2253,7 @@ Kalau kamu sedang di masa ini, ketik 🤍 — kamu tidak sendiri.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Thu 01 Oct 12:10 WIB → **Thu 01 Oct 18:10 NZ**
+## @eliandruthie — Thu 01 Oct 12:10 WIB → **Thu 01 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli-5-siang.jpg`
 
@@ -2367,7 +2367,7 @@ Gambar (urut): `output/reels/kapi/kata8.mp4`
 
 ```
 
-## @sahabat.eli — Thu 01 Oct 17:00 WIB → **Thu 01 Oct 23:00 NZ**
+## @eliandruthie — Thu 01 Oct 17:00 WIB → **Thu 01 Oct 23:00 NZ**
 
 Gambar (urut): `output/eli/saran4_1.jpg`, `output/eli/saran4_2.jpg`, `output/eli/saran4_3.jpg`, `output/eli/saran4_4.jpg`, `output/eli/saran4_5.jpg`, `output/eli/saran4_6.jpg`
 
@@ -2387,7 +2387,7 @@ Kalau sedihnya berat dan lama, jangan dipendam sendiri. Bicarakan dengan orang d
 #sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
-## @sahabat.eli — Thu 01 Oct 17:10 WIB → **Thu 01 Oct 23:10 NZ**
+## @eliandruthie — Thu 01 Oct 17:10 WIB → **Thu 01 Oct 23:10 NZ**
 
 Gambar (urut): `output/stories/eli-5-sore.jpg`
 
@@ -2489,7 +2489,7 @@ Gambar (urut): `output/reels/tenang_keren/jalan4.mp4`
 
 ```
 
-## @sahabat.eli — Thu 01 Oct 21:00 WIB → **Fri 02 Oct 03:00 NZ**
+## @eliandruthie — Thu 01 Oct 21:00 WIB → **Fri 02 Oct 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari5_malam.mp4`
 
@@ -2530,7 +2530,7 @@ Kirim ke temanmu yang lagi di musim gelap 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Thu 01 Oct 21:10 WIB → **Fri 02 Oct 03:10 NZ**
+## @eliandruthie — Thu 01 Oct 21:10 WIB → **Fri 02 Oct 03:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari5_malam.mp4`
 
@@ -2572,7 +2572,7 @@ Gambar (urut): `output/stories/kapi-5-larut.jpg`
 
 ```
 
-## @sahabat.eli — Fri 02 Oct 06:00 WIB → **Fri 02 Oct 12:00 NZ**
+## @eliandruthie — Fri 02 Oct 06:00 WIB → **Fri 02 Oct 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari6_pagi.mp4`
 
@@ -2612,7 +2612,7 @@ Ketik “Tolong aku percaya” sebagai doamu hari ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Fri 02 Oct 06:10 WIB → **Fri 02 Oct 12:10 NZ**
+## @eliandruthie — Fri 02 Oct 06:10 WIB → **Fri 02 Oct 12:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari6_pagi.mp4`
 
@@ -2697,7 +2697,7 @@ Gambar (urut): `output/stories/ayat-fakta-5.jpg`
 
 ```
 
-## @sahabat.eli — Fri 02 Oct 09:00 WIB → **Fri 02 Oct 15:00 NZ**
+## @eliandruthie — Fri 02 Oct 09:00 WIB → **Fri 02 Oct 15:00 NZ**
 
 Gambar (urut): `output/eli/edukasi5_1.jpg`, `output/eli/edukasi5_2.jpg`, `output/eli/edukasi5_3.jpg`, `output/eli/edukasi5_4.jpg`
 
@@ -2727,7 +2727,7 @@ Ketik “Aku serahkan” sebagai doamu.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Fri 02 Oct 09:10 WIB → **Fri 02 Oct 15:10 NZ**
+## @eliandruthie — Fri 02 Oct 09:10 WIB → **Fri 02 Oct 15:10 NZ**
 
 Gambar (urut): `output/stories/eli-6-pagi2.jpg`
 
@@ -2793,7 +2793,7 @@ Gambar (urut): `output/stories/kapi-6-siang.jpg`
 
 ```
 
-## @sahabat.eli — Fri 02 Oct 12:00 WIB → **Fri 02 Oct 18:00 NZ**
+## @eliandruthie — Fri 02 Oct 12:00 WIB → **Fri 02 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli/kuis4.jpg`
 
@@ -2834,7 +2834,7 @@ Selamat menikmati akhir pekan.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Fri 02 Oct 12:10 WIB → **Fri 02 Oct 18:10 NZ**
+## @eliandruthie — Fri 02 Oct 12:10 WIB → **Fri 02 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli-6-siang.jpg`
 
@@ -2948,7 +2948,7 @@ Gambar (urut): `output/reels/kapi/kata10.mp4`
 
 ```
 
-## @sahabat.eli — Fri 02 Oct 17:00 WIB → **Fri 02 Oct 23:00 NZ**
+## @eliandruthie — Fri 02 Oct 17:00 WIB → **Fri 02 Oct 23:00 NZ**
 
 Gambar (urut): `output/eli/saran5_1.jpg`, `output/eli/saran5_2.jpg`, `output/eli/saran5_3.jpg`, `output/eli/saran5_4.jpg`, `output/eli/saran5_5.jpg`
 
@@ -2967,7 +2967,7 @@ Tulis 1 hal yang kamu syukuri hari ini 👇
 #sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
-## @sahabat.eli — Fri 02 Oct 17:10 WIB → **Fri 02 Oct 23:10 NZ**
+## @eliandruthie — Fri 02 Oct 17:10 WIB → **Fri 02 Oct 23:10 NZ**
 
 Gambar (urut): `output/stories/eli-6-sore.jpg`
 
@@ -3073,7 +3073,7 @@ Gambar (urut): `output/reels/tenang_keren/jalan5.mp4`
 
 ```
 
-## @sahabat.eli — Fri 02 Oct 21:00 WIB → **Sat 03 Oct 03:00 NZ**
+## @eliandruthie — Fri 02 Oct 21:00 WIB → **Sat 03 Oct 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari6_malam.mp4`
 
@@ -3116,7 +3116,7 @@ Ketik “TEPAT” kalau kamu masih menunggu 🤍
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Fri 02 Oct 21:10 WIB → **Sat 03 Oct 03:10 NZ**
+## @eliandruthie — Fri 02 Oct 21:10 WIB → **Sat 03 Oct 03:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari6_malam.mp4`
 
@@ -3158,7 +3158,7 @@ Gambar (urut): `output/stories/kapi-6-larut.jpg`
 
 ```
 
-## @sahabat.eli — Sat 03 Oct 06:00 WIB → **Sat 03 Oct 12:00 NZ**
+## @eliandruthie — Sat 03 Oct 06:00 WIB → **Sat 03 Oct 12:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari7_pagi.mp4`
 
@@ -3198,7 +3198,7 @@ Kirim ke seseorang yang merasa ceritanya sudah tamat 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 03 Oct 06:10 WIB → **Sat 03 Oct 12:10 NZ**
+## @eliandruthie — Sat 03 Oct 06:10 WIB → **Sat 03 Oct 12:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari7_pagi.mp4`
 
@@ -3283,7 +3283,7 @@ Gambar (urut): `output/stories/ayat-fakta-6.jpg`
 
 ```
 
-## @sahabat.eli — Sat 03 Oct 09:00 WIB → **Sat 03 Oct 15:00 NZ**
+## @eliandruthie — Sat 03 Oct 09:00 WIB → **Sat 03 Oct 15:00 NZ**
 
 Gambar (urut): `output/eli/edukasi6_1.jpg`, `output/eli/edukasi6_2.jpg`, `output/eli/edukasi6_3.jpg`, `output/eli/edukasi6_4.jpg`
 
@@ -3313,7 +3313,7 @@ Tulis satu hal yang kamu syukuri hari ini 👇
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 03 Oct 09:10 WIB → **Sat 03 Oct 15:10 NZ**
+## @eliandruthie — Sat 03 Oct 09:10 WIB → **Sat 03 Oct 15:10 NZ**
 
 Gambar (urut): `output/stories/eli-7-pagi2.jpg`
 
@@ -3377,7 +3377,7 @@ Gambar (urut): `output/stories/kapi-7-siang.jpg`
 
 ```
 
-## @sahabat.eli — Sat 03 Oct 12:00 WIB → **Sat 03 Oct 18:00 NZ**
+## @eliandruthie — Sat 03 Oct 12:00 WIB → **Sat 03 Oct 18:00 NZ**
 
 Gambar (urut): `output/contoh/carousel_pot_1.mp4`, `output/contoh/carousel_pot_2.mp4`, `output/contoh/carousel_pot_3.mp4`, `output/contoh/carousel_pot_4.mp4`, `output/contoh/carousel_pot_5.mp4`
 
@@ -3416,7 +3416,7 @@ Selamat berakhir pekan. Follow @diam.dan.percaya untuk renungan setiap hari.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 03 Oct 12:10 WIB → **Sat 03 Oct 18:10 NZ**
+## @eliandruthie — Sat 03 Oct 12:10 WIB → **Sat 03 Oct 18:10 NZ**
 
 Gambar (urut): `output/contoh/carousel_pot_1.mp4`
 
@@ -3528,7 +3528,7 @@ Gambar (urut): `output/reels/kapi/kata12.mp4`
 
 ```
 
-## @sahabat.eli — Sat 03 Oct 17:00 WIB → **Sat 03 Oct 23:00 NZ**
+## @eliandruthie — Sat 03 Oct 17:00 WIB → **Sat 03 Oct 23:00 NZ**
 
 Gambar (urut): `output/eli/saran6_1.jpg`, `output/eli/saran6_2.jpg`, `output/eli/saran6_3.jpg`, `output/eli/saran6_4.jpg`, `output/eli/saran6_5.jpg`, `output/eli/saran6_6.jpg`
 
@@ -3548,7 +3548,7 @@ Tag teman yang mau kamu ajak ibadah besok 👇
 #sahabateli #belajaralkitab #faktaalkitab #renunganharian #anakkristen #sekolahminggu
 ```
 
-## @sahabat.eli — Sat 03 Oct 17:10 WIB → **Sat 03 Oct 23:10 NZ**
+## @eliandruthie — Sat 03 Oct 17:10 WIB → **Sat 03 Oct 23:10 NZ**
 
 Gambar (urut): `output/stories/eli-7-sore.jpg`
 
@@ -3556,7 +3556,7 @@ Gambar (urut): `output/stories/eli-7-sore.jpg`
 
 ```
 
-## @sahabat.eli — Sat 03 Oct 18:00 WIB → **Sun 04 Oct 00:00 NZ**
+## @eliandruthie — Sat 03 Oct 18:00 WIB → **Sun 04 Oct 00:00 NZ**
 
 Gambar (urut): `output/reels/eli/minggu1_rangkuman.mp4`
 
@@ -3588,7 +3588,7 @@ Ketik 🌅 kalau kamu menunggu pagimu.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 03 Oct 18:10 WIB → **Sun 04 Oct 00:10 NZ**
+## @eliandruthie — Sat 03 Oct 18:10 WIB → **Sun 04 Oct 00:10 NZ**
 
 Gambar (urut): `output/reels/eli/minggu1_rangkuman.mp4`
 
@@ -3677,7 +3677,7 @@ Gambar (urut): `output/reels/tenang_keren/jalan6.mp4`
 
 ```
 
-## @sahabat.eli — Sat 03 Oct 21:00 WIB → **Sun 04 Oct 03:00 NZ**
+## @eliandruthie — Sat 03 Oct 21:00 WIB → **Sun 04 Oct 03:00 NZ**
 
 Gambar (urut): `output/reels/eli/hari7_malam.mp4`
 
@@ -3721,7 +3721,7 @@ Save untuk malam-malam yang berat 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 03 Oct 21:10 WIB → **Sun 04 Oct 03:10 NZ**
+## @eliandruthie — Sat 03 Oct 21:10 WIB → **Sun 04 Oct 03:10 NZ**
 
 Gambar (urut): `output/reels/eli/hari7_malam.mp4`
 
@@ -3763,7 +3763,7 @@ Gambar (urut): `output/stories/kapi-7-larut.jpg`
 
 ```
 
-## @sahabat.eli — Sun 04 Oct 01:00 WIB → **Sun 04 Oct 07:00 NZ**
+## @eliandruthie — Sun 04 Oct 01:00 WIB → **Sun 04 Oct 07:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari1_pagi.mp4`
 
@@ -3783,7 +3783,7 @@ What's one happy thing about your Sunday? Tell Eli below 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Sun 04 Oct 01:10 WIB → **Sun 04 Oct 07:10 NZ**
+## @eliandruthie — Sun 04 Oct 01:10 WIB → **Sun 04 Oct 07:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari1_pagi.mp4`
 
@@ -3806,7 +3806,7 @@ Selamat hari Minggu. Ketik “Amin” kalau ini doamu.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sun 04 Oct 06:00 WIB → **Sun 04 Oct 12:00 NZ**
+## @eliandruthie — Sun 04 Oct 06:00 WIB → **Sun 04 Oct 12:00 NZ**
 
 Gambar (urut): `output/eli_w2/edukasi1_1.jpg`, `output/eli_w2/edukasi1_2.jpg`, `output/eli_w2/edukasi1_3.jpg`, `output/eli_w2/edukasi1_4.jpg`
 
@@ -3831,7 +3831,7 @@ Gambar (urut): `output/stories/tenang_w2-1-pagi.jpg`
 
 ```
 
-## @sahabat.eli — Sun 04 Oct 06:10 WIB → **Sun 04 Oct 12:10 NZ**
+## @eliandruthie — Sun 04 Oct 06:10 WIB → **Sun 04 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-1-pagi2.jpg`
 
@@ -3930,7 +3930,7 @@ Gambar (urut): `output/stories/tenang_keren2-1-pagi2.jpg`
 
 ```
 
-## @sahabat.eli — Sun 04 Oct 10:00 WIB → **Sun 04 Oct 16:00 NZ**
+## @eliandruthie — Sun 04 Oct 10:00 WIB → **Sun 04 Oct 16:00 NZ**
 
 Gambar (urut): `output/eli_w2/saran1_1.jpg`, `output/eli_w2/saran1_2.jpg`, `output/eli_w2/saran1_3.jpg`, `output/eli_w2/saran1_4.jpg`, `output/eli_w2/saran1_5.jpg`, `output/eli_w2/saran1_6.jpg`
 
@@ -3948,7 +3948,7 @@ Which one is SO you? Tag a friend who grew up in church too 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Sun 04 Oct 10:10 WIB → **Sun 04 Oct 16:10 NZ**
+## @eliandruthie — Sun 04 Oct 10:10 WIB → **Sun 04 Oct 16:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-1-siang.jpg`
 
@@ -4023,7 +4023,7 @@ Ketik “Gembalaku” kalau kamu mau mempercayakan minggu ini pada-Nya.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sun 04 Oct 12:00 WIB → **Sun 04 Oct 18:00 NZ**
+## @eliandruthie — Sun 04 Oct 12:00 WIB → **Sun 04 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli_w2/kuis1.jpg`
 
@@ -4055,7 +4055,7 @@ Gambar (urut): `output/stories/tenang_w2-1-siang.jpg`
 
 ```
 
-## @sahabat.eli — Sun 04 Oct 12:10 WIB → **Sun 04 Oct 18:10 NZ**
+## @eliandruthie — Sun 04 Oct 12:10 WIB → **Sun 04 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-1-sore.jpg`
 
@@ -4113,7 +4113,7 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik1.mp4`
 
 ```
 
-## @sahabat.eli — Sun 04 Oct 14:00 WIB → **Sun 04 Oct 20:00 NZ**
+## @eliandruthie — Sun 04 Oct 14:00 WIB → **Sun 04 Oct 20:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari1_malam.mp4`
 
@@ -4133,7 +4133,7 @@ Parents: whisper this one to your kids tonight. Type 💙 if you did!
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Sun 04 Oct 14:10 WIB → **Sun 04 Oct 20:10 NZ**
+## @eliandruthie — Sun 04 Oct 14:10 WIB → **Sun 04 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari1_malam.mp4`
 
@@ -4333,7 +4333,7 @@ Gambar (urut): `output/stories/kapi_w2-1-larut.jpg`
 
 ```
 
-## @sahabat.eli — Mon 05 Oct 01:00 WIB → **Mon 05 Oct 07:00 NZ**
+## @eliandruthie — Mon 05 Oct 01:00 WIB → **Mon 05 Oct 07:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari2_pagi.mp4`
 
@@ -4353,7 +4353,7 @@ What's one thing you need to be brave for this week? 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Mon 05 Oct 01:10 WIB → **Mon 05 Oct 07:10 NZ**
+## @eliandruthie — Mon 05 Oct 01:10 WIB → **Mon 05 Oct 07:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari2_pagi.mp4`
 
@@ -4376,7 +4376,7 @@ Save untuk hari kamu merasa kosong 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Mon 05 Oct 06:00 WIB → **Mon 05 Oct 12:00 NZ**
+## @eliandruthie — Mon 05 Oct 06:00 WIB → **Mon 05 Oct 12:00 NZ**
 
 Gambar (urut): `output/eli_w2/edukasi2_1.jpg`, `output/eli_w2/edukasi2_2.jpg`, `output/eli_w2/edukasi2_3.jpg`, `output/eli_w2/edukasi2_4.jpg`
 
@@ -4401,7 +4401,7 @@ Gambar (urut): `output/stories/tenang_w2-2-pagi.jpg`
 
 ```
 
-## @sahabat.eli — Mon 05 Oct 06:10 WIB → **Mon 05 Oct 12:10 NZ**
+## @eliandruthie — Mon 05 Oct 06:10 WIB → **Mon 05 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-2-pagi2.jpg`
 
@@ -4502,7 +4502,7 @@ Gambar (urut): `output/stories/tenang_keren2-2-pagi2.jpg`
 
 ```
 
-## @sahabat.eli — Mon 05 Oct 10:00 WIB → **Mon 05 Oct 16:00 NZ**
+## @eliandruthie — Mon 05 Oct 10:00 WIB → **Mon 05 Oct 16:00 NZ**
 
 Gambar (urut): `output/eli_w2/saran2_1.jpg`, `output/eli_w2/saran2_2.jpg`, `output/eli_w2/saran2_3.jpg`, `output/eli_w2/saran2_4.jpg`, `output/eli_w2/saran2_5.jpg`, `output/eli_w2/saran2_6.jpg`
 
@@ -4522,7 +4522,7 @@ Save this for your family and try one today 🔖 Which one will you pick?
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Mon 05 Oct 10:10 WIB → **Mon 05 Oct 16:10 NZ**
+## @eliandruthie — Mon 05 Oct 10:10 WIB → **Mon 05 Oct 16:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-2-siang.jpg`
 
@@ -4597,7 +4597,7 @@ Save untuk Senin berikutnya 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Mon 05 Oct 12:00 WIB → **Mon 05 Oct 18:00 NZ**
+## @eliandruthie — Mon 05 Oct 12:00 WIB → **Mon 05 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli_w2/kuis2.jpg`
 
@@ -4629,7 +4629,7 @@ Gambar (urut): `output/stories/tenang_w2-2-siang.jpg`
 
 ```
 
-## @sahabat.eli — Mon 05 Oct 12:10 WIB → **Mon 05 Oct 18:10 NZ**
+## @eliandruthie — Mon 05 Oct 12:10 WIB → **Mon 05 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-2-sore.jpg`
 
@@ -4687,7 +4687,7 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik2.mp4`
 
 ```
 
-## @sahabat.eli — Mon 05 Oct 14:00 WIB → **Mon 05 Oct 20:00 NZ**
+## @eliandruthie — Mon 05 Oct 14:00 WIB → **Mon 05 Oct 20:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari2_malam.mp4`
 
@@ -4707,7 +4707,7 @@ Who do you want Eli to pray for tonight? Write their first name below 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Mon 05 Oct 14:10 WIB → **Mon 05 Oct 20:10 NZ**
+## @eliandruthie — Mon 05 Oct 14:10 WIB → **Mon 05 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari2_malam.mp4`
 
@@ -4908,7 +4908,7 @@ Gambar (urut): `output/stories/kapi_w2-2-larut.jpg`
 
 ```
 
-## @sahabat.eli — Tue 06 Oct 01:00 WIB → **Tue 06 Oct 07:00 NZ**
+## @eliandruthie — Tue 06 Oct 01:00 WIB → **Tue 06 Oct 07:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari3_pagi.mp4`
 
@@ -4928,7 +4928,7 @@ Which one do YOU need most today: POWER, LOVE, or SELF-CONTROL? 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Tue 06 Oct 01:10 WIB → **Tue 06 Oct 07:10 NZ**
+## @eliandruthie — Tue 06 Oct 01:10 WIB → **Tue 06 Oct 07:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari3_pagi.mp4`
 
@@ -4951,7 +4951,7 @@ Ketik “Amin” kalau kamu butuh doa ini hari ini 😅
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Tue 06 Oct 06:00 WIB → **Tue 06 Oct 12:00 NZ**
+## @eliandruthie — Tue 06 Oct 06:00 WIB → **Tue 06 Oct 12:00 NZ**
 
 Gambar (urut): `output/eli_w2/edukasi3_1.jpg`, `output/eli_w2/edukasi3_2.jpg`, `output/eli_w2/edukasi3_3.jpg`, `output/eli_w2/edukasi3_4.jpg`
 
@@ -4976,7 +4976,7 @@ Gambar (urut): `output/stories/tenang_w2-3-pagi.jpg`
 
 ```
 
-## @sahabat.eli — Tue 06 Oct 06:10 WIB → **Tue 06 Oct 12:10 NZ**
+## @eliandruthie — Tue 06 Oct 06:10 WIB → **Tue 06 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-3-pagi2.jpg`
 
@@ -5075,7 +5075,7 @@ Gambar (urut): `output/stories/tenang_keren2-3-pagi2.jpg`
 
 ```
 
-## @sahabat.eli — Tue 06 Oct 10:00 WIB → **Tue 06 Oct 16:00 NZ**
+## @eliandruthie — Tue 06 Oct 10:00 WIB → **Tue 06 Oct 16:00 NZ**
 
 Gambar (urut): `output/eli_w2/saran3_1.jpg`, `output/eli_w2/saran3_2.jpg`, `output/eli_w2/saran3_3.jpg`, `output/eli_w2/saran3_4.jpg`, `output/eli_w2/saran3_5.jpg`, `output/eli_w2/saran3_6.jpg`
 
@@ -5095,7 +5095,7 @@ Save this for tricky nights 🔖
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Tue 06 Oct 10:10 WIB → **Tue 06 Oct 16:10 NZ**
+## @eliandruthie — Tue 06 Oct 10:10 WIB → **Tue 06 Oct 16:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-3-siang.jpg`
 
@@ -5169,7 +5169,7 @@ Tulis di komentar: apa yang paling membuatmu gelisah minggu ini? Kita saling men
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Tue 06 Oct 12:00 WIB → **Tue 06 Oct 18:00 NZ**
+## @eliandruthie — Tue 06 Oct 12:00 WIB → **Tue 06 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli_w2/kuis3.jpg`
 
@@ -5201,7 +5201,7 @@ Gambar (urut): `output/stories/tenang_w2-3-siang.jpg`
 
 ```
 
-## @sahabat.eli — Tue 06 Oct 12:10 WIB → **Tue 06 Oct 18:10 NZ**
+## @eliandruthie — Tue 06 Oct 12:10 WIB → **Tue 06 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-3-sore.jpg`
 
@@ -5259,7 +5259,7 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik3.mp4`
 
 ```
 
-## @sahabat.eli — Tue 06 Oct 14:00 WIB → **Tue 06 Oct 20:00 NZ**
+## @eliandruthie — Tue 06 Oct 14:00 WIB → **Tue 06 Oct 20:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari3_malam.mp4`
 
@@ -5279,7 +5279,7 @@ Parents: this is a perfect first memory verse. Save it for bedtime 🔖
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Tue 06 Oct 14:10 WIB → **Tue 06 Oct 20:10 NZ**
+## @eliandruthie — Tue 06 Oct 14:10 WIB → **Tue 06 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari3_malam.mp4`
 
@@ -5479,7 +5479,7 @@ Gambar (urut): `output/stories/kapi_w2-3-larut.jpg`
 
 ```
 
-## @sahabat.eli — Wed 07 Oct 01:00 WIB → **Wed 07 Oct 07:00 NZ**
+## @eliandruthie — Wed 07 Oct 01:00 WIB → **Wed 07 Oct 07:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari4_pagi.mp4`
 
@@ -5499,7 +5499,7 @@ Write your first name in the comments and Eli will say hi! 👋
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Wed 07 Oct 01:10 WIB → **Wed 07 Oct 07:10 NZ**
+## @eliandruthie — Wed 07 Oct 01:10 WIB → **Wed 07 Oct 07:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari4_pagi.mp4`
 
@@ -5522,7 +5522,7 @@ Kirim ke seseorang yang masih menunggu jawaban doa 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Wed 07 Oct 06:00 WIB → **Wed 07 Oct 12:00 NZ**
+## @eliandruthie — Wed 07 Oct 06:00 WIB → **Wed 07 Oct 12:00 NZ**
 
 Gambar (urut): `output/eli_w2/edukasi4_1.jpg`, `output/eli_w2/edukasi4_2.jpg`, `output/eli_w2/edukasi4_3.jpg`, `output/eli_w2/edukasi4_4.jpg`
 
@@ -5547,7 +5547,7 @@ Gambar (urut): `output/stories/tenang_w2-4-pagi.jpg`
 
 ```
 
-## @sahabat.eli — Wed 07 Oct 06:10 WIB → **Wed 07 Oct 12:10 NZ**
+## @eliandruthie — Wed 07 Oct 06:10 WIB → **Wed 07 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-4-pagi2.jpg`
 
@@ -5647,7 +5647,7 @@ Gambar (urut): `output/stories/tenang_keren2-4-pagi2.jpg`
 
 ```
 
-## @sahabat.eli — Wed 07 Oct 10:00 WIB → **Wed 07 Oct 16:00 NZ**
+## @eliandruthie — Wed 07 Oct 10:00 WIB → **Wed 07 Oct 16:00 NZ**
 
 Gambar (urut): `output/eli_w2/saran4_1.jpg`, `output/eli_w2/saran4_2.jpg`, `output/eli_w2/saran4_3.jpg`, `output/eli_w2/saran4_4.jpg`, `output/eli_w2/saran4_5.jpg`, `output/eli_w2/saran4_6.jpg`
 
@@ -5667,7 +5667,7 @@ What would you add to the list? 👇 Share with your church friends!
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Wed 07 Oct 10:10 WIB → **Wed 07 Oct 16:10 NZ**
+## @eliandruthie — Wed 07 Oct 10:10 WIB → **Wed 07 Oct 16:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-4-siang.jpg`
 
@@ -5742,7 +5742,7 @@ Ketik “Pertolonganku dari TUHAN” sebagai doamu hari ini 🙏
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Wed 07 Oct 12:00 WIB → **Wed 07 Oct 18:00 NZ**
+## @eliandruthie — Wed 07 Oct 12:00 WIB → **Wed 07 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli_w2/kuis4.jpg`
 
@@ -5774,7 +5774,7 @@ Gambar (urut): `output/stories/tenang_w2-4-siang.jpg`
 
 ```
 
-## @sahabat.eli — Wed 07 Oct 12:10 WIB → **Wed 07 Oct 18:10 NZ**
+## @eliandruthie — Wed 07 Oct 12:10 WIB → **Wed 07 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-4-sore.jpg`
 
@@ -5832,7 +5832,7 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik4.mp4`
 
 ```
 
-## @sahabat.eli — Wed 07 Oct 14:00 WIB → **Wed 07 Oct 20:00 NZ**
+## @eliandruthie — Wed 07 Oct 14:00 WIB → **Wed 07 Oct 20:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari4_malam.mp4`
 
@@ -5852,7 +5852,7 @@ Send this to a family who could use a peaceful night 🤍
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Wed 07 Oct 14:10 WIB → **Wed 07 Oct 20:10 NZ**
+## @eliandruthie — Wed 07 Oct 14:10 WIB → **Wed 07 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari4_malam.mp4`
 
@@ -6049,7 +6049,7 @@ Gambar (urut): `output/stories/kapi_w2-4-larut.jpg`
 
 ```
 
-## @sahabat.eli — Thu 08 Oct 01:00 WIB → **Thu 08 Oct 07:00 NZ**
+## @eliandruthie — Thu 08 Oct 01:00 WIB → **Thu 08 Oct 07:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari5_pagi.mp4`
 
@@ -6069,7 +6069,7 @@ Type "TEAM GOD" if you're in! 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Thu 08 Oct 01:10 WIB → **Thu 08 Oct 07:10 NZ**
+## @eliandruthie — Thu 08 Oct 01:10 WIB → **Thu 08 Oct 07:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari5_pagi.mp4`
 
@@ -6092,7 +6092,7 @@ Save sebagai pengingat hari ini 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Thu 08 Oct 06:00 WIB → **Thu 08 Oct 12:00 NZ**
+## @eliandruthie — Thu 08 Oct 06:00 WIB → **Thu 08 Oct 12:00 NZ**
 
 Gambar (urut): `output/eli_w2/edukasi5_1.jpg`, `output/eli_w2/edukasi5_2.jpg`, `output/eli_w2/edukasi5_3.jpg`, `output/eli_w2/edukasi5_4.jpg`
 
@@ -6117,7 +6117,7 @@ Gambar (urut): `output/stories/tenang_w2-5-pagi.jpg`
 
 ```
 
-## @sahabat.eli — Thu 08 Oct 06:10 WIB → **Thu 08 Oct 12:10 NZ**
+## @eliandruthie — Thu 08 Oct 06:10 WIB → **Thu 08 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-5-pagi2.jpg`
 
@@ -6215,7 +6215,7 @@ Gambar (urut): `output/stories/tenang_keren2-5-pagi2.jpg`
 
 ```
 
-## @sahabat.eli — Thu 08 Oct 10:00 WIB → **Thu 08 Oct 16:00 NZ**
+## @eliandruthie — Thu 08 Oct 10:00 WIB → **Thu 08 Oct 16:00 NZ**
 
 Gambar (urut): `output/eli_w2/saran5_1.jpg`, `output/eli_w2/saran5_2.jpg`, `output/eli_w2/saran5_3.jpg`, `output/eli_w2/saran5_4.jpg`, `output/eli_w2/saran5_5.jpg`, `output/eli_w2/saran5_6.jpg`
 
@@ -6235,7 +6235,7 @@ Parents: what's your family's bedtime routine? Share your tips below 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Thu 08 Oct 10:10 WIB → **Thu 08 Oct 16:10 NZ**
+## @eliandruthie — Thu 08 Oct 10:10 WIB → **Thu 08 Oct 16:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-5-siang.jpg`
 
@@ -6310,7 +6310,7 @@ Tag seseorang yang perlu tahu ini hari ini 👇
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Thu 08 Oct 12:00 WIB → **Thu 08 Oct 18:00 NZ**
+## @eliandruthie — Thu 08 Oct 12:00 WIB → **Thu 08 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli_w2/kuis5.jpg`
 
@@ -6342,7 +6342,7 @@ Gambar (urut): `output/stories/tenang_w2-5-siang.jpg`
 
 ```
 
-## @sahabat.eli — Thu 08 Oct 12:10 WIB → **Thu 08 Oct 18:10 NZ**
+## @eliandruthie — Thu 08 Oct 12:10 WIB → **Thu 08 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-5-sore.jpg`
 
@@ -6400,7 +6400,7 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik5.mp4`
 
 ```
 
-## @sahabat.eli — Thu 08 Oct 14:00 WIB → **Thu 08 Oct 20:00 NZ**
+## @eliandruthie — Thu 08 Oct 14:00 WIB → **Thu 08 Oct 20:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari5_malam.mp4`
 
@@ -6420,7 +6420,7 @@ Drop a 💙 for someone you love, and tag them so they see it
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Thu 08 Oct 14:10 WIB → **Thu 08 Oct 20:10 NZ**
+## @eliandruthie — Thu 08 Oct 14:10 WIB → **Thu 08 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari5_malam.mp4`
 
@@ -6618,7 +6618,7 @@ Gambar (urut): `output/stories/kapi_w2-5-larut.jpg`
 
 ```
 
-## @sahabat.eli — Fri 09 Oct 01:00 WIB → **Fri 09 Oct 07:00 NZ**
+## @eliandruthie — Fri 09 Oct 01:00 WIB → **Fri 09 Oct 07:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari6_pagi.mp4`
 
@@ -6638,7 +6638,7 @@ What's one thing you like about how God made you? 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Fri 09 Oct 01:10 WIB → **Fri 09 Oct 07:10 NZ**
+## @eliandruthie — Fri 09 Oct 01:10 WIB → **Fri 09 Oct 07:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari6_pagi.mp4`
 
@@ -6661,7 +6661,7 @@ Ketik “Pakai aku” sebagai doamu pagi ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Fri 09 Oct 06:00 WIB → **Fri 09 Oct 12:00 NZ**
+## @eliandruthie — Fri 09 Oct 06:00 WIB → **Fri 09 Oct 12:00 NZ**
 
 Gambar (urut): `output/eli_w2/edukasi6_1.jpg`, `output/eli_w2/edukasi6_2.jpg`, `output/eli_w2/edukasi6_3.jpg`, `output/eli_w2/edukasi6_4.jpg`
 
@@ -6686,7 +6686,7 @@ Gambar (urut): `output/stories/tenang_w2-6-pagi.jpg`
 
 ```
 
-## @sahabat.eli — Fri 09 Oct 06:10 WIB → **Fri 09 Oct 12:10 NZ**
+## @eliandruthie — Fri 09 Oct 06:10 WIB → **Fri 09 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-6-pagi2.jpg`
 
@@ -6786,7 +6786,7 @@ Gambar (urut): `output/stories/tenang_keren2-6-pagi2.jpg`
 
 ```
 
-## @sahabat.eli — Fri 09 Oct 10:00 WIB → **Fri 09 Oct 16:00 NZ**
+## @eliandruthie — Fri 09 Oct 10:00 WIB → **Fri 09 Oct 16:00 NZ**
 
 Gambar (urut): `output/eli_w2/saran6_1.jpg`, `output/eli_w2/saran6_2.jpg`, `output/eli_w2/saran6_3.jpg`, `output/eli_w2/saran6_4.jpg`, `output/eli_w2/saran6_5.jpg`, `output/eli_w2/saran6_6.jpg`
 
@@ -6806,7 +6806,7 @@ Which one brings back memories? Tag your old Sunday school friend 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Fri 09 Oct 10:10 WIB → **Fri 09 Oct 16:10 NZ**
+## @eliandruthie — Fri 09 Oct 10:10 WIB → **Fri 09 Oct 16:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-6-siang.jpg`
 
@@ -6881,7 +6881,7 @@ Ketik 🤍 kalau kamu sedang di tengah badai. Kita doakan.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Fri 09 Oct 12:00 WIB → **Fri 09 Oct 18:00 NZ**
+## @eliandruthie — Fri 09 Oct 12:00 WIB → **Fri 09 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli_w2/kuis6.jpg`
 
@@ -6913,7 +6913,7 @@ Gambar (urut): `output/stories/tenang_w2-6-siang.jpg`
 
 ```
 
-## @sahabat.eli — Fri 09 Oct 12:10 WIB → **Fri 09 Oct 18:10 NZ**
+## @eliandruthie — Fri 09 Oct 12:10 WIB → **Fri 09 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-6-sore.jpg`
 
@@ -6971,7 +6971,7 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik6.mp4`
 
 ```
 
-## @sahabat.eli — Fri 09 Oct 14:00 WIB → **Fri 09 Oct 20:00 NZ**
+## @eliandruthie — Fri 09 Oct 14:00 WIB → **Fri 09 Oct 20:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari6_malam.mp4`
 
@@ -6991,7 +6991,7 @@ What helps you feel safe at night? A nightlight? A cuddle? Tell Eli 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Fri 09 Oct 14:10 WIB → **Fri 09 Oct 20:10 NZ**
+## @eliandruthie — Fri 09 Oct 14:10 WIB → **Fri 09 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari6_malam.mp4`
 
@@ -7192,7 +7192,7 @@ Gambar (urut): `output/stories/kapi_w2-6-larut.jpg`
 
 ```
 
-## @sahabat.eli — Sat 10 Oct 01:00 WIB → **Sat 10 Oct 07:00 NZ**
+## @eliandruthie — Sat 10 Oct 01:00 WIB → **Sat 10 Oct 07:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari7_pagi.mp4`
 
@@ -7212,7 +7212,7 @@ What are you doing this weekend? 👇
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Sat 10 Oct 01:10 WIB → **Sat 10 Oct 07:10 NZ**
+## @eliandruthie — Sat 10 Oct 01:10 WIB → **Sat 10 Oct 07:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari7_pagi.mp4`
 
@@ -7235,7 +7235,7 @@ Selamat berakhir pekan. Kirim ke temanmu yang keras pada dirinya sendiri 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 10 Oct 06:00 WIB → **Sat 10 Oct 12:00 NZ**
+## @eliandruthie — Sat 10 Oct 06:00 WIB → **Sat 10 Oct 12:00 NZ**
 
 Gambar (urut): `output/eli_w2/edukasi7_1.jpg`, `output/eli_w2/edukasi7_2.jpg`, `output/eli_w2/edukasi7_3.jpg`, `output/eli_w2/edukasi7_4.jpg`
 
@@ -7260,7 +7260,7 @@ Gambar (urut): `output/stories/tenang_w2-7-pagi.jpg`
 
 ```
 
-## @sahabat.eli — Sat 10 Oct 06:10 WIB → **Sat 10 Oct 12:10 NZ**
+## @eliandruthie — Sat 10 Oct 06:10 WIB → **Sat 10 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-7-pagi2.jpg`
 
@@ -7360,7 +7360,7 @@ Gambar (urut): `output/stories/tenang_keren2-7-pagi2.jpg`
 
 ```
 
-## @sahabat.eli — Sat 10 Oct 10:00 WIB → **Sat 10 Oct 16:00 NZ**
+## @eliandruthie — Sat 10 Oct 10:00 WIB → **Sat 10 Oct 16:00 NZ**
 
 Gambar (urut): `output/eli_w2/saran7_1.jpg`, `output/eli_w2/saran7_2.jpg`, `output/eli_w2/saran7_3.jpg`, `output/eli_w2/saran7_4.jpg`, `output/eli_w2/saran7_5.jpg`, `output/eli_w2/saran7_6.jpg`
 
@@ -7380,7 +7380,7 @@ Send this to a kid (or a grown-up!) who needs to hear it today 🤍
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Sat 10 Oct 10:10 WIB → **Sat 10 Oct 16:10 NZ**
+## @eliandruthie — Sat 10 Oct 10:10 WIB → **Sat 10 Oct 16:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-7-siang.jpg`
 
@@ -7455,7 +7455,7 @@ Selamat beristirahat. Follow @diam.dan.percaya untuk renungan setiap hari.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
-## @sahabat.eli — Sat 10 Oct 12:00 WIB → **Sat 10 Oct 18:00 NZ**
+## @eliandruthie — Sat 10 Oct 12:00 WIB → **Sat 10 Oct 18:00 NZ**
 
 Gambar (urut): `output/eli_w2/kuis7.jpg`
 
@@ -7487,7 +7487,7 @@ Gambar (urut): `output/stories/tenang_w2-7-siang.jpg`
 
 ```
 
-## @sahabat.eli — Sat 10 Oct 12:10 WIB → **Sat 10 Oct 18:10 NZ**
+## @eliandruthie — Sat 10 Oct 12:10 WIB → **Sat 10 Oct 18:10 NZ**
 
 Gambar (urut): `output/stories/eli_w2-7-sore.jpg`
 
@@ -7545,7 +7545,7 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik7.mp4`
 
 ```
 
-## @sahabat.eli — Sat 10 Oct 14:00 WIB → **Sat 10 Oct 20:00 NZ**
+## @eliandruthie — Sat 10 Oct 14:00 WIB → **Sat 10 Oct 20:00 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari7_malam.mp4`
 
@@ -7565,7 +7565,7 @@ Which verse from this week was your favourite? Tell Eli 👇 See you tomorrow!
 #sahabateli #bibleforkids #kidsdevotional #sundayschool #christianparenting #faithfamily #christiankids #bibleverse #braveandloved #kidsmin
 ```
 
-## @sahabat.eli — Sat 10 Oct 14:10 WIB → **Sat 10 Oct 20:10 NZ**
+## @eliandruthie — Sat 10 Oct 14:10 WIB → **Sat 10 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_w2/hari7_malam.mp4`
 

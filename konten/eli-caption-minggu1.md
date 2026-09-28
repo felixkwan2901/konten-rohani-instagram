@@ -1,5 +1,5 @@
 # 📅 KONTEN SIAP PAKAI — 7 HARI PERTAMA
-## @sahabat.eli — Karakter Eli
+## @eliandruthie — Karakter Eli
 ## Tema Minggu 1: Pengharapan / Hope
 
 ---

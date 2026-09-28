@@ -1,4 +1,4 @@
-"""@sahabat.eli -> Eli the Lamb: domba kecil fotorealistik (gambar AI) yang hidup sehari-hari di New Zealand.
+"""@eliandruthie (dulu @sahabat.eli) -> Eli the Lamb: domba kecil fotorealistik (gambar AI) yang hidup sehari-hari di New Zealand.
 Bahasa Inggris. Humor relatable NZ (PAK'nSAVE, cuaca, macet Auckland, dairy, pie, jandals...).
 Rohani hanya 1x seminggu: hari Minggu pagi. Pasangan: Ruthie (domba coklat karamel), untuk konten suami-istri. 3 post/hari (07:00, 12:00, 20:00 NZ), malam = Reels (zoom pelan + musik).
 
