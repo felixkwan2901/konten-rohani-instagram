@@ -36,7 +36,7 @@ Doa paling jujur kadang paling pendek 🤍
 
 Ketik “Amin” kalau ini doamu juga hari ini.
 
-📖 “Tanpa Aku kamu tidak dapat berbuat apa-apa.” — Yohanes 15:5
+📖 “…di luar Aku kamu tidak dapat berbuat apa-apa.” — Yohanes 15:5
 .
 .
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
@@ -377,7 +377,7 @@ Gambar (urut): `output/tenang/hari2_pagi2_1.jpg`
 ```
 Tidak perlu sempurna, cukup bersama Dia 🤍
 
-📖 “Inilah hari yang dijadikan TUHAN, mari kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24
+📖 “Inilah hari yang dijadikan TUHAN, marilah kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24
 
 Selamat menjalani hari ini.
 .
@@ -3361,7 +3361,7 @@ Gambar (urut): `output/kapi/komik6_1.jpg`, `output/kapi/komik6_2.jpg`, `output/k
 ```
 Kapi dari Senin sampai Sabtu. kamu di fase yang mana? 😂🍊
 
-“Inilah hari yang dijadikan TUHAN, mari kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24
+“Inilah hari yang dijadikan TUHAN, marilah kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24
 
 selamat akhir pekan! besok jangan lupa ibadah ya 🙏
 .
@@ -3630,7 +3630,7 @@ Gambar (urut): `output/reels/kapi/hari8.mp4`
 ```
 capeknya nyata, tapi sukacitanya lebih kuat 🍊✨
 
-“Jangan kamu bersusah hati, sebab sukacita karena TUHAN itulah perlindunganmu!” — Nehemia 8:10
+“Jangan kamu bersusah hati, sebab sukacita karena TUHAN itulah perlindunganmu!” — Nehemia 8:11
 
 sebutin satu hal yang bikin kamu senyum minggu ini 👇
 .
@@ -5709,7 +5709,7 @@ trauma terbesar mahasiswa: “file belum di-save” 😭💻
 
 kecewa boleh, nyerah jangan. Dia penolong yang sudah terbukti.
 
-“Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesengsaraan sangat terbukti.” — Mazmur 46:2
+“Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti.” — Mazmur 46:2
 
 tips dari Kapi: Ctrl+S tiap 5 menit 😂 tag temen yang lagi skripsian 👇
 .
@@ -6453,7 +6453,7 @@ Gambar (urut): `output/reels/kapi_w2/kata16.mp4`
 akar tumbuh duluan sebelum kelihatan buahnya 🌱
 Dia belum selesai sama kamu.
 
-“…Ia, yang memulai pekerjaan yang baik di antaramu, akan meneruskannya sampai pada akhirnya pada hari Kristus Yesus.” — Filipi 1:6
+“…Ia, yang memulai pekerjaan yang baik di antara kamu, akan meneruskannya sampai pada akhirnya pada hari Kristus Yesus.” — Filipi 1:6
 
 save buat pengingat 🔖
 .
@@ -7722,7 +7722,7 @@ Gambar (urut): `output/reels/tenang_w2/suasana5.mp4`
 ```
 Tidak ada malam yang terlalu gelap bagi-Nya 🌙
 
-📖 “Juga kegelapan tidak menggelapkan bagi-Mu, dan malam menjadi terang seperti siang; kegelapan sama seperti terang.” — Mazmur 139:12
+📖 “Kegelapan pun tidak menggelapkan bagi-Mu, dan malam menjadi terang seperti siang; kegelapan sama seperti terang.” — Mazmur 139:12
 
 Selamat beristirahat. Save untuk malam yang panjang 🔖
 .
@@ -7773,7 +7773,7 @@ Kitab Yunus tidak berakhir dengan jawaban, tapi dengan pertanyaan dari Tuhan. Da
 
 Yunus 4:11: “Bagaimana tidak Aku akan sayang kepada Niniwe…?” Seolah pertanyaan itu kini diarahkan kepada kita.
 
-Lalu Yesus menyebut “tanda nabi Yunus” (Matius 12:40-41): tiga hari di perut ikan, tiga hari di rahim bumi. Dan “yang ada di sini lebih dari pada Yunus.” Yunus lari dari musuhnya; Yesus mati untuk musuh-musuh-Nya.
+Lalu Yesus menyebut “tanda nabi Yunus” (Matius 12:39-41): tiga hari di perut ikan, tiga hari di rahim bumi. Dan “yang ada di sini lebih dari pada Yunus.” Yunus lari dari musuhnya; Yesus mati untuk musuh-musuh-Nya.
 
 Seri Yunus selesai! Bagian mana yang paling berkesan untukmu (1–14)? Dan kitab apa yang harus kita bahas berikutnya? 👇
 

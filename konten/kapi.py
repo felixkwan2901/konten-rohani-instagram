@@ -23,7 +23,7 @@ POSTS = [
     {"bg": "#F26B1D", "atas": "hari Minggu gini,", "besar": "SYUKUR", "bawah": "dulu, bestie.", "ekspresi": "semangat", "properti": "jeruk+bintang",
      "caption": "selamat hari Minggu! sebutin satu hal yang kamu syukuri minggu ini 👇🧡\n\n“Mengucap syukurlah dalam segala hal, sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.” — 1 Tesalonika 5:18\n\nfollow @{handle} biar tiap hari diingetin 🧡"},
     {"bg": "#F2B705", "atas": "minggu ini melelahkan?", "besar": "SUKACITA", "bawah": "tetap dari Tuhan.", "ekspresi": "semangat", "properti": "jeruk+bintang",
-     "caption": "capeknya nyata, tapi sukacitanya lebih kuat 🍊✨\n\n“Jangan kamu bersusah hati, sebab sukacita karena TUHAN itulah perlindunganmu!” — Nehemia 8:10\n\nsebutin satu hal yang bikin kamu senyum minggu ini 👇"},
+     "caption": "capeknya nyata, tapi sukacitanya lebih kuat 🍊✨\n\n“Jangan kamu bersusah hati, sebab sukacita karena TUHAN itulah perlindunganmu!” — Nehemia 8:11\n\nsebutin satu hal yang bikin kamu senyum minggu ini 👇"},
 ]
 
 

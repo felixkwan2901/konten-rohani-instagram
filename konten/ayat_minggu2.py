@@ -82,7 +82,7 @@ POSTS = [
              ("ref", "Yunus 1:5", 30),
              ("kecil", "Di TB, kata yang sama diterjemahkan ‘pergi’ (1:3), ‘turun’ (1:5), dan ‘tenggelam’ (2:6).")],
             [("label", "Sampai titik paling bawah… lalu"),
-             ("kutip", "“Aku tenggelam sampai ke dasar gunung-gunung… Ketika itulah Engkau naikkan nyawaku dari dalam liang kubur, ya TUHAN, Allahku.”"),
+             ("kutip", "“…di dasar gunung-gunung. Aku tenggelam ke dasar bumi… Ketika itulah Engkau naikkan nyawaku dari dalam liang kubur, ya TUHAN, Allahku.”"),
              ("ref", "Yunus 2:6")],
             [("sub", "Pelajarannya", 30),
              ("poin", "1.  Menjauh dari Tuhan jarang terjadi sekaligus. Biasanya turun sedikit demi sedikit."),

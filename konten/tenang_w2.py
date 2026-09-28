@@ -22,7 +22,7 @@ POSTS = [
         "warna": "krem",
         "hook": "Kekuatan baru untuk hari ini.",
         "masalah": ["Baru hari Senin,", "tapi rasanya sudah habis?", "", "Tenagamu memang terbatas.", "Tuhan tidak."],
-        "ayat": "“Tetapi orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seperti rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.”",
+        "ayat": "“Tetapi orang-orang yang menanti-nantikan TUHAN mendapat kekuatan baru: mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya; mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.”",
         "ref": "Yesaya 40:31",
         "refleksi": ["Kekuatan baru tidak datang", "dari memaksa diri.", "", "Datangnya dari menanti Dia."],
         "cta": ["Simpan ini untuk", "Senin-Senin berikutnya."],
@@ -195,7 +195,7 @@ SUASANA = [
      "teks": ["Gelap bagimu,", "tidak gelap bagi-Nya.", "",
               "Malam yang kamu takutkan", "terang seperti siang di mata-Nya.", "",
               "Tidurlah.", "Dia tetap melihat semuanya."],
-     "caption": "Tidak ada malam yang terlalu gelap bagi-Nya 🌙\n\n📖 “Juga kegelapan tidak menggelapkan bagi-Mu, dan malam menjadi terang seperti siang; kegelapan sama seperti terang.” — Mazmur 139:12\n\nSelamat beristirahat. Save untuk malam yang panjang 🔖"},
+     "caption": "Tidak ada malam yang terlalu gelap bagi-Nya 🌙\n\n📖 “Kegelapan pun tidak menggelapkan bagi-Mu, dan malam menjadi terang seperti siang; kegelapan sama seperti terang.” — Mazmur 139:12\n\nSelamat beristirahat. Save untuk malam yang panjang 🔖"},
 ]
 
 

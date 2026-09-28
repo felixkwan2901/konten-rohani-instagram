@@ -134,7 +134,7 @@ WARNA = [
     {
         "bg": "#1F6B3A", "fg": "#F4F1EA",
         "teks": ["Tuhan, aku butuh Engkau.", "Aku tidak bisa melakukan ini sendiri."],
-        "caption": "Doa paling jujur kadang paling pendek 🤍\n\nKetik “Amin” kalau ini doamu juga hari ini.\n\n📖 “Tanpa Aku kamu tidak dapat berbuat apa-apa.” — Yohanes 15:5",
+        "caption": "Doa paling jujur kadang paling pendek 🤍\n\nKetik “Amin” kalau ini doamu juga hari ini.\n\n📖 “…di luar Aku kamu tidak dapat berbuat apa-apa.” — Yohanes 15:5",
     },
     {
         "bg": "#F07021", "fg": "#0E0E0E",
@@ -167,7 +167,7 @@ WARNA = [
         "caption": "Belum selesai. Tuhan masih bekerja 🤍\n\n📖 “Kita tahu sekarang, bahwa Allah turut bekerja dalam segala sesuatu untuk mendatangkan kebaikan bagi mereka yang mengasihi Dia.” — Roma 8:28\n\nKirim ke seseorang yang merasa ceritanya sudah tamat 💌",
     },
     {"bg": "#E3D5C3", "fg": "#2B2620", "teks": ["Hari ini tidak harus sempurna.", "Cukup dijalani bersama Tuhan."],
-     "caption": "Tidak perlu sempurna, cukup bersama Dia 🤍\n\n📖 “Inilah hari yang dijadikan TUHAN, mari kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24\n\nSelamat menjalani hari ini."},
+     "caption": "Tidak perlu sempurna, cukup bersama Dia 🤍\n\n📖 “Inilah hari yang dijadikan TUHAN, marilah kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24\n\nSelamat menjalani hari ini."},
     {"bg": "#1C2B3A", "fg": "#F4F1EA", "teks": ["Tuhan tidak lelah mendengar", "doa yang sama berulang kali."],
      "caption": "Jangan berhenti berdoa, walau doanya masih sama 🤍\n\n📖 “Yesus mengatakan suatu perumpamaan kepada mereka untuk menegaskan, bahwa mereka harus selalu berdoa dengan tidak jemu-jemu.” — Lukas 18:1\n\nKetik “Aku tetap berdoa” 🙏"},
     {"bg": "#F4F1EA", "fg": "#111111", "teks": ["Pelan-pelan", "juga tetap maju."],

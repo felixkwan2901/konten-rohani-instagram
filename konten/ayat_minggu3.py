@@ -175,6 +175,6 @@ POSTS = [
             [("judul", "Seri Yunus selesai.", 0), ("judul2", "Bagian mana yang paling kena?", 40),
              ("kecil", "Tulis nomornya (1–14). Kitab apa yang harus kita bahas berikutnya?")],
         ],
-        "caption": "Kitab Yunus tidak berakhir dengan jawaban, tapi dengan pertanyaan dari Tuhan. Dan jawaban Yunus tidak pernah ditulis 🌊\n\nYunus 4:11: “Bagaimana tidak Aku akan sayang kepada Niniwe…?” Seolah pertanyaan itu kini diarahkan kepada kita.\n\nLalu Yesus menyebut “tanda nabi Yunus” (Matius 12:40-41): tiga hari di perut ikan, tiga hari di rahim bumi. Dan “yang ada di sini lebih dari pada Yunus.” Yunus lari dari musuhnya; Yesus mati untuk musuh-musuh-Nya.\n\nSeri Yunus selesai! Bagian mana yang paling berkesan untukmu (1–14)? Dan kitab apa yang harus kita bahas berikutnya? 👇\n\nTerima kasih sudah mengikuti seri ini 📜",
+        "caption": "Kitab Yunus tidak berakhir dengan jawaban, tapi dengan pertanyaan dari Tuhan. Dan jawaban Yunus tidak pernah ditulis 🌊\n\nYunus 4:11: “Bagaimana tidak Aku akan sayang kepada Niniwe…?” Seolah pertanyaan itu kini diarahkan kepada kita.\n\nLalu Yesus menyebut “tanda nabi Yunus” (Matius 12:39-41): tiga hari di perut ikan, tiga hari di rahim bumi. Dan “yang ada di sini lebih dari pada Yunus.” Yunus lari dari musuhnya; Yesus mati untuk musuh-musuh-Nya.\n\nSeri Yunus selesai! Bagian mana yang paling berkesan untukmu (1–14)? Dan kitab apa yang harus kita bahas berikutnya? 👇\n\nTerima kasih sudah mengikuti seri ini 📜",
     },
 ]

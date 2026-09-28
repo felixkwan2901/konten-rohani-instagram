@@ -75,8 +75,8 @@ KOMIK = [
                 ("Rabu", "sedih", "none"),
                 ("Jumat sore", "semangat", "bintang"),
                 ("tiap hari tetap ada kasih karunia-Nya", "senang", "jeruk")],
-     "ayat": "“Inilah hari yang dijadikan TUHAN, mari kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24",
-     "caption": "Kapi dari Senin sampai Sabtu. kamu di fase yang mana? 😂🍊\n\n“Inilah hari yang dijadikan TUHAN, mari kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24\n\nselamat akhir pekan! besok jangan lupa ibadah ya 🙏"},
+     "ayat": "“Inilah hari yang dijadikan TUHAN, marilah kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24",
+     "caption": "Kapi dari Senin sampai Sabtu. kamu di fase yang mana? 😂🍊\n\n“Inilah hari yang dijadikan TUHAN, marilah kita bersorak-sorak dan bersukacita karenanya!” — Mazmur 118:24\n\nselamat akhir pekan! besok jangan lupa ibadah ya 🙏"},
 ]
 
 PILIH = [
