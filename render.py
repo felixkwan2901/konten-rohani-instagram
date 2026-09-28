@@ -1112,14 +1112,27 @@ def minggu_kedua(at, off=7):
     import akun_baru
     import keren
     items = []
+    lamb = {}
+    if (ROOT / "konten/eli_lamb.py").exists():  # Eli the Lamb (gambar AI): hari yang gambarnya sudah ada menggantikan Eli kartun
+        import eli_lamb
+        lamb = eli_lamb.render_semua()
+        jam = config.AKUN["eli"]["jam_en"]
+        for (hari, slot), (files, caption) in lamb.items():
+            items.append({"id": f"eli_lamb-{hari}-{slot}", "akun": "eli", "waktu": at(off + hari - 1, jam[slot]),
+                          "files": files, "caption": caption})
+    lamb_days = {h for h, _ in lamb}
     if (ROOT / "konten/eli_w2.py").exists():
         from konten import eli_w2
         jam = config.AKUN["eli"]["jam_en"]
         for v in eli_w2.VERSE:
+            if v["hari"] in lamb_days:
+                continue
             rel = save(eli_image(v["slot"], v["bubble"], v["kutipan"], v["ref"]), f"eli_w2/hari{v['hari']}_{v['slot']}.jpg")
             items.append({"id": f"eli_w2-{v['hari']}-{v['slot']}", "akun": "eli", "waktu": at(off + v["hari"] - 1, jam[v["slot"]]),
                           "files": [reel_or_image(f"reels/eli_w2/hari{v['hari']}_{v['slot']}.mp4", rel)], "caption": v["caption"]})
         for (hari, slot), (files, caption) in render_eli_variasi("eli_w2", "eli_w2", "en").items():
+            if hari in lamb_days:
+                continue
             items.append({"id": f"eli_w2-{hari}-{slot}", "akun": "eli", "waktu": at(off + hari - 1, jam[slot]),
                           "files": files, "caption": caption})
     if (ROOT / "konten/tenang_keren2.py").exists():
