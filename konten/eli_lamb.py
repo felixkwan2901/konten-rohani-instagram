@@ -126,6 +126,74 @@ COUPLE_POSTS = {
         'Getting ready for church tomorrow 😄👗\n\nSee you Sunday? What time is your service?'),
 }
 
+# ---------- minggu 2: Minggu 11 - Sabtu 17 Okt (hari 8-14) ----------
+# (hari, slot, pasangan?, teks meme, adegan, caption, rohani?)
+_DATA2 = [
+    (8, "pagi", True, "When life feels like too much,\nremember who carries the lambs.",
+     "Eli and Ruthie sitting peacefully together in a green spring paddock full of daisies, soft morning light, calm and content",
+     "Sunday reminder 🐑🤍\n\n“He shall gather the lambs with his arm, and carry them in his bosom.” — Isaiah 40:11 (KJV)\n\nYou don't have to carry this week alone.", True),
+    (8, "pagi2", False, "Daylight saving:\nlost one hour of sleep.\nStill looking for it.",
+     "Eli in bed under a duvet squinting at a ringing alarm clock, messy wool, sunlight through curtains, very sleepy",
+     "Is it just me or does it take a whole week to recover? 😴⏰\n\nWho else is still tired?", False),
+    (8, "malam", True, "Us after Sunday lunch:\n“Let's be productive this afternoon.”\nAlso us:",
+     "Eli and Ruthie fast asleep on a couch at 2pm with empty plates on the coffee table, sunny living room",
+     "Sunday naps are a spiritual discipline, right? 😅\n\nTag your nap partner.", False),
+    (9, "pagi", False, "Kiwis at the supermarket:\nno shoes, no problem.",
+     "Eli walking barefoot down a supermarket aisle holding a shopping basket, relaxed and confident, other shoppers blurred",
+     "Bare feet at the supermarket is a Kiwi right 🦶🛒\n\nBe honest: have you done it?", False),
+    (9, "pagi2", True, "Her: let's eat healthy this week.\nAlso her at 9pm:",
+     "Ruthie in a cosy kitchen at night eating hokey pokey ice cream straight from a big tub with a spoon, Eli standing behind her holding a salad, surprised",
+     "Healthy starts tomorrow. Every day. 🍨😂\n\nHokey pokey or cookies & cream?", False),
+    (9, "malam", False, "Spring in NZ: baby lambs everywhere.\nMe: finally, my people.",
+     "Eli leaning on a wooden farm fence proudly watching a paddock full of tiny newborn lambs in spring, golden evening light, green hills",
+     "Lambing season is the best season 🐑🌸\n\nFollow for more lamb life.", False),
+    (10, "pagi", False, "NZ roundabouts:\neveryone waiting for everyone.",
+     "Eli in a small car at a suburban roundabout, politely waving another car through while all the other cars are also stopped and waving, sunny morning",
+     "After you. No, after YOU. 🚗🔄\n\nKiwi politeness at its finest.", False),
+    (10, "pagi2", True, "Her: I got a trim.\nMe, who can't see any difference:\n“Wow, it looks amazing!”",
+     "Ruthie at a hair salon admiring her freshly trimmed caramel wool in the mirror, Eli standing next to her giving an enthusiastic thumbs up with a nervous smile",
+     "Husband survival tip #1 💇‍♀️😅\n\nTag someone who needs this advice.", False),
+    (10, "malam", False, "Tuesday dinner: mince, again.\nThe mince: “see you tomorrow.”",
+     "Eli standing at a stove stirring a big pan of mince with a tired face, simple home kitchen at night",
+     "Mince and cheese, mince on toast, mince pasta… 🍝😂\n\nWhat's your go-to weeknight dinner?", False),
+    (11, "pagi", False, "When someone says “yeah nah”\nand you know exactly what they mean.",
+     "Eli chatting with an older sheep friend over a wooden fence in the countryside, Eli nodding knowingly, morning light",
+     "Kiwi is a language of its own 🇳🇿😄\n\nComment your favourite Kiwi phrase 👇", False),
+    (11, "pagi2", True, "Our love language:\nsending each other videos\nwhile sitting on the same couch.",
+     "Eli and Ruthie sitting side by side on a couch, both laughing at their phones, cosy living room",
+     "Romance is not dead 📱💕\n\nTag the person you send videos to.", False),
+    (11, "malam", False, "Me at the op shop: “I don't need anything.”\nAlso me:",
+     "Eli in a second-hand op shop happily holding up a quirky lamp shaped like a duck, shelves of vintage items behind",
+     "Op shop finds hit different 🦆💡\n\nWhat's your best op shop find?", False),
+    (12, "pagi", True, "Me: I'll cook tonight.\nThe smoke alarm:",
+     "Eli in a smoky kitchen holding a burnt pan with an innocent face while Ruthie waves a tea towel at the ceiling smoke alarm, evening",
+     "It's called flavour 🔥😂\n\nWho's the cook in your house?", False),
+    (12, "pagi2", False, "Kiwi BBQ rule:\n“She'll be right.”\nThe sausages:",
+     "Eli at a backyard barbecue calmly holding tongs while sausages on the grill are very burnt and smoking, sunny backyard",
+     "She'll be right… probably 🌭🔥\n\nTomato sauce or mustard?", False),
+    (12, "malam", True, "Choosing what to watch: 45 minutes.\nWatching it: 10 minutes\nbefore we fall asleep.",
+     "Eli and Ruthie on a couch under a blanket at night, Eli holding a TV remote scrolling endlessly, Ruthie already half asleep on his shoulder",
+     "Every. Single. Night. 📺😴\n\nWhat are you watching right now?", False),
+    (13, "pagi", False, "Friday morning me:\nMonday me could never.",
+     "Eli happily dancing in the kitchen in the morning holding a coffee mug, sunlight streaming in, joyful expression",
+     "Friday energy is unmatched 🕺☕\n\nWhat are your weekend plans?", False),
+    (13, "pagi2", True, "Packing for the weekend away:\nher: 3 suitcases.\nme: one jandal.",
+     "Ruthie standing next to a car boot packed with three big suitcases, Eli next to her proudly holding a single jandal, driveway, sunny day",
+     "I'll find the other one there 🩴🧳\n\nOverpacker or underpacker?", False),
+    (13, "malam", False, "Friday takeaways:\n“I'll just have a small.”\nAlso me:",
+     "Eli at a table surrounded by lots of takeaway boxes, burgers, chips and noodles, looking very happy, Friday night",
+     "Small is a state of mind 🍔🍟\n\nWhat's your Friday night takeaway?", False),
+    (14, "pagi", False, "Everyone: mowing the lawn on Saturday.\nMe, a sheep:",
+     "Eli happily munching the long grass of a suburban backyard lawn while a lawn mower sits unused next to him, sunny Saturday morning",
+     "Work smarter, not harder 🐑🌱\n\nWho's mowing the lawn today?", False),
+    (14, "pagi2", True, "Her: “It's only a 2-hour walk.”\nThe track: 6 hours, all uphill.",
+     "Ruthie cheerfully hiking up a steep scenic New Zealand track with a small backpack while Eli behind her is exhausted and sweaty, mountains and lake in the distance",
+     "The views were worth it. My legs disagree. 🏔️😮‍💨\n\nWhat's your favourite NZ walk?", False),
+    (14, "malam", True, "Setting 3 alarms for church tomorrow\nbecause we know ourselves.",
+     "Eli and Ruthie sitting in bed at night both setting alarms on their phones, a bedside lamp on, church clothes hanging ready on the wardrobe",
+     "See you at church tomorrow! ⛪😄\n\nMorning service or evening service?", False),
+]
+
 # post yang kotak teksnya di bawah (wajah karakter ada di atas gambar)
 TEKS_BAWAH = {"2-malam"}
 
@@ -134,6 +202,10 @@ for hari, slot, teks, adegan, caption, faith in _DATA:
     pasangan = (hari, slot) in COUPLE_POSTS
     if pasangan:
         teks, adegan, caption = COUPLE_POSTS[(hari, slot)]
+    POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam", "pasangan": pasangan,
+                  "prompt": f"{COUPLE if pasangan else CHARACTER}. Scene: {adegan}.",
+                  "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})
+for hari, slot, pasangan, teks, adegan, caption, faith in _DATA2:
     POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam", "pasangan": pasangan,
                   "prompt": f"{COUPLE if pasangan else CHARACTER}. Scene: {adegan}.",
                   "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})
