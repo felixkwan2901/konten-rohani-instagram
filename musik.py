@@ -348,14 +348,14 @@ def lagu_unik(rel, seconds, used):
             bpm = int(rng.integers(62, 76)) if mood == "tidur" else int(rng.integers(84, 104))
             insts = [musicbox, bell, felt] if mood == "tidur" else [bell, marimba, piano]
         else:
-            mood, bpm, insts = "teduh", int(rng.integers(56, 82)), [piano, felt, musicbox, strings]
+            mood, bpm, insts = "teduh", int(rng.integers(62, 84)), [piano, felt, musicbox]  # tanpa strings: terdengar seram
         key = int(rng.integers(0, 12)) + 48  # C3..B3
         hymn = None
         if rng.random() < 0.3:
             hymn = {"ceria": "joyful", "anak": ["joyful", "yesus"][rng.integers(2)], "tidur": "yesus"}.get(mood, ["amazing", "yesus"][rng.integers(2)])
-        prog = PROGS[rng.integers(len(PROGS))]
+        prog = PROGS[[0, 2, 3, 5, 7, 9, 11][rng.integers(7)]]  # progresi mayor yang cerah/hangat
         lead = insts[rng.integers(len(insts))]
-        comp = [piano, felt, strings][rng.integers(3)] if mood != "ceria" else pluck
+        comp = [piano, felt][rng.integers(2)] if mood != "ceria" else pluck
         sig = (hymn, PROGS.index(prog), key % 12, bpm, lead.__name__, comp.__name__)
         if sig not in used:
             used.add(sig)
@@ -455,6 +455,14 @@ def pasang(rel, lagu):
     return rel
 
 
+def _kembalikan_ting(rel):
+    """Reels notifikasi: render ulang videonya dulu supaya audio aslinya hanya bunyi 'ting' (tanpa musik lama)."""
+    import re
+    import reels
+    mod = rel.split("/")[1]
+    reels.notif_reel(int(re.search(r"notif(\d+)", rel).group(1)) - 1, modul=mod)
+
+
 def pasang_semua():
     """Semua Reels di jadwal yang belum diposting -> diberi musik. Mengembalikan daftar file yang diubah."""
     schedule = json.loads((OUT / "schedule.json").read_text())
@@ -464,6 +472,8 @@ def pasang_semua():
         for f in it["files"]:
             if f.endswith(".mp4") and f.startswith("reels/") and it["id"] not in posted and f not in done:
                 done.add(f)
+                if Path(f).stem.startswith("notif"):
+                    _kembalikan_ting(f)
                 wav, sig = lagu_unik(f, durasi(OUT / f) + 1, used)
                 changed.append(pasang(f, str(wav)))
                 print(f, "<-", sig)
