@@ -3250,6 +3250,29 @@ Gambar (urut): `output/stories/kapi_w2-1-larut.jpg`
 
 ```
 
+## @eliandruthie — Mon 05 Oct 01:00 WIB → **Mon 05 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/2-pagi.jpg`
+
+```
+Southern Motorway, is that you? 🚗🐌
+
+How long was your commute today?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Mon 05 Oct 01:10 WIB → **Mon 05 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-2-pagi.jpg`
+
+```
+
+```
+
 ## @diam.dan.percaya — Mon 05 Oct 06:00 WIB → **Mon 05 Oct 12:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari2_pagi_1.jpg`
@@ -3265,9 +3288,32 @@ Save untuk hari kamu merasa kosong 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
+## @eliandruthie — Mon 05 Oct 06:00 WIB → **Mon 05 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/2-pagi2.jpg`
+
+```
+When did pies get so expensive?? 🥧😭
+
+Mince & cheese or steak & cheese? Comment below 👇
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
 ## @diam.dan.percaya — Mon 05 Oct 06:10 WIB → **Mon 05 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/tenang_w2-2-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Mon 05 Oct 06:10 WIB → **Mon 05 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-2-pagi2.jpg`
 
 ```
 
@@ -3486,6 +3532,29 @@ Ketik “aku titipkan” kalau ada pertanyaan yang mau kamu serahkan.
 ## @diam.dan.percaya — Mon 05 Oct 13:40 WIB → **Mon 05 Oct 19:40 NZ**
 
 Gambar (urut): `output/reels/tenang_keren2/kinetik2.mp4`
+
+```
+
+```
+
+## @eliandruthie — Mon 05 Oct 14:00 WIB → **Mon 05 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/2-malam.mp4`
+
+```
+Every Kiwi winter argument ❄️⚡
+
+Team jumper or team heater?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Mon 05 Oct 14:10 WIB → **Mon 05 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/2-malam.mp4`
 
 ```
 

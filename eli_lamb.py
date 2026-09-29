@@ -39,7 +39,7 @@ def cover(img, w, h):
     return img.crop((x, y, x + w, y + h))
 
 
-def meme_box(img, text):
+def meme_box(img, text, bawah=False):
     """Kotak putih membulat di atas gambar dengan teks hitam tebal (gaya meme Instagram)."""
     d = ImageDraw.Draw(img)
     for size in range(60, 36, -2):
@@ -50,7 +50,7 @@ def meme_box(img, text):
             break
     bw = max(d.textlength(ln, font=f) for ln in lines) + 70
     bh = len(lines) * lh + 50
-    x0, y0 = (W - bw) / 2, 70
+    x0, y0 = (W - bw) / 2, (H - bh - 120) if bawah else 70
     shadow = Image.new("RGBA", img.size, (0, 0, 0, 0))
     ImageDraw.Draw(shadow).rounded_rectangle((x0, y0 + 6, x0 + bw, y0 + bh + 6), radius=30, fill=(0, 0, 0, 70))
     img.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(10)))
@@ -80,7 +80,7 @@ def make_post(p):
     if not src:
         return None
     img = cover(Image.open(src).convert("RGB"), W, H).convert("RGBA")
-    img = watermark(meme_box(img, p["teks"]))
+    img = watermark(meme_box(img, p["teks"], p["id"] in el.TEKS_BAWAH))
     return save(img, f"eli_lamb/{p['id']}.jpg")
 
 

@@ -37,7 +37,7 @@ _DATA = [
     (2, "pagi", "Auckland traffic:\nleave at 7:00, arrive at 7:00…\nnext week.",
      "Eli behind the wheel of a small hatchback stuck in a long motorway traffic jam in the morning, looking bored, city skyline in the distance",
      "Southern Motorway, is that you? 🚗🐌\n\nHow long was your commute today?", False),
-    (2, "pagi2", "Lunch budget: $5.\nThe pie at the dairy: $6.50.",
+    (2, "pagi2", "Lunch budget: $5.\nThe pie at the dairy: $5.50.",
      "Eli at the counter of a small New Zealand corner dairy shop, looking shocked at the price of a mince and cheese pie in a warmer cabinet",
      "When did pies get so expensive?? 🥧😭\n\nMince & cheese or steak & cheese? Comment below 👇", False),
     (2, "malam", "Me turning the heater on for 5 minutes.\nThe power bill:",
@@ -125,6 +125,9 @@ COUPLE_POSTS = {
         'Ruthie in front of a wardrobe holding up two little dresses with three more on the bed, Eli sitting on the bed looking confused, bedroom at night',
         'Getting ready for church tomorrow 😄👗\n\nSee you Sunday? What time is your service?'),
 }
+
+# post yang kotak teksnya di bawah (wajah karakter ada di atas gambar)
+TEKS_BAWAH = {"2-malam"}
 
 POSTS = []
 for hari, slot, teks, adegan, caption, faith in _DATA:
