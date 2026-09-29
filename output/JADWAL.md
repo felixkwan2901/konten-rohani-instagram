@@ -2748,6 +2748,31 @@ Gambar (urut): `output/stories/kapi-7-larut.jpg`
 
 ```
 
+## @eliandruthie — Sun 04 Oct 01:00 WIB → **Sun 04 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/1-pagi.jpg`
+
+```
+Sunday reminder 🐑🤍
+
+“The LORD is my shepherd; I shall not want.” — Psalm 23:1 (KJV)
+
+Whatever this week brings, you're looked after.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #kiwi #sundayvibes #faith #psalm23 #goodshepherd #lamb #elithelamb
+```
+
+## @eliandruthie — Sun 04 Oct 01:10 WIB → **Sun 04 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-1-pagi.jpg`
+
+```
+
+```
+
 ## @diam.dan.percaya — Sun 04 Oct 06:00 WIB → **Sun 04 Oct 12:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari1_pagi_1.jpg`
@@ -2763,9 +2788,32 @@ Selamat hari Minggu. Ketik “Amin” kalau ini doamu.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
+## @eliandruthie — Sun 04 Oct 06:00 WIB → **Sun 04 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/1-pagi2.jpg`
+
+```
+Every PAK'nSAVE trip ever 🛒😅
+
+Tag the one who always grabs the trolley.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
 ## @diam.dan.percaya — Sun 04 Oct 06:10 WIB → **Sun 04 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/tenang_w2-1-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sun 04 Oct 06:10 WIB → **Sun 04 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-1-pagi2.jpg`
 
 ```
 
@@ -2982,6 +3030,29 @@ Kirim ke seseorang yang sedang memikul terlalu banyak 💌
 ## @diam.dan.percaya — Sun 04 Oct 13:40 WIB → **Sun 04 Oct 19:40 NZ**
 
 Gambar (urut): `output/reels/tenang_keren2/kinetik1.mp4`
+
+```
+
+```
+
+## @eliandruthie — Sun 04 Oct 14:00 WIB → **Sun 04 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/1-malam.mp4`
+
+```
+The Sunday scaries are real 😩
+
+Tag someone who feels this.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sun 04 Oct 14:10 WIB → **Sun 04 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/1-malam.mp4`
 
 ```
 
