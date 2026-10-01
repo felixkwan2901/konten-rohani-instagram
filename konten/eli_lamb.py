@@ -194,6 +194,9 @@ _DATA2 = [
      "See you at church tomorrow! ⛪😄\n\nMorning service or evening service?", False),
 ]
 
+# posisi teks manual kalau otomatis masih menutupi wajah
+POSISI = {"10-malam": "kanan-bawah"}
+
 # post yang kotak teksnya di bawah (wajah karakter ada di atas gambar)
 TEKS_BAWAH = {"2-malam", "3-pagi2", "3-malam", "4-pagi2", "4-malam", "5-pagi", "5-pagi2", "10-pagi2"}
 
@@ -208,4 +211,27 @@ for hari, slot, teks, adegan, caption, faith in _DATA:
 for hari, slot, pasangan, teks, adegan, caption, faith in _DATA2:
     POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam", "pasangan": pasangan,
                   "prompt": f"{COUPLE if pasangan else CHARACTER}. Scene: {adegan}.",
+                  "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})
+
+# ---------- minggu 3-5: Minggu 18 Okt - Sabtu 7 Nov (hari 15-35), dari konten/eli_lamb_w3.py ----------
+from konten.eli_lamb_w3 import DATA3, FRIENDS  # noqa: E402
+
+# acara khusus (menggantikan slot di DATA3): Halloween, Movember
+EVENTS = {
+    (28, "pagi"): ("friends", "Pip's Halloween costume this year:\na wolf.\nGrandpa Ram: “Very funny.”",
+                   "Pip in a fluffy grey wolf onesie with little ears, holding a pumpkin lolly bucket at Eli and Ruthie's front door, "
+                   "Grandpa Ram standing behind her with an unimpressed face, Eli and Ruthie laughing in the doorway, warm evening light, autumn leaves",
+                   "A sheep in wolf's clothing 🐺🐑😂\n\nDo you do Halloween where you live, or just hand out lollies?", False),
+    (30, "pagi"): ("eli", "Movember, day 2.\nMe trying to grow a moustache:\nit's just more wool.",
+                   "Eli in his navy pom-pom beanie looking very seriously into a bathroom mirror at a tiny fluffy wool moustache, morning light",
+                   "Doing my part for men's health 🥸💙\n\nWho's doing Movember this year?", False),
+}
+
+for hari, slot, who, teks, adegan, caption, faith in DATA3:
+    who, teks, adegan, caption, faith = EVENTS.get((hari, slot), (who, teks, adegan, caption, faith))
+    base = {"eli": CHARACTER, "ruthie": PARTNER, "couple": COUPLE}.get(who, COUPLE)
+    extra = " ".join(f"{n}: {d}." for n, d in FRIENDS.items() if n in adegan)
+    POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam",
+                  "pasangan": who in ("couple", "friends"), "who": who,
+                  "prompt": f"{base}. {extra} Scene: {adegan}.".replace(". .", "."),
                   "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})

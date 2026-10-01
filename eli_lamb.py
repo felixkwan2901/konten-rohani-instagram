@@ -78,7 +78,13 @@ def meme_box(img, text, bawah=False, pid="", band=0):
         bh = len(lines) * lh + 46
         options.append((f, lines, lh, bw, bh))
     f, lines, lh, bw, bh = options[0]
-    if band and bh + 40 <= band + 40:
+    pos = el.POSISI.get(pid)
+    if pos:  # posisi manual: "atas", "bawah", "kiri-atas", "kanan-atas", "kiri-bawah", "kanan-bawah"
+        f, lines, lh, bw, bh = options[0] if pos in ("atas", "bawah") else options[1]
+        x = (W - bw) / 2 if pos in ("atas", "bawah") else (50 if pos.startswith("kiri") else W - bw - 50)
+        y = 60 if pos.endswith("atas") else H - bh - 110
+        cands = [(x, y, (f, lines, lh, bw, bh))]
+    elif band and bh + 40 <= band + 40:
         cands = [((W - bw) / 2, max(30, (band - bh) / 2), options[0])]
     elif bawah:
         cands = [((W - bw) / 2, H - bh - 110, options[0])]
@@ -189,7 +195,7 @@ def prompts_html():
     rows = []
     for p in el.POSTS:
         done = "✅" if raw_path(p["id"]) else "⬜"
-        who = "👫 Eli + Ruthie (upload kedua foto referensi)" if p.get("pasangan") else "🐑 Eli"
+
         rows.append(f"""<div class="card"><div class="head">{done} <b>{p['id']}.jpg</b> · {days[p['hari'] - 1]} · {p['slot']} · {who}
 <span class="meme">{html.escape(p['teks']).replace(chr(10), ' / ')}</span></div>
 <textarea readonly>{html.escape(p['prompt'])}</textarea><button onclick="copyText(this)">Copy prompt</button></div>""")

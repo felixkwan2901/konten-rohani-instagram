@@ -6324,6 +6324,29 @@ Gambar (urut): `output/stories/ayat-m3-7.jpg`
 
 ```
 
+## @eliandruthie — Sun 11 Oct 14:00 WIB → **Sun 11 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/8-malam.mp4`
+
+```
+Sunday naps are a spiritual discipline, right? 😅
+
+Tag your nap partner.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sun 11 Oct 14:10 WIB → **Sun 11 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/8-malam.mp4`
+
+```
+
+```
+
 ## @eliandruthie — Mon 12 Oct 01:00 WIB → **Mon 12 Oct 07:00 NZ**
 
 Gambar (urut): `output/eli_lamb/9-pagi.jpg`

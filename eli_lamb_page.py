@@ -50,7 +50,9 @@ def build():
             for p in posts:
                 i += 1
                 ok = eli_lamb.raw_path(p["id"]) is not None
-                who = '<span class="chip both">Eli + Ruthie</span>' if p.get("pasangan") else '<span class="chip">Eli</span>'
+                w_ = p.get("who", "couple" if p.get("pasangan") else "eli")
+                who = {"eli": '<span class="chip">Eli</span>', "ruthie": '<span class="chip both">Ruthie</span>',
+                       "couple": '<span class="chip both">Eli + Ruthie</span>', "friends": '<span class="chip both">With friends</span>'}[w_]
                 tags = who + (' <span class="chip reel">Reel</span>' if p["reel"] else "") + (' <span class="chip ok">Done</span>' if ok else "")
                 scene = "Scene: " + p["prompt"].split("Scene: ", 1)[1]
                 items.append(f'<li class="post{" is-done" if ok else ""}"><div class="meta"><code class="file">{p["id"]}.jpg</code>{tags}'
@@ -106,6 +108,7 @@ button:focus-visible,textarea:focus-visible,a:focus-visible{{outline:2px solid v
 <section class="panel" id="setup"><h2>Set up once in ChatGPT</h2>
 <ol class="steps"><li>Open <b>Projects → New project</b> and name it “Eli &amp; Ruthie”.</li><li>Upload these three reference photos to the project files (long-press to save them).</li><li>Paste the text below into the project’s <b>Instructions</b>.</li></ol>
 <div class="refs">{refs}</div>{box(INSTR, 0)}
+<p class="note"><b>Friends:</b> the first time a friend appears, save your favourite picture of them and upload it to the project too, so they stay the same every week.</p>
 <p class="note">For every post: start a new chat inside the project, paste the scene, and generate. If a face drifts, reply “make them look exactly like the reference photos”. If text appears in the image, reply “remove all text”.</p></section>
 </div>
 <script>
