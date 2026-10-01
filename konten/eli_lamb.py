@@ -195,7 +195,7 @@ _DATA2 = [
 ]
 
 # post yang kotak teksnya di bawah (wajah karakter ada di atas gambar)
-TEKS_BAWAH = {"2-malam"}
+TEKS_BAWAH = {"2-malam", "3-pagi2", "3-malam", "4-pagi2", "4-malam", "5-pagi", "5-pagi2"}
 
 POSTS = []
 for hari, slot, teks, adegan, caption, faith in _DATA:

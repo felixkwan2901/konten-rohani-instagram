@@ -3753,6 +3753,29 @@ Gambar (urut): `output/stories/kapi_w2-2-larut.jpg`
 
 ```
 
+## @eliandruthie — Tue 06 Oct 01:00 WIB → **Tue 06 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/3-pagi.jpg`
+
+```
+Sunscreen AND a raincoat. Every day. ☀️🌧️🌬️
+
+What's the weather doing where you are?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Tue 06 Oct 01:10 WIB → **Tue 06 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-3-pagi.jpg`
+
+```
+
+```
+
 ## @diam.dan.percaya — Tue 06 Oct 06:00 WIB → **Tue 06 Oct 12:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari3_pagi_1.jpg`
@@ -3768,9 +3791,32 @@ Ketik “Amin” kalau kamu butuh doa ini hari ini 😅
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
+## @eliandruthie — Tue 06 Oct 06:00 WIB → **Tue 06 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/3-pagi2.jpg`
+
+```
+Just saying 😎🐑
+
+Follow for more sheep facts (and sheep opinions).
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
 ## @diam.dan.percaya — Tue 06 Oct 06:10 WIB → **Tue 06 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/tenang_w2-3-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Tue 06 Oct 06:10 WIB → **Tue 06 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-3-pagi2.jpg`
 
 ```
 
@@ -3991,6 +4037,29 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik3.mp4`
 
 ```
 
+## @eliandruthie — Tue 06 Oct 14:00 WIB → **Tue 06 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/3-malam.mp4`
+
+```
+It's NOT just a game 🏉😤
+
+Tag your rugby-watching partner.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Tue 06 Oct 14:10 WIB → **Tue 06 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/3-malam.mp4`
+
+```
+
+```
+
 ## @diam.dan.percaya — Tue 06 Oct 15:00 WIB → **Tue 06 Oct 21:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari3_sore_1.jpg`
@@ -4183,6 +4252,29 @@ Gambar (urut): `output/stories/kapi_w2-3-larut.jpg`
 
 ```
 
+## @eliandruthie — Wed 07 Oct 01:00 WIB → **Wed 07 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/4-pagi.jpg`
+
+```
+Very different. ☕🐑
+
+What's your café order?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Wed 07 Oct 01:10 WIB → **Wed 07 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-4-pagi.jpg`
+
+```
+
+```
+
 ## @diam.dan.percaya — Wed 07 Oct 06:00 WIB → **Wed 07 Oct 12:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari4_pagi_1.jpg`
@@ -4198,9 +4290,32 @@ Kirim ke seseorang yang masih menunggu jawaban doa 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
+## @eliandruthie — Wed 07 Oct 06:00 WIB → **Wed 07 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/4-pagi2.jpg`
+
+```
+The sausage sizzle gets me every time 🌭🪴
+
+Onions on top or under?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
 ## @diam.dan.percaya — Wed 07 Oct 06:10 WIB → **Wed 07 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/tenang_w2-4-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Wed 07 Oct 06:10 WIB → **Wed 07 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-4-pagi2.jpg`
 
 ```
 
@@ -4423,6 +4538,29 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik4.mp4`
 
 ```
 
+## @eliandruthie — Wed 07 Oct 14:00 WIB → **Wed 07 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/4-malam.mp4`
+
+```
+“Later” is a very flexible word 🧺😂
+
+Who's the folder in your house?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Wed 07 Oct 14:10 WIB → **Wed 07 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/4-malam.mp4`
+
+```
+
+```
+
 ## @diam.dan.percaya — Wed 07 Oct 15:00 WIB → **Wed 07 Oct 21:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari4_sore_1.jpg`
@@ -4612,6 +4750,29 @@ Gambar (urut): `output/stories/kapi_w2-4-larut.jpg`
 
 ```
 
+## @eliandruthie — Thu 08 Oct 01:00 WIB → **Thu 08 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/5-pagi.jpg`
+
+```
+Jandals are a lifestyle, not a season 🩴
+
+Who else wears them all year?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Thu 08 Oct 01:10 WIB → **Thu 08 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-5-pagi.jpg`
+
+```
+
+```
+
 ## @diam.dan.percaya — Thu 08 Oct 06:00 WIB → **Thu 08 Oct 12:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari5_pagi_1.jpg`
@@ -4627,9 +4788,32 @@ Save sebagai pengingat hari ini 🔖
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
+## @eliandruthie — Thu 08 Oct 06:00 WIB → **Thu 08 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/5-pagi2.jpg`
+
+```
+One thing. That was the plan. 🛍️
+
+What's always in your basket?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
 ## @diam.dan.percaya — Thu 08 Oct 06:10 WIB → **Thu 08 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/tenang_w2-5-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Thu 08 Oct 06:10 WIB → **Thu 08 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-5-pagi2.jpg`
 
 ```
 
@@ -4850,6 +5034,29 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik5.mp4`
 
 ```
 
+## @eliandruthie — Thu 08 Oct 14:00 WIB → **Thu 08 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/5-malam.mp4`
+
+```
+Say what you want, Australia 😤🍓
+
+Pav at Christmas: yes or YES?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Thu 08 Oct 14:10 WIB → **Thu 08 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/5-malam.mp4`
+
+```
+
+```
+
 ## @diam.dan.percaya — Thu 08 Oct 15:00 WIB → **Thu 08 Oct 21:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari5_sore_1.jpg`
@@ -5040,6 +5247,29 @@ Gambar (urut): `output/stories/kapi_w2-5-larut.jpg`
 
 ```
 
+## @eliandruthie — Fri 09 Oct 01:00 WIB → **Fri 09 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/6-pagi.jpg`
+
+```
+The cones are part of the landscape now 🚧😂
+
+Where's your favourite road trip?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Fri 09 Oct 01:10 WIB → **Fri 09 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-6-pagi.jpg`
+
+```
+
+```
+
 ## @diam.dan.percaya — Fri 09 Oct 06:00 WIB → **Fri 09 Oct 12:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari6_pagi_1.jpg`
@@ -5055,9 +5285,32 @@ Ketik “Pakai aku” sebagai doamu pagi ini.
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
+## @eliandruthie — Fri 09 Oct 06:00 WIB → **Fri 09 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/6-pagi2.jpg`
+
+```
+Every. Single. Time. 🍟😂
+
+Tag the chip thief in your life.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
 ## @diam.dan.percaya — Fri 09 Oct 06:10 WIB → **Fri 09 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/tenang_w2-6-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Fri 09 Oct 06:10 WIB → **Fri 09 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-6-pagi2.jpg`
 
 ```
 
@@ -5275,6 +5528,29 @@ Ketik 🌱 kalau kamu sedang menunggu hasil dari kesetiaanmu.
 ## @diam.dan.percaya — Fri 09 Oct 13:40 WIB → **Fri 09 Oct 19:40 NZ**
 
 Gambar (urut): `output/reels/tenang_keren2/kinetik6.mp4`
+
+```
+
+```
+
+## @eliandruthie — Fri 09 Oct 14:00 WIB → **Fri 09 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/6-malam.mp4`
+
+```
+Honestly? Best date ever 😴💕
+
+What does date night look like for you?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Fri 09 Oct 14:10 WIB → **Fri 09 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/6-malam.mp4`
 
 ```
 
