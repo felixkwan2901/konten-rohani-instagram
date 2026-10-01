@@ -79,8 +79,18 @@ def make_post(p):
     src = raw_path(p["id"])
     if not src:
         return None
-    img = cover(Image.open(src).convert("RGB"), W, H).convert("RGBA")
-    img = watermark(meme_box(img, p["teks"], p["id"] in el.TEKS_BAWAH))
+    raw = Image.open(src).convert("RGB")
+    bawah = p["id"] in el.TEKS_BAWAH
+    if raw.width / raw.height > 0.9 and not bawah:  # gambar lebar/persegi: tampil utuh, pita buram di atas untuk teks
+        fg = raw.resize((W, round(raw.height * W / raw.width)), Image.LANCZOS)
+        band = H - fg.height
+        img = cover(raw, W, H).filter(ImageFilter.GaussianBlur(30))
+        img = Image.blend(img, Image.new("RGB", img.size, "#F3EFE8"), 0.35)
+        img.paste(fg, (0, band))
+        img = img.convert("RGBA")
+    else:
+        img = cover(raw, W, H).convert("RGBA")
+    img = watermark(meme_box(img, p["teks"], bawah))
     return save(img, f"eli_lamb/{p['id']}.jpg")
 
 

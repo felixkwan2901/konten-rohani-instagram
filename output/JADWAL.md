@@ -5749,6 +5749,29 @@ Gambar (urut): `output/stories/kapi_w2-6-larut.jpg`
 
 ```
 
+## @eliandruthie — Sat 10 Oct 01:00 WIB → **Sat 10 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/7-pagi.jpg`
+
+```
+Farmers market math 🧀💸
+
+What's your must-buy at the market?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sat 10 Oct 01:10 WIB → **Sat 10 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-7-pagi.jpg`
+
+```
+
+```
+
 ## @diam.dan.percaya — Sat 10 Oct 06:00 WIB → **Sat 10 Oct 12:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari7_pagi_1.jpg`
@@ -5764,9 +5787,32 @@ Selamat berakhir pekan. Kirim ke temanmu yang keras pada dirinya sendiri 💌
 #renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
 ```
 
+## @eliandruthie — Sat 10 Oct 06:00 WIB → **Sat 10 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/7-pagi2.jpg`
+
+```
+Worth it. Mostly. 🏔️🦟
+
+What's your favourite walk?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
 ## @diam.dan.percaya — Sat 10 Oct 06:10 WIB → **Sat 10 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/tenang_w2-7-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sat 10 Oct 06:10 WIB → **Sat 10 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-7-pagi2.jpg`
 
 ```
 
@@ -5989,6 +6035,29 @@ Gambar (urut): `output/reels/tenang_keren2/kinetik7.mp4`
 
 ```
 
+## @eliandruthie — Sat 10 Oct 14:00 WIB → **Sat 10 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/7-malam.mp4`
+
+```
+Getting ready for church tomorrow 😄👗
+
+See you Sunday? What time is your service?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sat 10 Oct 14:10 WIB → **Sat 10 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/7-malam.mp4`
+
+```
+
+```
+
 ## @diam.dan.percaya — Sat 10 Oct 15:00 WIB → **Sat 10 Oct 21:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari7_sore_1.jpg`
@@ -6180,6 +6249,54 @@ Gambar (urut): `output/stories/kapi_w2-7-larut.jpg`
 
 ```
 
+## @eliandruthie — Sun 11 Oct 01:00 WIB → **Sun 11 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/8-pagi.jpg`
+
+```
+Sunday reminder 🐑🤍
+
+“He shall gather the lambs with his arm, and carry them in his bosom.” — Isaiah 40:11 (KJV)
+
+You don't have to carry this week alone.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #kiwi #sundayvibes #faith #psalm23 #goodshepherd #lamb #elithelamb
+```
+
+## @eliandruthie — Sun 11 Oct 01:10 WIB → **Sun 11 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-8-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sun 11 Oct 06:00 WIB → **Sun 11 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/8-pagi2.jpg`
+
+```
+Is it just me or does it take a whole week to recover? 😴⏰
+
+Who else is still tired?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sun 11 Oct 06:10 WIB → **Sun 11 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-8-pagi2.jpg`
+
+```
+
+```
+
 ## @ayat.tersembunyi — Sun 11 Oct 13:00 WIB → **Sun 11 Oct 19:00 NZ**
 
 Gambar (urut): `output/ayat_minggu3/hari7_1.jpg`, `output/ayat_minggu3/hari7_2.jpg`, `output/ayat_minggu3/hari7_3.jpg`, `output/ayat_minggu3/hari7_4.jpg`, `output/ayat_minggu3/hari7_5.jpg`, `output/ayat_minggu3/hari7_6.jpg`
@@ -6202,6 +6319,420 @@ Terima kasih sudah mengikuti seri ini 📜
 ## @ayat.tersembunyi — Sun 11 Oct 13:10 WIB → **Sun 11 Oct 19:10 NZ**
 
 Gambar (urut): `output/stories/ayat-m3-7.jpg`
+
+```
+
+```
+
+## @eliandruthie — Mon 12 Oct 01:00 WIB → **Mon 12 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/9-pagi.jpg`
+
+```
+Bare feet at the supermarket is a Kiwi right 🦶🛒
+
+Be honest: have you done it?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Mon 12 Oct 01:10 WIB → **Mon 12 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-9-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Mon 12 Oct 06:00 WIB → **Mon 12 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/9-pagi2.jpg`
+
+```
+Healthy starts tomorrow. Every day. 🍨😂
+
+Hokey pokey or cookies & cream?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Mon 12 Oct 06:10 WIB → **Mon 12 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-9-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Mon 12 Oct 14:00 WIB → **Mon 12 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/9-malam.mp4`
+
+```
+Lambing season is the best season 🐑🌸
+
+Follow for more lamb life.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Mon 12 Oct 14:10 WIB → **Mon 12 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/9-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Tue 13 Oct 01:00 WIB → **Tue 13 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/10-pagi.jpg`
+
+```
+After you. No, after YOU. 🚗🔄
+
+Kiwi politeness at its finest.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Tue 13 Oct 01:10 WIB → **Tue 13 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-10-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Tue 13 Oct 06:00 WIB → **Tue 13 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/10-pagi2.jpg`
+
+```
+Husband survival tip #1 💇‍♀️😅
+
+Tag someone who needs this advice.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Tue 13 Oct 06:10 WIB → **Tue 13 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-10-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Tue 13 Oct 14:00 WIB → **Tue 13 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/10-malam.mp4`
+
+```
+Mince and cheese, mince on toast, mince pasta… 🍝😂
+
+What's your go-to weeknight dinner?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Tue 13 Oct 14:10 WIB → **Tue 13 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/10-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Wed 14 Oct 01:00 WIB → **Wed 14 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/11-pagi.jpg`
+
+```
+Kiwi is a language of its own 🇳🇿😄
+
+Comment your favourite Kiwi phrase 👇
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Wed 14 Oct 01:10 WIB → **Wed 14 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-11-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Wed 14 Oct 06:00 WIB → **Wed 14 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/11-pagi2.jpg`
+
+```
+Romance is not dead 📱💕
+
+Tag the person you send videos to.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Wed 14 Oct 06:10 WIB → **Wed 14 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-11-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Wed 14 Oct 14:00 WIB → **Wed 14 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/11-malam.mp4`
+
+```
+Op shop finds hit different 🦆💡
+
+What's your best op shop find?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Wed 14 Oct 14:10 WIB → **Wed 14 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/11-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Thu 15 Oct 01:00 WIB → **Thu 15 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/12-pagi.jpg`
+
+```
+It's called flavour 🔥😂
+
+Who's the cook in your house?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Thu 15 Oct 01:10 WIB → **Thu 15 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-12-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Thu 15 Oct 06:00 WIB → **Thu 15 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/12-pagi2.jpg`
+
+```
+She'll be right… probably 🌭🔥
+
+Tomato sauce or mustard?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Thu 15 Oct 06:10 WIB → **Thu 15 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-12-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Thu 15 Oct 14:00 WIB → **Thu 15 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/12-malam.mp4`
+
+```
+Every. Single. Night. 📺😴
+
+What are you watching right now?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Thu 15 Oct 14:10 WIB → **Thu 15 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/12-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Fri 16 Oct 01:00 WIB → **Fri 16 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/13-pagi.jpg`
+
+```
+Friday energy is unmatched 🕺☕
+
+What are your weekend plans?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Fri 16 Oct 01:10 WIB → **Fri 16 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-13-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Fri 16 Oct 06:00 WIB → **Fri 16 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/13-pagi2.jpg`
+
+```
+I'll find the other one there 🩴🧳
+
+Overpacker or underpacker?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Fri 16 Oct 06:10 WIB → **Fri 16 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-13-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Fri 16 Oct 14:00 WIB → **Fri 16 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/13-malam.mp4`
+
+```
+Small is a state of mind 🍔🍟
+
+What's your Friday night takeaway?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Fri 16 Oct 14:10 WIB → **Fri 16 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/13-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Sat 17 Oct 01:00 WIB → **Sat 17 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/14-pagi.jpg`
+
+```
+Work smarter, not harder 🐑🌱
+
+Who's mowing the lawn today?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sat 17 Oct 01:10 WIB → **Sat 17 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-14-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sat 17 Oct 06:00 WIB → **Sat 17 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/14-pagi2.jpg`
+
+```
+The views were worth it. My legs disagree. 🏔️😮‍💨
+
+What's your favourite NZ walk?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sat 17 Oct 06:10 WIB → **Sat 17 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-14-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sat 17 Oct 14:00 WIB → **Sat 17 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/14-malam.mp4`
+
+```
+See you at church tomorrow! ⛪😄
+
+Morning service or evening service?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sat 17 Oct 14:10 WIB → **Sat 17 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/14-malam.mp4`
 
 ```
 
