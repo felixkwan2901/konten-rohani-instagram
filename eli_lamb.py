@@ -39,26 +39,73 @@ def cover(img, w, h):
     return img.crop((x, y, x + w, y + h))
 
 
-def meme_box(img, text, bawah=False):
-    """Kotak putih membulat di atas gambar dengan teks hitam tebal (gaya meme Instagram)."""
+STYLES = [  # (latar kotak, warna teks) -> bergantian supaya tidak monoton
+    ((255, 255, 255, 245), "#111111"),
+    ((17, 17, 17, 235), "#FFFFFF"),
+    ((255, 214, 64, 245), "#111111"),
+    ((244, 236, 222, 245), "#2B2118"),
+    ((30, 58, 95, 235), "#FFFFFF"),
+]
+
+
+def busy_map(img):
+    """Seberapa 'ramai' tiap bagian gambar (tepi/detail). Wajah & mata = ramai, langit/dinding = tenang."""
+    import numpy as np
+    small = img.convert("L").resize((W // 8, H // 8))
+    e = np.asarray(small.filter(ImageFilter.FIND_EDGES), dtype=np.float32)
+    e = np.asarray(Image.fromarray(e.astype("uint8")).filter(ImageFilter.GaussianBlur(3)), dtype=np.float32)
+    yy, xx = np.mgrid[0:e.shape[0], 0:e.shape[1]].astype(np.float32)
+    center = np.exp(-(((xx - e.shape[1] / 2) / (e.shape[1] * 0.35)) ** 2 + ((yy - e.shape[0] * 0.5) / (e.shape[0] * 0.3)) ** 2))
+    return e * (1 + 1.5 * center)
+
+
+def meme_box(img, text, bawah=False, pid="", band=0):
+    """Teks meme. Posisi dipilih otomatis di bagian gambar yang paling 'kosong' (bukan wajah),
+    gaya kotak bergantian. band > 0 = ada pita kosong di atas (gambar lebar) -> teks di pita."""
+    import zlib
     d = ImageDraw.Draw(img)
-    for size in range(60, 36, -2):
-        f = font("sans_bold", size)
-        lines = [ln for para in text.split("\n") for ln in wrap(d, para, f, W - 200)]
-        lh = int(size * 1.18)
-        if len(lines) * lh <= 420:
-            break
-    bw = max(d.textlength(ln, font=f) for ln in lines) + 70
-    bh = len(lines) * lh + 50
-    x0, y0 = (W - bw) / 2, (H - bh - 120) if bawah else 70
+    seed = zlib.crc32(pid.encode())
+    bg, fg = STYLES[seed % len(STYLES)]
+    options = []
+    for maxw in (W - 200, 640):  # lebar penuh atau kotak sempit di pojok
+        for size in range(58, 34, -2):
+            f = font("sans_bold", size)
+            lines = [ln for para in text.split("\n") for ln in wrap(d, para, f, maxw)]
+            lh = int(size * 1.18)
+            if len(lines) * lh <= (380 if maxw > 700 else 460):
+                break
+        bw = max(d.textlength(ln, font=f) for ln in lines) + 64
+        bh = len(lines) * lh + 46
+        options.append((f, lines, lh, bw, bh))
+    f, lines, lh, bw, bh = options[0]
+    if band and bh + 40 <= band + 40:
+        cands = [((W - bw) / 2, max(30, (band - bh) / 2), options[0])]
+    elif bawah:
+        cands = [((W - bw) / 2, H - bh - 110, options[0])]
+    else:
+        busy = busy_map(img)
+        cands = []
+        for opt in options:
+            _, _, _, ow, oh = opt
+            xs = [(W - ow) / 2] if ow > 700 else [50, W - ow - 50]
+            for x in xs:
+                for y in (60, H - oh - 110):
+                    cands.append((x, y, opt))
+        def cost(c):
+            x, y, opt = c
+            ow, oh = opt[3], opt[4]
+            region = busy[int(y) // 8:int(y + oh) // 8, int(x) // 8:int(x + ow) // 8]
+            return float(region.mean()) * (1.0 if ow > 700 else 1.08)
+        cands = [min(cands, key=cost)]
+    x0, y0, (f, lines, lh, bw, bh) = cands[0]
     shadow = Image.new("RGBA", img.size, (0, 0, 0, 0))
-    ImageDraw.Draw(shadow).rounded_rectangle((x0, y0 + 6, x0 + bw, y0 + bh + 6), radius=30, fill=(0, 0, 0, 70))
+    ImageDraw.Draw(shadow).rounded_rectangle((x0, y0 + 6, x0 + bw, y0 + bh + 6), radius=28, fill=(0, 0, 0, 70))
     img.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(10)))
     d = ImageDraw.Draw(img)
-    d.rounded_rectangle((x0, y0, x0 + bw, y0 + bh), radius=30, fill=(255, 255, 255, 245))
-    y = y0 + 25
+    d.rounded_rectangle((x0, y0, x0 + bw, y0 + bh), radius=28, fill=bg)
+    y = y0 + 23
     for ln in lines:
-        d.text((W / 2, y), ln, font=f, fill="#111111", anchor="ma")
+        d.text((x0 + bw / 2, y), ln, font=f, fill=fg, anchor="ma")
         y += lh
     return img
 
@@ -89,8 +136,9 @@ def make_post(p):
         img.paste(fg, (0, band))
         img = img.convert("RGBA")
     else:
+        band = 0
         img = cover(raw, W, H).convert("RGBA")
-    img = watermark(meme_box(img, p["teks"], bawah))
+    img = watermark(meme_box(img, p["teks"], bawah, p["id"], band))
     return save(img, f"eli_lamb/{p['id']}.jpg")
 
 
