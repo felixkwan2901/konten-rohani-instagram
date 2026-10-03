@@ -213,6 +213,19 @@ for hari, slot, pasangan, teks, adegan, caption, faith in _DATA2:
                   "prompt": f"{COUPLE if pasangan else CHARACTER}. Scene: {adegan}.",
                   "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})
 
+
+STYLE = ("Photorealistic characters in the same knitted-wool, Pixar-like style as Eli and Ruthie, realistic lighting, "
+         "50mm lens, Instagram photo, no text, no logos")
+
+
+def base_for(who, adegan):
+    """Deskripsi dasar prompt: hanya karakter yang memang ada di adegan."""
+    if who != "friends":
+        return {"eli": CHARACTER, "ruthie": PARTNER, "couple": COUPLE}.get(who, COUPLE)
+    e, r = "Eli" in adegan, "Ruthie" in adegan
+    return COUPLE if e and r else CHARACTER if e else PARTNER if r else STYLE
+
+
 # ---------- minggu 3-5: Minggu 18 Okt - Sabtu 7 Nov (hari 15-35), dari konten/eli_lamb_w3.py ----------
 from konten.eli_lamb_w3 import DATA3, FRIENDS  # noqa: E402
 
@@ -229,7 +242,7 @@ EVENTS = {
 
 for hari, slot, who, teks, adegan, caption, faith in DATA3:
     who, teks, adegan, caption, faith = EVENTS.get((hari, slot), (who, teks, adegan, caption, faith))
-    base = {"eli": CHARACTER, "ruthie": PARTNER, "couple": COUPLE}.get(who, COUPLE)
+    base = base_for(who, adegan)
     extra = " ".join(f"{n}: {d}." for n, d in FRIENDS.items() if n in adegan)
     POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam",
                   "pasangan": who in ("couple", "friends"), "who": who,
@@ -241,7 +254,7 @@ from konten.eli_lamb_w6 import DATA6, FRIENDS_NEW  # noqa: E402
 
 ALL_FRIENDS = {**FRIENDS, **FRIENDS_NEW}
 for hari, slot, who, teks, adegan, caption, faith in DATA6:
-    base = {"eli": CHARACTER, "ruthie": PARTNER, "couple": COUPLE}.get(who, COUPLE)
+    base = base_for(who, adegan)
     extra = " ".join(f"{n}: {d}." for n, d in ALL_FRIENDS.items() if n in adegan)
     POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam",
                   "pasangan": who in ("couple", "friends"), "who": who,
@@ -258,7 +271,7 @@ for _mod, _var in (("eli_extra_a", "DATA_A"), ("eli_extra_b", "DATA_B"), ("eli_e
     except ModuleNotFoundError:
         continue
     for hari, slot, who, teks, adegan, caption, faith in _data:
-        base = {"eli": CHARACTER, "ruthie": PARTNER, "couple": COUPLE}.get(who, COUPLE)
+        base = base_for(who, adegan)
         extra = " ".join(f"{n}: {d}." for n, d in ALL_FRIENDS.items() if n in adegan)
         POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot in ("malam", "larut"),
                       "pasangan": who in ("couple", "friends"), "who": who,
