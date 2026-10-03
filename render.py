@@ -1099,6 +1099,16 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                       "files": [reel_or_image(f"reels/kapi/hari{day + 1}.mp4", rel)],
                       "caption": p["caption"].format(handle=config.AKUN["kapi"]["handle"]) + "\n.\n.\n" + kapi.TAGS})
     items += minggu_kedua(at)
+    if (ROOT / "konten/tenang_extra.py").exists():  # Tenang 12/hari: 2 slot tambahan mulai 3 Okt (hari ke-7 = indeks 6)
+        import gaya_baru
+        from konten import tenang_extra as tx
+        for day, slots in tx.JADWAL.items():
+            for slot, (fmt, idx) in slots.items():
+                p = (tx.BUKU if fmt == "BUKU" else tx.MEME)[idx]
+                img = gaya_baru.buku_image(p, 500 + idx) if fmt == "BUKU" else gaya_baru.meme_image(p, 500 + idx)
+                rel = save(img, f"tenang_extra/{fmt.lower()}{idx + 1}.jpg")
+                items.append({"id": f"tenang_extra-{day}-{slot}", "akun": "tenang", "waktu": at(6 + day, config.AKUN["tenang"]["jam"][slot]),
+                              "files": [rel], "caption": p["caption"] + "\n.\n.\n" + tenang.TAGS})
     if (ROOT / "konten/tenang_w3.py").exists():  # Tenang minggu 3 (11-17 Okt): buku, meme, skrip, kisah
         import gaya_baru
         for (hari, slot), (files, caption) in gaya_baru.render_w3().items():

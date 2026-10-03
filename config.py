@@ -10,12 +10,15 @@ AKUN = {
         "pause_lama": True,           # konten Eli kartun lama tidak diposting lagi (diganti Eli & Ruthie)
         "jam": {"pagi": "06:00", "pagi2": "09:00", "siang": "12:00", "sore": "17:00", "malam": "21:00"},
         # minggu 2 dst. (bahasa Inggris): jam WIB yang pas untuk NZ (NZDT = WIB + 6 jam): 07:00, 12:00, 16:00, 18:00, 20:00 NZ
-        "jam_en": {"pagi": "01:00", "pagi2": "06:00", "siang": "10:00", "sore": "12:00", "malam": "14:00"},
+        # NZ = WIB + 6 jam: 07:00, 09:00, 10:30, 12:00, 15:00, 17:00, 20:00, 21:30 NZ
+        "jam_en": {"pagi": "01:00", "pagi3": "03:00", "siang0": "04:30", "pagi2": "06:00", "siang": "10:00",
+                   "sore": "09:00", "sore2": "11:00", "malam": "14:00", "larut": "15:30"},
     },
     "tenang": {
         "handle": "diam.dan.percaya",  # 10 post/hari mulai hari 2 (4 slot format baru di konten/tenang_keren.py)
         "jam": {"pagi": "06:00", "pagi3": "07:30", "pagi2": "09:00", "siang0": "10:30", "siang": "12:00", "siang2": "13:30",
-                "sore": "15:00", "petang": "18:00", "malam0": "19:30", "malam": "21:00"},
+                "sore": "15:00", "sore2": "16:30", "petang": "18:00", "malam0": "19:30", "malam1": "20:15", "malam": "21:00",
+                "larut": "22:30"},  # 12 post/hari mulai 3 Okt (sore2 & larut dari konten/tenang_extra.py)
     },
     "ayat": {
         "handle": "ayat.tersembunyi",  # ayat yang jarang dibahas, gaya kertas kuno

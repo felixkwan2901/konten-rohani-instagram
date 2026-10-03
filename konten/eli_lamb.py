@@ -247,3 +247,23 @@ for hari, slot, who, teks, adegan, caption, faith in DATA6:
                   "pasangan": who in ("couple", "friends"), "who": who,
                   "prompt": f"{base}. {extra} Scene: {adegan}.".replace(". .", "."),
                   "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})
+
+
+# ---------- slot tambahan (4/hari minggu 1, 5/hari minggu 2, 8/hari mulai minggu 3) ----------
+import importlib  # noqa: E402
+
+for _mod, _var in (("eli_extra_a", "DATA_A"), ("eli_extra_b", "DATA_B"), ("eli_extra_c", "DATA_C")):
+    try:
+        _data = getattr(importlib.import_module(f"konten.{_mod}"), _var)
+    except ModuleNotFoundError:
+        continue
+    for hari, slot, who, teks, adegan, caption, faith in _data:
+        base = {"eli": CHARACTER, "ruthie": PARTNER, "couple": COUPLE}.get(who, COUPLE)
+        extra = " ".join(f"{n}: {d}." for n, d in ALL_FRIENDS.items() if n in adegan)
+        POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot in ("malam", "larut"),
+                      "pasangan": who in ("couple", "friends"), "who": who,
+                      "prompt": f"{base}. {extra} Scene: {adegan}.".replace(". .", "."),
+                      "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})
+
+SLOT_ORDER = ["pagi", "pagi3", "siang0", "pagi2", "sore", "sore2", "malam", "larut"]
+POSTS.sort(key=lambda p: (p["hari"], SLOT_ORDER.index(p["slot"])))

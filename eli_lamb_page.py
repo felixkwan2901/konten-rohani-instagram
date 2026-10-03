@@ -13,7 +13,8 @@ import eli_lamb
 from konten import eli_lamb as el
 
 START = date(2026, 10, 4)  # hari 1
-SLOT_NZ = {"pagi": "7:00 am", "pagi2": "12:00 pm", "malam": "8:00 pm"}
+SLOT_NZ = {"pagi": "7:00 am", "pagi3": "9:00 am", "siang0": "10:30 am", "pagi2": "12:00 pm", "sore": "3:00 pm",
+           "sore2": "5:00 pm", "malam": "8:00 pm", "larut": "9:30 pm"}
 INSTR = ("You create photorealistic images of two recurring characters from the attached reference photos: Eli (fluffy white lamb) "
          "and his wife Ruthie (fluffy caramel-brown lamb with long eyelashes and a small pink daisy behind one ear). Always keep their "
          "faces, wool colour and size exactly the same as the references. Portrait orientation (2:3). Never add any text, letters, "
@@ -41,6 +42,7 @@ def build():
     sections = []
     for w, days in sorted(weeks.items(), reverse=True):  # minggu terbaru di atas
         total = sum(len(v) for v in days.values())
+        progress_label = f"of {total}"
         done = sum(1 for v in days.values() for p in v if eli_lamb.raw_path(p["id"]))
         first = START + timedelta(days=7 * w)
         day_html = []
