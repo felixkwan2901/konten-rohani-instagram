@@ -20,11 +20,12 @@ AKUN = {
     "ayat": {
         "handle": "ayat.tersembunyi",  # ayat yang jarang dibahas, gaya kertas kuno
         "jam": ["08:00", "13:00", "19:00"],  # 3 post/hari, post diambil berurutan dari MINGGU_AYAT
+        "aktif": False,                # dipause 3 Okt 2026 (akun akan diganti)
     },
     "kapi": {
         "handle": "kapi.percaya",      # maskot Kapi, 5 post/hari
         "jam": {"pagi": "07:00", "siang": "11:00", "sore": "15:00", "malam": "19:00", "larut": "21:30"},
-        "aktif": True,
+        "aktif": False,                # dipause 3 Okt 2026 (akun akan diganti)
     }
 }
 

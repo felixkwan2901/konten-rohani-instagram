@@ -1104,6 +1104,7 @@ def build_schedule(eli_files, tenang_files, kapi_files):
         for (hari, slot), (files, caption) in gaya_baru.render_w3().items():
             items.append({"id": f"tenang_w3-{hari}-{slot}", "akun": "tenang", "waktu": at(14 + hari - 1, config.AKUN["tenang"]["jam"][slot]),
                           "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
+    items = [it for it in items if config.AKUN[it["akun"]].get("aktif", True)]  # akun yang dipause tidak dijadwalkan
     if config.AKUN["eli"].get("pause_lama"):  # Eli lama (kartun) dipause; hanya Eli & Ruthie (gambar AI) yang diposting
         items = [it for it in items if it["akun"] != "eli" or it["id"].startswith("eli_lamb")]
     if config.STORY_OTOMATIS:
