@@ -1,0 +1,351 @@
+"""Akun Tenang (@diam.dan.percaya) - minggu 3 (Minggu 11 Okt - Sabtu 17 Okt 2026).
+Format baru (terinspirasi akun quote Kristen populer):
+  BUKU     = halaman buku terbuka: judul serif + puisi pendek (3-6 baris, maks 42 karakter per baris)
+  MEME     = foto hitam-putih + teks besar putih bergaris tepi, doa jujur orang pertama (maks 90 karakter)
+             foto: laut, gunung, kabut, bintang, awan, jendela, lilin, jalan, pohon, panggung
+  SKRIP    = satu kalimat pendek tulisan tangan kuning di foto panggung ibadah gelap, "ditandatangani"
+             "— Tuhan" atau referensi ayat. Isinya janji Tuhan di Alkitab (penyertaan, kesetiaan, damai,
+             kekuatan, pengampunan, pengharapan); ayat dasarnya ada di caption. Tanpa janji kaya/sukses.
+  KISAH    = carousel poster editorial tentang kisah/perumpamaan Alkitab (judul serif dua baris + 4 slide + ayat)
+  T        = teks relatable (skema sama dengan konten/tenang_keren2.py RELATABLE)
+  K        = Reels tipografi sinematik (skema sama dengan konten/tenang_keren2.py KINETIK)
+Kutipan ayat: Alkitab TB. Caption tanpa hashtag."""
+
+# ---------- BUKU: halaman buku terbuka (3 per hari: pagi, siang, malam) ----------
+BUKU = [
+    # --- Minggu 11 Okt ---
+    {"judul": "Pagi Hari Minggu",
+     "baris": ["Sebelum berangkat ke gereja,", "aku mau datang dulu kepada-Mu.", "Bukan dengan hati yang rapi,",
+               "tapi dengan hati yang jujur."],
+     "caption": "Pagi hari Minggu 🤍\n\nSebelum lagu pertama dan khotbah, datang dulu kepada-Nya dengan hati yang jujur. Dia tidak menunggu kita rapi.\n\n📖 “Perdengarkanlah kasih setia-Mu kepadaku pada waktu pagi, sebab kepada-Mulah aku percaya!” — Mazmur 143:8\n\nKetik “Amin” kalau ini doamu pagi ini. Selamat hari Minggu."},
+    {"judul": "Rumah Tuhan",
+     "baris": ["Ada tempat untuk yang lelah,", "untuk yang datang terlambat,", "untuk yang masih ragu.",
+               "Pintu rumah-Nya", "masih terbuka untukmu."],
+     "caption": "Pintu-Nya masih terbuka untukmu 🏠\n\nKamu tidak perlu menunggu jadi “cukup baik” untuk datang. Yesus sendiri yang berjanji tidak akan membuang siapa pun yang datang kepada-Nya.\n\n📖 “…barangsiapa datang kepada-Ku, ia tidak akan Kubuang.” — Yohanes 6:37\n\nKirim ke seseorang yang sudah lama ingin kembali 💌"},
+    {"judul": "Setelah Ibadah",
+     "baris": ["Lagu-lagunya sudah selesai,", "tapi gema-Nya masih tinggal.", "Bawa pulang satu kalimat,",
+               "simpan di hati,", "dan biarkan itu menjagamu", "sepanjang minggu."],
+     "caption": "Setelah ibadah, bawa pulang satu kalimat 📖\n\nNggak harus hafal seluruh khotbah. Satu kalimat yang disimpan di hati bisa menjagamu sepanjang minggu.\n\n📖 “Dalam hatiku aku menyimpan janji-Mu, supaya aku jangan berdosa terhadap Engkau.” — Mazmur 119:11\n\nKalimat apa dari ibadah hari ini yang kamu bawa pulang? Tulis di komentar 👇"},
+    # --- Senin 12 Okt ---
+    {"judul": "Senin yang Baru",
+     "baris": ["Minggu baru, belum tentu ringan.", "Tapi aku tidak berangkat sendirian.", "Tuhan sudah lebih dulu di sana,",
+               "dan Dia tidak pernah terlelap."],
+     "caption": "Senin yang baru, Penjaga yang sama 🤍\n\nMinggu ini mungkin padat. Tapi Dia yang menjagamu tidak pernah lelah, tidak pernah lengah.\n\n📖 “Ia takkan membiarkan kakimu goyah, Penjagamu tidak akan terlelap.” — Mazmur 121:3\n\nSave untuk Senin-Senin berikutnya 🔖"},
+    {"judul": "Di Tengah Kesibukan",
+     "baris": ["Di antara rapat dan tugas,", "notifikasi dan tenggat,", "aku berhenti sebentar",
+               "untuk bilang:", "Tuhan, aku masih butuh Engkau."],
+     "caption": "Berhenti sebentar di tengah hari 🤍\n\nYesus sendiri mengajak murid-murid-Nya beristirahat saat mereka terlalu sibuk, sampai makan pun tidak sempat.\n\n📖 “Marilah ke tempat yang sunyi, supaya kita sendirian, dan beristirahatlah seketika!” — Markus 6:31\n\nTarik napas sebentar, lalu ketik “Amin” kalau kamu butuh jeda ini."},
+    {"judul": "Sebelum Tidur",
+     "baris": ["Yang belum selesai hari ini,", "kuletakkan di tangan-Mu.", "Yang sudah kulakukan,",
+               "terima kasih Engkau menemani.", "Sekarang aku mau tidur", "dengan tenang."],
+     "caption": "Doa sebelum tidur 🌙\n\nYang belum selesai biar Tuhan yang pegang malam ini. Kamu boleh istirahat.\n\n📖 “Jikalau engkau berbaring, engkau tidak akan terkejut, tetapi engkau akan berbaring dan tidur nyenyak.” — Amsal 3:24\n\nSelamat malam. Save untuk malam-malam yang gelisah 🔖"},
+    # --- Selasa 13 Okt ---
+    {"judul": "Sarapan untuk Jiwa",
+     "baris": ["Sebelum kopi,", "sebelum layar menyala,", "kenyangkan aku dulu, Tuhan,",
+               "dengan kasih setia-Mu."],
+     "caption": "Sarapan untuk jiwa ☕\n\nSebelum membuka HP, buka hati dulu untuk-Nya. Lima menit pun berarti.\n\n📖 “Kenyangkanlah kami di waktu pagi dengan kasih setia-Mu, supaya kami bersorak-sorai dan bersukacita semasa hari-hari kami.” — Mazmur 90:14\n\nKetik “Amin” kalau kamu mau memulai hari ini bersama Dia."},
+    {"judul": "Bukan Perlombaan",
+     "baris": ["Hidupku bukan perlombaan", "dengan orang di sebelahku.", "Ini perjalanan bersama-Mu,",
+               "langkah demi langkah,", "dengan waktu yang Kautentukan."],
+     "caption": "Hidupmu bukan perlombaan 🤍\n\nTeman sudah sampai di mana, kamu masih di mana. Tidak apa-apa. Waktumu ada di tangan yang tepat.\n\n📖 “Masa hidupku ada dalam tangan-Mu…” — Mazmur 31:16\n\nKirim ke temanmu yang sering membandingkan diri 💌"},
+    {"judul": "Pikiran yang Ramai",
+     "baris": ["Malam ini kepalaku penuh,", "pertanyaan datang bergantian.", "Tapi penghiburan-Mu",
+               "lebih lembut dari semua suara itu.", "Tenangkan aku, Tuhan."],
+     "caption": "Untuk kepala yang ramai malam ini 🌙\n\nKamu tidak harus menjawab semua pertanyaan itu sekarang. Biarkan penghiburan-Nya yang bicara.\n\n📖 “Apabila bertambah banyak pikiran dalam batinku, penghiburan-Mu menyenangkan jiwaku.” — Mazmur 94:19\n\nKetik 🤍 kalau pikiranmu sedang penuh. Kita saling mendoakan."},
+    # --- Rabu 14 Okt ---
+    {"judul": "Hari Ini Juga",
+     "baris": ["Kemarin mungkin berat.", "Hari ini belum tentu mudah.", "Tapi Engkau tetap sama,",
+               "dan itu cukup untuk", "membuatku melangkah lagi."],
+     "caption": "Keadaan berubah. Dia tidak 🤍\n\nApa pun yang terjadi kemarin, Tuhan yang menyertaimu hari ini tetap Tuhan yang sama.\n\n📖 “Bahwasanya Aku, TUHAN, tidak berubah…” — Maleakhi 3:6\n\nSave sebagai pengingat pagi ini 🔖"},
+    {"judul": "Yang Sedikit Ini",
+     "baris": ["Yang kupunya mungkin sedikit,", "seperti lima roti dan dua ikan.", "Tapi di tangan-Mu,",
+               "yang sedikit pun", "tidak pernah sia-sia."],
+     "caption": "Yang sedikit pun tidak sia-sia di tangan-Nya 🍞\n\nWaktu, tenaga, talenta yang rasanya kecil, kalau diserahkan kepada Tuhan, tidak ada yang terbuang.\n\n📖 “…dalam persekutuan dengan Tuhan jerih payahmu tidak sia-sia.” — 1 Korintus 15:58\n\nKetik “Pakai aku, Tuhan” kalau kamu mau menyerahkan yang kamu punya hari ini."},
+    {"judul": "Air Mata Hari Ini",
+     "baris": ["Kalau hari ini aku menangis,", "Engkau tidak memalingkan wajah.", "Engkau mendekat,",
+               "dan membalut yang luka", "dengan sabar."],
+     "caption": "Untuk hati yang sedang patah 🤍\n\nTuhan tidak buru-buru menyuruhmu sembuh. Dia mendekat dan membalut lukamu dengan sabar.\n\n📖 “Ia menyembuhkan orang-orang yang patah hati dan membalut luka-luka mereka.” — Mazmur 147:3\n\nKirim ke seseorang yang sedang terluka, bilang kamu mendoakannya 💌"},
+    # --- Kamis 15 Okt ---
+    {"judul": "Hati yang Baru",
+     "baris": ["Tuhan, sebelum aku bicara", "pada siapa pun hari ini,", "bersihkan hatiku dulu.",
+               "Biar yang keluar dari mulutku", "membawa damai, bukan luka."],
+     "caption": "Doa sebelum bicara hari ini 🤍\n\nKata-kata kita dimulai dari hati. Minta Tuhan membersihkannya dulu.\n\n📖 “Jadikanlah hatiku tahir, ya Allah, dan perbaharuilah batinku dengan roh yang teguh!” — Mazmur 51:12\n\nKetik “Amin” kalau ini doamu pagi ini."},
+    {"judul": "Tempat Berlari",
+     "baris": ["Kalau hari ini aku goyah,", "aku tahu ke mana harus lari.", "Nama-Mu menara yang kuat,",
+               "dan di sana aku aman."],
+     "caption": "Kamu tahu ke mana harus berlari 🗼\n\nSaat hari terasa goyah, nama Tuhan tetap menara yang kuat.\n\n📖 “Nama TUHAN adalah menara yang kuat, ke sanalah orang benar berlari dan ia menjadi selamat.” — Amsal 18:10\n\nSave untuk hari kamu butuh tempat aman 🔖"},
+    {"judul": "Yang Kutitipkan",
+     "baris": ["Orang-orang yang kusayangi,", "rencana yang belum jelas,", "hati yang masih bertanya,",
+               "semuanya kutitipkan pada-Mu", "malam ini."],
+     "caption": "Malam ini, titipkan semuanya kepada-Nya 🌙\n\nCurahkan isi hatimu. Dia tidak bosan mendengar.\n\n📖 “Percayalah kepada-Nya setiap waktu, hai umat, curahkanlah isi hatimu di hadapan-Nya; Allah ialah tempat perlindungan kita.” — Mazmur 62:9\n\nTulis satu nama yang mau kamu titipkan dalam doa malam ini 👇"},
+    # --- Jumat 16 Okt ---
+    {"judul": "Bukan Karena Kuatku",
+     "baris": ["Hari ini aku tidak mengandalkan", "tenagaku yang tinggal sedikit.", "Bukan dengan keperkasaan,",
+               "bukan dengan kekuatan,", "tapi dengan Roh-Mu, Tuhan."],
+     "caption": "Tenagamu tinggal sedikit? Tidak apa-apa 🤍\n\nYang membawa kita sampai akhir minggu bukan kehebatan kita, tapi Roh Tuhan.\n\n📖 “…Bukan dengan keperkasaan dan bukan dengan kekuatan, melainkan dengan roh-Ku, firman TUHAN semesta alam.” — Zakharia 4:6\n\nKirim ke temanmu yang sudah capek di hari Jumat 💌"},
+    {"judul": "Belajar Mengampuni",
+     "baris": ["Aku belum sepenuhnya lupa,", "tapi aku memilih melepaskan.", "Bukan karena dia pantas,",
+               "tapi karena aku pun", "sudah lebih dulu diampuni."],
+     "caption": "Mengampuni itu proses, dan prosesnya boleh pelan 🤍\n\nKita mengampuni bukan karena orang itu pantas, tapi karena kita sendiri sudah lebih dulu diampuni.\n\n📖 “Sabarlah kamu seorang terhadap yang lain, dan ampunilah seorang akan yang lain apabila yang seorang menaruh dendam terhadap yang lain, sama seperti Tuhan telah mengampuni kamu, kamu perbuat jugalah demikian.” — Kolose 3:13\n\nKetik “aku belajar” kalau kamu sedang belajar melepaskan 🙏"},
+    {"judul": "Jumat Malam",
+     "baris": ["Minggu ini tidak sempurna,", "tapi Engkau setia di setiap harinya.", "Malam ini aku mau pulang",
+               "ke tempat yang paling aman:", "dekat dengan-Mu."],
+     "caption": "Pulang ke tempat yang paling aman 🌙\n\nMinggu ini naik turun, tapi tangan-Nya tidak pernah lepas.\n\n📖 “Tetapi aku tetap di dekat-Mu; Engkau memegang tangan kananku.” — Mazmur 73:23\n\nSelamat berakhir pekan. Save untuk Jumat malam berikutnya 🔖"},
+    # --- Sabtu 17 Okt ---
+    {"judul": "Sabtu yang Pelan",
+     "baris": ["Tidak ada alarm yang buru-buru.", "Hanya cahaya pagi,", "secangkir teh,",
+               "dan Engkau yang tetap di sini."],
+     "caption": "Sabtu yang pelan 🍵\n\nNikmati paginya. Kamu tidak harus produktif untuk tetap dikasihi.\n\n📖 “Aku sendiri hendak membimbing engkau dan memberikan ketenteraman kepadamu.” — Keluaran 33:14\n\nKetik “Amin” kalau kamu mau menikmati Sabtu ini bersama-Nya."},
+    {"judul": "Syukur Minggu Ini",
+     "baris": ["Untuk makanan di meja,", "untuk teman yang menguatkan,", "untuk hari-hari biasa",
+               "yang ternyata penuh kasih-Mu,", "terima kasih, Tuhan."],
+     "caption": "Syukur untuk minggu ini 🤍\n\nHari demi hari, Dia yang menanggung kita, bahkan di hari-hari yang terasa biasa.\n\n📖 “Terpujilah Tuhan! Hari demi hari Ia menanggung bagi kita; Allah adalah keselamatan kita.” — Mazmur 68:20\n\nTulis satu hal yang kamu syukuri minggu ini 👇"},
+    {"judul": "Besok Hari Minggu",
+     "baris": ["Besok aku mau datang lagi", "ke rumah-Mu,", "membawa hati yang lelah",
+               "dan pulang dengan hati yang baru."],
+     "caption": "Besok hari Minggu 🤍\n\nDatang saja apa adanya. Bawa yang lelah, pulang dengan yang baru.\n\n📖 “Adalah baik untuk menyanyikan syukur kepada TUHAN, dan untuk menyanyikan mazmur bagi nama-Mu, ya Yang Mahatinggi…” — Mazmur 92:2\n\nTag teman yang mau kamu ajak ibadah besok 👇"},
+]
+
+
+# ---------- MEME: foto hitam-putih + doa jujur (pagi3 & petang) ----------
+MEME = [
+    # Minggu
+    {"teks": "Tuhan, aku datang ke gereja hari ini dengan hati yang berantakan. Terima aku, ya.",
+     "foto": "panggung",
+     "caption": "Datang saja, walau hatinya berantakan 🤍\n\nTakhta-Nya adalah takhta kasih karunia. Kamu boleh menghampiri-Nya dengan berani.\n\n📖 “Sebab itu marilah kita dengan penuh keberanian menghampiri takhta kasih karunia, supaya kita menerima rahmat dan menemukan kasih karunia untuk mendapat pertolongan kita pada waktunya.” — Ibrani 4:16\n\nKetik “Amin” kalau ini doamu juga hari ini."},
+    {"teks": "Tuhan, aku nggak kuat sendirian. Untungnya, aku memang nggak pernah sendirian.",
+     "foto": "gunung",
+     "caption": "Kamu tidak pernah sendirian 🤍\n\nSaat kamu merasa jatuh, ada lengan yang kekal di bawahmu.\n\n📖 “Allah yang abadi adalah tempat perlindunganmu, dan di bawahmu ada lengan-lengan yang kekal.” — Ulangan 33:27\n\nKirim ke seseorang yang sedang merasa sendirian 💌"},
+    # Senin
+    {"teks": "Tuhan, aku takut menghadapi minggu ini. Tapi waktu aku takut, aku mau tetap percaya.",
+     "foto": "jalan",
+     "caption": "Takut dan percaya bisa datang bersamaan 🤍\n\nDaud juga pernah takut. Tapi dia memilih ke mana membawa takutnya.\n\n📖 “Waktu aku takut, aku ini percaya kepada-Mu.” — Mazmur 56:4\n\nKetik “aku percaya” sebagai doamu di awal minggu ini."},
+    {"teks": "Tuhan, aku capek pura-pura baik-baik saja. Boleh aku jujur sama Engkau malam ini?",
+     "foto": "jendela",
+     "caption": "Kamu boleh jujur di hadapan-Nya 🤍\n\nDia sudah tahu jalanmu, bahkan saat semangatmu habis. Kamu tidak perlu pura-pura kuat di depan-Nya.\n\n📖 “Ketika semangatku lemah lesu di dalam diriku, Engkaulah yang mengetahui jalanku.” — Mazmur 142:4\n\nKirim ke temanmu yang selalu terlihat baik-baik saja 💌"},
+    # Selasa
+    {"teks": "Tuhan, aku nggak ngerti rencana-Mu. Tapi aku mau tetap ikut Engkau.",
+     "foto": "kabut",
+     "caption": "Belum mengerti, tapi tetap ikut 🌫️\n\nTidak apa-apa kalau jalannya belum jelas. Mintalah Dia menunjukkannya, satu langkah demi satu langkah.\n\n📖 “Beritahukanlah jalan-jalan-Mu kepadaku, ya TUHAN, tunjukkanlah itu kepadaku.” — Mazmur 25:4\n\nKetik “Amin” kalau kamu sedang menunggu arah dari Tuhan."},
+    {"teks": "Tuhan, aku sering ragu. Terima kasih Engkau tetap setia waktu aku goyah.",
+     "foto": "awan",
+     "caption": "Imanmu goyah, kesetiaan-Nya tidak 🤍\n\n📖 “…jika kita tidak setia, Dia tetap setia, karena Dia tidak dapat menyangkal diri-Nya.” — 2 Timotius 2:13\n\nSave untuk hari kamu meragukan dirimu sendiri 🔖"},
+    # Rabu
+    {"teks": "Tuhan, aku nggak minta hidup yang gampang. Aku minta hati yang tetap percaya.",
+     "foto": "laut",
+     "caption": "Bukan hidup yang gampang, tapi hati yang tetap percaya 🌊\n\nPaulus juga mengalami tekanan dari segala sisi. Tapi dia tidak ditinggalkan sendirian.\n\n📖 “Dalam segala hal kami ditindas, namun tidak terjepit; kami habis akal, namun tidak putus asa; kami dianiaya, namun tidak ditinggalkan sendirian, kami dihempaskan, namun tidak binasa.” — 2 Korintus 4:8-9\n\nKetik “tidak binasa” kalau kamu sedang bertahan 🙏"},
+    {"teks": "Tuhan, maaf aku jauh beberapa waktu ini. Tarik aku pulang, dekat lagi sama Engkau.",
+     "foto": "pohon",
+     "caption": "Satu langkah mendekat, dan Dia sudah menyambut 🤍\n\nTidak ada kata terlambat untuk kembali dekat.\n\n📖 “Mendekatlah kepada Allah, dan Ia akan mendekat kepadamu.” — Yakobus 4:8\n\nKirim ke seseorang yang kamu rindukan kembali ke gereja 💌"},
+    # Kamis
+    {"teks": "Tuhan, aku nggak punya kata-kata hari ini. Cuma air mata. Tolong dengar, ya.",
+     "foto": "lilin",
+     "caption": "Air mata juga bahasa doa 🕯️\n\nYesus sendiri berjanji: yang berdukacita akan dihibur.\n\n📖 “Berbahagialah orang yang berdukacita, karena mereka akan dihibur.” — Matius 5:4\n\nKetik 🤍 dan kami ikut mendoakanmu."},
+    {"teks": "Tuhan, aku serahkan orang yang aku sayangi. Engkau lebih mengasihinya daripada aku.",
+     "foto": "bintang",
+     "caption": "Doa untuk orang yang kamu sayangi ✨\n\nKamu tidak bisa menjaga mereka setiap saat. Tapi Tuhan bisa, dan kasih-Nya lebih besar dari kasihmu.\n\n📖 “TUHAN itu baik kepada semua orang, dan penuh rahmat terhadap segala yang dijadikan-Nya.” — Mazmur 145:9\n\nTag orang yang sedang kamu doakan 👇"},
+    # Jumat
+    {"teks": "Tuhan, hari ini aku memilih bersyukur, walaupun belum semuanya baik-baik saja.",
+     "foto": "awan",
+     "caption": "Syukur adalah pilihan 🤍\n\nBelum semuanya beres, tapi masih ada alasan untuk berharap dan bersyukur.\n\n📖 “Bersukacitalah dalam pengharapan, sabarlah dalam kesesakan, dan bertekunlah dalam doa!” — Roma 12:12\n\nTulis satu hal yang tetap kamu syukuri hari ini 👇"},
+    {"teks": "Tuhan, aku belum sembuh sepenuhnya. Tapi aku mau terus berjalan bersama-Mu, pelan-pelan.",
+     "foto": "kabut",
+     "caption": "Pelan-pelan juga tetap berjalan 🤍\n\nPenderitaan tidak berlangsung selamanya. Dia sendiri yang akan meneguhkan dan menguatkanmu.\n\n📖 “Dan Allah, sumber segala kasih karunia, yang telah memanggil kamu dalam Kristus kepada kemuliaan-Nya yang kekal, akan melengkapi, meneguhkan, menguatkan dan mengokohkan kamu, sesudah kamu menderita seketika lamanya.” — 1 Petrus 5:10\n\nSave untuk hari kamu merasa pemulihanmu lambat 🔖"},
+    # Sabtu
+    {"teks": "Tuhan, aku bukan orang yang paling rohani. Tapi aku mau terus belajar mengenal Engkau.",
+     "foto": "panggung",
+     "caption": "Bukan yang paling rohani, tapi mau terus belajar 🤍\n\nMengenal Tuhan itu perjalanan, bukan perlombaan.\n\n📖 “Marilah kita mengenal dan berusaha sungguh-sungguh mengenal TUHAN; Ia pasti muncul seperti fajar…” — Hosea 6:3\n\nKetik “aku mau belajar” kalau ini doamu juga."},
+    {"teks": "Tuhan, minggu ini aku sering jatuh. Terima kasih Engkau tidak melepaskan tanganku.",
+     "foto": "laut",
+     "caption": "Jatuh berkali-kali, ditopang berkali-kali 🤍\n\n📖 “TUHAN itu penopang bagi semua orang yang jatuh dan penegak bagi semua orang yang tertunduk.” — Mazmur 145:14\n\nSelamat berakhir pekan. Kirim ke temanmu yang minggunya berat 💌"},
+]
+
+
+# ---------- SKRIP: tulisan tangan kuning di foto panggung ibadah (sore & malam0) ----------
+# "teks" = parafrase singkat janji Tuhan; ayat dasarnya dikutip lengkap di caption.
+SKRIP = [
+    # Minggu
+    {"teks": "Aku tidak ke mana-mana.", "dari": "— Tuhan",
+     "caption": "Aku tidak ke mana-mana. 🤍\n\nBukan cuma hari Minggu di gereja. Senin di kantor, Selasa di kelas, Rabu malam yang sepi, Dia tetap menyertai.\n\n📖 “…Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir zaman.” — Matius 28:20\n\nKetik “Amin” kalau kamu percaya."},
+    {"teks": "Jangan takut, percaya saja.", "dari": "— Markus 5:36",
+     "caption": "Jangan takut, percaya saja. 🤍\n\nYesus mengucapkan kalimat ini kepada Yairus, tepat saat kabar terburuk datang. Dan Yesus tidak berhenti berjalan menuju rumahnya.\n\n📖 “Jangan takut, percaya saja!” — Markus 5:36\n\nSave untuk hari kabar buruk datang 🔖"},
+    # Senin
+    {"teks": "Nanti kamu akan mengerti.", "dari": "— Tuhan",
+     "caption": "Nanti kamu akan mengerti. 🤍\n\nPetrus juga bingung waktu Yesus membasuh kakinya. Ada hal yang baru kita mengerti kelak, dan sampai saat itu, kita boleh percaya.\n\n📖 “Apa yang Kuperbuat, engkau tidak tahu sekarang, tetapi engkau akan mengertinya kelak.” — Yohanes 13:7\n\nKirim ke seseorang yang sedang bertanya “kenapa” 💌"},
+    {"teks": "Akan Kuselesaikan.", "dari": "— Tuhan",
+     "caption": "Akan Kuselesaikan. 🤍\n\nApa yang Tuhan mulai dalam hidupmu tidak akan Dia tinggalkan setengah jalan.\n\n📖 “TUHAN akan menyelesaikannya bagiku! Ya TUHAN, kasih setia-Mu untuk selama-lamanya; janganlah Kautinggalkan perbuatan tangan-Mu!” — Mazmur 138:8\n\nKetik “Amin” kalau kamu sedang menunggu Dia menyelesaikannya."},
+    # Selasa
+    {"teks": "Masih ada harapan.", "dari": "— Yeremia 31:17",
+     "caption": "Masih ada harapan. ✨\n\nFirman ini pertama kali diberikan kepada umat yang sedang di pembuangan, saat semuanya terasa hilang. Allah yang sama memegang hari depanmu.\n\n📖 “Masih ada harapan untuk hari depanmu, demikianlah firman TUHAN…” — Yeremia 31:17\n\nSave dan baca lagi saat kamu hampir menyerah 🔖"},
+    {"teks": "Wherever you go, I'm there.", "dari": "— Tuhan",
+     "caption": "Ke mana pun kamu pergi, Dia menyertai 🤍\n\nYakub sedang lari dari rumah, sendirian, tidur beralaskan batu. Di situ Tuhan berjanji menyertainya.\n\n📖 “Sesungguhnya Aku menyertai engkau dan Aku akan melindungi engkau, ke manapun engkau pergi…” — Kejadian 28:15\n\nKirim ke temanmu yang sedang merantau atau jauh dari rumah 💌"},
+    # Rabu
+    {"teks": "Satu saja yang perlu.", "dari": "— Lukas 10:42",
+     "caption": "Satu saja yang perlu. 🤍\n\nMarta sibuk melayani, Maria duduk mendengarkan Yesus. Di tengah minggu yang padat, bagian terbaik itu masih tersedia untukmu.\n\n📖 “Marta, Marta, engkau kuatir dan menyusahkan diri dengan banyak perkara, tetapi hanya satu saja yang perlu: Maria telah memilih bagian yang terbaik, yang tidak akan diambil dari padanya.” — Lukas 10:41-42\n\nKetik “duduk dulu” kalau kamu butuh berhenti sejenak hari ini."},
+    {"teks": "Aku memegang tanganmu.", "dari": "— Tuhan",
+     "caption": "Aku memegang tanganmu. 🤍\n\nKamu tidak harus memegang erat-erat sendirian. Dia yang memegangmu.\n\n📖 “Sebab Aku ini, TUHAN, Allahmu, memegang tangan kananmu dan berkata kepadamu: “Janganlah takut, Akulah yang menolong engkau.”” — Yesaya 41:13\n\nSave untuk malam yang menakutkan 🔖"},
+    # Kamis
+    {"teks": "Biar Aku yang berperang.", "dari": "— Tuhan",
+     "caption": "Biar Aku yang berperang. 🤍\n\nYosafat dan umatnya tidak tahu harus berbuat apa, jadi mereka berdoa dan memandang kepada Tuhan. Lalu datang firman ini.\n\n📖 “…Janganlah kamu takut dan terkejut karena laskar yang besar ini, sebab bukan kamu yang akan berperang melainkan Allah.” — 2 Tawarikh 20:15\n\nKetik “Amin” kalau kamu menyerahkan pergumulanmu kepada-Nya."},
+    {"teks": "Air matamu tidak sia-sia.", "dari": "— Mazmur 126:5",
+     "caption": "Air matamu tidak sia-sia. 🤍\n\nYang kamu tabur sambil menangis hari ini, Tuhan lihat. Akan ada waktunya sorak-sorai.\n\n📖 “Orang-orang yang menabur dengan mencucurkan air mata, akan menuai dengan bersorak-sorai.” — Mazmur 126:5\n\nKirim ke seseorang yang sedang menabur dengan air mata 💌"},
+    # Jumat
+    {"teks": "My promises still stand.", "dari": "— Tuhan",
+     "caption": "Janji-Nya tetap berdiri 🤍\n\nBukan semua keinginan kita, tapi semua janji Allah di dalam Firman-Nya: penyertaan, pengampunan, damai, hidup kekal. Di dalam Kristus, semuanya “ya”.\n\n📖 “Sebab Kristus adalah “ya” bagi semua janji Allah. Itulah sebabnya oleh Dia kita mengatakan “Amin” untuk memuliakan Allah.” — 2 Korintus 1:20\n\nKetik “Amin” untuk janji-Nya hari ini."},
+    {"teks": "Aku telah mengalahkan dunia.", "dari": "— Yohanes 16:33",
+     "caption": "Kuatkanlah hatimu. Dia sudah menang 🤍\n\nYesus tidak bilang hidup akan tanpa kesusahan. Dia bilang: kuatkan hatimu, karena Dia sudah mengalahkan dunia.\n\n📖 “Semuanya itu Kukatakan kepadamu, supaya kamu beroleh damai sejahtera dalam Aku. Dalam dunia kamu menderita penganiayaan, tetapi kuatkanlah hatimu, Aku telah mengalahkan dunia.” — Yohanes 16:33\n\nSave untuk minggu-minggu yang berat 🔖"},
+    # Sabtu
+    {"teks": "I'm making all things new.", "dari": "— Tuhan",
+     "caption": "Dia sedang menjadikan segala sesuatu baru ✨\n\nYang rusak, yang patah, yang hilang, tidak ada yang terlalu jauh untuk dipulihkan oleh-Nya.\n\n📖 “Lihatlah, Aku menjadikan segala sesuatu baru!” — Wahyu 21:5\n\nKetik ✨ kalau kamu menanti pemulihan dari-Nya."},
+    {"teks": "Aku mengasihimu. Selamanya.", "dari": "— Tuhan",
+     "caption": "Aku mengasihimu. Selamanya. 🤍\n\nBukan karena minggu ini kamu berhasil. Kasih-Nya kekal, dan Dia terus melanjutkannya.\n\n📖 “…Aku mengasihi engkau dengan kasih yang kekal, sebab itu Aku melanjutkan kasih setia-Ku kepadamu.” — Yeremia 31:3\n\nSelamat malam. Kirim ke seseorang yang perlu dengar ini 💌"},
+]
+
+
+# ---------- KISAH: carousel poster kisah Alkitab (siang0) ----------
+KISAH = [
+    {"judul1": "Dua", "judul2": "Orang", "sub": "Pembangun Rumah", "ref": "Matius 7:24-27",
+     "slides": [("Dua rumah, satu badai",
+                 "Yesus bercerita tentang dua orang yang sama-sama membangun rumah. Dari luar, mungkin keduanya terlihat sama kokoh. Bedanya baru kelihatan saat hujan, banjir, dan angin datang."),
+                ("Batu dan pasir",
+                 "Yang satu membangun di atas batu, yang lain di atas pasir. Keduanya sama-sama mendengar perkataan Yesus. Bedanya: yang satu melakukannya, yang lain tidak."),
+                ("Badai tetap datang",
+                 "Yesus tidak berjanji rumah di atas batu akan bebas badai. Hujan dan angin melanda keduanya. Tapi rumah yang didirikan di atas batu tidak rubuh."),
+                ("Untuk minggu ini",
+                 "Mendengar firman di gereja hari ini itu baik. Melakukannya hari Senin, saat tidak ada yang melihat, itulah yang membuat hidup kita kokoh.")],
+     "ayat": "“Setiap orang yang mendengar perkataan-Ku ini dan melakukannya, ia sama dengan orang yang bijaksana, yang mendirikan rumahnya di atas batu.”",
+     "ayat_ref": "Matius 7:24",
+     "caption": "Dua orang, dua rumah, satu badai 🏠\n\nBadai datang untuk semua orang. Yang membedakan bukan besarnya badai, tapi di atas apa kita membangun.\n\nGeser sampai akhir 👉\n\n📖 Matius 7:24-27\n\nFirman apa yang mau kamu lakukan minggu ini, bukan cuma didengar? Tulis di komentar 👇"},
+    {"judul1": "Satu", "judul2": "Langkah", "sub": "Petrus di Atas Air", "ref": "Matius 14:22-33",
+     "slides": [("Malam, angin, ombak",
+                 "Perahu murid-murid diombang-ambingkan gelombang karena angin sakal. Kira-kira jam tiga malam, Yesus datang berjalan di atas air. Mereka mengira itu hantu."),
+                ("“Datanglah!”",
+                 "Petrus berkata: kalau itu memang Tuhan, suruh aku datang. Yesus menjawab dengan satu kata. Petrus turun dari perahu dan berjalan di atas air menuju Yesus."),
+                ("Saat mulai tenggelam",
+                 "Begitu merasakan tiupan angin, Petrus takut dan mulai tenggelam. Doanya cuma tiga kata: “Tuhan, tolonglah aku!” Segera Yesus mengulurkan tangan-Nya dan memegang dia."),
+                ("Untukmu hari ini",
+                 "Mungkin minggu ini kamu merasa tenggelam. Doa pendek pun cukup. Tangan yang sama masih terulur, dan Dia tidak terlambat menangkapmu.")],
+     "ayat": "“Tenanglah! Aku ini, jangan takut!”",
+     "ayat_ref": "Matius 14:27",
+     "caption": "Doa paling pendek yang tetap didengar: Tuhan, tolonglah aku 🌊\n\nPetrus mulai tenggelam, tapi tangan Yesus lebih cepat dari ombaknya.\n\n📖 Matius 14:22-33\n\nKetik “Tuhan, tolonglah aku” sebagai doamu hari ini 🙏"},
+    {"judul1": "Seekor", "judul2": "Domba", "sub": "yang Dicari Sampai Ketemu", "ref": "Lukas 15:1-7",
+     "slides": [("Kenapa cerita ini ada",
+                 "Orang-orang Farisi dan ahli Taurat bersungut-sungut karena Yesus menerima orang berdosa dan makan bersama mereka. Lalu Yesus menjawab dengan cerita tentang seorang gembala."),
+                ("Seratus kurang satu",
+                 "Seorang gembala punya seratus ekor domba. Satu hilang. Ia meninggalkan yang sembilan puluh sembilan dan pergi mencari yang satu itu sampai ia menemukannya."),
+                ("Dipikul, bukan dimarahi",
+                 "Domba itu tidak diomeli atau disuruh pulang sendiri. Gembalanya meletakkannya di atas bahu dengan gembira, lalu mengajak sahabat dan tetangga bersukacita."),
+                ("Kamu yang satu itu",
+                 "Kalau kamu merasa tersesat, tertinggal, atau terlalu jauh, kamu bukan sekadar angka bagi-Nya. Dia mencari, menemukan, dan memikulmu pulang.")],
+     "ayat": "“Bersukacitalah bersama-sama dengan aku, sebab dombaku yang hilang itu telah kutemukan.”",
+     "ayat_ref": "Lukas 15:6",
+     "caption": "Gembala itu tidak menunggu dombanya pulang sendiri. Dia yang pergi mencari 🐑\n\nGeser sampai akhir 👉\n\n📖 Lukas 15:1-7\n\nKirim ke seseorang yang merasa terlalu jauh dari Tuhan 💌"},
+    {"judul1": "Lima", "judul2": "Roti", "sub": "dan Dua Ikan", "ref": "Yohanes 6:1-15",
+     "slides": [("Ribuan orang lapar",
+                 "Orang banyak berbondong-bondong mengikuti Yesus. Ia bertanya kepada Filipus di mana mereka bisa membeli roti. Filipus menghitung: roti seharga dua ratus dinar pun tidak akan cukup."),
+                ("Bekal seorang anak",
+                 "Andreas menemukan seorang anak yang membawa lima roti jelai dan dua ikan. Lalu ia bertanya dengan jujur: apa artinya itu untuk orang sebanyak ini?"),
+                ("Di tangan Yesus",
+                 "Yesus mengambil roti itu, mengucap syukur, lalu membagi-bagikannya. Semua orang makan sampai kenyang, dan sisanya masih dua belas bakul penuh."),
+                ("Yang sedikit itu",
+                 "Mungkin yang kamu punya terasa terlalu kecil: waktu, tenaga, talenta. Serahkan saja. Bukan besarnya bekal yang penting, tapi tangan siapa yang memegangnya.")],
+     "ayat": "“Di sini ada seorang anak, yang mempunyai lima roti jelai dan dua ikan; tetapi apakah artinya itu untuk orang sebanyak ini?”",
+     "ayat_ref": "Yohanes 6:9",
+     "caption": "Kecil di tangan seorang anak, cukup di tangan Yesus 🍞🐟\n\nGeser sampai akhir 👉\n\n📖 Yohanes 6:1-15\n\nApa “lima roti” yang mau kamu serahkan kepada Tuhan minggu ini? Tulis di komentar 👇"},
+    {"judul1": "Gembala", "judul2": "Kecil", "sub": "Daud Melawan Goliat", "ref": "1 Samuel 17:32-50",
+     "slides": [("Raksasa yang menantang",
+                 "Empat puluh hari lamanya, pagi dan petang, Goliat menantang barisan Israel. Saul dan seluruh tentaranya sangat ketakutan. Tidak ada yang berani maju."),
+                ("Ingatan seorang gembala",
+                 "Daud bukan prajurit. Tapi ia ingat bagaimana TUHAN melepaskannya dari cakar singa dan beruang saat menjaga domba. Tuhan yang setia dulu, setia juga hari ini."),
+                ("Lima batu licin",
+                 "Daud menanggalkan baju perang Saul. Ia membawa tongkat, umban, dan lima batu licin dari sungai. Yang membuatnya berani bukan senjatanya, tapi nama TUHAN."),
+                ("Raksasamu hari ini",
+                 "Mungkin raksasamu bernama takut, sakit, utang, atau masa lalu. Kamu tidak harus terlihat besar. Datanglah dalam nama Tuhan, dan ingat kesetiaan-Nya kemarin.")],
+     "ayat": "“TUHAN yang telah melepaskan aku dari cakar singa dan dari cakar beruang, Dia juga akan melepaskan aku dari tangan orang Filistin itu.”",
+     "ayat_ref": "1 Samuel 17:37",
+     "caption": "Daud tidak mengandalkan ukuran tubuhnya. Dia mengingat kesetiaan Tuhan 🪨\n\nGeser sampai akhir 👉\n\n📖 1 Samuel 17:32-50\n\nApa “raksasa” yang sedang kamu hadapi? Tulis di komentar, kita saling mendoakan 🙏"},
+    {"judul1": "Badai", "judul2": "Teduh", "sub": "Yesus Tidur di Buritan", "ref": "Markus 4:35-41",
+     "slides": [("Ajakan Yesus sendiri",
+                 "Yesuslah yang mengajak murid-murid bertolak ke seberang. Di tengah danau, taufan yang sangat dahsyat datang, dan ombak menyembur masuk ke dalam perahu."),
+                ("Dia tidur",
+                 "Yesus sedang tidur di buritan di sebuah tilam. Murid-murid membangunkan-Nya: “Guru, Engkau tidak perduli kalau kita binasa?”"),
+                ("“Diam! Tenanglah!”",
+                 "Yesus bangun, menghardik angin, dan berkata kepada danau: “Diam! Tenanglah!” Angin reda dan danau menjadi teduh sekali. Badai pun taat pada suara-Nya."),
+                ("Dia ada di perahumu",
+                 "Badai tidak berarti Tuhan tidak peduli. Dia ada di perahu yang sama. Kadang Dia meneduhkan badainya, kadang Dia meneduhkan hatimu lebih dulu.")],
+     "ayat": "“Siapa gerangan orang ini, sehingga angin dan danaupun taat kepada-Nya?”",
+     "ayat_ref": "Markus 4:41",
+     "caption": "Yesus bisa tidur di tengah badai, karena badai itu taat kepada-Nya 🌊\n\nGeser sampai akhir 👉\n\n📖 Markus 4:35-41\n\nKirim ke temanmu yang sedang di tengah badai, bilang: Dia ada di perahumu 💌"},
+    {"judul1": "Jalan", "judul2": "Pulang", "sub": "Anak yang Hilang", "ref": "Lukas 15:11-32",
+     "slides": [("Pergi sejauh-jauhnya",
+                 "Si bungsu meminta bagian hartanya, lalu pergi ke negeri yang jauh dan memboroskan semuanya. Saat kelaparan datang, ia menjaga babi dan ingin makan ampasnya."),
+                ("Menyadari keadaannya",
+                 "Ia memutuskan pulang dan menyiapkan kalimat: aku tidak layak lagi disebut anak, jadikan aku salah seorang upahan. Ia berharap diterima sebagai pekerja saja."),
+                ("Ayah yang berlari",
+                 "Saat ia masih jauh, ayahnya sudah melihatnya. Tergerak oleh belas kasihan, sang ayah berlari, merangkul, dan menciumnya, lalu menyuruh membawa jubah terbaik."),
+                ("Kalau kamu sedang jauh",
+                 "Kamu tidak perlu menyiapkan pidato yang sempurna untuk kembali. Bapa sudah menunggu. Langkah pertamamu pulang disambut dengan pelukan.")],
+     "ayat": "“Ketika ia masih jauh, ayahnya telah melihatnya, lalu tergeraklah hatinya oleh belas kasihan. Ayahnya itu berlari mendapatkan dia lalu merangkul dan mencium dia.”",
+     "ayat_ref": "Lukas 15:20",
+     "caption": "Sebelum kalimat maafnya selesai, ayahnya sudah memeluknya 🤍\n\nGeser sampai akhir 👉\n\n📖 Lukas 15:11-32\n\nBesok hari Minggu. Kalau kamu sudah lama jauh, ini undangan untuk pulang. Ketik “Aku pulang” kalau kamu mau kembali."},
+]
+
+
+# ---------- K: tipografi sinematik (skema sama dengan tenang_keren2.KINETIK) ----------
+# tiap frasa = satu layar; kata dengan * = disorot (serif miring, emas). Satu kata per tanda *.
+KINETIK = [
+    {"frasa": ["dalam *tenang*", "dan *percaya*", "di situlah", "*kekuatanmu*"],
+     "ref": "Yesaya 30:15",
+     "caption": "Kekuatanmu bukan di kesibukanmu, tapi di tenang dan percaya 🤍\n\n📖 “Dengan bertobat dan tinggal diam kamu akan diselamatkan, dalam tinggal tenang dan percaya terletak kekuatanmu.” — Yesaya 30:15\n\nKetik “diam dan percaya” kalau ini doamu minggu ini."},
+    {"frasa": ["rambut di *kepalamu*", "pun Dia *hitung*", "jadi jangan *takut*", "kamu *berharga*"],
+     "ref": "Matius 10:30-31",
+     "caption": "Kalau rambutmu pun Dia hitung, kamu tidak pernah luput dari perhatian-Nya 🤍\n\n📖 “Dan kamu, rambut kepalamupun terhitung semuanya. Sebab itu janganlah kamu takut, karena kamu lebih berharga dari pada banyak burung pipit.” — Matius 10:30-31\n\nKirim ke seseorang yang merasa tidak diperhatikan 💌"},
+    {"frasa": ["buluh yang *patah*", "tidak Dia *putuskan*", "sumbu yang *pudar*", "tidak Dia *padamkan*"],
+     "ref": "Yesaya 42:3",
+     "caption": "Kalau kamu merasa patah dan hampir padam, Dia tidak membuangmu 🕯️\n\n📖 “Buluh yang patah terkulai tidak akan diputuskannya, dan sumbu yang pudar nyalanya tidak akan dipadamkannya…” — Yesaya 42:3\n\nKetik 🕯️ kalau nyalamu sedang redup. Kita saling mendoakan."},
+    {"frasa": ["menanti dalam *diam*", "bukan berarti *kalah*", "itu namanya *percaya*", "dan Dia *baik*"],
+     "ref": "Ratapan 3:25-26",
+     "caption": "Menanti dalam diam bukan berarti kalah 🤍\n\n📖 “TUHAN adalah baik bagi orang yang berharap kepada-Nya, bagi jiwa yang mencari Dia. Adalah baik menanti dengan diam pertolongan TUHAN.” — Ratapan 3:25-26\n\nSave untuk masa menunggumu 🔖"},
+    {"frasa": ["kalaupun *semua* lupa", "Dia *tidak*", "Dia tidak akan *melupakan*", "*kamu*"],
+     "ref": "Yesaya 49:15",
+     "caption": "Kalaupun semua orang lupa, Dia tidak akan melupakanmu 🤍\n\n📖 “Dapatkah seorang perempuan melupakan bayinya, sehingga ia tidak menyayangi anak dari kandungannya? Sekalipun dia melupakannya, Aku tidak akan melupakan engkau.” — Yesaya 49:15\n\nKirim ke seseorang yang merasa terlupakan 💌"},
+    {"frasa": ["sejauh *timur*", "dari *barat*", "sejauh itu dosamu", "*dijauhkan-Nya*"],
+     "ref": "Mazmur 103:12",
+     "caption": "Sejauh timur dari barat. Sejauh itu dosamu dijauhkan-Nya 🤍\n\n📖 “Sejauh timur dari barat, demikian dijauhkan-Nya dari pada kita pelanggaran kita.” — Mazmur 103:12\n\nSave untuk hari masa lalu datang mengganggu 🔖"},
+    {"frasa": ["seperti anak *kecil*", "berbaring dekat *ibunya*", "jiwaku *tenang*", "di dekat-Mu"],
+     "ref": "Mazmur 131:2",
+     "caption": "Jiwa yang tenang, seperti anak kecil di dekat ibunya 🤍\n\n📖 “Sesungguhnya, aku telah menenangkan dan mendiamkan jiwaku; seperti anak yang disapih berbaring dekat ibunya, ya, seperti anak yang disapih jiwaku dalam diriku.” — Mazmur 131:2\n\nSelamat berakhir pekan. Ketik 🤍 kalau malam ini kamu mau tenang di dekat-Nya."},
+]
+
+
+# ---------- T: teks relatable (skema sama dengan tenang_keren2.RELATABLE) ----------
+# "atas" = label kecil opsional di atas teks. "\n" = baris punchline. Tanpa emoji di teks (font).
+RELATABLE = [
+    {"atas": "ibadah Minggu",
+     "teks": "Worship leader: “Sekali lagi, ya!”\nPadahal ini udah sekali lagi yang kelima.",
+     "caption": "Tapi jujur, kita juga yang paling semangat di “sekali lagi” yang keenam 😂🙌\n\nLagu apa yang di gerejamu pasti diulang terus? Tulis di komentar 👇"},
+    {"teks": "Bilang “aku doain ya” ke teman,\nbaru ingat doainnya tiga hari kemudian.",
+     "caption": "Tips: doakan saat itu juga, langsung ketik doanya di chat 😅🙏\n\nTag teman yang mau kamu doakan sekarang juga 👇"},
+    {"atas": "saat teduh",
+     "teks": "Buka HP buat baca Alkitab.\n40 menit kemudian: masih nonton video kucing.",
+     "caption": "Notifikasinya memang licik 😂📱\n\nTips: nyalakan mode pesawat dulu, baru buka Alkitab. Kamu tim Alkitab cetak atau aplikasi? Jawab di komentar 👇"},
+    {"teks": "Lagi kesal sama seseorang,\nterus renungan hari itu tentang mengampuni.\nTuhan, ini kebetulan atau sindiran?",
+     "caption": "Bukan sindiran, tapi kasih 😅🤍\n\n📖 “Apabila kamu menjadi marah, janganlah kamu berbuat dosa: janganlah matahari terbenam, sebelum padam amarahmu” — Efesus 4:26\n\nSiapa yang pernah ngalamin ini? Ketik “aku” 👇"},
+    {"atas": "musim ujian",
+     "teks": "Doa sebelum ujian: khusyuk, 15 menit.\nDoa sesudah ujian: lupa.",
+     "caption": "Jangan lupa bilang terima kasih juga ya 😂🙏\n\n📖 “…Dan bersyukurlah.” — Kolose 3:15\n\nKirim ke temanmu yang lagi musim ujian, bilang semangat 💪"},
+    {"atas": "acara keluarga",
+     "teks": "Tante: “Kapan nikah?”\nAku: “Lagi didoakan, Tante.”\nTante: “Doanya kurang kencang kali.”",
+     "caption": "Tante, doanya udah kencang kok 😭😂\n\nSemua ada waktunya, dan waktu Tuhan tidak pernah salah. Tag temanmu yang paling sering ditanya ini 👇"},
+    {"teks": "Sabtu malam: “Besok ibadah pagi, tidur cepat ah.”\nJam 1 pagi: masih scroll.",
+     "caption": "Siapa yang besok datang pas doa pembukaan udah selesai? 😂⏰\n\nYuk taruh HP-nya, besok kita ketemu Tuhan dengan mata yang segar. Tag teman ibadah pagimu 👇"},
+]
+
+
+# hari 1-7 (Minggu 11 Okt .. Sabtu 17 Okt 2026): 10 slot per hari -> (format, index)
+# pagi 06:00, pagi3 07:30, pagi2 09:00, siang0 10:30, siang 12:00, siang2 13:30,
+# sore 15:00, petang 18:00, malam0 19:30, malam 21:00
+JADWAL = {d: {"pagi": ("BUKU", 3 * (d - 1)), "pagi3": ("MEME", 2 * (d - 1)), "pagi2": ("T", d - 1),
+              "siang0": ("KISAH", d - 1), "siang": ("BUKU", 3 * (d - 1) + 1), "siang2": ("K", d - 1),
+              "sore": ("SKRIP", 2 * (d - 1)), "petang": ("MEME", 2 * (d - 1) + 1),
+              "malam0": ("SKRIP", 2 * (d - 1) + 1), "malam": ("BUKU", 3 * (d - 1) + 2)} for d in range(1, 8)}

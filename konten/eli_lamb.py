@@ -195,7 +195,7 @@ _DATA2 = [
 ]
 
 # posisi teks manual kalau otomatis masih menutupi wajah
-POSISI = {"10-malam": "kanan-bawah"}
+POSISI = {"10-malam": "kanan-bawah", "16-malam": "kiri-bawah"}
 
 # post yang kotak teksnya di bawah (wajah karakter ada di atas gambar)
 TEKS_BAWAH = {"2-malam", "3-pagi2", "3-malam", "4-pagi2", "4-malam", "5-pagi", "5-pagi2", "10-pagi2"}
@@ -231,6 +231,18 @@ for hari, slot, who, teks, adegan, caption, faith in DATA3:
     who, teks, adegan, caption, faith = EVENTS.get((hari, slot), (who, teks, adegan, caption, faith))
     base = {"eli": CHARACTER, "ruthie": PARTNER, "couple": COUPLE}.get(who, COUPLE)
     extra = " ".join(f"{n}: {d}." for n, d in FRIENDS.items() if n in adegan)
+    POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam",
+                  "pasangan": who in ("couple", "friends"), "who": who,
+                  "prompt": f"{base}. {extra} Scene: {adegan}.".replace(". .", "."),
+                  "caption": caption + "\n\nFollow @{handle} for more 🐑\n.\n.\n" + (FAITH_TAGS if faith else TAGS)})
+
+# ---------- minggu 6-7: Minggu 8 - Sabtu 21 Nov (hari 36-49), dari konten/eli_lamb_w6.py ----------
+from konten.eli_lamb_w6 import DATA6, FRIENDS_NEW  # noqa: E402
+
+ALL_FRIENDS = {**FRIENDS, **FRIENDS_NEW}
+for hari, slot, who, teks, adegan, caption, faith in DATA6:
+    base = {"eli": CHARACTER, "ruthie": PARTNER, "couple": COUPLE}.get(who, COUPLE)
+    extra = " ".join(f"{n}: {d}." for n, d in ALL_FRIENDS.items() if n in adegan)
     POSTS.append({"id": f"{hari}-{slot}", "hari": hari, "slot": slot, "teks": teks, "reel": slot == "malam",
                   "pasangan": who in ("couple", "friends"), "who": who,
                   "prompt": f"{base}. {extra} Scene: {adegan}.".replace(". .", "."),

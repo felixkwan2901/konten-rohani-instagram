@@ -108,6 +108,8 @@ button:focus-visible,textarea:focus-visible,a:focus-visible{{outline:2px solid v
 <section class="panel" id="setup"><h2>Set up once in ChatGPT</h2>
 <ol class="steps"><li>Open <b>Projects → New project</b> and name it “Eli &amp; Ruthie”.</li><li>Upload these three reference photos to the project files (long-press to save them).</li><li>Paste the text below into the project’s <b>Instructions</b>.</li></ol>
 <div class="refs">{refs}</div>{box(INSTR, 0)}
+<h3>Friend reference photos</h3>
+{"".join(f'<p class="note"><b>{html.escape(n)}</b></p>' + box(f"Photorealistic character reference photo in the same knitted-wool style as Eli and Ruthie. {d}. Full body, plain soft background, no text.", 900 + k) for k, (n, d) in enumerate(el.ALL_FRIENDS.items()))}
 <p class="note"><b>Friends:</b> the first time a friend appears, save your favourite picture of them and upload it to the project too, so they stay the same every week.</p>
 <p class="note">For every post: start a new chat inside the project, paste the scene, and generate. If a face drifts, reply “make them look exactly like the reference photos”. If text appears in the image, reply “remove all text”.</p></section>
 </div>

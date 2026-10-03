@@ -1,7 +1,7 @@
-# Cek ayat (300 kutipan)
+# Cek ayat (361 kutipan)
 ❌ < 0.85 · ⚠️ < 0.97 · ✅ cocok
 
-✅ 288 cocok, 12 perlu dicek
+✅ 349 cocok, 12 perlu dicek
 
 ## ❔ -1.00  bahkan saat aku belum mengerti.” (banyak/tanpa referensi)  — tenang WARNA[5].teks
 - kutipan: “Tuhan, tolong aku percaya,

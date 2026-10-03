@@ -6289,9 +6289,132 @@ Follow @eliandruthie for more 🐑
 #newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
 ```
 
+## @diam.dan.percaya — Sun 11 Oct 06:00 WIB → **Sun 11 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku1.jpg`
+
+```
+Pagi hari Minggu 🤍
+
+Sebelum lagu pertama dan khotbah, datang dulu kepada-Nya dengan hati yang jujur. Dia tidak menunggu kita rapi.
+
+📖 “Perdengarkanlah kasih setia-Mu kepadaku pada waktu pagi, sebab kepada-Mulah aku percaya!” — Mazmur 143:8
+
+Ketik “Amin” kalau ini doamu pagi ini. Selamat hari Minggu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
 ## @eliandruthie — Sun 11 Oct 06:10 WIB → **Sun 11 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_lamb-8-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 06:10 WIB → **Sun 11 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-1-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 07:30 WIB → **Sun 11 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_w3/meme1.jpg`
+
+```
+Datang saja, walau hatinya berantakan 🤍
+
+Takhta-Nya adalah takhta kasih karunia. Kamu boleh menghampiri-Nya dengan berani.
+
+📖 “Sebab itu marilah kita dengan penuh keberanian menghampiri takhta kasih karunia, supaya kita menerima rahmat dan menemukan kasih karunia untuk mendapat pertolongan kita pada waktunya.” — Ibrani 4:16
+
+Ketik “Amin” kalau ini doamu juga hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 07:40 WIB → **Sun 11 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-1-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 09:00 WIB → **Sun 11 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_w3/relatable1.jpg`
+
+```
+Tapi jujur, kita juga yang paling semangat di “sekali lagi” yang keenam 😂🙌
+
+Lagu apa yang di gerejamu pasti diulang terus? Tulis di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 09:10 WIB → **Sun 11 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-1-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 10:30 WIB → **Sun 11 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_w3/kisah1_1.jpg`, `output/tenang_w3/kisah1_2.jpg`, `output/tenang_w3/kisah1_3.jpg`, `output/tenang_w3/kisah1_4.jpg`, `output/tenang_w3/kisah1_5.jpg`, `output/tenang_w3/kisah1_6.jpg`
+
+```
+Dua orang, dua rumah, satu badai 🏠
+
+Badai datang untuk semua orang. Yang membedakan bukan besarnya badai, tapi di atas apa kita membangun.
+
+Geser sampai akhir 👉
+
+📖 Matius 7:24-27
+
+Firman apa yang mau kamu lakukan minggu ini, bukan cuma didengar? Tulis di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 10:40 WIB → **Sun 11 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-1-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 12:00 WIB → **Sun 11 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku2.jpg`
+
+```
+Pintu-Nya masih terbuka untukmu 🏠
+
+Kamu tidak perlu menunggu jadi “cukup baik” untuk datang. Yesus sendiri yang berjanji tidak akan membuang siapa pun yang datang kepada-Nya.
+
+📖 “…barangsiapa datang kepada-Ku, ia tidak akan Kubuang.” — Yohanes 6:37
+
+Kirim ke seseorang yang sudah lama ingin kembali 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 12:10 WIB → **Sun 11 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-1-siang.jpg`
 
 ```
 
@@ -6324,6 +6447,29 @@ Gambar (urut): `output/stories/ayat-m3-7.jpg`
 
 ```
 
+## @diam.dan.percaya — Sun 11 Oct 13:30 WIB → **Sun 11 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik1.mp4`
+
+```
+Kekuatanmu bukan di kesibukanmu, tapi di tenang dan percaya 🤍
+
+📖 “Dengan bertobat dan tinggal diam kamu akan diselamatkan, dalam tinggal tenang dan percaya terletak kekuatanmu.” — Yesaya 30:15
+
+Ketik “diam dan percaya” kalau ini doamu minggu ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 13:40 WIB → **Sun 11 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik1.mp4`
+
+```
+
+```
+
 ## @eliandruthie — Sun 11 Oct 14:00 WIB → **Sun 11 Oct 20:00 NZ**
 
 Gambar (urut): `output/reels/eli_lamb/8-malam.mp4`
@@ -6342,6 +6488,106 @@ Follow @eliandruthie for more 🐑
 ## @eliandruthie — Sun 11 Oct 14:10 WIB → **Sun 11 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_lamb/8-malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 15:00 WIB → **Sun 11 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w3/skrip1.jpg`
+
+```
+Aku tidak ke mana-mana. 🤍
+
+Bukan cuma hari Minggu di gereja. Senin di kantor, Selasa di kelas, Rabu malam yang sepi, Dia tetap menyertai.
+
+📖 “…Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada akhir zaman.” — Matius 28:20
+
+Ketik “Amin” kalau kamu percaya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 15:10 WIB → **Sun 11 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-1-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 18:00 WIB → **Mon 12 Oct 00:00 NZ**
+
+Gambar (urut): `output/tenang_w3/meme2.jpg`
+
+```
+Kamu tidak pernah sendirian 🤍
+
+Saat kamu merasa jatuh, ada lengan yang kekal di bawahmu.
+
+📖 “Allah yang abadi adalah tempat perlindunganmu, dan di bawahmu ada lengan-lengan yang kekal.” — Ulangan 33:27
+
+Kirim ke seseorang yang sedang merasa sendirian 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 18:10 WIB → **Mon 12 Oct 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-1-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 19:30 WIB → **Mon 12 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip2.mp4`
+
+```
+Jangan takut, percaya saja. 🤍
+
+Yesus mengucapkan kalimat ini kepada Yairus, tepat saat kabar terburuk datang. Dan Yesus tidak berhenti berjalan menuju rumahnya.
+
+📖 “Jangan takut, percaya saja!” — Markus 5:36
+
+Save untuk hari kabar buruk datang 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 19:40 WIB → **Mon 12 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip2.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 11 Oct 21:00 WIB → **Mon 12 Oct 03:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku3.jpg`
+
+```
+Setelah ibadah, bawa pulang satu kalimat 📖
+
+Nggak harus hafal seluruh khotbah. Satu kalimat yang disimpan di hati bisa menjagamu sepanjang minggu.
+
+📖 “Dalam hatiku aku menyimpan janji-Mu, supaya aku jangan berdosa terhadap Engkau.” — Mazmur 119:11
+
+Kalimat apa dari ibadah hari ini yang kamu bawa pulang? Tulis di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 11 Oct 21:10 WIB → **Mon 12 Oct 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-1-malam.jpg`
 
 ```
 
@@ -6385,9 +6631,153 @@ Follow @eliandruthie for more 🐑
 #newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
 ```
 
+## @diam.dan.percaya — Mon 12 Oct 06:00 WIB → **Mon 12 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku4.jpg`
+
+```
+Senin yang baru, Penjaga yang sama 🤍
+
+Minggu ini mungkin padat. Tapi Dia yang menjagamu tidak pernah lelah, tidak pernah lengah.
+
+📖 “Ia takkan membiarkan kakimu goyah, Penjagamu tidak akan terlelap.” — Mazmur 121:3
+
+Save untuk Senin-Senin berikutnya 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
 ## @eliandruthie — Mon 12 Oct 06:10 WIB → **Mon 12 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_lamb-9-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 06:10 WIB → **Mon 12 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-2-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 07:30 WIB → **Mon 12 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_w3/meme3.jpg`
+
+```
+Takut dan percaya bisa datang bersamaan 🤍
+
+Daud juga pernah takut. Tapi dia memilih ke mana membawa takutnya.
+
+📖 “Waktu aku takut, aku ini percaya kepada-Mu.” — Mazmur 56:4
+
+Ketik “aku percaya” sebagai doamu di awal minggu ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 07:40 WIB → **Mon 12 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-2-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 09:00 WIB → **Mon 12 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_w3/relatable2.jpg`
+
+```
+Tips: doakan saat itu juga, langsung ketik doanya di chat 😅🙏
+
+Tag teman yang mau kamu doakan sekarang juga 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 09:10 WIB → **Mon 12 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-2-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 10:30 WIB → **Mon 12 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_w3/kisah2_1.jpg`, `output/tenang_w3/kisah2_2.jpg`, `output/tenang_w3/kisah2_3.jpg`, `output/tenang_w3/kisah2_4.jpg`, `output/tenang_w3/kisah2_5.jpg`, `output/tenang_w3/kisah2_6.jpg`
+
+```
+Doa paling pendek yang tetap didengar: Tuhan, tolonglah aku 🌊
+
+Petrus mulai tenggelam, tapi tangan Yesus lebih cepat dari ombaknya.
+
+📖 Matius 14:22-33
+
+Ketik “Tuhan, tolonglah aku” sebagai doamu hari ini 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 10:40 WIB → **Mon 12 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-2-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 12:00 WIB → **Mon 12 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku5.jpg`
+
+```
+Berhenti sebentar di tengah hari 🤍
+
+Yesus sendiri mengajak murid-murid-Nya beristirahat saat mereka terlalu sibuk, sampai makan pun tidak sempat.
+
+📖 “Marilah ke tempat yang sunyi, supaya kita sendirian, dan beristirahatlah seketika!” — Markus 6:31
+
+Tarik napas sebentar, lalu ketik “Amin” kalau kamu butuh jeda ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 12:10 WIB → **Mon 12 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-2-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 13:30 WIB → **Mon 12 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik2.mp4`
+
+```
+Kalau rambutmu pun Dia hitung, kamu tidak pernah luput dari perhatian-Nya 🤍
+
+📖 “Dan kamu, rambut kepalamupun terhitung semuanya. Sebab itu janganlah kamu takut, karena kamu lebih berharga dari pada banyak burung pipit.” — Matius 10:30-31
+
+Kirim ke seseorang yang merasa tidak diperhatikan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 13:40 WIB → **Mon 12 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik2.mp4`
 
 ```
 
@@ -6411,6 +6801,106 @@ Follow @eliandruthie for more 🐑
 ## @eliandruthie — Mon 12 Oct 14:10 WIB → **Mon 12 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_lamb/9-malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 15:00 WIB → **Mon 12 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w3/skrip3.jpg`
+
+```
+Nanti kamu akan mengerti. 🤍
+
+Petrus juga bingung waktu Yesus membasuh kakinya. Ada hal yang baru kita mengerti kelak, dan sampai saat itu, kita boleh percaya.
+
+📖 “Apa yang Kuperbuat, engkau tidak tahu sekarang, tetapi engkau akan mengertinya kelak.” — Yohanes 13:7
+
+Kirim ke seseorang yang sedang bertanya “kenapa” 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 15:10 WIB → **Mon 12 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-2-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 18:00 WIB → **Tue 13 Oct 00:00 NZ**
+
+Gambar (urut): `output/tenang_w3/meme4.jpg`
+
+```
+Kamu boleh jujur di hadapan-Nya 🤍
+
+Dia sudah tahu jalanmu, bahkan saat semangatmu habis. Kamu tidak perlu pura-pura kuat di depan-Nya.
+
+📖 “Ketika semangatku lemah lesu di dalam diriku, Engkaulah yang mengetahui jalanku.” — Mazmur 142:4
+
+Kirim ke temanmu yang selalu terlihat baik-baik saja 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 18:10 WIB → **Tue 13 Oct 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-2-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 19:30 WIB → **Tue 13 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip4.mp4`
+
+```
+Akan Kuselesaikan. 🤍
+
+Apa yang Tuhan mulai dalam hidupmu tidak akan Dia tinggalkan setengah jalan.
+
+📖 “TUHAN akan menyelesaikannya bagiku! Ya TUHAN, kasih setia-Mu untuk selama-lamanya; janganlah Kautinggalkan perbuatan tangan-Mu!” — Mazmur 138:8
+
+Ketik “Amin” kalau kamu sedang menunggu Dia menyelesaikannya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 19:40 WIB → **Tue 13 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip4.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 12 Oct 21:00 WIB → **Tue 13 Oct 03:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku6.jpg`
+
+```
+Doa sebelum tidur 🌙
+
+Yang belum selesai biar Tuhan yang pegang malam ini. Kamu boleh istirahat.
+
+📖 “Jikalau engkau berbaring, engkau tidak akan terkejut, tetapi engkau akan berbaring dan tidur nyenyak.” — Amsal 3:24
+
+Selamat malam. Save untuk malam-malam yang gelisah 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 12 Oct 21:10 WIB → **Tue 13 Oct 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-2-malam.jpg`
 
 ```
 
@@ -6454,9 +6944,153 @@ Follow @eliandruthie for more 🐑
 #newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
 ```
 
+## @diam.dan.percaya — Tue 13 Oct 06:00 WIB → **Tue 13 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku7.jpg`
+
+```
+Sarapan untuk jiwa ☕
+
+Sebelum membuka HP, buka hati dulu untuk-Nya. Lima menit pun berarti.
+
+📖 “Kenyangkanlah kami di waktu pagi dengan kasih setia-Mu, supaya kami bersorak-sorai dan bersukacita semasa hari-hari kami.” — Mazmur 90:14
+
+Ketik “Amin” kalau kamu mau memulai hari ini bersama Dia.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
 ## @eliandruthie — Tue 13 Oct 06:10 WIB → **Tue 13 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_lamb-10-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 06:10 WIB → **Tue 13 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-3-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 07:30 WIB → **Tue 13 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_w3/meme5.jpg`
+
+```
+Belum mengerti, tapi tetap ikut 🌫️
+
+Tidak apa-apa kalau jalannya belum jelas. Mintalah Dia menunjukkannya, satu langkah demi satu langkah.
+
+📖 “Beritahukanlah jalan-jalan-Mu kepadaku, ya TUHAN, tunjukkanlah itu kepadaku.” — Mazmur 25:4
+
+Ketik “Amin” kalau kamu sedang menunggu arah dari Tuhan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 07:40 WIB → **Tue 13 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-3-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 09:00 WIB → **Tue 13 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_w3/relatable3.jpg`
+
+```
+Notifikasinya memang licik 😂📱
+
+Tips: nyalakan mode pesawat dulu, baru buka Alkitab. Kamu tim Alkitab cetak atau aplikasi? Jawab di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 09:10 WIB → **Tue 13 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-3-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 10:30 WIB → **Tue 13 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_w3/kisah3_1.jpg`, `output/tenang_w3/kisah3_2.jpg`, `output/tenang_w3/kisah3_3.jpg`, `output/tenang_w3/kisah3_4.jpg`, `output/tenang_w3/kisah3_5.jpg`, `output/tenang_w3/kisah3_6.jpg`
+
+```
+Gembala itu tidak menunggu dombanya pulang sendiri. Dia yang pergi mencari 🐑
+
+Geser sampai akhir 👉
+
+📖 Lukas 15:1-7
+
+Kirim ke seseorang yang merasa terlalu jauh dari Tuhan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 10:40 WIB → **Tue 13 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-3-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 12:00 WIB → **Tue 13 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku8.jpg`
+
+```
+Hidupmu bukan perlombaan 🤍
+
+Teman sudah sampai di mana, kamu masih di mana. Tidak apa-apa. Waktumu ada di tangan yang tepat.
+
+📖 “Masa hidupku ada dalam tangan-Mu…” — Mazmur 31:16
+
+Kirim ke temanmu yang sering membandingkan diri 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 12:10 WIB → **Tue 13 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-3-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 13:30 WIB → **Tue 13 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik3.mp4`
+
+```
+Kalau kamu merasa patah dan hampir padam, Dia tidak membuangmu 🕯️
+
+📖 “Buluh yang patah terkulai tidak akan diputuskannya, dan sumbu yang pudar nyalanya tidak akan dipadamkannya…” — Yesaya 42:3
+
+Ketik 🕯️ kalau nyalamu sedang redup. Kita saling mendoakan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 13:40 WIB → **Tue 13 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik3.mp4`
 
 ```
 
@@ -6480,6 +7114,104 @@ Follow @eliandruthie for more 🐑
 ## @eliandruthie — Tue 13 Oct 14:10 WIB → **Tue 13 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_lamb/10-malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 15:00 WIB → **Tue 13 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w3/skrip5.jpg`
+
+```
+Masih ada harapan. ✨
+
+Firman ini pertama kali diberikan kepada umat yang sedang di pembuangan, saat semuanya terasa hilang. Allah yang sama memegang hari depanmu.
+
+📖 “Masih ada harapan untuk hari depanmu, demikianlah firman TUHAN…” — Yeremia 31:17
+
+Save dan baca lagi saat kamu hampir menyerah 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 15:10 WIB → **Tue 13 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-3-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 18:00 WIB → **Wed 14 Oct 00:00 NZ**
+
+Gambar (urut): `output/tenang_w3/meme6.jpg`
+
+```
+Imanmu goyah, kesetiaan-Nya tidak 🤍
+
+📖 “…jika kita tidak setia, Dia tetap setia, karena Dia tidak dapat menyangkal diri-Nya.” — 2 Timotius 2:13
+
+Save untuk hari kamu meragukan dirimu sendiri 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 18:10 WIB → **Wed 14 Oct 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-3-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 19:30 WIB → **Wed 14 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip6.mp4`
+
+```
+Ke mana pun kamu pergi, Dia menyertai 🤍
+
+Yakub sedang lari dari rumah, sendirian, tidur beralaskan batu. Di situ Tuhan berjanji menyertainya.
+
+📖 “Sesungguhnya Aku menyertai engkau dan Aku akan melindungi engkau, ke manapun engkau pergi…” — Kejadian 28:15
+
+Kirim ke temanmu yang sedang merantau atau jauh dari rumah 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 19:40 WIB → **Wed 14 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip6.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 13 Oct 21:00 WIB → **Wed 14 Oct 03:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku9.jpg`
+
+```
+Untuk kepala yang ramai malam ini 🌙
+
+Kamu tidak harus menjawab semua pertanyaan itu sekarang. Biarkan penghiburan-Nya yang bicara.
+
+📖 “Apabila bertambah banyak pikiran dalam batinku, penghiburan-Mu menyenangkan jiwaku.” — Mazmur 94:19
+
+Ketik 🤍 kalau pikiranmu sedang penuh. Kita saling mendoakan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 13 Oct 21:10 WIB → **Wed 14 Oct 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-3-malam.jpg`
 
 ```
 
@@ -6523,9 +7255,155 @@ Follow @eliandruthie for more 🐑
 #newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
 ```
 
+## @diam.dan.percaya — Wed 14 Oct 06:00 WIB → **Wed 14 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku10.jpg`
+
+```
+Keadaan berubah. Dia tidak 🤍
+
+Apa pun yang terjadi kemarin, Tuhan yang menyertaimu hari ini tetap Tuhan yang sama.
+
+📖 “Bahwasanya Aku, TUHAN, tidak berubah…” — Maleakhi 3:6
+
+Save sebagai pengingat pagi ini 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
 ## @eliandruthie — Wed 14 Oct 06:10 WIB → **Wed 14 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_lamb-11-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 06:10 WIB → **Wed 14 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-4-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 07:30 WIB → **Wed 14 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_w3/meme7.jpg`
+
+```
+Bukan hidup yang gampang, tapi hati yang tetap percaya 🌊
+
+Paulus juga mengalami tekanan dari segala sisi. Tapi dia tidak ditinggalkan sendirian.
+
+📖 “Dalam segala hal kami ditindas, namun tidak terjepit; kami habis akal, namun tidak putus asa; kami dianiaya, namun tidak ditinggalkan sendirian, kami dihempaskan, namun tidak binasa.” — 2 Korintus 4:8-9
+
+Ketik “tidak binasa” kalau kamu sedang bertahan 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 07:40 WIB → **Wed 14 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-4-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 09:00 WIB → **Wed 14 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_w3/relatable4.jpg`
+
+```
+Bukan sindiran, tapi kasih 😅🤍
+
+📖 “Apabila kamu menjadi marah, janganlah kamu berbuat dosa: janganlah matahari terbenam, sebelum padam amarahmu” — Efesus 4:26
+
+Siapa yang pernah ngalamin ini? Ketik “aku” 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 09:10 WIB → **Wed 14 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-4-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 10:30 WIB → **Wed 14 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_w3/kisah4_1.jpg`, `output/tenang_w3/kisah4_2.jpg`, `output/tenang_w3/kisah4_3.jpg`, `output/tenang_w3/kisah4_4.jpg`, `output/tenang_w3/kisah4_5.jpg`, `output/tenang_w3/kisah4_6.jpg`
+
+```
+Kecil di tangan seorang anak, cukup di tangan Yesus 🍞🐟
+
+Geser sampai akhir 👉
+
+📖 Yohanes 6:1-15
+
+Apa “lima roti” yang mau kamu serahkan kepada Tuhan minggu ini? Tulis di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 10:40 WIB → **Wed 14 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-4-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 12:00 WIB → **Wed 14 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku11.jpg`
+
+```
+Yang sedikit pun tidak sia-sia di tangan-Nya 🍞
+
+Waktu, tenaga, talenta yang rasanya kecil, kalau diserahkan kepada Tuhan, tidak ada yang terbuang.
+
+📖 “…dalam persekutuan dengan Tuhan jerih payahmu tidak sia-sia.” — 1 Korintus 15:58
+
+Ketik “Pakai aku, Tuhan” kalau kamu mau menyerahkan yang kamu punya hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 12:10 WIB → **Wed 14 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-4-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 13:30 WIB → **Wed 14 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik4.mp4`
+
+```
+Menanti dalam diam bukan berarti kalah 🤍
+
+📖 “TUHAN adalah baik bagi orang yang berharap kepada-Nya, bagi jiwa yang mencari Dia. Adalah baik menanti dengan diam pertolongan TUHAN.” — Ratapan 3:25-26
+
+Save untuk masa menunggumu 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 13:40 WIB → **Wed 14 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik4.mp4`
 
 ```
 
@@ -6549,6 +7427,106 @@ Follow @eliandruthie for more 🐑
 ## @eliandruthie — Wed 14 Oct 14:10 WIB → **Wed 14 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_lamb/11-malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 15:00 WIB → **Wed 14 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w3/skrip7.jpg`
+
+```
+Satu saja yang perlu. 🤍
+
+Marta sibuk melayani, Maria duduk mendengarkan Yesus. Di tengah minggu yang padat, bagian terbaik itu masih tersedia untukmu.
+
+📖 “Marta, Marta, engkau kuatir dan menyusahkan diri dengan banyak perkara, tetapi hanya satu saja yang perlu: Maria telah memilih bagian yang terbaik, yang tidak akan diambil dari padanya.” — Lukas 10:41-42
+
+Ketik “duduk dulu” kalau kamu butuh berhenti sejenak hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 15:10 WIB → **Wed 14 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-4-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 18:00 WIB → **Thu 15 Oct 00:00 NZ**
+
+Gambar (urut): `output/tenang_w3/meme8.jpg`
+
+```
+Satu langkah mendekat, dan Dia sudah menyambut 🤍
+
+Tidak ada kata terlambat untuk kembali dekat.
+
+📖 “Mendekatlah kepada Allah, dan Ia akan mendekat kepadamu.” — Yakobus 4:8
+
+Kirim ke seseorang yang kamu rindukan kembali ke gereja 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 18:10 WIB → **Thu 15 Oct 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-4-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 19:30 WIB → **Thu 15 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip8.mp4`
+
+```
+Aku memegang tanganmu. 🤍
+
+Kamu tidak harus memegang erat-erat sendirian. Dia yang memegangmu.
+
+📖 “Sebab Aku ini, TUHAN, Allahmu, memegang tangan kananmu dan berkata kepadamu: “Janganlah takut, Akulah yang menolong engkau.”” — Yesaya 41:13
+
+Save untuk malam yang menakutkan 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 19:40 WIB → **Thu 15 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip8.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 14 Oct 21:00 WIB → **Thu 15 Oct 03:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku12.jpg`
+
+```
+Untuk hati yang sedang patah 🤍
+
+Tuhan tidak buru-buru menyuruhmu sembuh. Dia mendekat dan membalut lukamu dengan sabar.
+
+📖 “Ia menyembuhkan orang-orang yang patah hati dan membalut luka-luka mereka.” — Mazmur 147:3
+
+Kirim ke seseorang yang sedang terluka, bilang kamu mendoakannya 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 14 Oct 21:10 WIB → **Thu 15 Oct 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-4-malam.jpg`
 
 ```
 
@@ -6592,9 +7570,155 @@ Follow @eliandruthie for more 🐑
 #newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
 ```
 
+## @diam.dan.percaya — Thu 15 Oct 06:00 WIB → **Thu 15 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku13.jpg`
+
+```
+Doa sebelum bicara hari ini 🤍
+
+Kata-kata kita dimulai dari hati. Minta Tuhan membersihkannya dulu.
+
+📖 “Jadikanlah hatiku tahir, ya Allah, dan perbaharuilah batinku dengan roh yang teguh!” — Mazmur 51:12
+
+Ketik “Amin” kalau ini doamu pagi ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
 ## @eliandruthie — Thu 15 Oct 06:10 WIB → **Thu 15 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_lamb-12-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 06:10 WIB → **Thu 15 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-5-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 07:30 WIB → **Thu 15 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_w3/meme9.jpg`
+
+```
+Air mata juga bahasa doa 🕯️
+
+Yesus sendiri berjanji: yang berdukacita akan dihibur.
+
+📖 “Berbahagialah orang yang berdukacita, karena mereka akan dihibur.” — Matius 5:4
+
+Ketik 🤍 dan kami ikut mendoakanmu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 07:40 WIB → **Thu 15 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-5-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 09:00 WIB → **Thu 15 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_w3/relatable5.jpg`
+
+```
+Jangan lupa bilang terima kasih juga ya 😂🙏
+
+📖 “…Dan bersyukurlah.” — Kolose 3:15
+
+Kirim ke temanmu yang lagi musim ujian, bilang semangat 💪
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 09:10 WIB → **Thu 15 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-5-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 10:30 WIB → **Thu 15 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_w3/kisah5_1.jpg`, `output/tenang_w3/kisah5_2.jpg`, `output/tenang_w3/kisah5_3.jpg`, `output/tenang_w3/kisah5_4.jpg`, `output/tenang_w3/kisah5_5.jpg`, `output/tenang_w3/kisah5_6.jpg`
+
+```
+Daud tidak mengandalkan ukuran tubuhnya. Dia mengingat kesetiaan Tuhan 🪨
+
+Geser sampai akhir 👉
+
+📖 1 Samuel 17:32-50
+
+Apa “raksasa” yang sedang kamu hadapi? Tulis di komentar, kita saling mendoakan 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 10:40 WIB → **Thu 15 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-5-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 12:00 WIB → **Thu 15 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku14.jpg`
+
+```
+Kamu tahu ke mana harus berlari 🗼
+
+Saat hari terasa goyah, nama Tuhan tetap menara yang kuat.
+
+📖 “Nama TUHAN adalah menara yang kuat, ke sanalah orang benar berlari dan ia menjadi selamat.” — Amsal 18:10
+
+Save untuk hari kamu butuh tempat aman 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 12:10 WIB → **Thu 15 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-5-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 13:30 WIB → **Thu 15 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik5.mp4`
+
+```
+Kalaupun semua orang lupa, Dia tidak akan melupakanmu 🤍
+
+📖 “Dapatkah seorang perempuan melupakan bayinya, sehingga ia tidak menyayangi anak dari kandungannya? Sekalipun dia melupakannya, Aku tidak akan melupakan engkau.” — Yesaya 49:15
+
+Kirim ke seseorang yang merasa terlupakan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 13:40 WIB → **Thu 15 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik5.mp4`
 
 ```
 
@@ -6618,6 +7742,106 @@ Follow @eliandruthie for more 🐑
 ## @eliandruthie — Thu 15 Oct 14:10 WIB → **Thu 15 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_lamb/12-malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 15:00 WIB → **Thu 15 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w3/skrip9.jpg`
+
+```
+Biar Aku yang berperang. 🤍
+
+Yosafat dan umatnya tidak tahu harus berbuat apa, jadi mereka berdoa dan memandang kepada Tuhan. Lalu datang firman ini.
+
+📖 “…Janganlah kamu takut dan terkejut karena laskar yang besar ini, sebab bukan kamu yang akan berperang melainkan Allah.” — 2 Tawarikh 20:15
+
+Ketik “Amin” kalau kamu menyerahkan pergumulanmu kepada-Nya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 15:10 WIB → **Thu 15 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-5-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 18:00 WIB → **Fri 16 Oct 00:00 NZ**
+
+Gambar (urut): `output/tenang_w3/meme10.jpg`
+
+```
+Doa untuk orang yang kamu sayangi ✨
+
+Kamu tidak bisa menjaga mereka setiap saat. Tapi Tuhan bisa, dan kasih-Nya lebih besar dari kasihmu.
+
+📖 “TUHAN itu baik kepada semua orang, dan penuh rahmat terhadap segala yang dijadikan-Nya.” — Mazmur 145:9
+
+Tag orang yang sedang kamu doakan 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 18:10 WIB → **Fri 16 Oct 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-5-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 19:30 WIB → **Fri 16 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip10.mp4`
+
+```
+Air matamu tidak sia-sia. 🤍
+
+Yang kamu tabur sambil menangis hari ini, Tuhan lihat. Akan ada waktunya sorak-sorai.
+
+📖 “Orang-orang yang menabur dengan mencucurkan air mata, akan menuai dengan bersorak-sorai.” — Mazmur 126:5
+
+Kirim ke seseorang yang sedang menabur dengan air mata 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 19:40 WIB → **Fri 16 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip10.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 15 Oct 21:00 WIB → **Fri 16 Oct 03:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku15.jpg`
+
+```
+Malam ini, titipkan semuanya kepada-Nya 🌙
+
+Curahkan isi hatimu. Dia tidak bosan mendengar.
+
+📖 “Percayalah kepada-Nya setiap waktu, hai umat, curahkanlah isi hatimu di hadapan-Nya; Allah ialah tempat perlindungan kita.” — Mazmur 62:9
+
+Tulis satu nama yang mau kamu titipkan dalam doa malam ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 15 Oct 21:10 WIB → **Fri 16 Oct 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-5-malam.jpg`
 
 ```
 
@@ -6661,9 +7885,153 @@ Follow @eliandruthie for more 🐑
 #newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
 ```
 
+## @diam.dan.percaya — Fri 16 Oct 06:00 WIB → **Fri 16 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku16.jpg`
+
+```
+Tenagamu tinggal sedikit? Tidak apa-apa 🤍
+
+Yang membawa kita sampai akhir minggu bukan kehebatan kita, tapi Roh Tuhan.
+
+📖 “…Bukan dengan keperkasaan dan bukan dengan kekuatan, melainkan dengan roh-Ku, firman TUHAN semesta alam.” — Zakharia 4:6
+
+Kirim ke temanmu yang sudah capek di hari Jumat 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
 ## @eliandruthie — Fri 16 Oct 06:10 WIB → **Fri 16 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_lamb-13-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 06:10 WIB → **Fri 16 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-6-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 07:30 WIB → **Fri 16 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_w3/meme11.jpg`
+
+```
+Syukur adalah pilihan 🤍
+
+Belum semuanya beres, tapi masih ada alasan untuk berharap dan bersyukur.
+
+📖 “Bersukacitalah dalam pengharapan, sabarlah dalam kesesakan, dan bertekunlah dalam doa!” — Roma 12:12
+
+Tulis satu hal yang tetap kamu syukuri hari ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 07:40 WIB → **Fri 16 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-6-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 09:00 WIB → **Fri 16 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_w3/relatable6.jpg`
+
+```
+Tante, doanya udah kencang kok 😭😂
+
+Semua ada waktunya, dan waktu Tuhan tidak pernah salah. Tag temanmu yang paling sering ditanya ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 09:10 WIB → **Fri 16 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-6-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 10:30 WIB → **Fri 16 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_w3/kisah6_1.jpg`, `output/tenang_w3/kisah6_2.jpg`, `output/tenang_w3/kisah6_3.jpg`, `output/tenang_w3/kisah6_4.jpg`, `output/tenang_w3/kisah6_5.jpg`, `output/tenang_w3/kisah6_6.jpg`
+
+```
+Yesus bisa tidur di tengah badai, karena badai itu taat kepada-Nya 🌊
+
+Geser sampai akhir 👉
+
+📖 Markus 4:35-41
+
+Kirim ke temanmu yang sedang di tengah badai, bilang: Dia ada di perahumu 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 10:40 WIB → **Fri 16 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-6-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 12:00 WIB → **Fri 16 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku17.jpg`
+
+```
+Mengampuni itu proses, dan prosesnya boleh pelan 🤍
+
+Kita mengampuni bukan karena orang itu pantas, tapi karena kita sendiri sudah lebih dulu diampuni.
+
+📖 “Sabarlah kamu seorang terhadap yang lain, dan ampunilah seorang akan yang lain apabila yang seorang menaruh dendam terhadap yang lain, sama seperti Tuhan telah mengampuni kamu, kamu perbuat jugalah demikian.” — Kolose 3:13
+
+Ketik “aku belajar” kalau kamu sedang belajar melepaskan 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 12:10 WIB → **Fri 16 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-6-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 13:30 WIB → **Fri 16 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik6.mp4`
+
+```
+Sejauh timur dari barat. Sejauh itu dosamu dijauhkan-Nya 🤍
+
+📖 “Sejauh timur dari barat, demikian dijauhkan-Nya dari pada kita pelanggaran kita.” — Mazmur 103:12
+
+Save untuk hari masa lalu datang mengganggu 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 13:40 WIB → **Fri 16 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik6.mp4`
 
 ```
 
@@ -6687,6 +8055,106 @@ Follow @eliandruthie for more 🐑
 ## @eliandruthie — Fri 16 Oct 14:10 WIB → **Fri 16 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_lamb/13-malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 15:00 WIB → **Fri 16 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w3/skrip11.jpg`
+
+```
+Janji-Nya tetap berdiri 🤍
+
+Bukan semua keinginan kita, tapi semua janji Allah di dalam Firman-Nya: penyertaan, pengampunan, damai, hidup kekal. Di dalam Kristus, semuanya “ya”.
+
+📖 “Sebab Kristus adalah “ya” bagi semua janji Allah. Itulah sebabnya oleh Dia kita mengatakan “Amin” untuk memuliakan Allah.” — 2 Korintus 1:20
+
+Ketik “Amin” untuk janji-Nya hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 15:10 WIB → **Fri 16 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-6-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 18:00 WIB → **Sat 17 Oct 00:00 NZ**
+
+Gambar (urut): `output/tenang_w3/meme12.jpg`
+
+```
+Pelan-pelan juga tetap berjalan 🤍
+
+Penderitaan tidak berlangsung selamanya. Dia sendiri yang akan meneguhkan dan menguatkanmu.
+
+📖 “Dan Allah, sumber segala kasih karunia, yang telah memanggil kamu dalam Kristus kepada kemuliaan-Nya yang kekal, akan melengkapi, meneguhkan, menguatkan dan mengokohkan kamu, sesudah kamu menderita seketika lamanya.” — 1 Petrus 5:10
+
+Save untuk hari kamu merasa pemulihanmu lambat 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 18:10 WIB → **Sat 17 Oct 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-6-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 19:30 WIB → **Sat 17 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip12.mp4`
+
+```
+Kuatkanlah hatimu. Dia sudah menang 🤍
+
+Yesus tidak bilang hidup akan tanpa kesusahan. Dia bilang: kuatkan hatimu, karena Dia sudah mengalahkan dunia.
+
+📖 “Semuanya itu Kukatakan kepadamu, supaya kamu beroleh damai sejahtera dalam Aku. Dalam dunia kamu menderita penganiayaan, tetapi kuatkanlah hatimu, Aku telah mengalahkan dunia.” — Yohanes 16:33
+
+Save untuk minggu-minggu yang berat 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 19:40 WIB → **Sat 17 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip12.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 16 Oct 21:00 WIB → **Sat 17 Oct 03:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku18.jpg`
+
+```
+Pulang ke tempat yang paling aman 🌙
+
+Minggu ini naik turun, tapi tangan-Nya tidak pernah lepas.
+
+📖 “Tetapi aku tetap di dekat-Mu; Engkau memegang tangan kananku.” — Mazmur 73:23
+
+Selamat berakhir pekan. Save untuk Jumat malam berikutnya 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 16 Oct 21:10 WIB → **Sat 17 Oct 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-6-malam.jpg`
 
 ```
 
@@ -6730,9 +8198,153 @@ Follow @eliandruthie for more 🐑
 #newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
 ```
 
+## @diam.dan.percaya — Sat 17 Oct 06:00 WIB → **Sat 17 Oct 12:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku19.jpg`
+
+```
+Sabtu yang pelan 🍵
+
+Nikmati paginya. Kamu tidak harus produktif untuk tetap dikasihi.
+
+📖 “Aku sendiri hendak membimbing engkau dan memberikan ketenteraman kepadamu.” — Keluaran 33:14
+
+Ketik “Amin” kalau kamu mau menikmati Sabtu ini bersama-Nya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
 ## @eliandruthie — Sat 17 Oct 06:10 WIB → **Sat 17 Oct 12:10 NZ**
 
 Gambar (urut): `output/stories/eli_lamb-14-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 06:10 WIB → **Sat 17 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-7-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 07:30 WIB → **Sat 17 Oct 13:30 NZ**
+
+Gambar (urut): `output/tenang_w3/meme13.jpg`
+
+```
+Bukan yang paling rohani, tapi mau terus belajar 🤍
+
+Mengenal Tuhan itu perjalanan, bukan perlombaan.
+
+📖 “Marilah kita mengenal dan berusaha sungguh-sungguh mengenal TUHAN; Ia pasti muncul seperti fajar…” — Hosea 6:3
+
+Ketik “aku mau belajar” kalau ini doamu juga.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 07:40 WIB → **Sat 17 Oct 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-7-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 09:00 WIB → **Sat 17 Oct 15:00 NZ**
+
+Gambar (urut): `output/tenang_w3/relatable7.jpg`
+
+```
+Siapa yang besok datang pas doa pembukaan udah selesai? 😂⏰
+
+Yuk taruh HP-nya, besok kita ketemu Tuhan dengan mata yang segar. Tag teman ibadah pagimu 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 09:10 WIB → **Sat 17 Oct 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-7-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 10:30 WIB → **Sat 17 Oct 16:30 NZ**
+
+Gambar (urut): `output/tenang_w3/kisah7_1.jpg`, `output/tenang_w3/kisah7_2.jpg`, `output/tenang_w3/kisah7_3.jpg`, `output/tenang_w3/kisah7_4.jpg`, `output/tenang_w3/kisah7_5.jpg`, `output/tenang_w3/kisah7_6.jpg`
+
+```
+Sebelum kalimat maafnya selesai, ayahnya sudah memeluknya 🤍
+
+Geser sampai akhir 👉
+
+📖 Lukas 15:11-32
+
+Besok hari Minggu. Kalau kamu sudah lama jauh, ini undangan untuk pulang. Ketik “Aku pulang” kalau kamu mau kembali.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 10:40 WIB → **Sat 17 Oct 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-7-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 12:00 WIB → **Sat 17 Oct 18:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku20.jpg`
+
+```
+Syukur untuk minggu ini 🤍
+
+Hari demi hari, Dia yang menanggung kita, bahkan di hari-hari yang terasa biasa.
+
+📖 “Terpujilah Tuhan! Hari demi hari Ia menanggung bagi kita; Allah adalah keselamatan kita.” — Mazmur 68:20
+
+Tulis satu hal yang kamu syukuri minggu ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 12:10 WIB → **Sat 17 Oct 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-7-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 13:30 WIB → **Sat 17 Oct 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik7.mp4`
+
+```
+Jiwa yang tenang, seperti anak kecil di dekat ibunya 🤍
+
+📖 “Sesungguhnya, aku telah menenangkan dan mendiamkan jiwaku; seperti anak yang disapih berbaring dekat ibunya, ya, seperti anak yang disapih jiwaku dalam diriku.” — Mazmur 131:2
+
+Selamat berakhir pekan. Ketik 🤍 kalau malam ini kamu mau tenang di dekat-Nya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 13:40 WIB → **Sat 17 Oct 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/kinetik7.mp4`
 
 ```
 
@@ -6756,6 +8368,566 @@ Follow @eliandruthie for more 🐑
 ## @eliandruthie — Sat 17 Oct 14:10 WIB → **Sat 17 Oct 20:10 NZ**
 
 Gambar (urut): `output/reels/eli_lamb/14-malam.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 15:00 WIB → **Sat 17 Oct 21:00 NZ**
+
+Gambar (urut): `output/tenang_w3/skrip13.jpg`
+
+```
+Dia sedang menjadikan segala sesuatu baru ✨
+
+Yang rusak, yang patah, yang hilang, tidak ada yang terlalu jauh untuk dipulihkan oleh-Nya.
+
+📖 “Lihatlah, Aku menjadikan segala sesuatu baru!” — Wahyu 21:5
+
+Ketik ✨ kalau kamu menanti pemulihan dari-Nya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 15:10 WIB → **Sat 17 Oct 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-7-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 18:00 WIB → **Sun 18 Oct 00:00 NZ**
+
+Gambar (urut): `output/tenang_w3/meme14.jpg`
+
+```
+Jatuh berkali-kali, ditopang berkali-kali 🤍
+
+📖 “TUHAN itu penopang bagi semua orang yang jatuh dan penegak bagi semua orang yang tertunduk.” — Mazmur 145:14
+
+Selamat berakhir pekan. Kirim ke temanmu yang minggunya berat 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 18:10 WIB → **Sun 18 Oct 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-7-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 19:30 WIB → **Sun 18 Oct 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip14.mp4`
+
+```
+Aku mengasihimu. Selamanya. 🤍
+
+Bukan karena minggu ini kamu berhasil. Kasih-Nya kekal, dan Dia terus melanjutkannya.
+
+📖 “…Aku mengasihi engkau dengan kasih yang kekal, sebab itu Aku melanjutkan kasih setia-Ku kepadamu.” — Yeremia 31:3
+
+Selamat malam. Kirim ke seseorang yang perlu dengar ini 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 19:40 WIB → **Sun 18 Oct 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w3/skrip14.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 17 Oct 21:00 WIB → **Sun 18 Oct 03:00 NZ**
+
+Gambar (urut): `output/tenang_w3/buku21.jpg`
+
+```
+Besok hari Minggu 🤍
+
+Datang saja apa adanya. Bawa yang lelah, pulang dengan yang baru.
+
+📖 “Adalah baik untuk menyanyikan syukur kepada TUHAN, dan untuk menyanyikan mazmur bagi nama-Mu, ya Yang Mahatinggi…” — Mazmur 92:2
+
+Tag teman yang mau kamu ajak ibadah besok 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 17 Oct 21:10 WIB → **Sun 18 Oct 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w3-7-malam.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sun 18 Oct 01:00 WIB → **Sun 18 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/15-pagi.jpg`
+
+```
+Sunday reminder 🐑🤍
+
+“This is the day which the LORD hath made; we will rejoice and be glad in it.” — Psalm 118:24 (KJV)
+
+Whatever today holds, there is joy to be found in it.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #kiwi #sundayvibes #faith #psalm23 #goodshepherd #lamb #elithelamb
+```
+
+## @eliandruthie — Sun 18 Oct 01:10 WIB → **Sun 18 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-15-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sun 18 Oct 06:00 WIB → **Sun 18 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/15-pagi2.jpg`
+
+```
+Church family + homemade slice = the best kind of Sunday 🍰💕 (Say hi to Nana Dot & Grandpa Ram!)
+
+Ginger crunch or Louise slice?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sun 18 Oct 06:10 WIB → **Sun 18 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-15-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sun 18 Oct 14:00 WIB → **Sun 18 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/15-malam.mp4`
+
+```
+I have one suspect and he wears a beanie 🕵️‍♀️🍱
+
+Do you meal prep, or wing it every day?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sun 18 Oct 14:10 WIB → **Sun 18 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/15-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Mon 19 Oct 06:00 WIB → **Mon 19 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/16-pagi2.jpg`
+
+```
+Is this a real rule or a Grandpa rule? 🍅👴
+
+When do your tomatoes go in?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Mon 19 Oct 06:10 WIB → **Mon 19 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-16-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Mon 19 Oct 14:00 WIB → **Mon 19 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/16-malam.mp4`
+
+```
+It might still work! 🔌🥹
+
+What's hiding in your junk drawer?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Mon 19 Oct 14:10 WIB → **Mon 19 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/16-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Tue 20 Oct 01:00 WIB → **Tue 20 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/17-pagi.jpg`
+
+```
+Hay fever season is no joke 🌸🤧
+
+Who else is sneezing non-stop?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Tue 20 Oct 01:10 WIB → **Tue 20 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-17-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Tue 20 Oct 06:00 WIB → **Tue 20 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/17-pagi2.jpg`
+
+```
+Everyone, meet Pip 💕 Ruthie's little sister, staying for “a couple of nights.”
+
+Do you have a sibling like Pip?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Tue 20 Oct 06:10 WIB → **Tue 20 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-17-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Tue 20 Oct 14:00 WIB → **Tue 20 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/17-malam.mp4`
+
+```
+I now know everything that ever happened at their high school 😴😂
+
+Tag your sister or your night-owl bestie.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Tue 20 Oct 14:10 WIB → **Tue 20 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/17-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Wed 21 Oct 01:00 WIB → **Wed 21 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/18-pagi.jpg`
+
+```
+Guest breakfast menu: cereal… or cereal 🥣😂
+
+How many Weet-Bix do you go?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Wed 21 Oct 01:10 WIB → **Wed 21 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-18-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Wed 21 Oct 06:00 WIB → **Wed 21 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/18-pagi2.jpg`
+
+```
+Just browsing 🏡😅
+
+Dream house: beach, bush or city?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Wed 21 Oct 06:10 WIB → **Wed 21 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-18-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Wed 21 Oct 14:00 WIB → **Wed 21 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/18-malam.mp4`
+
+```
+How are they ALWAYS cold?? 🥶🦶
+
+Tag the one with ice-block feet.
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Wed 21 Oct 14:10 WIB → **Wed 21 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/18-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Thu 22 Oct 01:00 WIB → **Thu 22 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/19-pagi.jpg`
+
+```
+Smoko is sacred ☕🥪
+
+What's in your smoko box?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Thu 22 Oct 01:10 WIB → **Thu 22 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-19-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Thu 22 Oct 06:00 WIB → **Thu 22 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/19-pagi2.jpg`
+
+```
+Good wool days are a myth 😩☁️
+
+Curly crew: how do you survive the humidity?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Thu 22 Oct 06:10 WIB → **Thu 22 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-19-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Thu 22 Oct 14:00 WIB → **Thu 22 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/19-malam.mp4`
+
+```
+Meet Kiwi Kev 🥝🐦 Great neighbour. Totally nocturnal.
+
+What's the latest someone's knocked on your door?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Thu 22 Oct 14:10 WIB → **Thu 22 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/19-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Fri 23 Oct 01:00 WIB → **Fri 23 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/20-pagi.jpg`
+
+```
+Beautiful song. Terrible timing 🐦🎶
+
+What bird wakes you up?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Fri 23 Oct 01:10 WIB → **Fri 23 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-20-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Fri 23 Oct 06:00 WIB → **Fri 23 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/20-pagi2.jpg`
+
+```
+Labour Weekend road trip loading… 🚗🗺️
+
+Are you the planner or the passenger?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Fri 23 Oct 06:10 WIB → **Fri 23 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-20-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Fri 23 Oct 14:00 WIB → **Fri 23 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/20-malam.mp4`
+
+```
+Come back soon, Pip 🥹💕
+
+Who's the sibling or friend you miss the most?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Fri 23 Oct 14:10 WIB → **Fri 23 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/20-malam.mp4`
+
+```
+
+```
+
+## @eliandruthie — Sat 24 Oct 01:00 WIB → **Sat 24 Oct 07:00 NZ**
+
+Gambar (urut): `output/eli_lamb/21-pagi.jpg`
+
+```
+House-sitter: secured. Awake: debatable 🥝🔑
+
+Who looks after your place when you're away?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sat 24 Oct 01:10 WIB → **Sat 24 Oct 07:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-21-pagi.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sat 24 Oct 06:00 WIB → **Sat 24 Oct 12:00 NZ**
+
+Gambar (urut): `output/eli_lamb/21-pagi2.jpg`
+
+```
+Rotorua, here we come 🚗🍬
+
+What's your must-have road trip snack?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sat 24 Oct 06:10 WIB → **Sat 24 Oct 12:10 NZ**
+
+Gambar (urut): `output/stories/eli_lamb-21-pagi2.jpg`
+
+```
+
+```
+
+## @eliandruthie — Sat 24 Oct 14:00 WIB → **Sat 24 Oct 20:00 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/21-malam.mp4`
+
+```
+Rotorua: you smell it before you see it 😂♨️
+
+Been there? Love it or can't handle the smell?
+
+Follow @eliandruthie for more 🐑
+.
+.
+#newzealand #nzlife #kiwi #kiwilife #aotearoa #funnyanimals #lamb #relatable #elithelamb
+```
+
+## @eliandruthie — Sat 24 Oct 14:10 WIB → **Sat 24 Oct 20:10 NZ**
+
+Gambar (urut): `output/reels/eli_lamb/21-malam.mp4`
 
 ```
 

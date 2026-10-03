@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="id" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Playfair Display"; src: url(assets/fonts/playfair.woff2) format("woff2"); font-weight: 400; font-style: normal; }
+      @font-face { font-family: "Inter"; src: url(assets/fonts/inter.woff2) format("woff2"); font-weight: 100 900; font-style: normal; }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { margin: 0; width: 1080px; height: 1920px; overflow: hidden; background: #000; }
+      #root {
+        position: relative; width: 100%; height: 100%; overflow: hidden;
+        background: radial-gradient(ellipse 80% 55% at 50% 58%, rgba(201,139,74,.10), rgba(0,0,0,0) 70%), #000;
+        font-family: Inter, ui-sans-serif, system-ui, sans-serif; color: #f4f2ef;
+        -webkit-font-smoothing: antialiased;
+      }
+      .clip { position: absolute; }
+      .serif { font-family: "Playfair Display", Georgia, serif; font-weight: 400; }
+
+      /* hook */
+      #hook { inset: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 34px; text-align: center; padding: 0 90px; }
+      #hook .l1 { font-size: 92px; line-height: 1.1; letter-spacing: -.01em; }
+      #hook .l2 { font-size: 64px; line-height: 1.15; color: #f0d3a3; }
+
+      /* phone */
+      #phone {
+        position: absolute; left: 220px; top: 430px; width: 640px; height: 1385px;
+        border-radius: 56px; overflow: hidden; background: #000;
+        box-shadow: 0 0 0 2px rgba(244,242,239,.18), 0 40px 120px rgba(0,0,0,.8), 0 0 160px rgba(201,139,74,.12);
+      }
+      #phone video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+
+      /* scene titles above the phone */
+      .top { left: 80px; right: 80px; top: 118px; text-align: center; }
+      .kicker { font-size: 26px; letter-spacing: .28em; text-transform: uppercase; color: #a39e98; margin-bottom: 18px; }
+      .title { font-size: 66px; line-height: 1.08; letter-spacing: -.01em; }
+      .sub { margin-top: 16px; font-size: 30px; color: #a39e98; letter-spacing: .02em; }
+      .sub b { font-weight: 500; color: #f0d3a3; }
+      .chips { display: flex; justify-content: center; gap: 12px; margin-top: 24px; }
+      .chips span {
+        font-size: 24px; letter-spacing: .14em; text-transform: uppercase;
+        padding: 12px 22px; border-radius: 999px; border: 1.5px solid rgba(244,242,239,.32); color: #f4f2ef;
+      }
+      .chips span.on { background: #f4f2ef; color: #000; border-color: #f4f2ef; }
+
+      /* CTA */
+      #cta { inset: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 30px; }
+      #cta .mark { font-size: 104px; letter-spacing: .005em; }
+      #cta .ask { font-size: 46px; color: #f4f2ef; }
+      #cta .url {
+        font-size: 40px; letter-spacing: .02em; padding: 22px 40px; border-radius: 999px;
+        background: #f4f2ef; color: #000; font-weight: 500;
+      }
+      #cta .bio { font-size: 30px; letter-spacing: .22em; text-transform: uppercase; color: #f0d3a3; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="33.5" data-width="1080" data-height="1920">
+
+      <!-- Scene 1: hook -->
+      <div id="hook" class="clip" data-start="0" data-duration="3.6" data-track-index="1">
+        <div class="l1 serif">Ayat yang menguatkanmu minggu lalu…</div>
+        <div class="l2 serif">masih bisa kamu temukan?</div>
+      </div>
+
+      <!-- Phone with the real site footage (silent recordings) -->
+      <div id="phone">
+        <video id="vA" class="clip" data-start="3.4" data-duration="7.0" data-media-start="1.2" data-track-index="3" muted playsinline src="assets/video/a_sphere.mp4"></video>
+        <video id="vB" class="clip" data-start="10.0" data-duration="7.2" data-media-start="0" data-track-index="4" muted playsinline src="assets/video/b_folders.mp4"></video>
+        <video id="vC" class="clip" data-start="16.8" data-duration="7.4" data-media-start="0.5" data-track-index="5" muted playsinline src="assets/video/c_roti.mp4"></video>
+        <video id="vD" class="clip" data-start="23.8" data-duration="4.9" data-media-start="1.6" data-track-index="6" muted playsinline src="assets/video/d_standfirm.mp4"></video>
+      </div>
+
+      <!-- Scene 2 -->
+      <div id="t2" class="top clip" data-start="3.4" data-duration="6.9" data-track-index="7">
+        <div class="kicker">@diam.dan.percaya</div>
+        <div class="title serif">Semua renungan,<br>dalam satu bola foto.</div>
+        <div class="sub"><b id="count">0</b> postingan · geser untuk memutar</div>
+      </div>
+
+      <!-- Scene 3 -->
+      <div id="t3" class="top clip" data-start="10.4" data-duration="6.7" data-track-index="7">
+        <div class="kicker">Arsip</div>
+        <div class="title serif">Tersusun per seri.</div>
+        <div class="chips"><span>01</span><span>02</span><span>03</span><span>04</span><span>05</span><span class="on">Reels</span></div>
+      </div>
+
+      <!-- Scene 4 -->
+      <div id="t4" class="top clip" data-start="17.2" data-duration="6.9" data-track-index="7">
+        <div class="kicker">Roti Hidup</div>
+        <div class="title serif">Pecahkan roti, terima satu ayat.</div>
+        <div class="sub">Alkitab Terjemahan Baru · acak setiap kali</div>
+      </div>
+
+      <!-- Scene 5 -->
+      <div id="t5" class="top clip" data-start="24.2" data-duration="4.4" data-track-index="7">
+        <div class="kicker">Bonus</div>
+        <div class="title serif">Main Stand Firm.</div>
+        <div class="sub">Pertahankan kapel sampai 20 gelombang.</div>
+      </div>
+
+      <!-- Scene 6: CTA -->
+      <div id="cta" class="clip" data-start="28.6" data-duration="4.9" data-track-index="8">
+        <div class="mark serif">diam.dan.percaya</div>
+        <div class="ask">Coba websitenya sekarang</div>
+        <div class="url">kwanfelix.me/diam.dan.percaya</div>
+        <div class="bio">Link di bio</div>
+      </div>
+
+      <!-- Audio: the account's own piano bed + quiet UI sounds on real actions -->
+      <audio id="music" data-start="0" data-duration="33.5" data-volume="0.7" data-fade-in="0.6" data-fade-out="1.8" data-track-index="10" src="assets/music/fajar.wav"></audio>
+      <audio id="sfx1" data-start="10.45" data-duration="0.4" data-volume="0.35" data-track-index="11" src="assets/sfx/click_002.ogg"></audio>
+      <audio id="sfx2" data-start="12.45" data-duration="0.4" data-volume="0.35" data-track-index="11" src="assets/sfx/click_002.ogg"></audio>
+      <audio id="sfx3" data-start="18.0" data-duration="0.8" data-volume="0.4" data-track-index="12" src="assets/sfx/drop_001.ogg"></audio>
+      <audio id="sfx4" data-start="29.9" data-duration="1.0" data-volume="0.35" data-track-index="13" src="assets/sfx/select_008.ogg"></audio>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      const E = "power3.out";
+
+      // Scene 1 — hook: line 1, then line 2, hold, then lift away
+      tl.fromTo("#hook .l1", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.8, ease: E }, 0.2);
+      tl.fromTo("#hook .l2", { opacity: 0, y: 24 }, { opacity: 1, y: 0, duration: 0.7, ease: E }, 1.4);
+      tl.to("#hook", { opacity: 0, y: -40, duration: 0.5, ease: "power2.in" }, 3.1);
+
+      // Phone rises in under the first title and stays put
+      tl.fromTo("#phone", { opacity: 0, y: 140, scale: .94 }, { opacity: 1, y: 0, scale: 1, duration: 0.9, ease: E }, 3.2);
+
+      // Soft crossfades between recordings inside the phone
+      tl.fromTo("#vB", { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "none" }, 10.0);
+      tl.fromTo("#vC", { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "none" }, 16.8);
+      tl.fromTo("#vD", { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "none" }, 23.8);
+
+      // Scene titles: in, hold, out
+      function title(sel, start, end) {
+        tl.fromTo(sel + " .kicker", { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.5, ease: E }, start + 0.05);
+        tl.fromTo(sel + " .title", { opacity: 0, y: 24 }, { opacity: 1, y: 0, duration: 0.6, ease: E }, start + 0.15);
+        tl.to(sel, { opacity: 0, y: -18, duration: 0.35, ease: "power2.in" }, end - 0.35);
+      }
+      title("#t2", 3.5, 10.3);
+      tl.fromTo("#t2 .sub", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.5, ease: E }, 4.6);
+      const counter = { v: 0 };
+      tl.to(counter, { v: 378, duration: 1.4, ease: "power2.out", onUpdate: () => {
+        document.getElementById("count").textContent = Math.round(counter.v);
+      } }, 4.7);
+
+      title("#t3", 10.4, 17.1);
+      tl.fromTo("#t3 .chips span", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.4, ease: E, stagger: 0.1 }, 11.0);
+
+      title("#t4", 17.2, 24.1);
+      tl.fromTo("#t4 .sub", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.5, ease: E }, 18.2);
+
+      title("#t5", 24.2, 28.6);
+      tl.fromTo("#t5 .sub", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.5, ease: E }, 24.9);
+
+      // Phone steps back before the CTA
+      tl.to("#phone", { opacity: 0, scale: .9, y: 60, duration: 0.5, ease: "power2.in" }, 28.4);
+
+      // Scene 6 — CTA builds line by line, then holds to the end
+      tl.fromTo("#cta .mark", { opacity: 0, y: 26 }, { opacity: 1, y: 0, duration: 0.7, ease: E }, 28.8);
+      tl.fromTo("#cta .ask", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.6, ease: E }, 29.4);
+      tl.fromTo("#cta .url", { opacity: 0, scale: .92 }, { opacity: 1, scale: 1, duration: 0.6, ease: "back.out(1.6)" }, 29.9);
+      tl.fromTo("#cta .bio", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: 0.5, ease: E }, 30.6);
+
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>
