@@ -84,6 +84,10 @@ def publish(item, user_id, token, base_url):
             time.sleep(20)
 
 
+TRANSIENT = ("status ERROR", "2207052", "2207006", "2207027", "2207001", "2207003", '"is_transient":true', ": 500 ", ": 502 ", ": 503 ")
+GAGAL = Path(__file__).parent / "state" / "gagal.json"
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -137,6 +141,7 @@ def main():
     unknown = wanted - {i["id"] for i in schedule}
     if unknown:
         print("ID tidak ada di jadwal:", ", ".join(sorted(unknown)))
+    gagal = json.loads(GAGAL.read_text()) if GAGAL.exists() else {}
     for item in schedule:
         due = datetime.fromisoformat(item["waktu"])
         if item["id"] in posted:
@@ -156,12 +161,28 @@ def main():
         if not (token and user_id and base_url):
             print(f"   dilewati: IG_TOKEN_{akun} / IG_USER_ID_{akun} / IMAGE_BASE_URL belum diisi")
             continue
-        try:
-            media_id = publish(item, user_id, token, base_url)
-        except RuntimeError as e:
-            print(f"   GAGAL: {e}")
-            failed = True
+        media_id = None
+        for attempt in range(2):  # gangguan sementara di Instagram (video gagal diproses, gambar gagal diunduh): coba sekali lagi
+            try:
+                media_id = publish(item, user_id, token, base_url)
+                break
+            except RuntimeError as e:
+                err = str(e)
+                sementara = any(k in err for k in TRANSIENT)
+                print(f"   GAGAL{' (sementara)' if sementara else ''}: {err[:300]}")
+                if not sementara or attempt == 1:
+                    break
+                time.sleep(30)
+        if media_id is None:
+            gagal[item["id"]] = gagal.get(item["id"], 0) + 1
+            GAGAL.write_text(json.dumps(gagal, indent=2))
+            if gagal[item["id"]] >= 3:  # baru dianggap masalah (notifikasi gagal) kalau 3 jalan berturut-turut gagal
+                failed = True
+            else:
+                print(f"   akan dicoba lagi di jalan berikutnya ({gagal[item['id']]}/3)")
             continue
+        if gagal.pop(item["id"], None) is not None:
+            GAGAL.write_text(json.dumps(gagal, indent=2))
         posted[item["id"]] = {"media_id": media_id, "at": now.isoformat()}
         STATE.parent.mkdir(exist_ok=True)
         STATE.write_text(json.dumps(posted, indent=2))
