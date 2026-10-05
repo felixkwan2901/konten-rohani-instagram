@@ -142,7 +142,7 @@ def besar_fonts(size):
 def besar_layer(p, w=W, h=H, top=None):
     for size in range(104, 60, -4):
         fonts = besar_fonts(size)
-        lines, space, wlen = layout(parse(p["teks"]), fonts, w - 40)
+        lines, space, wlen = layout(parse(p["teks"]), fonts, w - 100)
         if len(lines) <= 6:
             break
     colors = {"n": "#141414", "b": "#141414", "i": BIRU, "h": "#141414"}
@@ -157,9 +157,9 @@ def besar_image(p, i):
     d = ImageDraw.Draw(img)
     d.text((W - 50, 50), "©" + HANDLE.upper(), font=hn(26, 1), fill="#141414", anchor="ra")
     fonts, lines, space, wlen, colors, lh, y0, block = besar_layer(p)
-    y = draw_rich(img, lines, fonts, colors, -16, y0, lh, space, wlen)
+    y = draw_rich(img, lines, fonts, colors, 44, y0, lh, space, wlen)
     if p.get("ref"):
-        d.text((24, y + 10), f"({p['ref']})", font=hn(fonts["n"].size // 2 + 6, 0), fill="#555555")
+        d.text((48, y + 10), f"({p['ref']})", font=hn(fonts["n"].size // 2 + 6, 0), fill="#555555")
     return img
 
 
@@ -181,7 +181,7 @@ def besar_reel(p, i, seconds=9):
     ImageDraw.Draw(head).text((rw - 50, 260), "©" + HANDLE.upper(), font=hn(28, 1), fill="#141414", anchor="ra")
     ref = Image.new("RGBA", (rw, rh), (0, 0, 0, 0))
     if p.get("ref"):
-        ImageDraw.Draw(ref).text((24, y0 + block + 20), f"({p['ref']})", font=hn(44, 0), fill="#555555")
+        ImageDraw.Draw(ref).text((48, y0 + block + 20), f"({p['ref']})", font=hn(44, 0), fill="#555555")
     ff = cerita.ffmpeg_writer(out, rw, rh, 30)
     for n in range(30 * seconds):
         t = n / 30
@@ -191,7 +191,7 @@ def besar_reel(p, i, seconds=9):
             a = keren.ease((t - 0.4 - k * 0.45) / 0.7)
             if a <= 0:
                 continue
-            x = int(-16 + (1 - a) * (rw * 0.9) * (1 if k % 2 == 0 else -1))
+            x = int(44 + (1 - a) * (rw * 0.9) * (1 if k % 2 == 0 else -1))
             frame.alpha_composite(keren.with_alpha(sp, a), (x, int(y0 + k * lh - 10)))
         last = 0.4 + len(sprites) * 0.45 + 0.8
         if t > last:
@@ -454,7 +454,7 @@ def render_week(mod=MOD):
             elif fmt == "BESAR":
                 p = t.BESAR[idx]
                 reel = f"reels/{mod}/besar{idx + 1}.mp4"
-                files = [reel] if slot == "siang2" and (OUT / reel).exists() else [save(besar_image(p, idx), f"{mod}/besar{idx + 1}.jpg")]
+                files = [reel] if slot in ("siang2", "malam0") and (OUT / reel).exists() else [save(besar_image(p, idx), f"{mod}/besar{idx + 1}.jpg")]
                 out[(hari, slot)] = (files, p["caption"])
             elif fmt == "KERTAS":
                 p = t.KERTAS[idx]
@@ -467,6 +467,9 @@ def render_week(mod=MOD):
             elif fmt == "SERI":
                 p = t.SERI[idx]
                 out[(hari, slot)] = (seri_slides(p, idx), p["caption"])
+            elif fmt == "ELI":
+                import tenang_eli
+                out[(hari, slot)] = tenang_eli.render_item(t.ELI[idx])
             elif fmt == "HITUNG":
                 p = t.HITUNG[idx]
                 out[(hari, slot)] = ([save(hitung_image(p, idx), f"{mod}/hitung{idx + 1}.jpg")], p["caption"])
@@ -478,7 +481,7 @@ def render_reels(mod=MOD):
     t = importlib.import_module(f"konten.{mod}")
     for hari, slots in t.JADWAL.items():
         for slot, (fmt, idx) in slots.items():
-            if fmt == "BESAR" and slot == "siang2":
+            if fmt == "BESAR" and slot in ("siang2", "malam0"):
                 print(besar_reel(t.BESAR[idx], idx))
             if fmt == "KOMIK" and slot == "malam0":
                 print(komik_reel(t.KOMIK[idx], idx))

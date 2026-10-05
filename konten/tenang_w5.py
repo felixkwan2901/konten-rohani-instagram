@@ -22,7 +22,7 @@ KUTIPAN = [
     # --- Minggu 25 Okt (Minggu Reformasi) ---
     {"sumber": "Bab 1 · Minggu Pagi",
      "teks": "Kita datang ke rumah Tuhan bukan untuk [membuktikan diri], tapi untuk _menerima_ lagi kasih yang sudah lebih dulu diberikan.",
-     "caption": "Selamat hari Minggu 🤍\n\nHari ini banyak gereja merayakan Minggu Reformasi. Pengingatnya sederhana: kita tidak datang untuk membayar apa-apa, tapi untuk menerima dan bersyukur.\n\n📖 “Masuklah melalui pintu gerbang-Nya dengan nyanyian syukur, ke dalam pelataran-Nya dengan puji-pujian, bersyukurlah kepada-Nya dan pujilah nama-Nya!” — Mazmur 100:4\n\nKetik “Amin” kalau hari ini kamu mau datang dengan hati yang bersyukur."},
+     "caption": "Minggu Reformasi, pagi yang sederhana 🤍\n\nHari ini banyak gereja merayakan Minggu Reformasi. Pengingatnya sederhana: kita tidak datang untuk membayar apa-apa, tapi untuk menerima dan bersyukur.\n\n📖 “Masuklah melalui pintu gerbang-Nya dengan nyanyian syukur, ke dalam pelataran-Nya dengan puji-pujian, bersyukurlah kepada-Nya dan pujilah nama-Nya!” — Mazmur 100:4\n\nKetik “Amin” kalau hari ini kamu mau datang dengan hati yang bersyukur."},
     {"sumber": "Bab 2 · Tentang Fondasi",
      "teks": "Rumah yang kokoh tidak ditentukan oleh catnya, tapi oleh [fondasinya]. Hidup juga begitu. Di atas _apa_ kamu sedang membangun?",
      "caption": "Cat bisa diganti, fondasi tidak 🧱\n\nKarier, hubungan, pelayanan, rencana: semuanya baik. Tapi semuanya butuh dasar yang tidak goyah.\n\n📖 “Jikalau bukan TUHAN yang membangun rumah, sia-sialah usaha orang yang membangunnya…” — Mazmur 127:1\n\nSave sebagai pengingat untuk minggu ini 🔖"},
@@ -215,7 +215,7 @@ BESAR = [
      "caption": "Doa Yesus untuk kita semua 🤝\n\nSebelum disalib, Yesus mendoakan murid-murid-Nya, dan juga semua yang kelak percaya lewat pemberitaan mereka. Isi doa-Nya: supaya kita menjadi satu.\n\n📖 “…supaya mereka semua menjadi satu, sama seperti Engkau, ya Bapa, di dalam Aku dan Aku di dalam Engkau, agar mereka juga di dalam Kita, supaya dunia percaya, bahwa Engkaulah yang telah mengutus Aku.” — Yohanes 17:21\n\nKirim ke teman yang dulu satu persekutuan denganmu 💌"},
     {"teks": "Besok kita *beribadah* bukan untuk [mendapatkan] kasih-Nya, tapi karena sudah _menerimanya_.",
      "ref": "Efesus 1:6",
-     "caption": "Malam sebelum hari Minggu 🌙\n\nIbadah bukan uang muka untuk membeli perhatian Tuhan. Ibadah adalah ucapan terima kasih atas kasih karunia yang sudah diberikan.\n\n📖 “…supaya terpujilah kasih karunia-Nya yang mulia, yang dikaruniakan-Nya kepada kita di dalam Dia, yang dikasihi-Nya.” — Efesus 1:6\n\nSiapkan hatimu malam ini. Ketik “Siap” kalau besok kamu mau datang beribadah 🤍"},
+     "caption": "Ibadah sebagai ucapan terima kasih 🌙\n\nIbadah bukan uang muka untuk membeli perhatian Tuhan. Ibadah adalah ucapan terima kasih atas kasih karunia yang sudah diberikan.\n\n📖 “…supaya terpujilah kasih karunia-Nya yang mulia, yang dikaruniakan-Nya kepada kita di dalam Dia, yang dikasihi-Nya.” — Efesus 1:6\n\nSiapkan hatimu malam ini. Ketik “Siap” kalau besok kamu mau datang beribadah 🤍"},
 ]
 
 # ---------- KOMIK: anak ("aku") dan Yesus (pagi2, malam0 = Reels animasi) ----------
@@ -293,11 +293,11 @@ SERI = [
                 ("Bukan untuk berdebat", "Seri ini bukan tentang siapa yang menang. Ini undangan untuk bersyukur: kita dikasihi dan diselamatkan bukan karena layak, tapi karena Allah baik.")],
      "ayat": "“Karena tidak ada seorangpun yang dapat meletakkan dasar lain dari pada dasar yang telah diletakkan, yaitu Yesus Kristus.”",
      "ref": "1 Korintus 3:11",
-     "caption": "Seri baru minggu ini: Lima Sola 🧱\n\nHari ini banyak gereja merayakan Minggu Reformasi, dan Sabtu nanti, 31 Oktober, genap 509 tahun sejak 1517. Selama seminggu kita bahas satu pengingat dasar iman Kristen setiap hari, dengan sederhana dan tanpa debat.\n\nGeser sampai slide terakhir 👉\n\nSave supaya kamu bisa ikuti seri ini sampai Sabtu 🔖"},
+     "caption": "Seri baru minggu ini: Lima Sola 🧱\n\nHari ini banyak gereja merayakan Minggu Reformasi, dan Sabtu nanti, 31 Oktober, genap 509 tahun sejak 1517. Selama seminggu kita bahas satu pengingat dasar iman Kristen setiap hari, dengan sederhana dan tanpa debat.\n\nGeser sampai akhir, ya 👉\n\nSave supaya kamu bisa ikuti seri ini sampai Sabtu 🔖"},
     {"judul": "Sola Scriptura", "arti": "Hanya oleh Firman", "nomor": "02",
      "slides": [("Ukuran yang sama", "Sola Scriptura berarti Alkitab adalah ukuran tertinggi bagi iman dan hidup kita. Pengajaran, pengalaman, dan perasaan kita diuji oleh Firman, bukan sebaliknya."),
                 ("Firman untuk semua orang", "Luther menerjemahkan Perjanjian Baru ke bahasa Jerman supaya orang biasa bisa membacanya sendiri. Hari ini kita bisa membaca Alkitab dalam bahasa kita, bahkan di HP."),
-                ("Untuk minggu ini", "Mulai dari yang kecil: satu pasal Injil Markus setiap hari. Baca pelan-pelan, lalu tanyakan: apa yang kupelajari tentang Yesus hari ini?")],
+                ("Mulai pekan ini", "Mulai dari yang kecil: satu pasal Injil Markus setiap hari. Baca pelan-pelan, lalu tanyakan: apa yang kupelajari tentang Yesus hari ini?")],
      "ayat": "“Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan dan untuk mendidik orang dalam kebenaran.”",
      "ref": "2 Timotius 3:16",
      "caption": "02 · Sola Scriptura: hanya oleh Firman 📖\n\nAlkitab bukan hanya untuk pendeta atau ahli teologi. Tuhan memberikannya supaya setiap kita bisa mengenal Dia lewat firman-Nya.\n\nGeser untuk membaca 👉\n\nRencana baca Alkitab apa yang sedang kamu ikuti? Tulis di komentar 👇"},
@@ -365,3 +365,44 @@ JADWAL = {d: {"pagi": ("KUTIPAN", 3 * (d - 1)), "pagi3": ("KERTAS", 2 * (d - 1))
               "sore": ("HITUNG", d - 1), "sore2": ("KERTAS", 2 * (d - 1) + 1),
               "petang": ("KUTIPAN", 3 * (d - 1) + 1), "malam0": ("KOMIK", 2 * (d - 1) + 1),
               "malam": ("BESAR", 3 * (d - 1) + 2), "larut": ("KUTIPAN", 3 * (d - 1) + 2)} for d in range(1, 8)}
+
+
+# ---------- revisi: komik hanya 3x seminggu (dari folder Eli), slot lain diganti ----------
+KERTAS += [
+    {"teks": "Saat hatiku ragu, aku kembali ke firman-Mu.", "ref": "Mazmur 119:114", "foto": "jendela",
+     "caption": "Firman-Nya tempat pulang saat hati goyah 🤍\n\n📖 “Engkaulah persembunyianku dan perisaiku; aku berharap kepada firman-Mu.” — Mazmur 119:114\n\nSave untuk hari yang penuh ragu 🔖"},
+    {"teks": "Percaya bukan berarti tidak pernah takut. Percaya berarti tetap melangkah bersama Dia.", "ref": "Yesaya 12:2", "foto": "jalan",
+     "caption": "Takut boleh, berhenti jangan 🤍\n\n📖 “Sungguh, Allah itu keselamatanku; aku percaya dengan tidak gementar, sebab TUHAN ALLAH itu kekuatanku dan mazmurku, Ia telah menjadi keselamatanku.” — Yesaya 12:2\n\nKirim ke temanmu yang sedang melangkah dengan takut 💌"},
+    {"teks": "Tuhan tidak menunggu kamu rapi dulu untuk mengampunimu.", "ref": "Mazmur 86:5", "foto": "lilin",
+     "caption": "Datang saja, apa adanya 🤍\n\n📖 “Sebab Engkau, ya Tuhan, baik dan suka mengampuni dan berlimpah kasih setia bagi semua orang yang berseru kepada-Mu.” — Mazmur 86:5\n\nKetik “Amin” kalau kamu butuh diingatkan ini hari ini 🙏"},
+    {"teks": "Berakar di dalam Dia, bukan di dalam pujian orang.", "ref": "Kolose 2:7", "foto": "pohon",
+     "caption": "Akar yang kuat tidak butuh tepuk tangan 🌳\n\n📖 “Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan syukur.” — Kolose 2:7\n\nSave sebagai pengingat 🔖"},
+    {"teks": "Lagu yang baru itu bukan untuk panggungmu, tapi untuk nama-Nya.", "ref": "Mazmur 40:4", "foto": "bintang",
+     "caption": "Untuk kemuliaan-Nya saja 🤍\n\n📖 “Ia memberikan nyanyian baru dalam mulutku untuk memuji Allah kita. Banyak orang akan melihatnya dan menjadi takut, lalu percaya kepada TUHAN.” — Mazmur 40:4\n\nTulis judul lagu pujian favoritmu di komentar 🎶"},
+]
+
+BESAR += [
+    {"teks": "Kasih karunia itu *gratis* untukmu, tapi [mahal] _harganya_ bagi Dia.", "ref": "1 Petrus 1:19",
+     "caption": "Gratis untukmu, mahal bagi-Nya 🤍\n\n📖 “…melainkan dengan darah yang mahal, yaitu darah Kristus yang sama seperti darah anak domba yang tak bernoda dan tak bercacat.” — 1 Petrus 1:19\n\nKetik “terima kasih Yesus” 🙏"},
+    {"teks": "Jagalah *hatimu*, karena dari situlah _terpancar_ [kehidupan].", "ref": "Amsal 4:23",
+     "caption": "Yang masuk ke hati, keluar lewat hidup 🤍\n\n📖 “Jagalah hatimu dengan segala kewaspadaan, karena dari situlah terpancar kehidupan.” — Amsal 4:23\n\nSave untuk dibaca lagi besok pagi 🔖"},
+    {"teks": "Kamu *minta*, kamu [cari], kamu _ketok_. Dia tidak pernah bosan.", "ref": "Lukas 11:9",
+     "caption": "Teruslah datang kepada-Nya 🤍\n\n📖 “Mintalah, maka akan diberikan kepadamu; carilah, maka kamu akan mendapat; ketoklah, maka pintu akan dibukakan bagimu.” — Lukas 11:9\n\nKetik 🙏 kalau kamu sedang menunggu jawaban doa"},
+    {"teks": "Siapakah Allah *seperti Engkau* yang [mengampuni] _dosa_?", "ref": "Mikha 7:18",
+     "caption": "Tidak ada yang seperti Dia 🤍\n\n📖 “Siapakah Allah seperti Engkau yang mengampuni dosa, dan yang memaafkan pelanggaran dari sisa-sisa milik-Nya sendiri; yang tidak bertahan dalam murka-Nya untuk seterusnya, melainkan berkenan kepada kasih setia?” — Mikha 7:18\n\nKirim ke seseorang yang merasa terlalu jauh untuk diampuni 💌"},
+    {"teks": "Jiwaku *melekat* kepada-Mu, [tangan kanan-Mu] _menopang_ aku.", "ref": "Mazmur 63:9",
+     "caption": "Dipegang, bukan dilepas 🤍\n\n📖 “Jiwaku melekat kepada-Mu, tangan kanan-Mu menopang aku.” — Mazmur 63:9\n\nKetik “Amin” 🙏"},
+    {"teks": "Allah yang *memanggil* kamu itu [setia].", "ref": "1 Korintus 1:9",
+     "caption": "Hari Reformasi ditutup dengan satu kebenaran sederhana: Dia setia 🤍\n\n📖 “Allah, yang memanggil kamu kepada persekutuan dengan Anak-Nya Yesus Kristus, Tuhan kita, adalah setia.” — 1 Korintus 1:9\n\nSelamat Hari Reformasi. Sampai jumpa di gereja besok ⛪"},
+]
+
+# komik gaya child.ink dari folder Eli: 3x seminggu
+ELI = [("pot",), ("payung",), ("edukasi", 5)]
+
+JADWAL[1]["pagi2"] = ("ELI", 0)        # Minggu: cerita Pot (Eli & Yesus)
+JADWAL[4]["malam0"] = ("ELI", 1)       # Rabu: Reels Payung
+JADWAL[7]["pagi2"] = ("ELI", 2)        # Sabtu: Eli Belajar, kenapa ibadah hari Minggu
+for _d, _k in zip((2, 3, 4, 5, 6), range(14, 19)):
+    JADWAL[_d]["pagi2"] = ("KERTAS", _k)
+for _d, _k in zip((1, 2, 3, 5, 6, 7), range(21, 27)):
+    JADWAL[_d]["malam0"] = ("BESAR", _k)
