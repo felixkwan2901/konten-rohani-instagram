@@ -144,6 +144,9 @@ def foto(kind, w=W, h=H, seed=3):
 
 def dump_slide(kind, text, n, total, seed):
     img = foto(kind, seed=seed).convert("RGBA")
+    scrim = Image.new("RGBA", img.size, (0, 0, 0, 0))  # bayangan lembut di belakang teks supaya terbaca di bagian terang
+    ImageDraw.Draw(scrim).ellipse((40, H * 0.36, W - 40, H * 0.64), fill=(0, 0, 0, 120))
+    img.alpha_composite(scrim.filter(ImageFilter.GaussianBlur(60)))
     size = 52 if n == 1 else 44
     f = font("serif_italic", size)
 

@@ -64,7 +64,10 @@ def buku_image(p, seed=1):
     d = ImageDraw.Draw(page)
     ink = (52, 42, 34, 255)
     cx = 1110
-    d.text((cx, 330), p["judul"], font=DIDOT_B(58), fill=ink, anchor="ma")
+    ts = 58
+    while d.textlength(p["judul"], font=DIDOT_B(ts)) > 470 and ts > 30:
+        ts -= 2
+    d.text((cx, 330), p["judul"], font=DIDOT_B(ts), fill=ink, anchor="ma")
     y = 440
     for ln in p["baris"]:
         for part in wrap(d, ln, BASK(34), 560):
@@ -168,15 +171,15 @@ def skrip_image(p, i):
     return img
 
 
-def skrip_reel(p, i, seconds=9):
+def skrip_reel(p, i, seconds=9, mod=MOD, so=0):
     """Panggung bergerak pelan (lampu berkedip), tulisan kuning muncul seperti ditulis tangan (sapuan dari kiri)."""
     import cerita
     import musik
-    rel = f"reels/{MOD}/skrip{i + 1}.mp4"
+    rel = f"reels/{mod}/skrip{i + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     rw, rh = 1080, 1920
-    bg = [grain(panggung(rw, rh, 10 + i + k), 0.35) for k in range(2)]
+    bg = [grain(panggung(rw, rh, 10 + so + i + k), 0.35) for k in range(2)]
     text = skrip_layer(p, rw, rh, 150)
     handle = Image.new("RGBA", (rw, rh), (0, 0, 0, 0))
     ImageDraw.Draw(handle).text((rw / 2, rh - 260), "@" + HANDLE, font=AVENIR_B(30), fill=(220, 220, 220, 255), anchor="ma")
@@ -222,10 +225,14 @@ def kisah_cover(p, seed):
     for size in range(300, 120, -10):
         if max(d.textlength(p["judul1"], font=DIDOT_B(size)), d.textlength(p["judul2"], font=DIDOT_B(size))) < W - 160:
             break
-    d.text((W / 2, 300), p["judul1"], font=DIDOT_B(size), fill=white, anchor="ma")
-    d.text((W / 2, 300 + size * 1.22), p["judul2"], font=DIDOT_B(size), fill=white, anchor="ma")
-    d.text((W / 2, 300 + size * 1.1), p["ref"].upper(), font=AVENIR_B(40), fill=(30, 60, 110, 255), anchor="mm")
-    d.text((W / 2, 300 + size * 2.42), p["sub"], font=AVENIR_B(54), fill=white, anchor="ma")
+    f = DIDOT_B(size)
+    b1 = d.textbbox((W / 2, 300), p["judul1"], font=f, anchor="ma")
+    y2 = b1[3] + 110
+    d.text((W / 2, 300), p["judul1"], font=f, fill=white, anchor="ma")
+    d.text((W / 2, b1[3] + 58), p["ref"].upper(), font=AVENIR_B(40), fill=(30, 60, 110, 255), anchor="mm")
+    b2 = d.textbbox((W / 2, y2), p["judul2"], font=f, anchor="mt")
+    d.text((W / 2, y2), p["judul2"], font=f, fill=white, anchor="mt")
+    d.text((W / 2, b2[3] + 40), p["sub"], font=AVENIR_B(54), fill=white, anchor="ma")
     sh = Image.new("RGBA", img.size, (0, 0, 0, 0))
     sh.putalpha(lay.getchannel("A").filter(ImageFilter.GaussianBlur(12)).point(lambda v: int(v * 0.35)))
     img.alpha_composite(sh)
@@ -263,58 +270,81 @@ def kisah_slide(p, n, total, heading, body, seed, akhir=False):
     return img
 
 
-def kisah_carousel(p, i):
-    seed = 300 + i * 10
+def kisah_carousel(p, i, mod=MOD, so=0):
+    seed = 300 + so + i * 10
     slides = [kisah_cover(p, seed)]
     total = len(p["slides"]) + 2
     for n, (hd, bd) in enumerate(p["slides"], 2):
         slides.append(kisah_slide(p, n, total, hd, bd, seed))
     slides.append(kisah_slide(p, total, total, p["ayat"], p["ayat_ref"].upper(), seed, akhir=True))
-    return [save(s, f"{MOD}/kisah{i + 1}_{n}.jpg") for n, s in enumerate(slides, 1)]
+    return [save(s, f"{mod}/kisah{i + 1}_{n}.jpg") for n, s in enumerate(slides, 1)]
 
 
 # ---------- semua ----------
 
-def render_w3():
-    """{(hari, slot): (files, caption)} untuk konten/tenang_w3.py."""
-    from konten import tenang_w3 as t
-    for old in (OUT / MOD).glob("*.jpg"):
+def seed_off(mod):
+    import zlib
+    return zlib.crc32(mod.encode()) % 1000
+
+
+def render_week(mod=MOD):
+    """{(hari, slot): (files, caption)} untuk konten/<mod>.py (BUKU, MEME, SKRIP, KISAH, T, K, F, V)."""
+    import importlib
+    t = importlib.import_module(f"konten.{mod}")
+    so = 0 if mod == MOD else seed_off(mod)
+    for old in (OUT / mod).glob("*.jpg"):
         old.unlink()
     out = {}
     for hari, slots in t.JADWAL.items():
         for slot, (fmt, idx) in slots.items():
             if fmt == "BUKU":
                 p = t.BUKU[idx]
-                out[(hari, slot)] = ([save(buku_image(p, idx), f"{MOD}/buku{idx + 1}.jpg")], p["caption"])
+                out[(hari, slot)] = ([save(buku_image(p, so + idx), f"{mod}/buku{idx + 1}.jpg")], p["caption"])
             elif fmt == "MEME":
                 p = t.MEME[idx]
-                out[(hari, slot)] = ([save(meme_image(p, idx), f"{MOD}/meme{idx + 1}.jpg")], p["caption"])
+                out[(hari, slot)] = ([save(meme_image(p, so + idx), f"{mod}/meme{idx + 1}.jpg")], p["caption"])
             elif fmt == "SKRIP":
                 p = t.SKRIP[idx]
-                reel = f"reels/{MOD}/skrip{idx + 1}.mp4"
-                files = [reel] if slot == "malam0" and (OUT / reel).exists() else [save(skrip_image(p, idx), f"{MOD}/skrip{idx + 1}.jpg")]
+                reel = f"reels/{mod}/skrip{idx + 1}.mp4"
+                files = [reel] if slot == "malam0" and (OUT / reel).exists() else [save(skrip_image(p, so + idx), f"{mod}/skrip{idx + 1}.jpg")]
                 out[(hari, slot)] = (files, p["caption"])
             elif fmt == "KISAH":
                 p = t.KISAH[idx]
-                out[(hari, slot)] = (kisah_carousel(p, idx), p["caption"])
+                out[(hari, slot)] = (kisah_carousel(p, idx, mod, so), p["caption"])
             elif fmt == "T":
                 p = t.RELATABLE[idx]
-                out[(hari, slot)] = (keren.relatable(p, idx, MOD), p["caption"])
+                out[(hari, slot)] = (keren.relatable(p, idx, mod), p["caption"])
             elif fmt == "K":
-                reel = f"reels/{MOD}/kinetik{idx + 1}.mp4"
+                reel = f"reels/{mod}/kinetik{idx + 1}.mp4"
                 if (OUT / reel).exists():
                     out[(hari, slot)] = ([reel], t.KINETIK[idx]["caption"])
+            elif fmt == "F":
+                out[(hari, slot)] = keren.render_dump(idx, t, mod)
+            elif fmt == "V":
+                out[(hari, slot)] = keren.render_dulu(idx, t, mod)
     return out
 
 
+def render_w3():
+    return render_week(MOD)
+
+
+def render_reels(mod=MOD):
+    import importlib
+    t = importlib.import_module(f"konten.{mod}")
+    so = 0 if mod == MOD else seed_off(mod)
+    for hari, slots in t.JADWAL.items():
+        for slot, (fmt, idx) in slots.items():
+            if fmt == "SKRIP" and slot == "malam0":
+                print(skrip_reel(t.SKRIP[idx], idx, mod=mod, so=so))
+    for i in range(len(t.KINETIK)):
+        print(keren.kinetik_reel(i, mod))
+
+
 if __name__ == "__main__":
-    from konten import tenang_w3 as t
-    what = sys.argv[1] if len(sys.argv) > 1 else "semua"
-    if what in ("semua", "reels"):
-        for hari, slots in t.JADWAL.items():
-            for slot, (fmt, idx) in slots.items():
-                if fmt == "SKRIP" and slot == "malam0":
-                    print(skrip_reel(t.SKRIP[idx], idx))
-        for i in range(len(t.KINETIK)):
-            print(keren.kinetik_reel(i, MOD))
-    print(len(render_w3()), "post")
+    # python3 gaya_baru.py [reels] [tenang_w3|tenang_w4]
+    args = sys.argv[1:]
+    mod = next((a for a in args if a.startswith("tenang")), MOD)
+    if not args or "reels" in args:
+        render_reels(mod)
+    print(len(render_week(mod)), "post")

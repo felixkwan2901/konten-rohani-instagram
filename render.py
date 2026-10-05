@@ -1109,11 +1109,12 @@ def build_schedule(eli_files, tenang_files, kapi_files):
                 rel = save(img, f"tenang_extra/{fmt.lower()}{idx + 1}.jpg")
                 items.append({"id": f"tenang_extra-{day}-{slot}", "akun": "tenang", "waktu": at(6 + day, config.AKUN["tenang"]["jam"][slot]),
                               "files": [rel], "caption": p["caption"] + "\n.\n.\n" + tenang.TAGS})
-    if (ROOT / "konten/tenang_w3.py").exists():  # Tenang minggu 3 (11-17 Okt): buku, meme, skrip, kisah
-        import gaya_baru
-        for (hari, slot), (files, caption) in gaya_baru.render_w3().items():
-            items.append({"id": f"tenang_w3-{hari}-{slot}", "akun": "tenang", "waktu": at(14 + hari - 1, config.AKUN["tenang"]["jam"][slot]),
-                          "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
+    import gaya_baru  # Tenang minggu 3 dst.: buku, meme, skrip, kisah, relatable, kinetik, photo dump, dulu vs sekarang
+    for mod, start_day in (("tenang_w3", 14), ("tenang_w4", 21)):  # minggu 3 = 11 Okt, minggu 4 = 18 Okt
+        if (ROOT / f"konten/{mod}.py").exists():
+            for (hari, slot), (files, caption) in gaya_baru.render_week(mod).items():
+                items.append({"id": f"{mod}-{hari}-{slot}", "akun": "tenang", "waktu": at(start_day + hari - 1, config.AKUN["tenang"]["jam"][slot]),
+                              "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
     items = [it for it in items if config.AKUN[it["akun"]].get("aktif", True)]  # akun yang dipause tidak dijadwalkan
     if config.AKUN["eli"].get("pause_lama"):  # Eli lama (kartun) dipause; hanya Eli & Ruthie (gambar AI) yang diposting
         items = [it for it in items if it["akun"] != "eli" or it["id"].startswith("eli_lamb")]
