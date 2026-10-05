@@ -1115,6 +1115,14 @@ def build_schedule(eli_files, tenang_files, kapi_files):
             for (hari, slot), (files, caption) in gaya_baru.render_week(mod).items():
                 items.append({"id": f"{mod}-{hari}-{slot}", "akun": "tenang", "waktu": at(start_day + hari - 1, config.AKUN["tenang"]["jam"][slot]),
                               "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
+    if (ROOT / "konten/tenang_w5.py").exists():  # Tenang minggu 5 (25-31 Okt): kutipan, besar, kertas, komik, seri Reformasi, hitung mundur Natal
+        import gaya_w5
+        for (hari, slot), (files, caption) in gaya_w5.render_week("tenang_w5").items():
+            items.append({"id": f"tenang_w5-{hari}-{slot}", "akun": "tenang", "waktu": at(28 + hari - 1, config.AKUN["tenang"]["jam"][slot]),
+                          "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
+    from konten import spesial  # post satu kali untuk momen khusus
+    for sid, akun, waktu, files, caption in spesial.POSTS:
+        items.append({"id": sid, "akun": akun, "waktu": waktu, "files": files, "caption": caption})
     items = [it for it in items if config.AKUN[it["akun"]].get("aktif", True)]  # akun yang dipause tidak dijadwalkan
     if config.AKUN["eli"].get("pause_lama"):  # Eli lama (kartun) dipause; hanya Eli & Ruthie (gambar AI) yang diposting
         items = [it for it in items if it["akun"] != "eli" or it["id"].startswith("eli_lamb")]

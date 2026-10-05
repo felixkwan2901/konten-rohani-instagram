@@ -2280,6 +2280,31 @@ Gambar (urut): `output/stories/eli_lamb-3-pagi.jpg`
 
 ```
 
+## @diam.dan.percaya — Tue 06 Oct 03:30 WIB → **Tue 06 Oct 09:30 NZ**
+
+Gambar (urut): `output/spesial/indonesia_thailand.jpg`
+
+```
+Indonesia menang! 🇮🇩❤️🤍
+
+Terima kasih Tuhan untuk kerja keras para pemain dan sukacita malam ini. Kita bersyukur, karena pada akhirnya kemenangan ada di tangan Tuhan.
+
+📖 “Kuda diperlengkapi untuk hari peperangan, tetapi kemenangan ada di tangan TUHAN.” — Amsal 21:31
+
+Ketik “GARUDA 🇮🇩” kalau kamu ikut nonton tadi! Kirim ke teman nobar kamu 💌
+.
+.
+#indonesia #timnasindonesia #garudaindonesia #pujiTuhan #ayatalkitab #kristen #diamdanpercaya
+```
+
+## @diam.dan.percaya — Tue 06 Oct 03:40 WIB → **Tue 06 Oct 09:40 NZ**
+
+Gambar (urut): `output/stories/spesial-indonesia-thailand.jpg`
+
+```
+
+```
+
 ## @diam.dan.percaya — Tue 06 Oct 06:00 WIB → **Tue 06 Oct 12:00 NZ**
 
 Gambar (urut): `output/tenang_w2/hari3_pagi_1.jpg`
