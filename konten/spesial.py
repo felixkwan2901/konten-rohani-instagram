@@ -4,7 +4,7 @@
 TAGS = "#indonesia #timnasindonesia #garudaindonesia #pujiTuhan #ayatalkitab #kristen #diamdanpercaya"
 
 POSTS = [
-    ("spesial-indonesia-thailand", "tenang", "2026-10-06T03:30:00+07:00", ["spesial/indonesia_thailand.jpg"],
+    ("spesial-indonesia-thailand", "tenang", "2099-01-01T00:00:00+07:00"  # DITAHAN: tunggu persetujuan, ["spesial/indonesia_thailand.jpg"],
      "Indonesia menang! 🇮🇩❤️🤍\n\nTerima kasih Tuhan untuk kerja keras para pemain dan sukacita malam ini. "
      "Kita bersyukur, karena pada akhirnya kemenangan ada di tangan Tuhan.\n\n"
      "📖 “Kuda diperlengkapi untuk hari peperangan, tetapi kemenangan ada di tangan TUHAN.” — Amsal 21:31\n\n"

@@ -1,0 +1,367 @@
+"""Akun Tenang (@diam.dan.percaya) - minggu 5 (Minggu 25 Okt - Sabtu 31 Okt 2026).
+Tema: "Hanya karena kasih karunia" - minggu Reformasi (Minggu Reformasi 25 Okt, Hari Reformasi Sabtu 31 Okt 2026,
+509 tahun sejak 1517), disampaikan dengan hangat dan positif, tanpa polemik. Plus awal hitung mundur Natal.
+Hari: 1 Minggu (Kembali ke Dasar), 2 Senin (Sola Scriptura), 3 Selasa (Sola Fide), 4 Rabu (Sola Gratia, Sumpah Pemuda),
+5 Kamis (Solus Christus), 6 Jumat (Soli Deo Gloria), 7 Sabtu (Hari Reformasi, persiapan ibadah Minggu).
+Format baru (gaya terinspirasi akun Kristen populer, isi orisinal) - dirender oleh gaya_w5.py:
+  KUTIPAN = halaman buku, kutipan serif. Markup: [kata] = stabilo pink, _kata_ = miring.  pagi, petang, larut
+  KERTAS  = kertas catatan putih di atas foto hitam-putih (foto: laut, gunung, kabut, bintang, awan, jendela,
+            lilin, jalan, pohon).  pagi3 & sore2
+  BESAR   = huruf sangat besar menembus tepi kiri. Markup: *tebal*, _miring biru_, [stabilo pink].
+            siang, siang2 (Reels baris meluncur), malam
+  KOMIK   = komik garis anak ("aku") dan Yesus. adegan: pintu/kamar/hujan/jalan/bangku;
+            wajah: senyum/bingung/sedih/merem/gembira; tangan: bawah/doa/atas/dagu/alkitab;
+            yesus: bawah/sambut/tunjuk (payung hanya untuk hujan). Kata Yesus = gema ucapan-Nya di Injil.
+            pagi2, malam0 (Reels animasi)
+  SERI    = carousel blok warna "Lima Sola" (siang0)
+  HITUNG  = hitung mundur Natal (sore): 61 hari (25 Okt) sampai 55 hari (31 Okt)
+Kutipan ayat: Alkitab TB. Caption tanpa hashtag."""
+
+# ---------- KUTIPAN: halaman buku (3 per hari: pagi, petang, larut) ----------
+KUTIPAN = [
+    # --- Minggu 25 Okt (Minggu Reformasi) ---
+    {"sumber": "Bab 1 · Minggu Pagi",
+     "teks": "Kita datang ke rumah Tuhan bukan untuk [membuktikan diri], tapi untuk _menerima_ lagi kasih yang sudah lebih dulu diberikan.",
+     "caption": "Selamat hari Minggu 🤍\n\nHari ini banyak gereja merayakan Minggu Reformasi. Pengingatnya sederhana: kita tidak datang untuk membayar apa-apa, tapi untuk menerima dan bersyukur.\n\n📖 “Masuklah melalui pintu gerbang-Nya dengan nyanyian syukur, ke dalam pelataran-Nya dengan puji-pujian, bersyukurlah kepada-Nya dan pujilah nama-Nya!” — Mazmur 100:4\n\nKetik “Amin” kalau hari ini kamu mau datang dengan hati yang bersyukur."},
+    {"sumber": "Bab 2 · Tentang Fondasi",
+     "teks": "Rumah yang kokoh tidak ditentukan oleh catnya, tapi oleh [fondasinya]. Hidup juga begitu. Di atas _apa_ kamu sedang membangun?",
+     "caption": "Cat bisa diganti, fondasi tidak 🧱\n\nKarier, hubungan, pelayanan, rencana: semuanya baik. Tapi semuanya butuh dasar yang tidak goyah.\n\n📖 “Jikalau bukan TUHAN yang membangun rumah, sia-sialah usaha orang yang membangunnya…” — Mazmur 127:1\n\nSave sebagai pengingat untuk minggu ini 🔖"},
+    {"sumber": "Bab 3 · Setelah Khotbah",
+     "teks": "Mungkin kamu tidak ingat semua isi khotbah tadi. Tapi Firman yang sudah ditabur [tidak hilang]. Ia bekerja _diam-diam_ di dalam hatimu.",
+     "caption": "Firman yang ditabur tidak sia-sia 🌱\n\nTidak semuanya langsung terasa. Tapi Tuhan berjanji, firman-Nya tidak pernah kembali dengan tangan kosong.\n\n📖 “…demikianlah firman-Ku yang keluar dari mulut-Ku: ia tidak akan kembali kepada-Ku dengan sia-sia, tetapi ia akan melaksanakan apa yang Kukehendaki…” — Yesaya 55:11\n\nSelamat malam. Kirim ke teman yang tadi beribadah bersamamu 💌"},
+    # --- Senin 26 Okt (Sola Scriptura) ---
+    {"sumber": "Bab 4 · Senin dan Satu Ayat",
+     "teks": "Satu ayat yang dibaca [pelan-pelan] bisa menemanimu lebih lama daripada seribu _scroll_ yang terburu-buru.",
+     "caption": "Hari ini Sola Scriptura: hanya oleh Firman 📖\n\nNggak harus satu pasal panjang. Ambil satu ayat, baca pelan, lalu bawa sepanjang hari. Biarkan ayat itu yang bicara di sela rapat dan tugas.\n\n📖 “Betapa kucintai Taurat-Mu! Aku merenungkannya sepanjang hari.” — Mazmur 119:97\n\nAyat apa yang mau kamu bawa hari ini? Tulis di komentar 👇"},
+    {"sumber": "Bab 5 · Yang Tidak Ikut Berganti",
+     "teks": "Tren berganti setiap minggu. Pendapat orang berubah setiap hari. Tapi [firman Tuhan] tetap _sama_, dan tetap bisa dipegang.",
+     "caption": "Yang tidak ikut berganti 🌾\n\nSaat semuanya cepat berubah, kita butuh sesuatu yang tetap. Firman-Nya sudah dipegang orang percaya selama ribuan tahun, dan masih bisa kamu pegang hari ini.\n\n📖 “Rumput menjadi kering, bunga menjadi layu, tetapi firman Allah kita tetap untuk selama-lamanya.” — Yesaya 40:8\n\nSave untuk hari-hari yang terasa goyah 🔖"},
+    {"sumber": "Bab 6 · Doa Pinjaman",
+     "teks": "Ada malam ketika aku tidak punya kata-kata untuk berdoa. Lalu aku [meminjam] kata-kata Mazmur, dan _ternyata_ itu cukup.",
+     "caption": "Doa pinjaman dari Mazmur 🌙\n\nOrang percaya sudah berabad-abad berdoa dengan Mazmur. Ada Mazmur untuk takut, sedih, marah, dan syukur. Kamu boleh ikut memakainya malam ini.\n\n📖 “Inilah penghiburanku dalam sengsaraku, bahwa janji-Mu menghidupkan aku.” — Mazmur 119:50\n\nSelamat malam. Mazmur mana yang paling sering kamu baca? Tulis di komentar 👇"},
+    # --- Selasa 27 Okt (Sola Fide) ---
+    {"sumber": "Bab 7 · Dari Mana Iman Datang",
+     "teks": "Iman tidak dipompa dari dalam diri sendiri. Iman [tumbuh] saat kita _mendengar_ Dia berbicara lewat firman-Nya.",
+     "caption": "Hari ini Sola Fide: hanya oleh iman 🌱\n\nKalau imanmu terasa kecil, jangan memaksa diri untuk merasa yakin. Dekatkan telingamu pada Firman. Dari situ iman tumbuh.\n\n📖 “Jadi, iman timbul dari pendengaran, dan pendengaran oleh firman Kristus.” — Roma 10:17\n\nKetik “Amin” kalau hari ini kamu mau mulai dengan mendengar."},
+    {"sumber": "Bab 8 · Dua Tangan",
+     "teks": "Tangan yang _penuh_ tidak bisa menerima hadiah. Iman adalah saat kita [membuka tangan] dan berhenti menggenggam usaha kita sendiri.",
+     "caption": "Iman itu tangan yang terbuka 🤲\n\nSuatu kali orang banyak bertanya kepada Yesus: apa yang harus kami perbuat? Jawaban-Nya mengejutkan.\n\n📖 “Inilah pekerjaan yang dikehendaki Allah, yaitu hendaklah kamu percaya kepada Dia yang telah diutus Allah.” — Yohanes 6:29\n\nKirim ke temanmu yang lelah berusaha terlalu keras 💌"},
+    {"sumber": "Bab 9 · Belum Pernah Melihat",
+     "teks": "Kita belum pernah melihat wajah-Nya. Tapi setiap kali kita diampuni, dikuatkan, dan [tidak ditinggalkan], kita _tahu_ Dia nyata.",
+     "caption": "Belum melihat, tapi mengasihi 🌙\n\nPetrus menulis ini untuk orang-orang yang tidak pernah bertemu Yesus secara langsung. Itu termasuk kita.\n\n📖 “Sekalipun kamu belum pernah melihat Dia, namun kamu mengasihi-Nya. Kamu percaya kepada Dia, sekalipun kamu sekarang tidak melihat-Nya…” — 1 Petrus 1:8\n\nSelamat malam. Ketik 🤍 kalau minggu ini kamu merasakan kebaikan-Nya."},
+    # --- Rabu 28 Okt (Sola Gratia) ---
+    {"sumber": "Bab 10 · Kasih Karunia untuk Hari Biasa",
+     "teks": "Kasih karunia bukan cuma untuk hari kita bertobat. Kita butuh [kasih karunia] _hari ini_, untuk rapat jam sembilan dan sabar yang tinggal sedikit.",
+     "caption": "Hari ini Sola Gratia: hanya oleh kasih karunia 🤍\n\nKasih karunia bukan cuma pintu masuk. Itu juga udara yang kita hirup setiap hari, termasuk di hari Rabu yang biasa-biasa saja.\n\n📖 “Dan Allah sanggup melimpahkan segala kasih karunia kepada kamu, supaya kamu senantiasa berkecukupan di dalam segala sesuatu…” — 2 Korintus 9:8\n\nKetik “Amin” kalau kamu butuh kasih karunia untuk hari ini."},
+    {"sumber": "Bab 11 · Tentang Layak",
+     "teks": "Kasih karunia memang terasa [tidak adil]. Karena di sana kita menerima apa yang _tidak_ pernah bisa kita bayar.",
+     "caption": "Tidak adil, dan justru karena itu indah 🤍\n\nKalau Tuhan membalas kita setimpal dengan kesalahan kita, siapa yang tahan? Syukurlah, Dia memperlakukan kita dengan rahmat.\n\n📖 “Tidak dilakukan-Nya kepada kita setimpal dengan dosa kita, dan tidak dibalas-Nya kepada kita setimpal dengan kesalahan kita.” — Mazmur 103:10\n\nSave untuk hari kamu merasa tidak layak 🔖"},
+    {"sumber": "Bab 12 · Lebih Tinggi dari Tumpukan",
+     "teks": "Dosaku mungkin menumpuk. Tapi kasih karunia-Nya selalu [lebih tinggi] dari tumpukan itu, _setiap_ kali.",
+     "caption": "Untuk kamu yang malam ini merasa terlalu jauh 🌙\n\nTidak ada tumpukan kesalahan yang lebih tinggi dari kasih karunia-Nya. Datang, mengaku, dan terima pengampunan-Nya.\n\n📖 “…di mana dosa bertambah banyak, di sana kasih karunia menjadi berlimpah-limpah.” — Roma 5:20\n\nKirim ke seseorang yang perlu mendengar ini malam ini 💌"},
+    # --- Kamis 29 Okt (Solus Christus) ---
+    {"sumber": "Bab 13 · Nama di Atas Segala Nama",
+     "teks": "Ada banyak nama yang kita kagumi, dan banyak nama yang kita takuti. Tapi ada [satu Nama] yang _paling_ tinggi: Yesus.",
+     "caption": "Hari ini Solus Christus: hanya Kristus ✝️\n\nNama atasanmu, nama penyakit itu, nama masalah yang bikin susah tidur: semuanya ada di bawah satu Nama.\n\n📖 “Itulah sebabnya Allah sangat meninggikan Dia dan mengaruniakan kepada-Nya nama di atas segala nama.” — Filipi 2:9\n\nKetik “Yesus” kalau hari ini kamu mau memulai dengan nama-Nya."},
+    {"sumber": "Bab 14 · Sudah Dipenuhi",
+     "teks": "Kita sering sibuk menambah: lebih rohani, lebih rajin, lebih baik. Padahal di dalam Kristus, kita [sudah] _dipenuhi_.",
+     "caption": "Kamu tidak sedang kekurangan Kristus 🤍\n\nBertumbuh itu baik. Tapi kita bertumbuh dari kepenuhan, bukan supaya akhirnya diterima.\n\n📖 “Sebab dalam Dialah berdiam secara jasmaniah seluruh kepenuhan ke-Allahan, dan kamu telah dipenuhi di dalam Dia.” — Kolose 2:9-10\n\nSave untuk hari kamu merasa belum cukup 🔖"},
+    {"sumber": "Bab 15 · Pembela",
+     "teks": "Kalau malam ini rasa bersalah datang menuduh, ingat: kamu punya [Pembela] yang _tidak pernah_ kalah perkara.",
+     "caption": "Untuk malam ketika rasa bersalah datang lagi 🌙\n\nMengaku dosa itu perlu. Tapi setelah mengaku, kamu tidak perlu terus menghukum diri sendiri. Ada Pengantara yang membelamu.\n\n📖 “…jika seorang berbuat dosa, kita mempunyai seorang pengantara pada Bapa, yaitu Yesus Kristus, yang adil.” — 1 Yohanes 2:1\n\nSelamat malam. Ketik “Amin” kalau kamu butuh pengingat ini."},
+    # --- Jumat 30 Okt (Soli Deo Gloria) ---
+    {"sumber": "Bab 16 · Sapaan Pertama",
+     "teks": "Hidup untuk kemuliaan Allah dimulai dari hal yang paling dekat: cara kita menyapa orang [pertama] yang kita temui _pagi ini_.",
+     "caption": "Hari ini Soli Deo Gloria: hanya bagi kemuliaan Allah ✨\n\nKemuliaan Tuhan tidak hanya terlihat di panggung besar. Ia juga terlihat dari cara kita bicara dan melayani orang di dekat kita.\n\n📖 “Jika ada orang yang berbicara, baiklah ia berbicara sebagai orang yang menyampaikan firman Allah… supaya Allah dimuliakan dalam segala sesuatu karena Yesus Kristus.” — 1 Petrus 4:11\n\nSiapa orang pertama yang kamu temui hari ini? Doakan dia sebentar 🙏"},
+    {"sumber": "Bab 17 · Bukan Pertunjukan Tentang Aku",
+     "teks": "Lega rasanya tahu hidupku bukan pertunjukan tentang aku. [Sorotannya] milik Dia, dan aku _cukup_ menjadi saksi.",
+     "caption": "Lega, bukan beban 🤍\n\nAda kelegaan saat sadar hidup ini bukan tentang sorotan untukku. Aku tidak harus selalu terlihat hebat, karena yang dimuliakan adalah Dia.\n\n📖 “Bukan kepada kami, ya TUHAN, bukan kepada kami, tetapi kepada nama-Mulah beri kemuliaan, oleh karena kasih-Mu, oleh karena setia-Mu!” — Mazmur 115:1\n\nKirim ke temanmu yang capek harus selalu tampil 💌"},
+    {"sumber": "Bab 18 · Akhir Minggu Kerja",
+     "teks": "Minggu ini tidak semuanya berhasil. Tapi kalau [Dia] dimuliakan lewat sabarku yang kecil, minggu ini _tidak_ sia-sia.",
+     "caption": "Minggu kerja selesai 🌙\n\nTidak semua target tercapai. Tapi kamu diciptakan untuk kemuliaan-Nya, dan itu tidak diukur dari angka di laporan.\n\n📖 “…yang Kuciptakan untuk kemuliaan-Ku, yang Kubentuk dan yang juga Kujadikan!” — Yesaya 43:7\n\nSelamat beristirahat. Ketik 🤍 kalau minggumu juga naik turun."},
+    # --- Sabtu 31 Okt (Hari Reformasi) ---
+    {"sumber": "Bab 19 · 31 Oktober",
+     "teks": "Reformasi berawal dari satu pertanyaan jujur: [bagaimana] orang berdosa bisa diterima Allah? Jawabannya _masih_ sama: oleh kasih karunia.",
+     "caption": "Selamat Hari Reformasi 🕊️\n\n509 tahun lalu, pertanyaan itu membawa gereja kembali membuka Alkitab. Jawabannya bukan usaha kita, tapi kasih karunia Allah di dalam Kristus.\n\n📖 “Dialah yang menyelamatkan kita dan memanggil kita dengan panggilan kudus, bukan berdasarkan perbuatan kita, melainkan berdasarkan maksud dan kasih karunia-Nya sendiri…” — 2 Timotius 1:9\n\nKetik “Amin” kalau kamu bersyukur untuk kasih karunia ini."},
+    {"sumber": "Bab 20 · Reformasi di Dalam Hati",
+     "teks": "Reformasi tidak hanya terjadi di Wittenberg. Ia terjadi [setiap kali] kita berhenti mengandalkan diri dan _kembali_ bersandar pada kasih karunia.",
+     "caption": "Reformasi kecil di hatimu 🤍\n\nHari Reformasi bukan cuma pelajaran sejarah. Setiap kali kita mengaku butuh Kristus dan berhenti bersandar pada usaha sendiri, kabar baik itu bekerja lagi di dalam kita.\n\n📖 “…namun aku hidup, tetapi bukan lagi aku sendiri yang hidup, melainkan Kristus yang hidup di dalam aku…” — Galatia 2:20\n\nKetik “Amin” kalau malam ini kamu mau bersandar lagi pada-Nya."},
+    {"sumber": "Epilog · Kasih Karunia, Selalu",
+     "teks": "Minggu depan mungkin kita lupa lagi. Tapi kasih karunia tidak bergantung pada [ingatan kita], _melainkan_ pada kesetiaan-Nya.",
+     "caption": "Penutup minggu Reformasi 🌙\n\nTerima kasih sudah ikut seri Lima Sola minggu ini. Besok hari Minggu: datanglah, dan terima lagi kasih karunia yang sama.\n\n📖 “Kasih karunia Tuhan Yesus menyertai kamu sekalian! Amin.” — Wahyu 22:21\n\nKetik “Amin” sebelum tidur. Sampai jumpa di rumah-Nya besok 🤍"},
+]
+
+# ---------- KERTAS: catatan putih di atas foto hitam-putih (pagi3 & sore2) ----------
+KERTAS = [
+    # --- Minggu 25 Okt ---
+    {"teks": "Kabar baiknya belum berubah sejak dulu: kamu dikasihi, ditebus, dan disambut pulang.",
+     "ref": "Yohanes 3:16", "foto": "jendela",
+     "caption": "Kabar baik yang paling dasar ✉️\n\nAyat ini mungkin sudah kamu hafal sejak sekolah minggu. Coba baca lagi pelan-pelan pagi ini, seolah baru pertama kali.\n\n📖 “Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal.” — Yohanes 3:16\n\nKetik “Amin” kalau ayat ini masih membuatmu terharu."},
+    {"teks": "Semoga yang paling kamu ingat dari ibadah hari ini bukan siapa yang bernyanyi, tapi Siapa yang dinyanyikan.",
+     "ref": "Mazmur 34:4", "foto": "lilin",
+     "caption": "Bukan siapa, tapi Siapa 🎶\n\nPemain musiknya, suaranya, lampunya: semua itu alat. Pusat ibadah kita tetap Dia.\n\n📖 “Muliakanlah TUHAN bersama-sama dengan aku, marilah kita bersama-sama memasyhurkan nama-Nya!” — Mazmur 34:4\n\nKirim ke teman yang tadi melayani di ibadah 💌"},
+    # --- Senin 26 Okt ---
+    {"teks": "Manusia hidup bukan dari roti saja, tetapi dari setiap firman yang keluar dari mulut Allah.",
+     "ref": "Matius 4:4", "foto": "jalan",
+     "caption": "Sudah sarapan? Jiwamu juga perlu makan 🍞\n\nYesus mengucapkan kalimat ini saat Ia lapar di padang gurun. Firman Allah adalah makanan yang menopang-Nya.\n\n📖 “Ada tertulis: Manusia hidup bukan dari roti saja, tetapi dari setiap firman yang keluar dari mulut Allah.” — Matius 4:4\n\nSave dan baca lagi di jam makan siang 🔖"},
+    {"teks": "Langit dan bumi akan berlalu, tetapi perkataan-Ku tidak akan berlalu.",
+     "ref": "Matius 24:35", "foto": "gunung",
+     "caption": "Yang tetap berdiri 🏔️\n\nGunung yang terlihat abadi pun suatu hari akan berlalu. Tapi perkataan Yesus tidak.\n\n📖 “Langit dan bumi akan berlalu, tetapi perkataan-Ku tidak akan berlalu.” — Matius 24:35\n\nKetik “Amin” kalau kamu mau berdiri di atas perkataan-Nya."},
+    # --- Selasa 27 Okt ---
+    {"teks": "Imanmu mungkin kecil seperti biji sesawi. Tapi Dia yang kamu percayai tidak pernah kecil.",
+     "ref": "Lukas 17:6", "foto": "pohon",
+     "caption": "Iman sebesar biji sesawi 🌱\n\nPara rasul minta: tambahkanlah iman kami. Yesus menjawab, iman sebesar biji sesawi pun cukup, karena kuasanya bukan pada besarnya iman, tapi pada Allah yang dipercayai.\n\n📖 “Kalau sekiranya kamu mempunyai iman sebesar biji sesawi saja, kamu dapat berkata kepada pohon ara ini: Terbantunlah engkau dan tertanamlah di dalam laut, dan ia akan taat kepadamu.” — Lukas 17:6\n\nKetik 🌱 kalau imanmu sedang kecil, tapi kamu tetap percaya."},
+    {"teks": "Yang menopangku bukan kuatnya peganganku, tapi setianya Dia yang memegang janji-Nya.",
+     "ref": "Roma 4:20-21", "foto": "laut",
+     "caption": "Pegangan yang tidak lepas 🌊\n\nAbraham kuat bukan karena yakin pada dirinya, tapi karena yakin pada Allah yang berjanji. Iman bersandar pada karakter Allah, bukan pada perasaan kita.\n\n📖 “Tetapi terhadap janji Allah ia tidak bimbang karena ketidakpercayaan, malah ia diperkuat dalam imannya dan ia memuliakan Allah, dengan penuh keyakinan, bahwa Allah berkuasa untuk melaksanakan apa yang telah Ia janjikan.” — Roma 4:20-21\n\nSave untuk hari imanmu terasa goyah 🔖"},
+    # --- Rabu 28 Okt ---
+    {"teks": "Kamu tidak bekerja keras supaya dikasihi. Kamu melayani karena sudah lebih dulu dikasihi.",
+     "ref": "1 Yohanes 4:19", "foto": "kabut",
+     "caption": "Urutannya penting 🤍\n\nKasih Tuhan bukan hadiah untuk orang yang sudah berhasil. Kasih-Nya justru yang memulai semuanya.\n\n📖 “Kita mengasihi, karena Allah lebih dahulu mengasihi kita.” — 1 Yohanes 4:19\n\nKirim ke temanmu yang selalu merasa harus membuktikan diri 💌"},
+    {"teks": "Sekalipun dosamu merah seperti kirmizi, akan menjadi putih seperti salju.",
+     "ref": "Yesaya 1:18", "foto": "awan",
+     "caption": "Seputih salju ☁️\n\nTidak ada noda yang terlalu pekat untuk dibersihkan-Nya. Undangan-Nya masih terbuka: marilah.\n\n📖 “…Sekalipun dosamu merah seperti kirmizi, akan menjadi putih seperti salju; sekalipun berwarna merah seperti kain kesumba, akan menjadi putih seperti bulu domba.” — Yesaya 1:18\n\nKetik “Amin” kalau kamu bersyukur untuk pengampunan-Nya."},
+    # --- Kamis 29 Okt ---
+    {"teks": "Barangsiapa mengikut Aku, ia tidak akan berjalan dalam kegelapan.",
+     "ref": "Yohanes 8:12", "foto": "jalan",
+     "caption": "Pagi yang masih gelap? 🔦\n\nYesus tidak hanya menyalakan lampu dari jauh. Dia sendiri terangnya, dan Dia berjalan bersamamu.\n\n📖 “Akulah terang dunia; barangsiapa mengikut Aku, ia tidak akan berjalan dalam kegelapan, melainkan ia akan mempunyai terang hidup.” — Yohanes 8:12\n\nSave untuk pagi-pagi yang berkabut 🔖"},
+    {"teks": "Akulah roti hidup; barangsiapa datang kepada-Ku, ia tidak akan lapar lagi.",
+     "ref": "Yohanes 6:35", "foto": "jendela",
+     "caption": "Jam segini perut mulai keroncongan 😅\n\nTapi ada lapar yang tidak bisa dikenyangkan camilan: lapar untuk diterima, dimengerti, dan dikasihi. Yesus bilang, Dialah rotinya.\n\n📖 “Akulah roti hidup; barangsiapa datang kepada-Ku, ia tidak akan lapar lagi, dan barangsiapa percaya kepada-Ku, ia tidak akan haus lagi.” — Yohanes 6:35\n\nKetik 🍞 kalau sore ini kamu mau datang kepada-Nya."},
+    # --- Jumat 30 Okt ---
+    {"teks": "Akhir pekan sudah dekat. Selesaikan hari ini dengan cara yang membuat Tuhan dimuliakan.",
+     "ref": "", "foto": "lilin",
+     "caption": "Jumat pagi, satu tujuan ✨\n\nBukan supaya kita dipuji, tapi supaya Tuhan terlihat lewat cara kita bekerja, berbicara, dan menyelesaikan tugas.\n\n📖 “Berilah kepada TUHAN kemuliaan nama-Nya, sujudlah kepada TUHAN dengan berhiaskan kekudusan!” — Mazmur 29:2\n\nKetik “Amin” kalau ini doamu untuk hari Jumat ini."},
+    {"teks": "Ya TUHAN, Tuhan kami, betapa mulianya nama-Mu di seluruh bumi!",
+     "ref": "Mazmur 8:2", "foto": "bintang",
+     "caption": "Jumat sore, lihat ke atas sebentar 🌌\n\nSebelum akhir pekan dimulai, berhenti satu menit. Lihat langit, lalu ucapkan kalimat Daud ini.\n\n📖 “Ya TUHAN, Tuhan kami, betapa mulianya nama-Mu di seluruh bumi! Keagungan-Mu yang mengatasi langit dinyanyikan.” — Mazmur 8:2\n\nSave dan bagikan sebagai pujian akhir minggu 🔖"},
+    # --- Sabtu 31 Okt ---
+    {"teks": "509 tahun berlalu. Kasih karunia-Nya tidak pernah usang.",
+     "ref": "", "foto": "pohon",
+     "caption": "Hari Reformasi, 31 Oktober 🌳\n\nPohon tua masih berbuah karena akarnya dalam. Gereja bertahan bukan karena kita kuat, tapi karena Tuhan setia.\n\n📖 “Bersyukurlah kepada TUHAN, sebab Ia baik! Bahwasanya untuk selama-lamanya kasih setia-Nya.” — Mazmur 107:1\n\nKetik “Amin” untuk kesetiaan-Nya dari generasi ke generasi."},
+    {"teks": "Terimalah satu akan yang lain, sama seperti Kristus juga telah menerima kita.",
+     "ref": "Roma 15:7", "foto": "laut",
+     "caption": "Beda gereja, satu Tuhan 🤝\n\nHari Reformasi bukan hari untuk saling menjauh. Kita semua diterima oleh Kristus yang sama, karena kasih karunia yang sama.\n\n📖 “Sebab itu terimalah satu akan yang lain, sama seperti Kristus juga telah menerima kita, untuk kemuliaan Allah.” — Roma 15:7\n\nTag sahabatmu yang beda gereja tapi satu iman 🤍"},
+]
+
+# ---------- BESAR: huruf raksasa (siang, siang2 = Reels, malam) ----------
+BESAR = [
+    # --- Minggu 25 Okt ---
+    {"teks": "Kamu *tidak* harus [layak] dulu untuk _dikasihi_.",
+     "ref": "1 Yohanes 4:10",
+     "caption": "Kasih yang datang duluan 🤍\n\nKita tidak memulai kisah ini. Allah yang lebih dulu mengasihi, bahkan sebelum kita mencari Dia.\n\n📖 “Inilah kasih itu: Bukan kita yang telah mengasihi Allah, tetapi Allah yang telah mengasihi kita dan yang telah mengutus Anak-Nya sebagai pendamaian bagi dosa-dosa kita.” — 1 Yohanes 4:10\n\nKirim ke seseorang yang merasa harus layak dulu 💌"},
+    {"teks": "Bukan karena *usahamu*. Bukan karena _kebaikanmu_. Tapi karena [rahmat-Nya].",
+     "ref": "Titus 3:5",
+     "caption": "Bukan, bukan, tapi 🤍\n\nInilah inti kabar baik yang diingatkan kembali di masa Reformasi: kita diselamatkan karena belas kasihan Allah, bukan karena prestasi rohani kita.\n\n📖 “…Dia telah menyelamatkan kita, bukan karena perbuatan baik yang telah kita lakukan, tetapi karena rahmat-Nya…” — Titus 3:5\n\nSave sebagai pengingat saat kamu mulai menghitung prestasi 🔖"},
+    {"teks": "Malam ini kamu boleh tidur sebagai *anak*, bukan sebagai [pegawai] yang _takut_ dipecat.",
+     "ref": "Roma 8:15",
+     "caption": "Anak, bukan pegawai 🌙\n\nPegawai bekerja supaya tidak dipecat. Anak tinggal di rumah karena memang anak. Di dalam Kristus, kamu anak.\n\n📖 “Sebab kamu tidak menerima roh perbudakan yang membuat kamu menjadi takut lagi, tetapi kamu telah menerima Roh yang menjadikan kamu anak Allah. Oleh Roh itu kita berseru: ‘ya Abba, ya Bapa!’” — Roma 8:15\n\nSelamat malam. Ketik “Abba” kalau malam ini kamu mau beristirahat sebagai anak-Nya."},
+    # --- Senin 26 Okt ---
+    {"teks": "Firman-Nya *lebih tua* dari semua kekhawatiranmu, dan akan [tetap ada] _sesudahnya_.",
+     "ref": "Mazmur 119:89",
+     "caption": "Lebih tua, lebih kuat, lebih lama 📖\n\nKekhawatiran datang dan pergi. Firman-Nya sudah ada sebelum semuanya, dan tetap ada sesudahnya.\n\n📖 “Untuk selama-lamanya, ya TUHAN, firman-Mu tetap teguh di sorga.” — Mazmur 119:89\n\nKetik “Amin” kalau kamu mau berpegang pada firman-Nya minggu ini."},
+    {"teks": "Firman Allah *hidup* dan *kuat* dan [lebih tajam] dari pada pedang _bermata dua_.",
+     "ref": "Ibrani 4:12",
+     "caption": "Bukan sekadar buku tua ⚔️\n\nAlkitab bukan kumpulan kata mati. Firman-Nya hidup: menegur, menghibur, membentuk, dan menyentuh bagian hati yang tidak bisa disentuh orang lain.\n\n📖 “Sebab firman Allah hidup dan kuat dan lebih tajam dari pada pedang bermata dua manapun; ia menusuk amat dalam sampai memisahkan jiwa dan roh, sendi-sendi dan sumsum; ia sanggup membedakan pertimbangan dan pikiran hati kita.” — Ibrani 4:12\n\nAyat mana yang pernah paling menegur hatimu? Tulis di komentar 👇"},
+    {"teks": "Bukan *perasaanku* malam ini yang menentukan apa yang benar. [Firman-Mu] adalah _kebenaran_.",
+     "ref": "Yohanes 17:17",
+     "caption": "Perasaan berubah, kebenaran tidak 🌙\n\nMalam hari, perasaan sering paling keras bicara: kamu gagal, kamu sendirian, kamu tidak berguna. Bandingkan dengan apa kata Firman.\n\n📖 “Kuduskanlah mereka dalam kebenaran; firman-Mu adalah kebenaran.” — Yohanes 17:17\n\nSelamat malam. Kirim ke temanmu yang sedang dikuasai perasaannya 💌"},
+    # --- Selasa 27 Okt ---
+    {"teks": "Abram *percaya*, dan TUHAN memperhitungkannya sebagai [kebenaran]. Bukan _rapornya_. Imannya.",
+     "ref": "Kejadian 15:6",
+     "caption": "Bukan rapornya, tapi imannya 📜\n\nAbram tidak sempurna. Tapi ia percaya kepada janji Tuhan, dan itu yang diperhitungkan. Berabad-abad kemudian, Paulus mengutip ayat ini di surat Roma.\n\n📖 “Lalu percayalah Abram kepada TUHAN, maka TUHAN memperhitungkan hal itu kepadanya sebagai kebenaran.” — Kejadian 15:6\n\nKetik “Amin” kalau kamu bersyukur, nilaimu di hadapan-Nya bukan dari rapor."},
+    {"teks": "Orang yang *benar* itu akan [hidup] oleh _percayanya_.",
+     "ref": "Habakuk 2:4",
+     "caption": "Satu kalimat dari nabi kecil 🔥\n\nKalimat Habakuk ini dikutip Paulus di surat Roma, lalu berabad-abad kemudian mengubah hidup Martin Luther. Firman yang sama masih bekerja hari ini.\n\n📖 “…tetapi orang yang benar itu akan hidup oleh percayanya.” — Habakuk 2:4\n\nSave dan kirim ke teman diskusi Alkitabmu 💌"},
+    {"teks": "Yang *mengalahkan* dunia bukan kekuatanmu, tapi [iman] kepada Dia yang sudah _menang_.",
+     "ref": "1 Yohanes 5:4",
+     "caption": "Untuk kamu yang merasa kalah hari ini 🌙\n\nKemenangan orang percaya bukan karena kita selalu kuat, tapi karena kita terhubung dengan Dia yang sudah menang.\n\n📖 “…Dan inilah kemenangan yang mengalahkan dunia: iman kita.” — 1 Yohanes 5:4\n\nSelamat malam. Ketik 🤍 kalau hari ini terasa berat."},
+    # --- Rabu 28 Okt ---
+    {"teks": "Kasih karunia itu *gratis* untukmu, tapi [mahal] _bagi-Nya_.",
+     "ref": "2 Korintus 8:9",
+     "caption": "Gratis, tapi tidak murah 🤍\n\nKita menerimanya cuma-cuma karena Yesus sudah membayar harganya. Dia yang kaya rela menjadi miskin, dan itu juga cerita Natal.\n\n📖 “Karena kamu telah mengenal kasih karunia Tuhan kita Yesus Kristus, bahwa Ia, yang oleh karena kamu menjadi miskin, sekalipun Ia kaya, supaya kamu menjadi kaya oleh karena kemiskinan-Nya.” — 2 Korintus 8:9\n\nKirim ke seseorang yang perlu tahu betapa berharganya dia 💌"},
+    {"teks": "Oleh *kasih karunia* telah [dibenarkan] dengan _cuma-cuma_.",
+     "ref": "Roma 3:24",
+     "caption": "Tanpa cicilan 🤍\n\nTidak ada angsuran, tidak ada biaya tersembunyi. Kita dibenarkan karena penebusan yang dikerjakan Yesus.\n\n📖 “…dan oleh kasih karunia telah dibenarkan dengan cuma-cuma karena penebusan dalam Kristus Yesus.” — Roma 3:24\n\nKetik “Amin” kalau kamu bersyukur untuk anugerah ini 🙏"},
+    {"teks": "*Satu* Tuhan, _satu_ iman, satu baptisan, [satu Allah] dan Bapa dari semua.",
+     "ref": "Efesus 4:5-6",
+     "caption": "Hari ini Sumpah Pemuda 🇮🇩\n\nTahun 1928 para pemuda berikrar: satu tanah air, satu bangsa, dan menjunjung bahasa persatuan. Sebagai orang percaya, kita juga diingatkan: di dalam Kristus kita satu keluarga.\n\n📖 “…satu Tuhan, satu iman, satu baptisan, satu Allah dan Bapa dari semua, Allah yang di atas semua dan oleh semua dan di dalam semua.” — Efesus 4:5-6\n\nKetik “Satu” kalau kamu mendoakan persatuan gereja di Indonesia 🤍"},
+    # --- Kamis 29 Okt ---
+    {"teks": "Salib-Nya *cukup*. Kamu tidak perlu [menambahkan] apa-apa _lagi_.",
+     "ref": "Ibrani 10:14",
+     "caption": "Satu korban, cukup selamanya ✝️\n\nRasa bersalah sering berbisik: kamu harus membayar sedikit lagi. Tapi karya Yesus sudah sempurna.\n\n📖 “Sebab oleh satu korban saja Ia telah menyempurnakan untuk selama-lamanya mereka yang Ia kuduskan.” — Ibrani 10:14\n\nSave untuk hari kamu merasa harus membayar sendiri 🔖"},
+    {"teks": "Ia ada *terlebih dahulu* dari segala sesuatu dan segala sesuatu [ada di dalam] _Dia_.",
+     "ref": "Kolose 1:17",
+     "caption": "Pusat dari segalanya 🌍\n\nSebelum ada kamu, kekhawatiranmu, dan rencanamu, Kristus sudah ada. Segala sesuatu dipegang di dalam Dia, termasuk harimu.\n\n📖 “Ia ada terlebih dahulu dari segala sesuatu dan segala sesuatu ada di dalam Dia.” — Kolose 1:17\n\nKetik “Amin” kalau kamu mau Kristus jadi pusat harimu."},
+    {"teks": "Di kayu salib, Dia *memikul* yang [tidak sanggup] kamu _pikul_.",
+     "ref": "1 Petrus 2:24",
+     "caption": "Yang tidak sanggup kamu pikul 🌙\n\nDosa, rasa malu, hukuman yang seharusnya: semuanya sudah dipikul-Nya. Malam ini, letakkan bebanmu di kaki salib.\n\n📖 “Ia sendiri telah memikul dosa kita di dalam tubuh-Nya di kayu salib, supaya kita, yang telah mati terhadap dosa, hidup untuk kebenaran. Oleh bilur-bilur-Nya kamu telah sembuh.” — 1 Petrus 2:24\n\nSelamat malam. Ketik 🤍 sebagai tanda terima kasih."},
+    # --- Jumat 30 Okt ---
+    {"teks": "Segala sesuatu adalah *dari Dia*, _oleh Dia_, dan [kepada Dia].",
+     "ref": "Roma 11:36",
+     "caption": "Dari, oleh, kepada 🔁\n\nNapasmu, pekerjaanmu, makan siangmu hari ini: semuanya dari Dia, ditopang oleh Dia, dan kembali untuk kemuliaan-Nya.\n\n📖 “Sebab segala sesuatu adalah dari Dia, dan oleh Dia, dan kepada Dia: Bagi Dialah kemuliaan sampai selama-lamanya!” — Roma 11:36\n\nKetik “Bagi Dia” kalau ini jadi doamu siang ini 🙏"},
+    {"teks": "Engkau *layak* menerima [puji-pujian] dan _hormat_ dan kuasa.",
+     "ref": "Wahyu 4:11",
+     "caption": "Dia layak 👑\n\nKita memuji Tuhan bukan karena Dia butuh dipuji, tapi karena Dia memang layak. Segala sesuatu ada karena kehendak-Nya.\n\n📖 “Ya Tuhan dan Allah kami, Engkau layak menerima puji-pujian dan hormat dan kuasa; sebab Engkau telah menciptakan segala sesuatu; dan oleh karena kehendak-Mu semuanya itu ada dan diciptakan.” — Wahyu 4:11\n\nPutar lagu pujian favoritmu sore ini, lalu tulis judulnya di komentar 🎶"},
+    {"teks": "Dia dapat melakukan *jauh lebih banyak* dari pada yang kita [doakan] atau _pikirkan_.",
+     "ref": "Efesus 3:20",
+     "caption": "Jumat malam, sebelum akhir pekan 🌙\n\nDoa-doamu minggu ini mungkin terasa kecil. Tapi Dia yang mendengarnya sanggup melakukan jauh lebih banyak, dengan cara dan waktu-Nya.\n\n📖 “Bagi Dialah, yang dapat melakukan jauh lebih banyak dari pada yang kita doakan atau pikirkan, seperti yang ternyata dari kuasa yang bekerja di dalam kita, bagi Dialah kemuliaan di dalam jemaat dan di dalam Kristus Yesus turun-temurun sampai selama-lamanya. Amin.” — Efesus 3:20-21\n\nSelamat beristirahat. Ketik “Amin” untuk menutup minggu kerja ini."},
+    # --- Sabtu 31 Okt ---
+    {"teks": "*Iman* yang sama. [Kasih karunia] yang sama. _509 tahun_ kemudian.",
+     "ref": "",
+     "caption": "Selamat Hari Reformasi ✨\n\nBanyak hal berubah sejak 1517: bahasa, teknologi, cara kita beribadah. Tapi kabar baiknya tetap sama, dan sampai kepada kita lewat orang-orang yang setia menyampaikannya.\n\n📖 “Ingatlah akan pemimpin-pemimpin kamu, yang telah menyampaikan firman Allah kepadamu. Perhatikanlah akhir hidup mereka dan contohlah iman mereka.” — Ibrani 13:7\n\nSiapa yang pertama kali mengenalkan Yesus kepadamu? Tulis di komentar 👇"},
+    {"teks": "Supaya mereka *semua* menjadi [satu]… _supaya dunia percaya_.",
+     "ref": "Yohanes 17:21",
+     "caption": "Doa Yesus untuk kita semua 🤝\n\nSebelum disalib, Yesus mendoakan murid-murid-Nya, dan juga semua yang kelak percaya lewat pemberitaan mereka. Isi doa-Nya: supaya kita menjadi satu.\n\n📖 “…supaya mereka semua menjadi satu, sama seperti Engkau, ya Bapa, di dalam Aku dan Aku di dalam Engkau, agar mereka juga di dalam Kita, supaya dunia percaya, bahwa Engkaulah yang telah mengutus Aku.” — Yohanes 17:21\n\nKirim ke teman yang dulu satu persekutuan denganmu 💌"},
+    {"teks": "Besok kita *beribadah* bukan untuk [mendapatkan] kasih-Nya, tapi karena sudah _menerimanya_.",
+     "ref": "Efesus 1:6",
+     "caption": "Malam sebelum hari Minggu 🌙\n\nIbadah bukan uang muka untuk membeli perhatian Tuhan. Ibadah adalah ucapan terima kasih atas kasih karunia yang sudah diberikan.\n\n📖 “…supaya terpujilah kasih karunia-Nya yang mulia, yang dikaruniakan-Nya kepada kita di dalam Dia, yang dikasihi-Nya.” — Efesus 1:6\n\nSiapkan hatimu malam ini. Ketik “Siap” kalau besok kamu mau datang beribadah 🤍"},
+]
+
+# ---------- KOMIK: anak ("aku") dan Yesus (pagi2, malam0 = Reels animasi) ----------
+KOMIK = [
+    # --- Minggu 25 Okt ---
+    {"adegan": "pintu", "wajah": "senyum", "tangan": "bawah", "yesus": "sambut",
+     "aku": "Ada yang mengetuk dari tadi… Engkau, ya?",
+     "kata_yesus": "Aku berdiri di muka pintu dan mengetok.",
+     "caption": "Yang mengetuk lebih dulu 🚪\n\nKita sering mengira harus mencari-cari Tuhan sampai lelah. Ternyata Dia yang lebih dulu datang dan mengetuk.\n\n📖 “Lihat, Aku berdiri di muka pintu dan mengetok; jikalau ada orang yang mendengar suara-Ku dan membukakan pintu, Aku akan masuk mendapatkannya dan Aku makan bersama-sama dengan dia, dan ia bersama-sama dengan Aku.” — Wahyu 3:20\n\nKetik “Masuk, Tuhan” kalau hari ini kamu membukakan pintu hatimu 🤍"},
+    {"adegan": "bangku", "wajah": "gembira", "tangan": "atas", "yesus": "sambut",
+     "aku": "Kata kakak, anak kecil juga boleh datang!",
+     "kata_yesus": "Biarkanlah anak-anak itu datang kepada-Ku.",
+     "caption": "Tidak ada yang terlalu kecil untuk datang 🧒\n\nMurid-murid sempat menghalangi anak-anak. Yesus justru memanggil mereka. Pintu-Nya terbuka untuk yang kecil, yang polos, yang belum mengerti banyak.\n\n📖 “Biarkanlah anak-anak itu datang kepada-Ku, dan jangan kamu menghalang-halangi mereka, sebab orang-orang yang seperti itulah yang empunya Kerajaan Allah.” — Lukas 18:16\n\nTag guru sekolah minggu yang masih kamu ingat 💌"},
+    # --- Senin 26 Okt ---
+    {"adegan": "kamar", "wajah": "bingung", "tangan": "alkitab", "yesus": "tunjuk",
+     "aku": "Alkitabnya tebal sekali. Isinya tentang apa?",
+     "kata_yesus": "Kitab-kitab Suci itu memberi kesaksian tentang Aku.",
+     "caption": "Satu benang merah di seluruh Alkitab 📖\n\nDari Kejadian sampai Wahyu, semuanya menunjuk kepada Yesus. Kalau bingung mulai dari mana, mulailah dari Injil dan kenali Dia.\n\n📖 “…walaupun Kitab-kitab Suci itu memberi kesaksian tentang Aku…” — Yohanes 5:39\n\nSave untuk mulai membaca Injil minggu ini 🔖"},
+    {"adegan": "jalan", "wajah": "gembira", "tangan": "alkitab", "yesus": "bawah",
+     "aku": "Aku sudah baca, dan aku mau melakukannya!",
+     "kata_yesus": "Yang berbahagia ialah mereka yang mendengarkan firman Allah",
+     "caption": "Mendengar, lalu memelihara 👣\n\nFirman tidak hanya untuk dibaca, tapi juga dibawa berjalan: ke sekolah, ke kantor, ke rumah.\n\n📖 “Yang berbahagia ialah mereka yang mendengarkan firman Allah dan yang memeliharanya.” — Lukas 11:28\n\nTulis satu hal dari Firman yang mau kamu lakukan besok 👇"},
+    # --- Selasa 27 Okt ---
+    {"adegan": "bangku", "wajah": "merem", "tangan": "doa", "yesus": "sambut",
+     "aku": "Mataku terpejam, tapi aku tahu Engkau dekat.",
+     "kata_yesus": "Berbahagialah mereka yang tidak melihat, namun percaya.",
+     "caption": "Berbahagia, walau belum melihat 🙏\n\nYesus mengucapkan ini kepada Tomas, dan sebenarnya juga untuk kita: orang-orang yang percaya tanpa pernah melihat-Nya dengan mata.\n\n📖 “…Berbahagialah mereka yang tidak melihat, namun percaya.” — Yohanes 20:29\n\nKetik “Aku percaya” kalau ini juga doamu pagi ini 🤍"},
+    {"adegan": "hujan", "wajah": "sedih", "tangan": "bawah", "yesus": "payung",
+     "aku": "Hujannya deras, petirnya keras sekali…",
+     "kata_yesus": "Janganlah takut, hai kamu kawanan kecil!",
+     "caption": "Untuk yang takut malam ini ☔\n\nYesus menyebut murid-murid-Nya kawanan kecil. Kecil, tapi dijaga oleh Bapa yang berkenan memberi mereka Kerajaan-Nya.\n\n📖 “Janganlah takut, hai kamu kawanan kecil! Karena Bapamu telah berkenan memberikan kamu Kerajaan itu.” — Lukas 12:32\n\nKirim ke seseorang yang sedang ketakutan malam ini 💌"},
+    # --- Rabu 28 Okt ---
+    {"adegan": "bangku", "wajah": "bingung", "tangan": "dagu", "yesus": "sambut",
+     "aku": "Aku harus bayar berapa supaya Engkau sayang?",
+     "kata_yesus": "Sudah selesai.",
+     "caption": "Tidak ada yang perlu dicicil 🤍\n\nKita sering mengira kasih Tuhan harus dibayar dengan usaha. Tapi di kayu salib, Yesus sudah menanggung semuanya.\n\n📖 “…berkatalah Ia: ‘Sudah selesai.’ Lalu Ia menundukkan kepala-Nya dan menyerahkan nyawa-Nya.” — Yohanes 19:30\n\nKetik 🤍 kalau kamu bersyukur untuk salib-Nya hari ini."},
+    {"adegan": "hujan", "wajah": "senyum", "tangan": "atas", "yesus": "payung",
+     "aku": "Payungnya cukup untuk kita berdua, ya?",
+     "kata_yesus": "Tinggallah di dalam kasih-Ku itu.",
+     "caption": "Tinggal di bawah kasih-Nya ☂️\n\nHujan belum tentu berhenti malam ini. Tapi kamu tidak kehujanan sendirian. Tinggallah dekat-dekat dengan-Nya.\n\n📖 “Seperti Bapa telah mengasihi Aku, demikianlah juga Aku telah mengasihi kamu; tinggallah di dalam kasih-Ku itu.” — Yohanes 15:9\n\nSave untuk malam-malam hujan 🔖"},
+    # --- Kamis 29 Okt ---
+    {"adegan": "jalan", "wajah": "bingung", "tangan": "bawah", "yesus": "tunjuk",
+     "aku": "Jalan ke rumah Bapa lewat mana, ya?",
+     "kata_yesus": "Akulah jalan dan kebenaran dan hidup.",
+     "caption": "Bukan peta, tapi Pribadi ✝️\n\nTomas pernah bertanya: kami tidak tahu jalannya. Yesus tidak menggambar peta. Dia menunjuk diri-Nya sendiri.\n\n📖 “Akulah jalan dan kebenaran dan hidup. Tidak ada seorangpun yang datang kepada Bapa, kalau tidak melalui Aku.” — Yohanes 14:6\n\nKirim ke temanmu yang sedang mencari arah 💌"},
+    {"adegan": "kamar", "wajah": "bingung", "tangan": "dagu", "yesus": "sambut",
+     "aku": "Anak sebanyak ini, Engkau kenal aku juga?",
+     "kata_yesus": "Akulah gembala yang baik dan Aku mengenal domba-domba-Ku",
+     "caption": "Gembala yang baik 🐑\n\nDi antara miliaran orang, Dia tidak kehilangan jejakmu. Dia mengenalmu, dan kamu pun boleh mengenal Dia.\n\n📖 “Akulah gembala yang baik dan Aku mengenal domba-domba-Ku dan domba-domba-Ku mengenal Aku” — Yohanes 10:14\n\nSelamat malam. Ketik 🐑 kalau kamu domba-Nya."},
+    # --- Jumat 30 Okt ---
+    {"adegan": "pintu", "wajah": "gembira", "tangan": "atas", "yesus": "sambut",
+     "aku": "Hari ini aku bantu Mama cuci piring!",
+     "kata_yesus": "Demikianlah hendaknya terangmu bercahaya di depan orang",
+     "caption": "Terang dalam hal kecil ✨\n\nMemuliakan Tuhan tidak harus lewat panggung besar. Kadang lewat piring yang dicuci tanpa disuruh.\n\n📖 “Demikianlah hendaknya terangmu bercahaya di depan orang, supaya mereka melihat perbuatanmu yang baik dan memuliakan Bapamu yang di sorga.” — Matius 5:16\n\nHal kecil apa yang bisa kamu lakukan hari ini? Tulis di komentar 👇"},
+    {"adegan": "kamar", "wajah": "merem", "tangan": "doa", "yesus": "bawah",
+     "aku": "Ajari aku berdoa sebelum tidur, ya.",
+     "kata_yesus": "Berdoalah demikian: Bapa kami yang di sorga…",
+     "caption": "Doa yang diajarkan Yesus sendiri 🌙\n\nYesus mengajarkan doa ini kepada murid-murid-Nya. Doa itu dimulai dengan Bapa dan nama-Nya yang kudus, bukan dengan daftar permintaan.\n\n📖 “Karena itu berdoalah demikian: Bapa kami yang di sorga, Dikuduskanlah nama-Mu…” — Matius 6:9\n\nMalam ini, doakan Doa Bapa Kami pelan-pelan, lalu ketik “Amin” 🙏"},
+    # --- Sabtu 31 Okt ---
+    {"adegan": "bangku", "wajah": "gembira", "tangan": "bawah", "yesus": "sambut",
+     "aku": "Selamat pagi! Hari Sabtu, nggak buru-buru!",
+     "kata_yesus": "Marilah dan sarapanlah.",
+     "caption": "Sabtu pagi bersama Yesus ☀️\n\nSetelah bangkit, Yesus menyiapkan ikan dan roti untuk murid-murid-Nya yang semalaman menjala tanpa hasil. Dia peduli sampai ke sarapan kita.\n\n📖 “Kata Yesus kepada mereka: ‘Marilah dan sarapanlah.’” — Yohanes 21:12\n\nSudah sarapan belum? Tulis menu sarapanmu di komentar 🍳"},
+    {"adegan": "pintu", "wajah": "gembira", "tangan": "atas", "yesus": "sambut",
+     "aku": "Di rumah Bapa ada kamar untukku juga?",
+     "kata_yesus": "Di rumah Bapa-Ku banyak tempat tinggal.",
+     "caption": "Ada tempat untukmu 🏠\n\nBesok kita datang ke rumah Tuhan di bumi. Suatu hari kita akan tinggal bersama-Nya selamanya, dan Yesus sendiri yang menyediakan tempatnya.\n\n📖 “Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu.” — Yohanes 14:2\n\nKetik “Amin” kalau kamu rindu pulang ke rumah-Nya 🤍"},
+]
+
+# ---------- SERI: carousel "Lima Sola" (siang0) ----------
+SERI = [
+    {"judul": "Kembali ke Dasar", "arti": "Lima Sola, lima pengingat sederhana", "nomor": "01",
+     "slides": [("31 Oktober 1517", "Martin Luther, biarawan dan dosen Alkitab di Wittenberg, menulis 95 tesis untuk didiskusikan. Ia rindu gereja kembali kepada kabar baik yang ia temukan di dalam Alkitab."),
+                ("Lima kata Latin", "Pengingat itu kemudian dirangkum dalam lima frasa: Sola Scriptura, Sola Fide, Sola Gratia, Solus Christus, Soli Deo Gloria. Firman, iman, kasih karunia, Kristus, kemuliaan Allah."),
+                ("Bukan untuk berdebat", "Seri ini bukan tentang siapa yang menang. Ini undangan untuk bersyukur: kita dikasihi dan diselamatkan bukan karena layak, tapi karena Allah baik.")],
+     "ayat": "“Karena tidak ada seorangpun yang dapat meletakkan dasar lain dari pada dasar yang telah diletakkan, yaitu Yesus Kristus.”",
+     "ref": "1 Korintus 3:11",
+     "caption": "Seri baru minggu ini: Lima Sola 🧱\n\nHari ini banyak gereja merayakan Minggu Reformasi, dan Sabtu nanti, 31 Oktober, genap 509 tahun sejak 1517. Selama seminggu kita bahas satu pengingat dasar iman Kristen setiap hari, dengan sederhana dan tanpa debat.\n\nGeser sampai slide terakhir 👉\n\nSave supaya kamu bisa ikuti seri ini sampai Sabtu 🔖"},
+    {"judul": "Sola Scriptura", "arti": "Hanya oleh Firman", "nomor": "02",
+     "slides": [("Ukuran yang sama", "Sola Scriptura berarti Alkitab adalah ukuran tertinggi bagi iman dan hidup kita. Pengajaran, pengalaman, dan perasaan kita diuji oleh Firman, bukan sebaliknya."),
+                ("Firman untuk semua orang", "Luther menerjemahkan Perjanjian Baru ke bahasa Jerman supaya orang biasa bisa membacanya sendiri. Hari ini kita bisa membaca Alkitab dalam bahasa kita, bahkan di HP."),
+                ("Untuk minggu ini", "Mulai dari yang kecil: satu pasal Injil Markus setiap hari. Baca pelan-pelan, lalu tanyakan: apa yang kupelajari tentang Yesus hari ini?")],
+     "ayat": "“Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan dan untuk mendidik orang dalam kebenaran.”",
+     "ref": "2 Timotius 3:16",
+     "caption": "02 · Sola Scriptura: hanya oleh Firman 📖\n\nAlkitab bukan hanya untuk pendeta atau ahli teologi. Tuhan memberikannya supaya setiap kita bisa mengenal Dia lewat firman-Nya.\n\nGeser untuk membaca 👉\n\nRencana baca Alkitab apa yang sedang kamu ikuti? Tulis di komentar 👇"},
+    {"judul": "Sola Fide", "arti": "Hanya oleh iman", "nomor": "03",
+     "slides": [("Ayat yang mengubah segalanya", "Luther lama bergumul: bagaimana aku bisa benar di hadapan Allah? Di Roma 1:17 ia menemukan kabar baik: kebenaran Allah dianugerahkan kepada orang yang percaya."),
+                ("Dibenarkan", "Dibenarkan artinya dinyatakan benar di hadapan Allah. Bukan karena kita sudah sempurna, tapi karena kita percaya kepada Yesus yang hidup sempurna dan mati bagi kita."),
+                ("Iman yang hidup", "Iman yang sejati tidak tinggal diam. Ia bertumbuh menjadi kasih, kesabaran, dan perbuatan baik, bukan untuk membeli kasih Allah, tapi karena sudah menerimanya.")],
+     "ayat": "“Sebab di dalamnya nyata kebenaran Allah, yang bertolak dari iman dan memimpin kepada iman, seperti ada tertulis: ‘Orang benar akan hidup oleh iman.’”",
+     "ref": "Roma 1:17",
+     "caption": "03 · Sola Fide: hanya oleh iman 🌱\n\nKita diterima Allah bukan karena nilai rapor rohani kita, tapi karena percaya kepada Yesus. Iman itu pun tidak tinggal diam, tapi berbuah.\n\nGeser untuk membaca 👉\n\nKirim ke teman yang sedang belajar Alkitab bersamamu 💌"},
+    {"judul": "Sola Gratia", "arti": "Hanya oleh kasih karunia", "nomor": "04",
+     "slides": [("Hadiah, bukan upah", "Upah diterima karena kita bekerja. Hadiah diterima karena seseorang mengasihi kita. Keselamatan bukan upah atas kebaikan kita, tapi pemberian Allah yang murah hati."),
+                ("Dia yang memulai", "Allah tidak menunggu kita membereskan diri dulu. Kasih karunia-Nya datang ketika kita masih jauh, dan Dia sendiri yang menarik kita pulang."),
+                ("Hidup dari kasih karunia", "Kalau semuanya kasih karunia, kita tidak perlu sombong saat berhasil dan tidak perlu putus asa saat gagal. Kita juga bisa bermurah hati kepada orang lain.")],
+     "ayat": "“Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah, itu bukan hasil pekerjaanmu: jangan ada orang yang memegahkan diri.”",
+     "ref": "Efesus 2:8-9",
+     "caption": "04 · Sola Gratia: hanya oleh kasih karunia 🤍\n\nInilah inti tema minggu ini. Semua yang paling berharga dalam hidup kita adalah pemberian, bukan hasil kerja keras kita.\n\nGeser untuk membaca 👉\n\nKetik “Anugerah” kalau kamu bersyukur untuk kasih karunia-Nya hari ini."},
+    {"judul": "Solus Christus", "arti": "Hanya Kristus", "nomor": "05",
+     "slides": [("Satu Pengantara", "Kita tidak perlu mencari jalan sendiri untuk sampai kepada Allah. Yesus sendiri yang menjembatani jarak itu, dan Dia hidup untuk menjadi Pengantara kita."),
+                ("Karya yang sudah selesai", "Salib-Nya cukup untuk menghapus dosa kita. Kebangkitan-Nya cukup untuk memberi hidup baru. Kita tidak datang membawa tambahan, kita datang membawa diri."),
+                ("Pusat, bukan pelengkap", "Kristus bukan sekadar satu bagian dari hidup kita. Dialah pusatnya. Saat Dia di tengah, hal-hal lain menemukan tempatnya yang tepat.")],
+     "ayat": "“Karena itu Ia sanggup juga menyelamatkan dengan sempurna semua orang yang oleh Dia datang kepada Allah. Sebab Ia hidup senantiasa untuk menjadi Pengantara mereka.”",
+     "ref": "Ibrani 7:25",
+     "caption": "05 · Solus Christus: hanya Kristus ✝️\n\nBukan Kristus ditambah usaha kita, bukan Kristus sebagai pelengkap. Kristus saja, dan Dia cukup.\n\nGeser untuk membaca 👉\n\nSave untuk dibaca lagi saat kamu merasa harus menambah sesuatu 🔖"},
+    {"judul": "Soli Deo Gloria", "arti": "Hanya bagi kemuliaan Allah", "nomor": "06",
+     "slides": [("Pekerjaan juga panggilan", "Para Reformator mengingatkan bahwa pekerjaan sehari-hari juga panggilan dari Allah. Memasak, mengajar, mengetik laporan, merawat orang tua: semuanya bisa jadi ibadah."),
+                ("Syukur di atas segalanya", "Soli Deo Gloria juga berarti: semua yang baik dalam hidup kita, termasuk keberhasilan dan talenta, berasal dari Dia. Karena itu kita bersyukur, bukan menyombongkan diri."),
+                ("Hari Jumat ini", "Sebelum mulai bekerja, berdoalah singkat: Tuhan, biar pekerjaanku hari ini memuliakan-Mu. Lalu kerjakan yang ada di depanmu dengan hati yang sungguh.")],
+     "ayat": "“Aku menjawab: Jika engkau makan atau jika engkau minum, atau jika engkau melakukan sesuatu yang lain, lakukanlah semuanya itu untuk kemuliaan Allah.”",
+     "ref": "1 Korintus 10:31",
+     "caption": "06 · Soli Deo Gloria: hanya bagi kemuliaan Allah ✨\n\nSemua yang lain mengalir ke sini: Firman, iman, kasih karunia, dan Kristus membawa kita kembali kepada satu tujuan, yaitu kemuliaan Allah.\n\nGeser untuk membaca 👉\n\nKirim ke rekan kerjamu yang butuh semangat di hari Jumat 💌"},
+    {"judul": "Hari Reformasi", "arti": "509 tahun, kasih karunia yang sama", "nomor": "07",
+     "slides": [("Bersyukur", "Hari ini kita bersyukur untuk orang-orang yang berani kembali kepada Firman, dan untuk semua yang meneruskan iman sampai kepada kita: orang tua, guru sekolah minggu, gembala."),
+                ("Bersatu", "Reformasi bukan alasan untuk saling menjauh. Kita bersaudara karena satu Tuhan dan satu kasih karunia. Hari ini, doakan juga gereja-gereja lain di kotamu."),
+                ("Untuk hari ini", "Baca Efesus 2:1-10 pelan-pelan. Tulis satu hal yang kamu terima hanya karena kasih karunia, lalu ucapkan terima kasih kepada Tuhan, sendiri atau bersama keluarga.")],
+     "ayat": "“Karena dari kepenuhan-Nya kita semua telah menerima kasih karunia demi kasih karunia.”",
+     "ref": "Yohanes 1:16",
+     "caption": "07 · Selamat Hari Reformasi 🕊️\n\n31 Oktober 1517 sampai 31 Oktober 2026: 509 tahun, dan kasih karunia-Nya masih sama. Terima kasih sudah mengikuti seri Lima Sola minggu ini.\n\nGeser untuk membaca 👉\n\nTag teman yang mau kamu ajak bersyukur hari ini 🤍"},
+]
+
+# ---------- HITUNG: hitung mundur Natal (sore) ----------
+HITUNG = [
+    {"hari": 61, "teks": "Mulai hari ini kita siapkan hati pelan-pelan, satu hari satu langkah.",
+     "caption": "Hitung mundur menuju Natal dimulai! 🎄\n\nMasih 61 hari, tapi hati butuh waktu untuk disiapkan. Setiap sore kita hitung bersama, satu hari satu langkah.\n\n📖 “Persiapkanlah di padang gurun jalan untuk TUHAN, luruskanlah di padang belantara jalan raya bagi Allah kita!” — Yesaya 40:3\n\nKetik 🎄 kalau kamu ikut menghitung!"},
+    {"hari": 60, "teks": "Lampu hias boleh menunggu Desember. Terang yang sejati bisa disambut hari ini.",
+     "caption": "60 hari lagi ✨\n\nSebelum rumah penuh lampu warna-warni, biarkan Terang yang sejati masuk lebih dulu ke hatimu.\n\n📖 “Terang yang sesungguhnya, yang menerangi setiap orang, sedang datang ke dalam dunia.” — Yohanes 1:9\n\nSave dan hitung lagi bersama kami besok 🔖"},
+    {"hari": 59, "teks": "Maria percaya sebelum melihat. Yuk, latih hati untuk percaya dari sekarang.",
+     "caption": "59 hari lagi 🌟\n\nMaria belum melihat bayi itu, belum tahu bagaimana semuanya akan terjadi. Tapi ia percaya kepada firman Tuhan.\n\n📖 “Dan berbahagialah ia, yang telah percaya, sebab apa yang dikatakan kepadanya dari Tuhan, akan terlaksana.” — Lukas 1:45\n\nKetik “Amin” kalau kamu mau belajar percaya seperti Maria."},
+    {"hari": 58, "teks": "Natal adalah kasih karunia yang dibungkus lampin. Hadiah yang tidak bisa dibeli.",
+     "caption": "58 hari lagi 🎁\n\nDi minggu Sola Gratia ini, kita diingatkan bahwa hadiah Natal yang paling besar tidak ada di bawah pohon. Hadiah itu terbaring di palungan.\n\n📖 “Karena kasih karunia Allah yang menyelamatkan semua manusia sudah nyata.” — Titus 2:11\n\nKirim ke seseorang yang sedang menyusun daftar kado 💌"},
+    {"hari": 57, "teks": "Bukan pohon, bukan kado, bukan diskon akhir tahun. Pusatnya tetap Dia: Imanuel.",
+     "caption": "57 hari lagi 🎄\n\nNatal bisa ramai sekali sampai pusatnya terlupa. Nama bayi itu sudah memberi tahu kita segalanya: Allah menyertai kita.\n\n📖 “Sesungguhnya, anak dara itu akan mengandung dan melahirkan seorang anak laki-laki, dan mereka akan menamakan Dia Imanuel --yang berarti: Allah menyertai kita.” — Matius 1:23\n\nKetik “Imanuel” kalau kamu mau Dia jadi pusat Natalmu tahun ini."},
+    {"hari": 56, "teks": "Natal pertama dibuka dengan pujian malaikat. Yuk, mulai latihan memuji!",
+     "caption": "56 hari lagi 🎶\n\nSebelum ada lagu Natal di mal, sudah ada nyanyian malaikat di padang dekat Betlehem. Isinya sederhana: kemuliaan bagi Allah.\n\n📖 “Kemuliaan bagi Allah di tempat yang mahatinggi dan damai sejahtera di bumi di antara manusia yang berkenan kepada-Nya.” — Lukas 2:14\n\nLagu Natal apa yang paling kamu tunggu tahun ini? Tulis di komentar 👇"},
+    {"hari": 55, "teks": "Kasih karunia yang kita rayakan hari ini, datang sebagai bayi di Betlehem.",
+     "caption": "55 hari lagi 🕊️\n\nHari Reformasi dan Natal ternyata bercerita tentang hal yang sama: Allah datang dengan kasih karunia, bukan karena kita layak.\n\n📖 “Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, yaitu kemuliaan yang diberikan kepada-Nya sebagai Anak Tunggal Bapa, penuh kasih karunia dan kebenaran.” — Yohanes 1:14\n\nKetik 🎄 kalau kamu masih ikut menghitung sampai Natal!"},
+]
+
+
+# hari 1-7 (Minggu 25 Okt .. Sabtu 31 Okt 2026): 12 slot per hari -> (format, index)
+# pagi 06:00, pagi3 07:30, pagi2 09:00, siang0 10:30, siang 12:00, siang2 13:30 (Reels), sore 15:00, sore2 16:30,
+# petang 18:00, malam0 19:30 (Reels), malam 21:00, larut 22:30
+JADWAL = {d: {"pagi": ("KUTIPAN", 3 * (d - 1)), "pagi3": ("KERTAS", 2 * (d - 1)), "pagi2": ("KOMIK", 2 * (d - 1)),
+              "siang0": ("SERI", d - 1), "siang": ("BESAR", 3 * (d - 1)), "siang2": ("BESAR", 3 * (d - 1) + 1),
+              "sore": ("HITUNG", d - 1), "sore2": ("KERTAS", 2 * (d - 1) + 1),
+              "petang": ("KUTIPAN", 3 * (d - 1) + 1), "malam0": ("KOMIK", 2 * (d - 1) + 1),
+              "malam": ("BESAR", 3 * (d - 1) + 2), "larut": ("KUTIPAN", 3 * (d - 1) + 2)} for d in range(1, 8)}
