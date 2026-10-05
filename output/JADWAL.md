@@ -11169,3 +11169,2087 @@ Gambar (urut): `output/stories/tenang_w5-7-larut.jpg`
 ```
 
 ```
+
+## @diam.dan.percaya — Sun 01 Nov 06:00 WIB → **Sun 01 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w6/layar1.jpg`
+
+```
+Selamat pagi, November 🌅
+
+Dua bulan terakhir tahun ini dimulai hari ini. Sebelum menghitung apa yang belum tercapai, hitung dulu kebaikan-Nya yang sudah menemanimu sepanjang tahun.
+
+📖 “Engkau memahkotai tahun dengan kebaikan-Mu…” — Mazmur 65:12
+
+Ketik “Amin” kalau kamu mau memulai bulan ini dengan syukur.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 06:10 WIB → **Sun 01 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 07:30 WIB → **Sun 01 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w6/alkitab1.jpg`
+
+```
+Tanggal 1 November dikenal sebagai Hari Semua Orang Kudus 🕯️
+
+Orang kudus dalam Alkitab bukan orang yang sempurna, tapi orang yang dilayakkan oleh Bapa. Termasuk mereka yang sudah lebih dulu pulang, dan juga kamu.
+
+📖 “dan mengucap syukur dengan sukacita kepada Bapa, yang melayakkan kamu untuk mendapat bagian dalam apa yang ditentukan untuk orang-orang kudus di dalam kerajaan terang.” — Kolose 1:12
+
+Ketik “Amin” kalau kamu bersyukur sudah dilayakkan-Nya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 07:40 WIB → **Sun 01 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 09:00 WIB → **Sun 01 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_eli/edukasi3_1.jpg`, `output/tenang_eli/edukasi3_2.jpg`, `output/tenang_eli/edukasi3_3.jpg`, `output/tenang_eli/edukasi3_4.jpg`
+
+```
+Eli baru tahu arti “Amin” 🙏
+
+“Amin” artinya kurang lebih: sungguh, benar, jadilah demikian. Jadi waktu kita bilang “Amin”, kita setuju sepenuh hati dengan doa atau firman itu.
+
+📖 2 Korintus 1:20
+
+Ketik “AMIN” kalau kamu setuju 😄
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 09:10 WIB → **Sun 01 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 10:30 WIB → **Sun 01 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w6/editorial1_1.jpg`, `output/tenang_w6/editorial1_2.jpg`, `output/tenang_w6/editorial1_3.jpg`, `output/tenang_w6/editorial1_4.jpg`, `output/tenang_w6/editorial1_5.jpg`
+
+```
+Minggu ini kita belajar satu hal: bersyukur dalam segala hal 🍂
+
+Bukan pura-pura semua baik. Bukan juga menunggu semuanya beres. Tapi belajar melihat tangan Tuhan di setiap musim, yang cerah maupun yang mendung.
+
+📖 Efesus 5:20
+
+Ketik “Aku ikut” kalau kamu mau belajar bersama minggu ini 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 10:40 WIB → **Sun 01 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 12:00 WIB → **Sun 01 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w6/poster1.jpg`
+
+```
+Setiap musim tetap punya alasan untuk bersyukur 🍂
+
+Setelah air bah, Tuhan berfirman bahwa musim akan terus berganti selama bumi masih ada. Menabur dan menuai, dingin dan panas. Musimnya berganti, kesetiaan-Nya tidak.
+
+📖 “Selama bumi masih ada, takkan berhenti-henti musim menabur dan menuai, dingin dan panas, kemarau dan hujan, siang dan malam.” — Kejadian 8:22
+
+Kamu sedang di musim apa sekarang? Tulis satu kata di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 12:10 WIB → **Sun 01 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 13:30 WIB → **Sun 01 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding1.mp4`
+
+```
+Temukan pesannya 👀
+
+Mulai dengan syukur. Bukan karena semuanya sudah beres, tapi karena Tuhan sudah setia sampai hari pertama bulan ini.
+
+📖 “Aku hendak memuji TUHAN pada segala waktu; puji-pujian kepada-Nya tetap di dalam mulutku.” — Mazmur 34:2
+
+Ketik “SYUKUR” kalau kamu menemukan pesannya 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 13:40 WIB → **Sun 01 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding1.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 15:00 WIB → **Sun 01 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w6/hitung1.jpg`
+
+```
+54 hari lagi 🎄
+
+Natal adalah hadiah terbesar yang pernah diberikan Allah. Jadi cara terbaik menyiapkan hati untuk Natal adalah belajar bersyukur dari sekarang.
+
+📖 “Syukur kepada Allah karena karunia-Nya yang tak terkatakan itu!” — 2 Korintus 9:15
+
+Ketik 🎁 kalau kamu mau menyambut Natal dengan hati yang bersyukur.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 15:10 WIB → **Sun 01 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 16:30 WIB → **Sun 01 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w6/minimal1.jpg`
+
+```
+Hari pertama November hampir selesai 🤍
+
+Sebelum malam datang, berhenti sebentar dan ucapkan satu kalimat sederhana kepada Tuhan.
+
+📖 “Allahku Engkau, aku hendak bersyukur kepada-Mu, Allahku, aku hendak meninggikan Engkau.” — Mazmur 118:28
+
+Ketik “Terima kasih, Tuhan” di komentar.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 16:40 WIB → **Sun 01 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 18:00 WIB → **Mon 02 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w6/warna1_1.jpg`
+
+```
+Daftar syukur hari Minggu 🍂
+
+Kita milik-Nya, umat-Nya, domba-domba gembalaan-Nya. Itu alasan paling dasar untuk bersyukur, apa pun yang terjadi minggu ini.
+
+📖 “Ketahuilah, bahwa TUHANlah Allah; Dialah yang menjadikan kita dan punya Dialah kita, umat-Nya dan kawanan domba gembalaan-Nya.” — Mazmur 100:3
+
+Tambahkan satu baris ke daftar ini di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 18:10 WIB → **Mon 02 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 19:30 WIB → **Mon 02 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana1.mp4`
+
+```
+1 November: mengingat dengan syukur 🕯️
+
+Iman kita tidak jatuh dari langit. Ia sampai kepada kita lewat orang-orang yang setia: nenek, ibu, guru, gembala. Ada yang masih bersama kita, ada yang sudah lebih dulu pulang.
+
+📖 “Sebab aku teringat akan imanmu yang tulus ikhlas, yaitu iman yang pertama-tama hidup di dalam nenekmu Lois dan di dalam ibumu Eunike dan yang aku yakin hidup juga di dalam dirimu.” — 2 Timotius 1:5
+
+Ketik 🕯️ untuk mengenang mereka dengan syukur.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 19:40 WIB → **Mon 02 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana1.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 21:00 WIB → **Mon 02 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w6/led1.jpg`
+
+```
+Hari pertama November selesai ✨
+
+Tahun berganti, bulan berganti, rencana kita pun berganti. Dia tidak.
+
+📖 “tetapi Engkau tetap sama, dan tahun-tahun-Mu tidak berkesudahan.” — Mazmur 102:28
+
+Ketik “Tetap sama” sebelum tidur malam ini 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 21:10 WIB → **Mon 02 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 01 Nov 22:30 WIB → **Mon 02 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w6/doa1.jpg`
+
+```
+Doa sebelum tidur di malam pertama November 🌙
+
+📖 “Tetapi aku, kepada-Mu aku percaya, ya TUHAN, aku berkata: ‘Engkaulah Allahku!’” — Mazmur 31:15
+
+Ketik “Amin” kalau kamu ikut mendoakannya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 01 Nov 22:40 WIB → **Mon 02 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-1-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 06:00 WIB → **Mon 02 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w6/layar2.jpg`
+
+```
+Pengingat kecil sebelum Senin dimulai ⏰
+
+Pemazmur memuji Tuhan berkali-kali dalam sehari. Kita bisa mulai dari satu kali: pagi ini, sebelum layar kerja menyala.
+
+📖 “Tujuh kali dalam sehari aku memuji-muji Engkau, karena hukum-hukum-Mu yang adil.” — Mazmur 119:164
+
+Tulis tiga hal yang kamu syukuri pagi ini di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 06:10 WIB → **Mon 02 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 07:30 WIB → **Mon 02 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w6/alkitab2.jpg`
+
+```
+Doa yang diajarkan Yesus tidak meminta stok untuk setahun 🍞
+
+Cukup untuk hari ini. Dan setiap hari, Bapa setia memberikannya lagi. Senin ini, syukuri roti untuk hari ini.
+
+📖 “Berikanlah kami pada hari ini makanan kami yang secukupnya” — Matius 6:11
+
+Save dan doakan pelan-pelan sebelum sarapan 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 07:40 WIB → **Mon 02 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 09:00 WIB → **Mon 02 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_w6/retro1.jpg`
+
+```
+Hari biasa juga punya alasan untuk bersyukur 🍞
+
+Mazmur 136 mengulang satu kalimat sampai 26 kali: untuk selama-lamanya kasih setia-Nya. Di antara karya-karya besar Tuhan, ada juga hal yang sederhana: roti untuk hari ini.
+
+📖 “Dia yang memberikan roti kepada segala makhluk; bahwasanya untuk selama-lamanya kasih setia-Nya.” — Mazmur 136:25
+
+Ketik 🍞 sebagai ucapan terima kasihmu untuk sarapan pagi ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 09:10 WIB → **Mon 02 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 10:30 WIB → **Mon 02 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w6/editorial2_1.jpg`, `output/tenang_w6/editorial2_2.jpg`, `output/tenang_w6/editorial2_3.jpg`, `output/tenang_w6/editorial2_4.jpg`, `output/tenang_w6/editorial2_5.jpg`
+
+```
+Hari biasa juga hadiah 🎁
+
+Mazmur 104 memuji Tuhan untuk hal-hal yang sering kita anggap biasa: mata air, rumput, roti, matahari terbit dan terbenam. Semuanya dibuat dengan bijaksana.
+
+📖 Mazmur 104:24
+
+Hal biasa apa yang kamu syukuri hari ini? Ceritakan di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 10:40 WIB → **Mon 02 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 12:00 WIB → **Mon 02 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w6/poster2.jpg`
+
+```
+Berkat kecil juga berkat 🤍
+
+Nasi hangat, air bersih, kursi untuk duduk sebentar. Kita sering menunggu berkat yang besar sampai lupa bahwa hari ini pun kita sudah dikenyangkan dengan kebaikan-Nya.
+
+📖 “sebab dipuaskan-Nya jiwa yang dahaga, dan jiwa yang lapar dikenyangkan-Nya dengan kebaikan.” — Mazmur 107:9
+
+Sebutkan satu berkat kecil hari ini di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 12:10 WIB → **Mon 02 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 13:30 WIB → **Mon 02 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding2.mp4`
+
+```
+Temukan pesannya 👀
+
+Syukuri yang ada hari ini: makanan di meja, pekerjaan di depan mata, orang-orang di sekitarmu. Semuanya pemberian Allah yang baik.
+
+📖 “Karena semua yang diciptakan Allah itu baik… jika diterima dengan ucapan syukur,” — 1 Timotius 4:4
+
+Save sebagai pengingat di jam makan siang 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 13:40 WIB → **Mon 02 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding2.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 15:00 WIB → **Mon 02 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w6/hitung2.jpg`
+
+```
+53 hari lagi 🌾
+
+Tidak ada tempat di penginapan, hanya palungan. Tapi justru di tempat sederhana itu Juruselamat dibaringkan. Hari biasamu pun bukan tempat yang terlalu sederhana bagi-Nya.
+
+📖 “dan ia melahirkan seorang anak laki-laki, anaknya yang sulung, lalu dibungkusnya dengan lampin dan dibaringkannya di dalam palungan, karena tidak ada tempat bagi mereka di rumah penginapan.” — Lukas 2:7
+
+Ketik 🌾 kalau Senin ini kamu mau mengundang Dia ke hari biasamu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 15:10 WIB → **Mon 02 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 16:30 WIB → **Mon 02 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w6/minimal2.jpg`
+
+```
+Untuk Senin yang biasa-biasa saja 🤍
+
+Tidak semua hari terasa istimewa. Tapi tidak ada satu jam pun yang Dia lewatkan.
+
+📖 “Sebab kasih setia-Mu lebih baik dari pada hidup; bibirku akan memegahkan Engkau.” — Mazmur 63:4
+
+Ketik 🤍 kalau Senin-mu juga biasa-biasa saja.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 16:40 WIB → **Mon 02 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 18:00 WIB → **Tue 03 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w6/warna2_1.jpg`
+
+```
+Senin, dan semuanya titipan 🤍
+
+Daud mengakui bahwa semua yang mereka persembahkan untuk rumah Tuhan sebenarnya berasal dari Tuhan sendiri. Begitu juga pekerjaan dan orang-orang di sekitar kita.
+
+📖 “…Sebab dari pada-Mulah segala-galanya dan dari tangan-Mu sendirilah persembahan yang kami berikan kepada-Mu.” — 1 Tawarikh 29:14
+
+Doakan satu rekan kerjamu hari ini, lalu ketik 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 18:10 WIB → **Tue 03 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 19:30 WIB → **Tue 03 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana2.mp4`
+
+```
+Hal-hal yang hampir terlewat 🌫️
+
+Pemazmur melihat semua makhluk menantikan Tuhan, dan Tuhan membuka tangan-Nya setiap hari. Kebaikan itu sering datang dalam bentuk yang sangat biasa.
+
+📖 “Mata sekalian orang menantikan Engkau, dan Engkaupun memberi mereka makanan pada waktunya; Engkau yang membuka tangan-Mu dan yang berkenan mengenyangkan segala yang hidup.” — Mazmur 145:15-16
+
+Tulis satu hal kecil yang hampir kamu lewatkan hari ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 19:40 WIB → **Tue 03 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana2.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 21:00 WIB → **Tue 03 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w6/led2.jpg`
+
+```
+Pesan malam untuk hari Senin 💡
+
+Paulus mengajak jemaat bertekun dalam doa dan berjaga-jaga sambil mengucap syukur. Doa dan syukur selalu berjalan bersama.
+
+📖 “Bertekunlah dalam doa dan dalam pada itu berjaga-jagalah sambil mengucap syukur.” — Kolose 4:2
+
+Sebelum tidur, ucapkan satu doa dan satu terima kasih. Lalu ketik “Amin” 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 21:10 WIB → **Tue 03 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 02 Nov 22:30 WIB → **Tue 03 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w6/doa2.jpg`
+
+```
+Doa malam untuk hari Senin yang biasa 🌙
+
+📖 “Kiranya kemurahan Tuhan, Allah kami, atas kami, dan teguhkanlah perbuatan tangan kami, ya, perbuatan tangan kami, teguhkanlah itu.” — Mazmur 90:17
+
+Ketik “Amin” kalau ini juga doamu untuk besok.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 02 Nov 22:40 WIB → **Tue 03 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-2-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 06:00 WIB → **Tue 03 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w6/layar3.jpg`
+
+```
+Doa pagi untuk hari yang terasa berat 🤍
+
+Daud menulis mazmur ini saat bersembunyi di gua, dikejar orang yang ingin mencelakainya. Tapi hatinya tetap memilih untuk memuji.
+
+📖 “Hatiku siap, ya Allah, hatiku siap; aku mau menyanyi, aku mau bermazmur.” — Mazmur 57:8
+
+Ketik “Hatiku siap” kalau kamu mau memulai hari dengan memuji.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 06:10 WIB → **Tue 03 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 07:30 WIB → **Tue 03 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w6/alkitab3.jpg`
+
+```
+Ayat tentang panen yang gagal 🍂
+
+Habakuk menulis daftar yang menyakitkan: pohon tidak berbuah, ladang kosong, kandang sepi. Lalu ayat berikutnya dimulai dengan satu kata yang mengubah semuanya: namun.
+
+📖 “Sekalipun pohon ara tidak berbunga, pohon anggur tidak berbuah, hasil pohon zaitun mengecewakan, sekalipun ladang-ladang tidak menghasilkan bahan makanan, kambing domba terhalau dari kurungan, dan tidak ada lembu sapi dalam kandang,” — Habakuk 3:17
+
+Kalau musimmu sedang kosong, ketik “namun” sebagai imanmu hari ini 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 07:40 WIB → **Tue 03 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 09:00 WIB → **Tue 03 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_w6/retro2.jpg`
+
+```
+Kaki dipasung, punggung masih perih 🎶
+
+Paulus dan Silas baru saja didera lalu dimasukkan ke ruang penjara yang paling dalam. Tapi tengah malam, yang terdengar dari sel mereka justru doa dan pujian.
+
+📖 “Tetapi kira-kira tengah malam Paulus dan Silas berdoa dan menyanyikan puji-pujian kepada Allah dan orang-orang hukuman lain mendengarkan mereka.” — Kisah Para Rasul 16:25
+
+Ketik 🎶 kalau kamu mau tetap memuji di musim yang sulit.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 09:10 WIB → **Tue 03 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 10:30 WIB → **Tue 03 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w6/editorial3_1.jpg`, `output/tenang_w6/editorial3_2.jpg`, `output/tenang_w6/editorial3_3.jpg`, `output/tenang_w6/editorial3_4.jpg`, `output/tenang_w6/editorial3_5.jpg`
+
+```
+Bersyukur tidak sama dengan menyangkal rasa sakit 🤍
+
+Pemazmur tidak menyangkal bahwa jiwanya tertekan. Ia mengakuinya, lalu berbicara kepada dirinya sendiri: berharaplah kepada Allah, aku akan bersyukur lagi.
+
+📖 Mazmur 42:6
+
+Save untuk hari kamu butuh izin untuk jujur 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 10:40 WIB → **Tue 03 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 12:00 WIB → **Tue 03 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w6/poster3.jpg`
+
+```
+Api dan air, tapi tidak ditinggalkan 🌌
+
+Mazmur 66 tidak berpura-pura jalannya mudah. Mereka melewati api dan air. Tapi pujiannya lahir dari kesaksian: Tuhan membawa mereka keluar.
+
+📖 “…kami telah menempuh api dan air; tetapi Engkau telah mengeluarkan kami sehingga bebas.” — Mazmur 66:12
+
+Ketik “Dia tetap baik” kalau kamu sedang melewati musim yang berat.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 12:10 WIB → **Tue 03 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 13:30 WIB → **Tue 03 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding3.mp4`
+
+```
+Temukan pesannya 👀
+
+Masih ada alasan bersyukur, bahkan di hari yang berat. Mungkin bukan untuk keadaannya, tapi untuk Tuhan yang tetap menemanimu di dalamnya.
+
+📖 “Aku yang meratap telah Kauubah menjadi orang yang menari-nari, kain kabungku telah Kaubuka, pinggangku Kauikat dengan sukacita,” — Mazmur 30:12
+
+Kirim ke seseorang yang sedang butuh alasan untuk bertahan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 13:40 WIB → **Tue 03 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding3.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 15:00 WIB → **Tue 03 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w6/hitung3.jpg`
+
+```
+52 hari lagi ✨
+
+Yesaya menulis nubuat ini untuk bangsa yang sedang di masa gelap. Ratusan tahun kemudian, Terang itu lahir di Betlehem.
+
+📖 “Bangsa yang berjalan di dalam kegelapan telah melihat terang yang besar; mereka yang diam di negeri kekelaman, atasnya terang telah bersinar.” — Yesaya 9:1
+
+Kirim ke seseorang yang butuh sedikit terang hari ini 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 15:10 WIB → **Tue 03 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 16:30 WIB → **Tue 03 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w6/minimal3.jpg`
+
+```
+Kalimat jujur untuk hari yang berat 🤍
+
+Keadaannya mungkin belum baik. Tapi Tuhan tetap baik, dan Dia mengenal setiap orang yang datang berlindung kepada-Nya.
+
+📖 “TUHAN itu baik; Ia adalah tempat pengungsian pada waktu kesusahan; Ia mengenal orang-orang yang berlindung kepada-Nya” — Nahum 1:7
+
+Ketik “Engkau baik” kalau ini juga doamu sore ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 16:40 WIB → **Tue 03 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 18:00 WIB → **Wed 04 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w6/warna3_1.jpg`
+
+```
+Syukur yang jujur 🤍
+
+Kita tidak harus mengerti semuanya untuk bisa bersyukur. Kita bersyukur untuk Tuhan yang tetap menjadi kekuatan dan perisai di tengah semuanya.
+
+📖 “TUHAN adalah kekuatanku dan perisaiku; kepada-Nya hatiku percaya. Aku tertolong sebab itu beria-ria hatiku, dan dengan nyanyianku aku bersyukur kepada-Nya.” — Mazmur 28:7
+
+Ketik 🤍 kalau kamu sedang belajar bersyukur dengan jujur.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 18:10 WIB → **Wed 04 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 19:30 WIB → **Wed 04 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana3.mp4`
+
+```
+Untuk kamu yang sedang di musim kehilangan 🌫️
+
+Ayub tidak pura-pura kuat. Ia berduka dengan sungguh-sungguh. Tapi di tengah duka itu, ia tetap menyembah.
+
+📖 “…TUHAN yang memberi, TUHAN yang mengambil, terpujilah nama TUHAN!” — Ayub 1:21
+
+Kalau kamu sedang berduka, ketik 🤍 dan kami ikut mendoakanmu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 19:40 WIB → **Wed 04 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana3.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 21:00 WIB → **Wed 04 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w6/led3.jpg`
+
+```
+Akhir dari doa Habakuk 💡
+
+Doa yang dimulai dengan panen gagal ditutup dengan kaki yang kuat untuk mendaki. Bukan karena musimnya berubah, tapi karena Allah menjadi kekuatannya.
+
+📖 “ALLAH Tuhanku itu kekuatanku: Ia membuat kakiku seperti kaki rusa, Ia membiarkan aku berjejak di bukit-bukitku.” — Habakuk 3:19
+
+Ketik “Kekuatanku” kalau malam ini kamu butuh dikuatkan 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 21:10 WIB → **Wed 04 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 03 Nov 22:30 WIB → **Wed 04 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w6/doa3.jpg`
+
+```
+Doa untuk musim yang sulit 🌙
+
+📖 “Terpujilah Allah, Bapa Tuhan kita Yesus Kristus, Bapa yang penuh belas kasihan dan Allah sumber segala penghiburan, yang menghibur kami dalam segala penderitaan kami…” — 2 Korintus 1:3-4
+
+Kalau kamu sedang di musim ini, ketik “Amin”. Kami ikut berdoa untukmu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 03 Nov 22:40 WIB → **Wed 04 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-3-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 06:00 WIB → **Wed 04 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w6/layar4.jpg`
+
+```
+Pengingat hari Rabu 💌
+
+Ada orang-orang yang Tuhan pakai untuk menajamkan, menguatkan, dan menemani kita. Mereka layak tahu bahwa mereka berarti.
+
+📖 “Besi menajamkan besi, orang menajamkan sesamanya.” — Amsal 27:17
+
+Tag orang itu di komentar, lalu kirim pesan terima kasihmu 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 06:10 WIB → **Wed 04 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 07:30 WIB → **Wed 04 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w6/alkitab4.jpg`
+
+```
+Surat pendek dari Paulus untuk seorang sahabat 💌
+
+Surat Filemon cuma satu pasal, tapi dibuka dengan ucapan syukur untuk satu orang. Paulus bersyukur kepada Allah setiap kali mengingat sahabatnya.
+
+📖 “Aku mengucap syukur kepada Allahku, setiap kali aku mengingat engkau dalam doaku,” — Filemon 1:4
+
+Siapa yang kamu ingat waktu membaca ayat ini? Tag dia 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 07:40 WIB → **Wed 04 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 09:00 WIB → **Wed 04 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_eli/saran2_1.jpg`, `output/tenang_eli/saran2_2.jpg`, `output/tenang_eli/saran2_3.jpg`, `output/tenang_eli/saran2_4.jpg`, `output/tenang_eli/saran2_5.jpg`, `output/tenang_eli/saran2_6.jpg`
+
+```
+Bingung mau doa apa? Coba 4 langkah dari Eli 🙏
+
+Puji → Akui → Syukuri → Minta
+
+Tidak harus panjang, yang penting jujur.
+
+📖 Filipi 4:6
+
+Save untuk dicoba malam ini 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 09:10 WIB → **Wed 04 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 10:30 WIB → **Wed 04 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w6/editorial4_1.jpg`, `output/tenang_w6/editorial4_2.jpg`, `output/tenang_w6/editorial4_3.jpg`, `output/tenang_w6/editorial4_4.jpg`, `output/tenang_w6/editorial4_5.jpg`
+
+```
+Kamu tidak sampai di sini sendirian 🤝
+
+Paulus menulis kepada jemaat Korintus yang penuh masalah. Tapi suratnya tetap dibuka dengan ucapan syukur karena mereka, sebab ia melihat kasih karunia Allah bekerja di dalam orang-orang itu.
+
+📖 1 Korintus 1:4
+
+Tag satu orang yang kamu syukuri hari ini, dan bilang kenapa 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 10:40 WIB → **Wed 04 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 12:00 WIB → **Wed 04 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w6/poster4.jpg`
+
+```
+Orang-orang yang datang di waktu yang tepat 🤍
+
+Teman yang menelepon saat kamu hampir menyerah. Kakak rohani yang mengajakmu kembali ke gereja. Mereka bukan kebetulan.
+
+📖 “Kami selalu mengucap syukur kepada Allah karena kamu semua dan menyebut kamu dalam doa kami.” — 1 Tesalonika 1:2
+
+Tag seseorang yang Tuhan kirim tepat waktu ke hidupmu 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 12:10 WIB → **Wed 04 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 13:30 WIB → **Wed 04 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding4.mp4`
+
+```
+Temukan pesannya 👀
+
+Terima kasih sudah ada. Kalimat sederhana yang mungkin sedang ditunggu seseorang. Hari ini, ucapkan itu kepada teman yang tetap tinggal.
+
+📖 “Karena kalau mereka jatuh, yang seorang mengangkat temannya…” — Pengkhotbah 4:10
+
+Tag teman yang selalu mengangkatmu saat jatuh 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 13:40 WIB → **Wed 04 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding4.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 15:00 WIB → **Wed 04 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w6/hitung4.jpg`
+
+```
+51 hari lagi 🤝
+
+Saat Elisabet melahirkan Yohanes, tetangga dan sanak saudaranya ikut bersukacita. Sukacita dari Tuhan memang paling indah kalau dibagikan.
+
+📖 “Ketika tetangga-tetangganya serta sanak saudaranya mendengar, bahwa Tuhan telah menunjukkan rahmat-Nya yang begitu besar kepadanya, bersukacitalah mereka bersama-sama dengan dia.” — Lukas 1:58
+
+Tag orang yang mau kamu ajak ke ibadah Natal tahun ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 15:10 WIB → **Wed 04 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 16:30 WIB → **Wed 04 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w6/minimal4.jpg`
+
+```
+Untuk orang-orang yang tetap tinggal 🤍
+
+Kita semua pernah sulit dicintai. Tuhan sering memakai orang-orang yang sabar untuk mengingatkan kita bahwa kasih-Nya lebih sabar lagi.
+
+📖 “Tidak ada kasih yang lebih besar dari pada kasih seorang yang memberikan nyawanya untuk sahabat-sahabatnya.” — Yohanes 15:13
+
+Kirim ini ke seseorang yang tetap tinggal 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 16:40 WIB → **Wed 04 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 18:00 WIB → **Thu 05 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w6/warna4_1.jpg`
+
+```
+Balas doa dengan doa 🙏
+
+Mungkin ada seseorang yang dulu setia mendoakanmu: orang tua, kakak rohani, sahabat lama. Paulus pun tidak bisa berhenti bersyukur kepada Allah karena orang-orang yang ia kasihi.
+
+📖 “Sebab ucapan syukur apakah yang dapat kami persembahkan kepada Allah atas segala sukacita, yang kami peroleh karena kamu, di hadapan Allah kita?” — 1 Tesalonika 3:9
+
+Sebut namanya dalam doa, lalu ketik “Sudah” di komentar 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 18:10 WIB → **Thu 05 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 19:30 WIB → **Thu 05 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana4.mp4`
+
+```
+Satu nama di surat terakhir Paulus ✨
+
+Di akhir hidupnya, Paulus menulis bahwa banyak orang berpaling darinya. Tapi ia menyebut satu sahabat yang tidak malu datang ke penjara.
+
+📖 “Tuhan kiranya mengaruniakan rahmat-Nya kepada keluarga Onesiforus yang telah berulang-ulang menyegarkan hatiku. Ia tidak malu menjumpai aku di dalam penjara.” — 2 Timotius 1:16
+
+Tag ‘Onesiforus’ di hidupmu, orang yang tetap datang saat kamu jatuh 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 19:40 WIB → **Thu 05 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana4.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 21:00 WIB → **Thu 05 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w6/led4.jpg`
+
+```
+Untuk sahabat yang lebih dari saudara 💡
+
+Screenshot ini, lalu kirim ke sahabat yang tetap ada di musim terberatmu.
+
+📖 “…tetapi ada juga sahabat yang lebih karib dari pada seorang saudara.” — Amsal 18:24
+
+Tag dia sekarang juga 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 21:10 WIB → **Thu 05 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 04 Nov 22:30 WIB → **Thu 05 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w6/doa4.jpg`
+
+```
+Doa untuk orang-orang baik di hidupmu 🌙
+
+📖 “Dan inilah doaku, semoga kasihmu makin melimpah dalam pengetahuan yang benar dan dalam segala macam pengertian,” — Filipi 1:9
+
+Sebut nama mereka dalam hati, lalu ketik “Amin” 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 04 Nov 22:40 WIB → **Thu 05 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-4-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 06:00 WIB → **Thu 05 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w6/layar5.jpg`
+
+```
+Pagi ini, untuk kamu yang masih menunggu 🌊
+
+Daud tidak hanya berharap melihat kebaikan Tuhan suatu hari nanti. Ia percaya akan melihatnya di sini, di negeri orang-orang yang hidup.
+
+📖 “Sesungguhnya, aku percaya akan melihat kebaikan TUHAN di negeri orang-orang yang hidup!” — Mazmur 27:13
+
+Save untuk hari-hari menunggu 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 06:10 WIB → **Thu 05 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 07:30 WIB → **Thu 05 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w6/alkitab5.jpg`
+
+```
+Yesus bersyukur sebelum kubur itu kosong 🪨
+
+Batu baru saja diangkat. Lazarus belum keluar. Tapi Yesus sudah mengucap syukur kepada Bapa, karena Ia tahu Bapa mendengar-Nya.
+
+📖 “Maka mereka mengangkat batu itu. Lalu Yesus menengadah ke atas dan berkata: ‘Bapa, Aku mengucap syukur kepada-Mu, karena Engkau telah mendengarkan Aku.’” — Yohanes 11:41
+
+Ketik “Engkau mendengar” kalau kamu mau belajar bersyukur lebih dulu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 07:40 WIB → **Thu 05 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 09:00 WIB → **Thu 05 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_w6/retro3.jpg`
+
+```
+Menunggu tidak harus diam saja 📻
+
+Pemazmur ini sudah tua dan masih menantikan pertolongan Tuhan. Tapi ia tidak berhenti berharap. Ia malah menambah pujiannya.
+
+📖 “Tetapi aku senantiasa mau berharap dan menambah puji-pujian kepada-Mu;” — Mazmur 71:14
+
+Ketik “Tetap memuji” kalau kamu juga sedang menunggu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 09:10 WIB → **Thu 05 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 10:30 WIB → **Thu 05 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w6/editorial5_1.jpg`, `output/tenang_w6/editorial5_2.jpg`, `output/tenang_w6/editorial5_3.jpg`, `output/tenang_w6/editorial5_4.jpg`, `output/tenang_w6/editorial5_5.jpg`
+
+```
+Bersyukur sebelum ada jawaban 🤍
+
+Bersyukur saat menunggu bukan berarti kita sudah tahu hasil akhirnya. Kita bersyukur karena Dia mendengar, dan karena Dia menguatkan kita selama menunggu.
+
+📖 Mazmur 138:3
+
+Ketik “Dia dengar” kalau kamu sedang menunggu kabar 🙏
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 10:40 WIB → **Thu 05 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 12:00 WIB → **Thu 05 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w6/poster5.jpg`
+
+```
+Mata yang belajar melihat lebih jauh 🌫️
+
+Paulus menulis ini di tengah tekanan dan penderitaan. Ia belajar mengarahkan mata ke hal yang tidak kelihatan: Allah yang terus bekerja.
+
+📖 “Sebab kami tidak memperhatikan yang kelihatan, melainkan yang tak kelihatan, karena yang kelihatan adalah sementara, sedangkan yang tak kelihatan adalah kekal.” — 2 Korintus 4:18
+
+Kirim ke temanmu yang lelah menunggu sesuatu terlihat 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 12:10 WIB → **Thu 05 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 13:30 WIB → **Thu 05 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding5.mp4`
+
+```
+Temukan pesannya 👀
+
+Selama menunggu, Dia menemani. Menunggu memang tidak nyaman, tapi kamu tidak menunggu sendirian.
+
+📖 “‘TUHAN adalah bagianku,’ kata jiwaku, oleh sebab itu aku berharap kepada-Nya.” — Ratapan 3:24
+
+Ketik “DIA MENEMANI” kalau kamu sedang menunggu 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 13:40 WIB → **Thu 05 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding5.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 15:00 WIB → **Thu 05 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w6/hitung5.jpg`
+
+```
+Tinggal 50 hari 🎉
+
+Umat Tuhan menantikan Mesias selama ratusan tahun. Kelihatannya lama, tapi Allah tidak pernah terlambat. Ia mengutus Anak-Nya tepat pada waktu-Nya.
+
+📖 “Tetapi setelah genap waktunya, maka Allah mengutus Anak-Nya, yang lahir dari seorang perempuan dan takluk kepada hukum Taurat.” — Galatia 4:4
+
+Ketik “50” kalau kamu masih menghitung bersama kami!
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 15:10 WIB → **Thu 05 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 16:30 WIB → **Thu 05 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w6/minimal5.jpg`
+
+```
+Mengenal Dia lebih penting daripada tahu semua jawabannya 🤍
+
+📖 “Orang yang mengenal nama-Mu percaya kepada-Mu, sebab tidak Kautinggalkan orang yang mencari Engkau, ya TUHAN.” — Mazmur 9:11
+
+Ketik “Aku kenal Engkau” sebagai doamu sore ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 16:40 WIB → **Thu 05 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 18:00 WIB → **Fri 06 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w6/warna5_1.jpg`
+
+```
+Tunggu dulu juga jawaban 🤍
+
+Tidak semua jawaban doa berbunyi “ya”. Kadang Tuhan menjawab dengan “tunggu dulu”, dan selama menunggu Dia tetap menolong dan melindungi.
+
+📖 “Jiwa kita menanti-nantikan TUHAN. Dialah penolong kita dan perisai kita!” — Mazmur 33:20
+
+Ketik “Aku menunggu” kalau doamu sedang dijawab “tunggu dulu”.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 18:10 WIB → **Fri 06 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 19:30 WIB → **Fri 06 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana5.mp4`
+
+```
+Untuk malam-malam penantian 🌫️
+
+Yesaya menulis tentang hari ketika umat Tuhan melihat bahwa penantian mereka tidak sia-sia. Penantian kita pun ada di tangan-Nya.
+
+📖 “…Sesungguhnya, inilah Allah kita, yang kita nanti-nantikan, supaya kita diselamatkan…” — Yesaya 25:9
+
+Kirim ke seseorang yang sedang menanti dengan sabar 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 19:40 WIB → **Fri 06 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana5.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 21:00 WIB → **Fri 06 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w6/led5.jpg`
+
+```
+Pesan malam untuk yang masih berdoa 💡
+
+Pemazmur bersaksi: Allah mendengar dan memperhatikan doanya. Malam ini, kamu boleh tidur dengan keyakinan yang sama.
+
+📖 “Sesungguhnya, Allah telah mendengar, Ia telah memperhatikan doa yang kuucapkan.” — Mazmur 66:19
+
+Ketik “Didengar” sebelum tidur 🌙
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 21:10 WIB → **Fri 06 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 05 Nov 22:30 WIB → **Fri 06 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w6/doa5.jpg`
+
+```
+Doa malam di tengah penantian 🌙
+
+📖 “Sebab kepada-Mu, ya TUHAN, aku berharap; Engkaulah yang akan menjawab, ya Tuhan, Allahku.” — Mazmur 38:16
+
+Ketik “Amin”, lalu tidurlah dengan tenang.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 05 Nov 22:40 WIB → **Fri 06 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-5-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 06:00 WIB → **Fri 06 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w6/layar6.jpg`
+
+```
+Jumat pagi, waktunya mengingat 🌅
+
+Kita cepat sekali mencatat doa yang belum dijawab, tapi sering lupa merayakan yang sudah. Pagi ini, ingat satu saja.
+
+📖 “TUHAN telah melakukan perkara besar kepada kita, maka kita bersukacita.” — Mazmur 126:3
+
+Ceritakan satu doa yang sudah dijawab-Nya tahun ini di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 06:10 WIB → **Fri 06 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 07:30 WIB → **Fri 06 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w6/alkitab6.jpg`
+
+```
+Mazmur 77 dimulai dengan malam yang tidak bisa tidur 🌙
+
+Asaf berseru, gelisah, dan bertanya apakah Tuhan sudah lupa. Lalu di tengah mazmur, arahnya berubah: ia memilih untuk mengingat.
+
+📖 “Aku hendak mengingat perbuatan-perbuatan TUHAN, ya, aku hendak mengingat keajaiban-keajaiban-Mu dari zaman purbakala.” — Mazmur 77:12
+
+Tulis satu perbuatan Tuhan yang kamu ingat minggu ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 07:40 WIB → **Fri 06 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 09:00 WIB → **Fri 06 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_w6/retro4.jpg`
+
+```
+Empat puluh tahun di padang gurun 🏜️
+
+Sebelum masuk ke negeri yang baru, Musa mengajak Israel menengok ke belakang. Bukan hanya untuk mengenang susahnya, tapi untuk melihat bahwa Tuhan memelihara mereka setiap hari.
+
+📖 “Pakaianmu tidaklah menjadi buruk di tubuhmu dan kakimu tidaklah menjadi bengkak selama empat puluh tahun ini.” — Ulangan 8:4
+
+Coba tengok ke belakang: di bagian mana Tuhan memeliharamu tahun ini? Ceritakan di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 09:10 WIB → **Fri 06 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 10:30 WIB → **Fri 06 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w6/editorial6_1.jpg`, `output/tenang_w6/editorial6_2.jpg`, `output/tenang_w6/editorial6_3.jpg`, `output/tenang_w6/editorial6_4.jpg`, `output/tenang_w6/editorial6_5.jpg`
+
+```
+Coba hitung lagi kebaikan-Nya 🍂
+
+Daud mencoba menghitung perbuatan Tuhan dalam hidupnya, lalu menyerah: terlalu banyak. Kita juga sering lupa betapa panjang daftarnya, sampai kita mulai menulis.
+
+📖 Mazmur 40:6
+
+Tulis satu kebaikan Tuhan tahun ini di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 10:40 WIB → **Fri 06 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 12:00 WIB → **Fri 06 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w6/poster6.jpg`
+
+```
+Kebaikan yang tidak bisa dibalas 🙏
+
+Sejak kecil kita diajari untuk bilang terima kasih kepada orang lain. Tapi kadang kita lupa mengucapkannya kepada Tuhan, padahal kebaikan-Nya tidak akan pernah bisa kita balas.
+
+📖 “Bagaimana akan kubalas kepada TUHAN segala kebajikan-Nya kepadaku?” — Mazmur 116:12
+
+Ketik “Terima kasih, Tuhan” di komentar sebagai doamu siang ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 12:10 WIB → **Fri 06 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 13:30 WIB → **Fri 06 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding6.mp4`
+
+```
+Temukan pesannya 👀
+
+Ingat semua kebaikan-Nya. Tuhan tahu kita mudah lupa, karena itu Ia memberi kita banyak cara untuk mengingat.
+
+📖 “Perbuatan-perbuatan-Nya yang ajaib dijadikan-Nya peringatan; TUHAN itu pengasih dan penyayang.” — Mazmur 111:4
+
+Save dan baca lagi setiap kali kamu lupa 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 13:40 WIB → **Fri 06 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding6.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 15:00 WIB → **Fri 06 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w6/hitung6.jpg`
+
+```
+49 hari lagi 🐑
+
+Gembala-gembala tidak membawa pulang kado atau oleh-oleh. Mereka membawa pulang pujian, karena semua yang dikatakan kepada mereka benar-benar terjadi.
+
+📖 “Maka kembalilah gembala-gembala itu sambil memuji dan memuliakan Allah karena segala sesuatu yang mereka dengar dan mereka lihat, semuanya sesuai dengan apa yang telah dikatakan kepada mereka.” — Lukas 2:20
+
+Ketik 🐑 kalau kamu mau pulang dari setiap ibadah dengan hati yang memuji.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 15:10 WIB → **Fri 06 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 16:30 WIB → **Fri 06 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w6/minimal6.jpg`
+
+```
+Ketakutan kemarin, kesetiaan-Nya hari ini 🤍
+
+Banyak hal yang dulu kita takutkan, hari ini sudah kita lewati. Bukan karena kita kuat, tapi karena tangan-Nya tidak pernah lepas.
+
+📖 “Dari belakang dan dari depan Engkau mengurung aku, dan Engkau menaruh tangan-Mu ke atasku.” — Mazmur 139:5
+
+Save untuk dibaca saat kamu takut soal besok 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 16:40 WIB → **Fri 06 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 18:00 WIB → **Sat 07 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w6/warna6_1.jpg`
+
+```
+Tidak semua “tidak” adalah penolakan 🤍
+
+Ada doa yang dulu kita tangisi karena tidak dijawab seperti yang kita mau. Bertahun-tahun kemudian, kita baru melihat hikmat-Nya. Ada juga yang mungkin baru kita mengerti nanti.
+
+📖 “O, alangkah dalamnya kekayaan, hikmat dan pengetahuan Allah! Sungguh tak terselidiki keputusan-keputusan-Nya dan sungguh tak terselami jalan-jalan-Nya!” — Roma 11:33
+
+Pernah mengalaminya? Ceritakan singkat di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 18:10 WIB → **Sat 07 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 19:30 WIB → **Sat 07 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana6.mp4`
+
+```
+Putar ulang minggu ini 🌌
+
+Daud mengajak jiwanya sendiri untuk tidak melupakan kebaikan Tuhan. Salah satunya: Dia yang memahkotai kita dengan kasih setia dan rahmat.
+
+📖 “Dia yang menebus hidupmu dari lobang kubur, yang memahkotai engkau dengan kasih setia dan rahmat,” — Mazmur 103:4
+
+Save dan coba lakukan sebelum tidur malam ini 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 19:40 WIB → **Sat 07 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana6.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 21:00 WIB → **Sat 07 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w6/led6.jpg`
+
+```
+Sepuluh sembuh, satu kembali 💡
+
+Sepuluh orang kusta berseru minta dikasihani, dan kesepuluhnya disembuhkan. Tapi hanya satu yang kembali untuk mengucap syukur, dan Yesus memperhatikannya.
+
+📖 “Seorang dari mereka, ketika melihat bahwa ia telah sembuh, kembali sambil memuliakan Allah dengan suara nyaring, lalu tersungkur di depan kaki Yesus dan mengucap syukur kepada-Nya…” — Lukas 17:15-16
+
+Malam ini, jadilah yang kembali. Ketik 🙏 sebagai ucapan syukurmu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 21:10 WIB → **Sat 07 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 06 Nov 22:30 WIB → **Sat 07 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w6/doa6.jpg`
+
+```
+Doa untuk hati yang mudah lupa 🌙
+
+📖 “Aku hendak menyebut-nyebut perbuatan kasih setia TUHAN, perbuatan TUHAN yang masyhur, sesuai dengan segala yang dilakukan TUHAN kepada kita…” — Yesaya 63:7
+
+Ketik “Amin” kalau kamu juga sering lupa.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 06 Nov 22:40 WIB → **Sat 07 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-6-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 06:00 WIB → **Sat 07 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w6/layar7.jpg`
+
+```
+Doa Sabtu pagi yang sederhana ☕
+
+Agur bin Yake meminta sesuatu yang jarang kita minta: bukan kekayaan, bukan kemiskinan, tapi cukup.
+
+📖 “…Jangan berikan kepadaku kemiskinan atau kekayaan. Biarkanlah aku menikmati makanan yang menjadi bagianku.” — Amsal 30:8
+
+Ketik “Cukup” sebagai doamu Sabtu ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 06:10 WIB → **Sat 07 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 07:30 WIB → **Sat 07 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w6/alkitab7.jpg`
+
+```
+Rasa cukup itu dipelajari, bukan langsung jadi 📚
+
+Paulus menulis ini dari penjara. Ia tidak bilang rasa cukup datang dengan sendirinya. Ia bilang: aku telah belajar.
+
+📖 “Kukatakan ini bukanlah karena kekurangan, sebab aku telah belajar mencukupkan diri dalam segala keadaan.” — Filipi 4:11
+
+Kirim ke teman yang mau belajar bareng pelan-pelan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 07:40 WIB → **Sat 07 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 09:00 WIB → **Sat 07 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_eli/edukasi4_1.jpg`, `output/tenang_eli/edukasi4_2.jpg`, `output/tenang_eli/edukasi4_3.jpg`, `output/tenang_eli/edukasi4_4.jpg`
+
+```
+Perjanjian Lama dan Perjanjian Baru itu bukan dua cerita yang berbeda. Keduanya satu cerita besar tentang kasih Tuhan, dan puncaknya di Yesus 📖
+
+📖 Matius 5:17
+
+Kamu paling suka baca kitab apa? Tulis di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 09:10 WIB → **Sat 07 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 10:30 WIB → **Sat 07 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w6/editorial7_1.jpg`, `output/tenang_w6/editorial7_2.jpg`, `output/tenang_w6/editorial7_3.jpg`, `output/tenang_w6/editorial7_4.jpg`, `output/tenang_w6/editorial7_5.jpg`
+
+```
+Cukup. Satu kata yang jarang kita ucapkan 🤍
+
+Paulus menulis kepada Timotius: keuntungan terbesar bukan punya lebih banyak, tapi hidup dekat Tuhan dengan hati yang merasa cukup.
+
+📖 1 Timotius 6:6
+
+Selamat menikmati Sabtu. Follow @diam.dan.percaya supaya pengingat seperti ini muncul di berandamu setiap hari.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 10:40 WIB → **Sat 07 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 12:00 WIB → **Sat 07 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w6/poster7.jpg`
+
+```
+Kalau semuanya diambil, apa yang tersisa? 🤍
+
+Daud menemukan jawabannya: Tuhan sendiri. Berkat-berkat-Nya baik, tapi yang paling baik adalah Dia.
+
+📖 “Aku berkata kepada TUHAN: ‘Engkaulah Tuhanku, tidak ada yang baik bagiku selain Engkau!’” — Mazmur 16:2
+
+Ketik “Engkau cukup” kalau ini doamu hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 12:10 WIB → **Sat 07 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 13:30 WIB → **Sat 07 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding7.mp4`
+
+```
+Temukan pesannya 👀
+
+Sedikit dengan Tuhan lebih baik. Amsal tidak meremehkan kebutuhan kita, tapi mengingatkan bahwa harta yang banyak tidak bisa membeli hati yang tenang.
+
+📖 “Lebih baik sedikit barang dengan disertai takut akan TUHAN dari pada banyak harta dengan disertai kecemasan.” — Amsal 15:16
+
+Kirim ke temanmu yang sedang lelah mengejar lebih 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 13:40 WIB → **Sat 07 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/dinding7.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 15:00 WIB → **Sat 07 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w6/hitung7.jpg`
+
+```
+48 hari lagi ⭐
+
+Perjalanan orang Majus panjang dan melelahkan. Tapi saat bintang itu terlihat lagi, sukacita mereka meluap. Tuhan tahu cara memberi tanda kecil di sepanjang perjalanan kita.
+
+📖 “Ketika mereka melihat bintang itu, sangat bersukacitalah mereka.” — Matius 2:10
+
+Apa ‘bintang kecil’ yang membuatmu bersyukur minggu ini? Tulis di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 15:10 WIB → **Sat 07 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 16:30 WIB → **Sat 07 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w6/minimal7.jpg`
+
+```
+Berkat yang datang diam-diam 🤍
+
+Tidak semua berkat datang dengan suara keras. Ada yang datang diam-diam: rumah untuk pulang dan hati yang tenang.
+
+📖 “Engkau telah memberikan sukacita kepadaku, lebih banyak dari pada mereka ketika mereka kelimpahan gandum dan anggur.” — Mazmur 4:8
+
+Tulis satu berkat sederhana Sabtu ini di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 16:40 WIB → **Sat 07 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 18:00 WIB → **Sun 08 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w6/warna7_1.jpg`
+
+```
+Ganti yang dihitung 🤍
+
+Daud menulis tentang hidangan yang disediakan Tuhan dan piala yang penuh, bahkan saat lawan masih ada di sekitarnya. Kelimpahannya bukan karena masalah hilang, tapi karena Tuhan hadir.
+
+📖 “Engkau menyediakan hidangan bagiku, di hadapan lawanku; Engkau mengurapi kepalaku dengan minyak; pialaku penuh melimpah.” — Mazmur 23:5
+
+Save sebagai pengingat akhir pekan 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 18:10 WIB → **Sun 08 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 19:30 WIB → **Sun 08 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana7.mp4`
+
+```
+Sabtu malam, sebelum hari Minggu ✨
+
+Ibadah besok bukan cuma soal datang, tapi juga soal membawa sesuatu: ucapan syukur dari minggu yang sudah kita lewati bersama-Nya.
+
+📖 “Sebab itu marilah kita, oleh Dia, senantiasa mempersembahkan korban syukur kepada Allah, yaitu ucapan bibir yang memuliakan nama-Nya.” — Ibrani 13:15
+
+Tulis satu hal yang mau kamu syukuri di ibadah besok 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 19:40 WIB → **Sun 08 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w6/suasana7.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 21:00 WIB → **Sun 08 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w6/led7.jpg`
+
+```
+Sabtu malam, pengingat kecil 💡
+
+Besok pagi pintu gereja dibuka lagi. Datanglah, bukan dengan tangan kosong, tapi dengan nyanyian syukur untuk satu minggu penuh penyertaan-Nya.
+
+📖 “Biarlah kita menghadap wajah-Nya dengan nyanyian syukur, bersorak-sorak bagi-Nya dengan nyanyian mazmur.” — Mazmur 95:2
+
+Besok kamu datang beribadah? Ketik “Hadir” ⛪
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 21:10 WIB → **Sun 08 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 07 Nov 22:30 WIB → **Sun 08 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w6/doa7.jpg`
+
+```
+Doa Sabtu malam, sebelum ibadah besok 🌙
+
+📖 “Aku akan mempersembahkan korban syukur kepada-Mu, dan akan menyerukan nama TUHAN,” — Mazmur 116:17
+
+Ketik “Amin”, dan selamat beristirahat 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 07 Nov 22:40 WIB → **Sun 08 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w6-7-larut.jpg`
+
+```
+
+```
