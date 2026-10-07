@@ -15357,3 +15357,2137 @@ Gambar (urut): `output/stories/tenang_w7-7-larut.jpg`
 ```
 
 ```
+
+## @diam.dan.percaya — Sun 15 Nov 06:00 WIB → **Sun 15 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w8/koran1.jpg`
+
+```
+Berita utama hari Minggu: Allah beserta kita 📰
+
+Minggu ini kita belajar satu kebenaran sederhana yang sering terasa jauh: kamu tidak sendirian. Kabar Natal sudah dimulai di sini, di hati seorang tukang kayu yang bingung dan takut. Allah tidak membiarkan Yusuf menanggung semuanya sendirian. Ia datang, berbicara, dan menyertai.
+
+📖 “…Yusuf, anak Daud, janganlah engkau takut mengambil Maria sebagai isterimu, sebab anak yang di dalam kandungannya adalah dari Roh Kudus.” — Matius 1:20
+
+Ketik “Imanuel” kalau kamu mau memulai minggu ini dengan mengingat bahwa Allah beserta kita.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 06:10 WIB → **Sun 15 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 07:30 WIB → **Sun 15 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w8/letter1.jpg`
+
+```
+Papan pesan hari Minggu 🪧
+
+Dalam Yesaya 8, Yehuda sedang terancam oleh bangsa-bangsa yang jauh lebih kuat. Di tengah ketakutan itu, nabi menutup dengan satu kalimat. Dalam bahasa Ibrani, kalimat “Allah menyertai kami” berbunyi immanu el, kata yang sama dengan nama Imanuel. Rancangan manusia bisa menakutkan, tapi bukan mereka yang punya kata terakhir.
+
+📖 “Buatlah rancangan, tetapi akan gagal juga; ambillah keputusan, tetapi tidak terlaksana juga, sebab Allah menyertai kami!” — Yesaya 8:10
+
+Ketik “Imanuel” kalau hari ini kamu mau mengingat bahwa Allah beserta kita.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 07:40 WIB → **Sun 15 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 09:00 WIB → **Sun 15 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_eli/saran1_1.jpg`, `output/tenang_eli/saran1_2.jpg`, `output/tenang_eli/saran1_3.jpg`, `output/tenang_eli/saran1_4.jpg`, `output/tenang_eli/saran1_5.jpg`, `output/tenang_eli/saran1_6.jpg`
+
+```
+Nggak sempat saat teduh lama? Coba versi 5 menit dari Eli ⏱️📖
+
+1. Pilih satu ayat
+2. Baca pelan-pelan 2 kali
+3. Tanya: apa kata Tuhan untukku hari ini?
+4. Tutup dengan doa singkat
+
+Save dan coba besok pagi 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 09:10 WIB → **Sun 15 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 10:30 WIB → **Sun 15 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w8/sticky1.jpg`
+
+```
+Catatan tempel di pintu kulkas 📌
+
+Mazmur 46 ditulis untuk umat yang melihat dunia seolah sedang runtuh: gunung goncang, laut bergelora. Tapi dua kali mazmur ini mengulang kalimat yang sama, seperti catatan yang ditempel supaya tidak lupa: TUHAN semesta alam menyertai kita.
+
+📖 “TUHAN semesta alam menyertai kita, kota benteng kita ialah Allah Yakub.” — Mazmur 46:8
+
+Save dan jadikan wallpaper HP-mu minggu ini 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 10:40 WIB → **Sun 15 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 12:00 WIB → **Sun 15 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w8/menu1.jpg`
+
+```
+Menu hari Minggu, semuanya sudah dibayar ☕
+
+Paulus menyebut ini sebuah rahasia yang dulu tersembunyi lalu sekarang dinyatakan: Kristus ada di tengah-tengah kamu. Allah tidak hanya mengirim hadiah dari jauh. Ia memberikan diri-Nya sendiri, dan tinggal di tengah umat-Nya.
+
+📖 “…Kristus ada di tengah-tengah kamu, Kristus yang adalah pengharapan akan kemuliaan!” — Kolose 1:27
+
+Pilih satu menu yang paling kamu butuhkan hari ini, tulis di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 12:10 WIB → **Sun 15 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 13:30 WIB → **Sun 15 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search1.mp4`
+
+```
+Pertanyaan yang diam-diam sering kita ketik 🔍
+
+Ada hari-hari ketika Tuhan terasa sangat jauh. Musa mengingatkan Israel bahwa hal yang paling istimewa dari mereka bukan kekuatan atau kebesaran mereka, melainkan Allah yang begitu dekat. Di dalam Yesus, Imanuel, kedekatan itu menjadi nyata: Allah datang dan tinggal di tengah kita.
+
+📖 “Sebab bangsa besar manakah yang mempunyai allah yang demikian dekat kepadanya seperti TUHAN, Allah kita, setiap kali kita memanggil kepada-Nya?” — Ulangan 4:7
+
+Ketik “Dia dekat” kalau kamu mau mempercayainya hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 13:40 WIB → **Sun 15 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search1.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 15:00 WIB → **Sun 15 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w8/ornamen1.jpg`
+
+```
+40 hari lagi 🎄
+
+Lebih dari tujuh ratus tahun sebelum Betlehem, Yesaya menyampaikan sebuah tanda kepada Raja Ahas yang ketakutan: seorang anak bernama Imanuel. Matius kemudian melihat nubuat ini digenapi dalam kelahiran Yesus. Nama itu berarti Allah menyertai kita, dan itulah inti Natal.
+
+📖 “…Sesungguhnya, seorang perempuan muda mengandung dan akan melahirkan seorang anak laki-laki, dan ia akan menamakan Dia Imanuel.” — Yesaya 7:14
+
+Ketik 🎄 kalau kamu ikut menghitung mundur bersama kami.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 15:10 WIB → **Sun 15 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 16:30 WIB → **Sun 15 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w8/kode1.jpg`
+
+```
+Kode sederhana untuk minggu ini 💻
+
+Sejak dulu, kerinduan Allah tetap sama: hadir di tengah umat-Nya. Di padang gurun lewat Kemah Suci, di Betlehem lewat Yesus, dan hari ini lewat Roh Kudus yang tinggal di dalam orang percaya. Perasaan kita bisa berubah-ubah, tapi kehadiran-Nya tidak bergantung pada perasaan kita.
+
+📖 “Tetapi Aku akan hadir di tengah-tengahmu dan Aku akan menjadi Allahmu dan kamu akan menjadi umat-Ku.” — Imamat 26:12
+
+Ketik “Imanuel” kalau kode ini juga berlaku untukmu 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 16:40 WIB → **Sun 15 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 18:00 WIB → **Mon 16 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kartupos1.jpg`
+
+```
+Kartu pos dari Gunung Sinai ✉️
+
+Di Gunung Sinai, Allah memberi Musa petunjuk yang sangat rinci untuk membangun Kemah Suci. Untuk apa? Supaya Ia bisa diam di tengah-tengah umat-Nya. Allah yang kudus ingin dekat dengan umat-Nya. Kerinduan yang sama membawa Yesus ke Betlehem.
+
+📖 “Dan mereka harus membuat tempat kudus bagi-Ku, supaya Aku akan diam di tengah-tengah mereka.” — Keluaran 25:8
+
+Kirim kartu pos ini ke teman yang sedang merasa jauh dari Tuhan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 18:10 WIB → **Mon 16 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 19:30 WIB → **Mon 16 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip1.mp4`
+
+```
+Papan keberangkatan malam ini 🚉
+
+Kisah Alkitab dimulai di taman, ketika TUHAN Allah berjalan di tengah ciptaan-Nya, dan berakhir di kota yang baru, ketika Allah diam bersama umat-Nya untuk selamanya. Natal adalah titik di tengah perjalanan itu: Allah datang dalam Yesus. Hari ini kita masih dalam perjalanan, tapi tujuannya sudah pasti.
+
+📖 “…Lihatlah, kemah Allah ada di tengah-tengah manusia dan Ia akan diam bersama-sama dengan mereka. Mereka akan menjadi umat-Nya dan Ia akan menjadi Allah mereka.” — Wahyu 21:3
+
+Ketik “Tujuan akhir” kalau kamu juga menantikan hari itu 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 19:40 WIB → **Mon 16 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip1.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 21:00 WIB → **Mon 16 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w8/peta1.jpg`
+
+```
+Rute terjauh yang pernah ditempuh 🗺️
+
+Kita sering berpikir harus berusaha keras untuk sampai kepada Allah. Tapi Natal menunjukkan arah yang sebaliknya: Allah yang menempuh perjalanan kepada kita. Yesus mengosongkan diri-Nya, menjadi manusia, dan tinggal di tengah kita. Rute itu sudah Ia tempuh sampai tuntas.
+
+📖 “melainkan telah mengosongkan diri-Nya sendiri, dan mengambil rupa seorang hamba, dan menjadi sama dengan manusia.” — Filipi 2:7
+
+Save peta ini dan buka lagi waktu Tuhan terasa jauh 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 21:10 WIB → **Mon 16 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sun 15 Nov 22:30 WIB → **Mon 16 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w8/lilin1.jpg`
+
+```
+Lilin hari Minggu 🕯️
+
+Daud tidak sedang mencari cara kabur dari Tuhan. Ia sedang takjub: tidak ada satu tempat pun yang terlalu tinggi, terlalu dalam, atau terlalu gelap bagi kehadiran Tuhan. Malam ini, sebelum tidur, ingat bahwa kamarmu pun tidak di luar jangkauan-Nya.
+
+📖 “Ke mana aku dapat pergi menjauhi roh-Mu, ke mana aku dapat lari dari hadapan-Mu? Jika aku mendaki ke langit, Engkau di sana…” — Mazmur 139:7-8
+
+Ketik “Amin” dan selamat beristirahat 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sun 15 Nov 22:40 WIB → **Mon 16 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-1-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 06:00 WIB → **Mon 16 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w8/koran2.jpg`
+
+```
+Senin pagi, kabar dari tempat kerja 📰
+
+Yesus tidak hanya hadir di rumah ibadah. Ia naik ke perahu Simon, tempat kerja yang bau ikan, pada pagi yang melelahkan setelah semalaman gagal. Kisah ini bukan janji bahwa pekerjaan kita pasti selalu berhasil. Tapi kisah ini menunjukkan bahwa Yesus mau masuk ke dalam pekerjaan kita yang biasa, bahkan yang terasa sia-sia.
+
+📖 “…Guru, telah sepanjang malam kami bekerja keras dan kami tidak menangkap apa-apa, tetapi karena Engkau menyuruhnya, aku akan menebarkan jala juga.” — Lukas 5:5
+
+Ketik “Karena Engkau” sebelum mulai bekerja hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 06:10 WIB → **Mon 16 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 07:30 WIB → **Mon 16 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w8/letter2.jpg`
+
+```
+Papan pesan untuk Senin pagi 🪧
+
+Umat yang pulang dari pembuangan sedang membangun kembali rumah Tuhan. Hasilnya terlihat kecil dan mengecewakan dibanding kemegahan yang dulu. Tuhan tidak menyuruh mereka berhenti. Ia menyuruh mereka bekerja, dan memberi alasan yang paling kuat: Aku ini menyertai kamu. Kantor, kampus, dapur, atau jalanan macet, kamu tidak bekerja sendirian.
+
+📖 “…kuatkanlah hatimu, hai segala rakyat negeri, demikianlah firman TUHAN; bekerjalah, sebab Aku ini menyertai kamu, demikianlah firman TUHAN semesta alam,” — Hagai 2:5
+
+Ketik “Aku tidak sendirian” sebelum mulai bekerja hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 07:40 WIB → **Mon 16 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 09:00 WIB → **Mon 16 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kuis1_1.jpg`, `output/tenang_w8/kuis1_2.jpg`
+
+```
+Kuis Senin: kamu tahu jawabannya? 🧠
+
+Sebelum geser ke slide berikutnya, tulis dulu jawabanmu di komentar: A, B, C, atau D.
+
+Jawaban & ayatnya ada di slide 2 👉
+.
+.
+.
+.
+
+Yesus tidak datang hanya untuk saat-saat rohani yang besar. Ia pernah menjalani hari kerja biasa di Nazaret, bertahun-tahun sebelum orang banyak mengenal-Nya. Karena itu Ia mengerti hari Senin-mu.
+
+📖 “Bukankah Ia ini tukang kayu, anak Maria, saudara Yakobus, Yoses, Yudas dan Simon?…” — Markus 6:3
+
+Tulis A, B, C, atau D di komentar, lalu geser untuk jawabannya 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 09:10 WIB → **Mon 16 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 10:30 WIB → **Mon 16 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w8/sticky2.jpg`
+
+```
+Catatan untuk hari Senin 📌
+
+Abimelekh adalah raja Gerar, bukan bagian dari umat Allah. Tapi setelah melihat kehidupan Abraham dari dekat, ia bisa menyimpulkan satu hal: Allah menyertai orang ini. Penyertaan Tuhan tidak hanya terlihat di saat-saat besar. Kadang justru paling jelas di hari-hari biasa.
+
+📖 “…Allah menyertai engkau dalam segala sesuatu yang engkau lakukan.” — Kejadian 21:22
+
+Tulis satu tugas biasa yang mau kamu kerjakan bersama Tuhan hari ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 10:40 WIB → **Mon 16 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 12:00 WIB → **Mon 16 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w8/menu2.jpg`
+
+```
+Menu makan siang hari Senin 🍽️
+
+Pengkhotbah banyak menulis tentang hidup yang terasa sia-sia. Tapi di tengahnya ia menemukan hal sederhana: makan, minum, dan menikmati hasil kerja adalah pemberian dari tangan Allah. Jadi jangan lewatkan makan siangmu sambil terus menatap layar. Berhenti sebentar, bersyukur, lalu nikmati.
+
+📖 “…makan dan minum dan bersenang-senang dalam jerih payahnya. Aku menyadari bahwa inipun dari tangan Allah.” — Pengkhotbah 2:24
+
+Kirim ke teman kantor atau kampus yang suka lupa makan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 12:10 WIB → **Mon 16 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 13:30 WIB → **Mon 16 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search2.mp4`
+
+```
+Untuk kamu yang lelah dan merasa tidak terlihat 🔍
+
+Paulus menulis ayat ini kepada para hamba, orang-orang yang kerja kerasnya jarang dihargai. Ia tidak berkata pekerjaan mereka tidak penting. Ia berkata ada Tuan yang lebih tinggi yang melihat semuanya: Kristus sendiri. Hari ini, kerjakan bagianmu dengan setia. Dia melihat.
+
+📖 “Kamu tahu, bahwa dari Tuhanlah kamu akan menerima bagian yang ditentukan bagimu sebagai upah. Kristus adalah tuan dan kamu hamba-Nya.” — Kolose 3:24
+
+Kirim ke teman yang sedang lelah di tempat kerjanya 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 13:40 WIB → **Mon 16 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search2.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 15:00 WIB → **Mon 16 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w8/ornamen2.jpg`
+
+```
+39 hari lagi 🐑
+
+Malaikat tidak menunggu para gembala libur atau datang ke Bait Allah. Kabar terbesar dalam sejarah datang ke padang, di tengah jam kerja malam, kepada orang-orang biasa yang sedang menjaga ternak. Tuhan tahu jalan menuju tempat kerjamu.
+
+📖 “Di daerah itu ada gembala-gembala yang tinggal di padang menjaga kawanan ternak mereka pada waktu malam.” — Lukas 2:8
+
+Ketik 🎄 kalau hari ini kamu bekerja dan mau mengingat bahwa Dia dekat.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 15:10 WIB → **Mon 16 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 16:30 WIB → **Mon 16 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w8/kode2.jpg`
+
+```
+Program hari Senin 💻
+
+Pengkhotbah mengajak kita mengerjakan apa yang ada di depan mata dengan sungguh-sungguh, karena hidup ini singkat. Bukan supaya kita dikasihi Tuhan, tapi karena kita sudah dikasihi dan disertai-Nya. Laporan, tugas kuliah, cucian, atau rapat, semuanya bisa dikerjakan bersama Dia.
+
+📖 “Segala sesuatu yang dijumpai tanganmu untuk dikerjakan, kerjakanlah itu sekuat tenaga…” — Pengkhotbah 9:10
+
+Tulis satu tugas hari ini yang mau kamu kerjakan dengan setia 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 16:40 WIB → **Mon 16 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 18:00 WIB → **Tue 17 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kartupos2.jpg`
+
+```
+Kartu pos dari jalan ke Emaus ✉️
+
+Kedua murid itu tidak sedang berdoa di Bait Allah. Mereka sedang berjalan pulang, bercakap-cakap tentang hari-hari yang berat. Di situlah Yesus datang mendekat. Mereka belum mengenali-Nya, tapi Ia sudah berjalan di samping mereka. Kadang kita pun baru sadar belakangan bahwa Ia ada di sana sepanjang jalan.
+
+📖 “Ketika mereka sedang bercakap-cakap… datanglah Yesus sendiri mendekati mereka, lalu berjalan bersama-sama dengan mereka.” — Lukas 24:15
+
+Ketik “Dia berjalan bersamaku” kalau hari ini kamu mau mengingatnya di perjalanan pulang.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 18:10 WIB → **Tue 17 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 19:30 WIB → **Tue 17 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip2.mp4`
+
+```
+Jadwal keberangkatan hari Senin 🚉
+
+Yesaya menulis kepada umat yang akan pulang dari pembuangan. Mereka tidak perlu keluar dengan buru-buru seperti orang yang melarikan diri. Tuhan berjalan di depan mereka, dan Tuhan juga menjaga barisan paling belakang. Apa pun jadwalmu minggu ini, kamu tidak berangkat sendirian.
+
+📖 “…sebab TUHAN akan berjalan di depanmu, dan Allah Israel akan menjadi penutup barisanmu.” — Yesaya 52:12
+
+Kirim ke teman yang besok harus berangkat pagi-pagi 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 19:40 WIB → **Tue 17 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip2.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 21:00 WIB → **Tue 17 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w8/peta2.jpg`
+
+```
+Rute hari Senin 🗺️
+
+Kita tidak selalu tahu ke mana hari ini akan membawa kita: rapat yang molor, tugas kuliah yang mendadak, atau urusan rumah yang tak ada habisnya. Tapi pemazmur mengingatkan bahwa langkah-langkah kita tidak berjalan sendiri. Tuhan yang menetapkannya, termasuk langkah-langkah yang terasa biasa.
+
+📖 “TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepada-Nya;” — Mazmur 37:23
+
+Tulis tujuanmu besok pagi di komentar, kami ikut mendoakan 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 21:10 WIB → **Tue 17 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Mon 16 Nov 22:30 WIB → **Tue 17 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w8/lilin2.jpg`
+
+```
+Lilin untuk akhir hari kerja 🕯️
+
+Mazmur 104 memuji Tuhan atas seluruh ciptaan: gunung, laut, binatang, matahari, dan bulan. Di tengah daftar itu, pemazmur juga menyebut manusia yang pergi bekerja sampai petang. Pekerjaan biasa kita adalah bagian dari dunia yang Tuhan pelihara. Sekarang hari sudah malam. Waktunya beristirahat.
+
+📖 “manusiapun keluarlah ke pekerjaannya, dan ke usahanya sampai petang.” — Mazmur 104:23
+
+Ketik 🕯️ kalau kamu bersyukur untuk hari ini, sebiasa apa pun hari itu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Mon 16 Nov 22:40 WIB → **Tue 17 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-2-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 06:00 WIB → **Tue 17 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w8/koran3.jpg`
+
+```
+Tiga puluh delapan tahun, lalu ada yang datang 📰
+
+Bayangkan menunggu selama itu, sementara orang lain selalu lebih dulu. Pria di kolam Betesda tidak punya siapa-siapa untuk menolongnya. Tapi Yesus melihatnya di antara banyak orang sakit, tahu kisahnya, dan menghampirinya. Kalau hari ini kamu merasa tidak ada yang memperhatikan, ingat: Yesus melihat dan tahu.
+
+📖 “Ketika Yesus melihat orang itu berbaring di situ dan karena Ia tahu, bahwa ia telah lama dalam keadaan itu, berkatalah Ia kepadanya: ‘Maukah engkau sembuh?’” — Yohanes 5:6
+
+Ketik “Dia melihatku” kalau hari ini kamu merasa sendirian 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 06:10 WIB → **Tue 17 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 07:30 WIB → **Tue 17 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w8/letter3.jpg`
+
+```
+Untuk kamu yang merasa sepi hari ini 🪧
+
+Allah yang Mahatinggi dan Mahakudus punya dua tempat kediaman: tempat yang tinggi dan kudus, dan bersama orang yang remuk hatinya. Kesepian sering membuat kita merasa tidak terlihat. Tapi justru kepada hati yang remuk itulah Ia memilih untuk dekat.
+
+📖 “…Aku bersemayam di tempat tinggi dan di tempat kudus tetapi juga bersama-sama orang yang remuk dan rendah hati, untuk menghidupkan semangat orang-orang yang rendah hati…” — Yesaya 57:15
+
+Kalau hari ini hatimu sedang remuk, tulis 🤍 di komentar. Kami ikut mendoakan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 07:40 WIB → **Tue 17 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 09:00 WIB → **Tue 17 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kuis2_1.jpg`, `output/tenang_w8/kuis2_2.jpg`
+
+```
+Kuis Selasa 🧠
+
+Tebak dulu di komentar, A, B, C, atau D, sebelum geser ke jawaban.
+
+Jawaban & ayatnya ada di slide 2 👉
+.
+.
+.
+.
+
+Elia baru saja melewati kemenangan besar, lalu lari ketakutan dan merasa hanya dia yang tersisa. Tuhan memberinya makan, menemuinya dalam bunyi angin sepoi-sepoi basa, lalu memberinya seorang teman seperjalanan. Kesepian Elia dijawab bukan hanya dengan kata-kata, tapi juga dengan kehadiran seseorang.
+
+📖 “…Sesudah itu bersiaplah ia, lalu mengikuti Elia dan menjadi pelayannya.” — 1 Raja-raja 19:21
+
+Tulis jawabanmu di komentar 👇 lalu kirim ke teman yang sedang merasa sendirian 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 09:10 WIB → **Tue 17 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 10:30 WIB → **Tue 17 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w8/sticky3.jpg`
+
+```
+Catatan untuk hari yang sepi 📌
+
+Malam sebelum disalibkan, Yesus tahu murid-murid-Nya akan tercerai-berai dan meninggalkan Dia. Ia tahu rasanya ditinggal. Tapi Ia juga tahu satu hal yang lebih dalam dari rasa sepi: Bapa menyertai-Nya. Di dalam Yesus, kita pun tidak pernah sungguh-sungguh sendirian.
+
+📖 “…kamu meninggalkan Aku seorang diri. Namun Aku tidak seorang diri, sebab Bapa menyertai Aku.” — Yohanes 16:32
+
+Kirim catatan ini ke teman yang sedang merasa sepi 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 10:40 WIB → **Tue 17 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 12:00 WIB → **Tue 17 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w8/menu3.jpg`
+
+```
+Menu khusus untuk hati yang sepi 🍵
+
+Mazmur 68 menggambarkan Allah yang perkasa, yang berjalan di depan umat-Nya. Tapi di tengah pujian tentang kuasa-Nya, pemazmur menyebut siapa yang Ia perhatikan: anak yatim, para janda, dan orang-orang sebatang kara. Allah yang Mahabesar tidak terlalu sibuk untuk orang yang sendirian.
+
+📖 “Allah memberi tempat tinggal kepada orang-orang sebatang kara, Ia mengeluarkan orang-orang tahanan, sehingga mereka bahagia…” — Mazmur 68:7
+
+Tulis 🍵 di komentar kalau hari ini kamu merasa sepi. Kami ikut mendoakan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 12:10 WIB → **Tue 17 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 13:30 WIB → **Tue 17 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search3.mp4`
+
+```
+Kalau ini yang sering kamu cari, kamu tidak sendirian 🔍
+
+Mazmur 142 adalah doa Daud ketika ia berada di dalam gua. Ia jujur: tidak ada seorang pun yang menghiraukan aku. Tapi ia tidak berhenti di situ. Ia membawa rasa sepinya kepada Tuhan dan menyebut Tuhan sebagai bagiannya. Kesepian boleh diakui, lalu dibawa kepada-Nya.
+
+📖 “Pandanglah ke kanan dan lihatlah, tidak ada seorangpun yang menghiraukan aku… Aku berseru-seru kepada-Mu, ya TUHAN, kataku: ‘Engkaulah tempat perlindunganku, bagianku di negeri orang-orang hidup!’” — Mazmur 142:5-6
+
+Kalau hari ini kamu merasa sendirian, tulis 🤍 di komentar. Kami ikut mendoakan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 13:40 WIB → **Tue 17 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search3.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 15:00 WIB → **Tue 17 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w8/ornamen3.jpg`
+
+```
+38 hari lagi 🕯️
+
+Matius mengutip nubuat Yesaya ketika Yesus mulai tinggal dan melayani di Galilea, wilayah pinggiran yang juga dihuni bangsa-bangsa lain. Terang itu tidak menunggu orang keluar dari kegelapan dulu. Terang itu datang ke tempat mereka berada. Kalau hari ini kamu merasa sepi dan gelap, Natal adalah kabar bahwa Terang itu mau datang ke sana juga.
+
+📖 “bangsa yang diam dalam kegelapan, telah melihat Terang yang besar… di negeri yang dinaungi maut, telah terbit Terang.” — Matius 4:16
+
+Ketik 🎄 kalau kamu menantikan Terang itu bersama kami.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 15:10 WIB → **Tue 17 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 16:30 WIB → **Tue 17 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w8/kode3.jpg`
+
+```
+Fungsi untuk hari yang sepi 💻
+
+Yesus tidak menonton kesepian kita dari jauh. Ia pernah ditolak orang sekampung-Nya, ditinggal murid-murid-Nya, dan bergumul sendirian di Getsemani sementara sahabat-sahabat-Nya tertidur. Karena itu Ia dapat turut merasakan kelemahan kita. Kamu boleh datang kepada-Nya tanpa harus pura-pura kuat.
+
+📖 “Sebab Imam Besar yang kita punya, bukanlah imam besar yang tidak dapat turut merasakan kelemahan-kelemahan kita…” — Ibrani 4:15
+
+Kalau hari ini kamu merasa sepi, ketik 🫂 dan izinkan kami ikut mendoakanmu.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 16:40 WIB → **Tue 17 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 18:00 WIB → **Wed 18 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kartupos3.jpg`
+
+```
+Kartu pos dari Getsemani ✉️
+
+Di malam paling berat dalam hidup-Nya, Yesus tidak malu berkata kepada sahabat-sahabat-Nya bahwa hati-Nya sangat sedih. Ia meminta mereka menemani. Mereka malah tertidur. Yesus tahu rasanya butuh teman dan tidak mendapatkannya. Karena itu, Ia adalah tempat yang aman untuk membawa kesepianmu.
+
+📖 “…Hati-Ku sangat sedih, seperti mau mati rasanya. Tinggallah di sini dan berjaga-jagalah dengan Aku.” — Matius 26:38
+
+Kirim kartu ini ke teman yang sedang merasa ditinggal 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 18:10 WIB → **Wed 18 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 19:30 WIB → **Wed 18 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip3.mp4`
+
+```
+Untuk kamu yang merasa ditinggal 🚉
+
+Paulus menulis surat ini dari penjara, menjelang akhir hidupnya. Saat ia harus membela diri di pengadilan, tidak ada satu orang pun yang datang membantunya. Ia tidak menutupi rasa sakit itu. Tapi ia juga menulis bagian kedua: Tuhan mendampingi dan menguatkan aku.
+
+📖 “Pada waktu pembelaanku yang pertama tidak seorangpun yang membantu aku, semuanya meninggalkan aku… tetapi Tuhan telah mendampingi aku dan menguatkan aku…” — 2 Timotius 4:16-17
+
+Save ini untuk malam-malam ketika kamu merasa semua orang pergi 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 19:40 WIB → **Wed 18 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip3.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 21:00 WIB → **Wed 18 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w8/peta3.jpg`
+
+```
+Rute untuk hati yang merasa ditinggal 🗺️
+
+Daud membayangkan hal yang paling menakutkan bagi seorang anak: ditinggal ayah dan ibu. Sebagian dari kita tidak perlu membayangkannya, karena sudah mengalaminya. Tapi ayat ini memberi jaminan yang lebih kuat dari ikatan keluarga mana pun: TUHAN menyambut aku.
+
+📖 “Sekalipun ayahku dan ibuku meninggalkan aku, namun TUHAN menyambut aku.” — Mazmur 27:10
+
+Kirim ke teman yang sedang merasa ditinggalkan 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 21:10 WIB → **Wed 18 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Tue 17 Nov 22:30 WIB → **Wed 18 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w8/lilin3.jpg`
+
+```
+Lilin untuk malam yang sepi 🕯️
+
+Daud pernah berdoa dengan kalimat ini: aku sebatang kara. Alkitab memberi kita kata-kata untuk berdoa justru saat kita tidak tahu harus berkata apa. Malam ini kamu boleh meminjam doa Daud, dan percaya bahwa Tuhan mendengarnya.
+
+📖 “Berpalinglah kepadaku dan kasihanilah aku, sebab aku sebatang kara dan tertindas.” — Mazmur 25:16
+
+Kalau kamu mendoakannya malam ini, ketik 🕯️. Kamu tidak sendirian.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Tue 17 Nov 22:40 WIB → **Wed 18 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-3-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 06:00 WIB → **Wed 18 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w8/koran4.jpg`
+
+```
+Berita hari Rabu: persahabatan yang membongkar atap 📰
+
+Orang lumpuh itu tidak bisa sampai kepada Yesus dengan kakinya sendiri. Ia butuh teman. Perhatikan kalimat Markus: Yesus melihat iman mereka, termasuk iman teman-temannya. Kadang kita yang digotong, kadang kita yang menggotong. Dua-duanya bagian dari hidup sebagai tubuh Kristus.
+
+📖 “Ketika Yesus melihat iman mereka, berkatalah Ia kepada orang lumpuh itu: ‘Hai anak-Ku, dosamu sudah diampuni!’” — Markus 2:5
+
+Tag teman yang pernah “menggotong” kamu dalam doa 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 06:10 WIB → **Wed 18 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 07:30 WIB → **Wed 18 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w8/letter4.jpg`
+
+```
+Papan pesan hari Rabu 🪧
+
+Sebelum ada dosa di dunia, sudah ada satu hal yang Tuhan sebut tidak baik: manusia yang seorang diri. Ayat ini berbicara tentang Adam dan Hawa, awal dari pernikahan. Tapi di baliknya ada kebenaran yang lebih luas: kita diciptakan untuk hidup bersama, bukan sendirian. Butuh teman bukan tanda iman yang lemah. Itu bagian dari cara Tuhan menciptakan kita.
+
+📖 “TUHAN Allah berfirman: ‘Tidak baik, kalau manusia itu seorang diri saja. Aku akan menjadikan penolong baginya, yang sepadan dengan dia.’” — Kejadian 2:18
+
+Tag satu teman yang membuat hidupmu tidak “seorang diri” 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 07:40 WIB → **Wed 18 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 09:00 WIB → **Wed 18 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_eli/edukasi5_1.jpg`, `output/tenang_eli/edukasi5_2.jpg`, `output/tenang_eli/edukasi5_3.jpg`, `output/tenang_eli/edukasi5_4.jpg`
+
+```
+Fakta seru dari Eli 🤓
+
+Pasal terpanjang di Alkitab: Mazmur 119 (176 ayat). Pasal terpendek: Mazmur 117 (cuma 2 ayat). Dan salah satu ayat terpendek: “Maka menangislah Yesus.”
+
+Tantangan: coba baca Mazmur 117 sekarang, cuma 30 detik 😄
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 09:10 WIB → **Wed 18 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 10:30 WIB → **Wed 18 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w8/sticky4.jpg`
+
+```
+Catatan tempel hari Rabu 📌
+
+Penulis Ibrani tidak hanya menyuruh kita saling mengasihi. Ia mengajak kita saling memperhatikan, artinya sengaja memikirkan cara untuk mendorong orang lain. Persahabatan dalam Kristus jarang terjadi secara kebetulan. Biasanya dimulai dari satu pesan, satu sapaan, satu kunjungan.
+
+📖 “Dan marilah kita saling memperhatikan supaya kita saling mendorong dalam kasih dan dalam pekerjaan baik.” — Ibrani 10:24
+
+Tulis satu nama teman yang mau kamu sapa hari ini 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 10:40 WIB → **Wed 18 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 12:00 WIB → **Wed 18 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w8/menu4.jpg`
+
+```
+Menu jemaat mula-mula ☕
+
+Gereja pertama tidak punya gedung megah atau program yang rumit. Tapi ada empat hal yang terus mereka tekuni bersama: pengajaran, persekutuan, makan bersama, dan doa. Iman memang pribadi, tapi tidak pernah dimaksudkan untuk dijalani sendirian.
+
+📖 “Mereka bertekun dalam pengajaran rasul-rasul dan dalam persekutuan. Dan mereka selalu berkumpul untuk memecahkan roti dan berdoa.” — Kisah Para Rasul 2:42
+
+Ajak satu teman ke persekutuan minggu ini, lalu tag dia di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 12:10 WIB → **Wed 18 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 13:30 WIB → **Wed 18 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search4.mp4`
+
+```
+Untuk kamu yang masih mencari tempat di komunitas 🔍
+
+Paulus menggambarkan jemaat seperti satu tubuh. Kalau satu anggota menderita, seluruh tubuh ikut merasakannya. Artinya, di dalam tubuh Kristus tidak ada yang seharusnya menderita sendirian, dan tidak ada yang bersukacita sendirian. Mencari teman memang butuh waktu dan keberanian. Tapi kamu memang dipanggil menjadi bagian dari tubuh itu.
+
+📖 “Karena itu jika satu anggota menderita, semua anggota turut menderita; jika satu anggota dihormati, semua anggota turut bersukacita.” — 1 Korintus 12:26
+
+Ketik “Aku mau terlibat” kalau minggu ini kamu mau mencoba menyapa satu orang di gereja.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 13:40 WIB → **Wed 18 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search4.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 15:00 WIB → **Wed 18 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w8/ornamen4.jpg`
+
+```
+37 hari lagi 🤍
+
+Setelah malaikat datang, Maria langsung berangkat ke rumah Elisabet, sanaknya yang juga sedang mengandung secara ajaib. Dua perempuan dengan dua kehamilan yang sulit dijelaskan, saling menguatkan dan memuji Tuhan bersama. Bahkan cerita Natal pun tidak dijalani sendirian.
+
+📖 “Dan Maria tinggal kira-kira tiga bulan lamanya bersama dengan Elisabet, lalu pulang kembali ke rumahnya.” — Lukas 1:56
+
+Tag satu teman yang menemanimu di masa sulit 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 15:10 WIB → **Wed 18 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 16:30 WIB → **Wed 18 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w8/kode4.jpg`
+
+```
+Kode persahabatan 💻
+
+Pengkhotbah melihat orang yang bekerja keras tanpa henti tapi sendirian, tanpa saudara dan tanpa teman. Lalu ia menyimpulkan: berdua lebih baik dari seorang diri, dan tali tiga lembar tak mudah diputuskan. Kita tidak dirancang untuk menjalani iman sendirian. Minta tolong bukan tanda lemah. Sering kali itulah cara Tuhan menguatkan kita lewat orang lain.
+
+📖 “Dan bilamana seorang dapat dialahkan, dua orang akan dapat bertahan. Tali tiga lembar tak mudah diputuskan.” — Pengkhotbah 4:12
+
+Tag dua teman yang jadi tali tiga lembar bersamamu 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 16:40 WIB → **Wed 18 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 18:00 WIB → **Thu 19 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kartupos4.jpg`
+
+```
+Kartu pos dari padang gurun Zif ✉️
+
+Yonatan adalah anak Saul, raja yang sedang memburu Daud. Ia punya banyak alasan untuk menjauh. Tapi ia malah pergi mencari sahabatnya di padang gurun, bukan untuk menyelesaikan semua masalahnya, tapi untuk menguatkan kepercayaannya kepada Allah. Itulah persahabatan di dalam Tuhan.
+
+📖 “…bersiaplah Yonatan, anak Saul, lalu pergi kepada Daud di Koresa. Ia menguatkan kepercayaan Daud kepada Allah…” — 1 Samuel 23:16
+
+Tag sahabat yang pernah menjadi Yonatan bagimu 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 18:10 WIB → **Thu 19 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 19:30 WIB → **Thu 19 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip4.mp4`
+
+```
+Kisah tentang tangan yang lelah 🚉
+
+Saat Israel berperang melawan Amalek, Musa berdiri di atas bukit dengan tangan terangkat. Ketika tangannya turun karena lelah, Amalek lebih kuat. Musa tidak bisa melakukannya sendirian. Harun dan Hur tidak memimpin pasukan, tapi mereka menopang tangan Musa sampai matahari terbenam. Kadang pelayanan terbesar adalah menopang orang lain.
+
+📖 “Maka penatlah tangan Musa… Harun dan Hur menopang kedua belah tangannya, seorang di sisi yang satu, seorang di sisi yang lain, sehingga tangannya tidak bergerak sampai matahari terbenam.” — Keluaran 17:12
+
+Tag teman yang pernah menopangmu saat kamu lelah 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 19:40 WIB → **Thu 19 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip4.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 21:00 WIB → **Thu 19 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w8/peta4.jpg`
+
+```
+Rute dari menyendiri ke persekutuan 🗺️
+
+Paulus pernah sangat tertekan: dari luar pertengkaran, dari dalam ketakutan. Bagaimana Allah menghiburnya? Lewat kedatangan seorang teman, Titus. Kadang Allah menjawab doa kita lewat seseorang yang mengetuk pintu. Dan kadang, kitalah yang Ia utus untuk mengetuk.
+
+📖 “Tetapi Allah, yang menghiburkan orang yang rendah hati, telah menghiburkan kami dengan kedatangan Titus.” — 2 Korintus 7:6
+
+Siapa yang perlu kamu kunjungi minggu ini? Tulis inisialnya di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 21:10 WIB → **Thu 19 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Wed 18 Nov 22:30 WIB → **Thu 19 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w8/lilin4.jpg`
+
+```
+Lilin untuk teman-teman kita 🕯️
+
+Paulus tiba di Italia sebagai tahanan setelah perjalanan panjang dan kapal karam. Lalu saudara-saudara seiman dari Roma berjalan jauh untuk menjumpainya. Rasul sebesar Paulus pun dikuatkan hanya dengan melihat teman-temannya datang. Jangan pernah meremehkan kehadiranmu bagi orang lain.
+
+📖 “…Ketika Paulus melihat mereka, ia mengucap syukur kepada Allah lalu kuatlah hatinya.” — Kisah Para Rasul 28:15
+
+Ketik “Terima kasih, teman” lalu kirim ke satu sahabatmu 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Wed 18 Nov 22:40 WIB → **Thu 19 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-4-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 06:00 WIB → **Thu 19 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w8/koran5.jpg`
+
+```
+Berita hari Kamis: mereka tidak sendirian di dalam api 📰
+
+Sadrakh, Mesakh, dan Abednego tidak tahu apakah mereka akan diselamatkan. Mereka bahkan berkata kepada raja, seandainya tidak pun, mereka tetap tidak akan menyembah patung itu. Tuhan tidak selalu menjauhkan kita dari api. Tapi kisah ini mengingatkan bahwa Ia tidak meninggalkan umat-Nya sendirian di dalamnya. Nebukadnezar sendiri kemudian mengakui bahwa Allah mereka telah mengutus malaikat-Nya.
+
+📖 “…ada empat orang kulihat berjalan-jalan dengan bebas di tengah-tengah api itu; mereka tidak terluka, dan yang keempat itu rupanya seperti anak dewa!” — Daniel 3:25
+
+Kirim ke teman yang sedang berada di tengah “api” 💌
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 06:10 WIB → **Thu 19 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 07:30 WIB → **Thu 19 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w8/letter5.jpg`
+
+```
+Papan pesan hari Kamis 🪧
+
+Musa mengucapkan kalimat ini kepada umat yang ia tahu akan jatuh dan tercerai-berai. Bahkan untuk masa-masa terburuk mereka, alasannya tetap sama: TUHAN adalah Allah Penyayang. Ia tetap setia, bukan karena kita selalu setia, tapi karena Ia tidak melupakan janji-Nya.
+
+📖 “Sebab TUHAN, Allahmu, adalah Allah Penyayang, Ia tidak akan meninggalkan atau memusnahkan engkau dan Ia tidak akan melupakan perjanjian yang diikrarkan-Nya dengan sumpah kepada nenek moyangmu.” — Ulangan 4:31
+
+Ketik “Dia Penyayang” kalau hari ini kamu butuh diingatkan.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 07:40 WIB → **Thu 19 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 09:00 WIB → **Thu 19 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kuis3_1.jpg`, `output/tenang_w8/kuis3_2.jpg`
+
+```
+Kuis Kamis 🧠
+
+Jawab dulu di komentar, A, B, C, atau D, lalu geser.
+
+Jawaban & ayatnya ada di slide 2 👉
+.
+.
+.
+.
+
+Orang Israel sering mengeluh, memberontak, bahkan membuat anak lembu tuangan. Tapi doa panjang dalam kitab Nehemia mengingat hal yang luar biasa: selama itu Tuhan tetap memberi makan, menjaga, dan menuntun mereka. Kesetiaan-Nya lebih panjang dari ketidaksetiaan umat-Nya.
+
+📖 “Empat puluh tahun lamanya Engkau memberikan mereka makan di padang gurun… pakaian mereka tidak rusak, dan kaki mereka tidak bengkak.” — Nehemia 9:21
+
+Tulis jawabanmu 👇 dan save kuis ini untuk dimainkan bersama keluarga 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 09:10 WIB → **Thu 19 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 10:30 WIB → **Thu 19 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w8/sticky5.jpg`
+
+```
+Catatan untuk hari Kamis 📌
+
+Daud menitipkan pekerjaan besar kepada Salomo, anaknya: membangun rumah Tuhan. Tugas itu terlalu besar untuk orang muda yang kurang berpengalaman. Daud tidak berkata semuanya akan mudah. Ia mengingatkan sesuatu yang lebih kuat: Tuhan tidak akan membiarkan dan meninggalkan engkau.
+
+📖 “…janganlah takut dan janganlah tawar hati, sebab TUHAN Allah, Allahku, menyertai engkau. Ia tidak akan membiarkan dan meninggalkan engkau…” — 1 Tawarikh 28:20
+
+Ketik “Dia tidak pergi” kalau hari ini kamu sedang memikul tugas berat.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 10:40 WIB → **Thu 19 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 12:00 WIB → **Thu 19 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w8/menu5.jpg`
+
+```
+Menu hari Kamis, disajikan setia setiap hari ☕
+
+Mazmur 94 ditulis di tengah ketidakadilan, saat orang jahat seolah menang. Pemazmur sempat merasa kakinya goyang. Tapi ia berpegang pada satu kepastian: TUHAN tidak akan membuang umat-Nya. Perasaan kita bisa naik-turun, tapi status kita sebagai milik-Nya tidak ditentukan oleh perasaan.
+
+📖 “Sebab TUHAN tidak akan membuang umat-Nya, dan milik-Nya sendiri tidak akan ditinggalkan-Nya;” — Mazmur 94:14
+
+Ketik “Milik-Nya” kalau hari ini kamu perlu diingatkan 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 12:10 WIB → **Thu 19 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 13:30 WIB → **Thu 19 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search5.mp4`
+
+```
+Pertanyaan yang kadang muncul di hari-hari terburuk 🔍
+
+Yesus menyebut orang-orang yang mengikut Dia sebagai domba-domba-Nya. Lalu Ia berkata tidak ada seorang pun yang dapat merebut mereka dari tangan Bapa. Bukan karena genggaman kita yang kuat, tapi karena Bapa lebih besar dari siapa pun.
+
+📖 “Bapa-Ku, yang memberikan mereka kepada-Ku, lebih besar dari pada siapapun, dan seorangpun tidak dapat merebut mereka dari tangan Bapa.” — Yohanes 10:29
+
+Save ini untuk hari ketika kamu merasa ditinggalkan 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 13:40 WIB → **Thu 19 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search5.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 15:00 WIB → **Thu 19 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w8/ornamen5.jpg`
+
+```
+36 hari lagi ✨
+
+Dalam nyanyiannya, Maria melihat jauh ke belakang, sampai kepada Abraham. Berabad-abad janji itu seakan belum juga digenapi. Tapi Allah tidak pernah lupa. Pada waktu-Nya, Ia datang menolong umat-Nya, bukan dengan mengirim bantuan dari jauh, tapi dengan datang sendiri.
+
+📖 “Ia menolong Israel, hamba-Nya, karena Ia mengingat rahmat-Nya, seperti yang dijanjikan-Nya kepada nenek moyang kita…” — Lukas 1:54-55
+
+Ketik 🎄 kalau kamu percaya Dia tidak pernah lupa janji-Nya.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 15:10 WIB → **Thu 19 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 16:30 WIB → **Thu 19 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w8/kode5.jpg`
+
+```
+Loop tanpa akhir 💻
+
+Dalam pemrograman, loop yang tidak pernah berhenti biasanya dianggap error. Tapi kesetiaan Tuhan memang tidak punya tombol berhenti. Lewat Yesaya, Tuhan berbicara kepada orang-orang sengsara yang kehausan: Ia akan menjawab, dan Ia tidak akan meninggalkan mereka.
+
+📖 “…tetapi Aku, TUHAN, akan menjawab mereka, dan sebagai Allah orang Israel Aku tidak akan meninggalkan mereka.” — Yesaya 41:17
+
+Ketik “while True” kalau kamu mau mengingat kesetiaan-Nya hari ini 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 16:40 WIB → **Thu 19 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 18:00 WIB → **Fri 20 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kartupos5.jpg`
+
+```
+Kartu pos dari padang gurun ✉️
+
+Doa panjang dalam kitab Nehemia mengingat kembali sejarah Israel dengan jujur: mereka keras kepala dan memberontak. Tapi berulang kali muncul kalimat yang sama: Engkau tidak meninggalkan mereka. Alasannya bukan kesetiaan Israel, tapi kasih sayang Tuhan yang besar.
+
+📖 “Engkau tidak meninggalkan mereka di padang gurun karena kasih sayang-Mu yang besar. Tiang awan tidak berpindah dari atas mereka…” — Nehemia 9:19
+
+Ketik “Dia tidak pergi” kalau kamu sedang berjalan di padang gurunmu sendiri 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 18:10 WIB → **Fri 20 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 19:30 WIB → **Fri 20 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip5.mp4`
+
+```
+Papan malam hari Kamis 🚉
+
+Mazmur 37 ditulis untuk orang yang gelisah melihat orang jahat seolah selalu menang. Pemazmur mengajak kita melihat lebih jauh: hidup orang fasik akan berlalu, tapi TUHAN tidak meninggalkan orang-orang yang dikasihi-Nya. Kesetiaan-Nya lebih panjang dari masalah hari ini.
+
+📖 “…TUHAN mencintai hukum, dan Ia tidak meninggalkan orang-orang yang dikasihi-Nya. Sampai selama-lamanya mereka akan terpelihara…” — Mazmur 37:28
+
+Ketik “Dikasihi-Nya” kalau malam ini kamu mau beristirahat dalam kesetiaan-Nya 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 19:40 WIB → **Fri 20 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip5.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 21:00 WIB → **Fri 20 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w8/peta5.jpg`
+
+```
+Rute melewati masa yang gelap 🗺️
+
+Kitab Ratapan ditulis di tengah reruntuhan Yerusalem. Penulisnya tidak menutupi rasa sakit dan tidak berpura-pura semuanya baik-baik saja. Tapi di tengah ratapannya ia berpegang pada satu hal: masa gelap ini tidak untuk selama-lamanya. Kasih setia Tuhan lebih besar dari musim terberat dalam hidupmu.
+
+📖 “Karena tidak untuk selama-lamanya Tuhan mengucilkan. Karena walau Ia mendatangkan susah, Ia juga menyayangi menurut kebesaran kasih setia-Nya.” — Ratapan 3:31-32
+
+Ketik “Tidak selamanya” kalau kamu sedang melewati masa gelap 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 21:10 WIB → **Fri 20 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Thu 19 Nov 22:30 WIB → **Fri 20 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w8/lilin5.jpg`
+
+```
+Lilin hari Kamis 🕯️
+
+Salomo mengucapkan berkat ini ketika Bait Allah ditahbiskan. Ia melihat ke belakang dan mengakui bahwa Tuhan sudah setia kepada generasi-generasi sebelumnya. Lalu ia memohon hal yang sama untuk hari-hari ke depan. Kesetiaan Tuhan di masa lalu menjadi alasan kita berani berharap malam ini.
+
+📖 “Kiranya TUHAN, Allah kita, menyertai kita sebagaimana Ia telah menyertai nenek moyang kita, janganlah Ia meninggalkan kita dan janganlah Ia membuangkan kita,” — 1 Raja-raja 8:57
+
+Ketik “Amin” kalau kamu mau menutup hari ini dengan doa ini 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Thu 19 Nov 22:40 WIB → **Fri 20 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-5-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 06:00 WIB → **Fri 20 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w8/koran6.jpg`
+
+```
+Selamat Hari Anak Sedunia 📰
+
+Murid-murid memarahi orang-orang yang membawa anak-anak kepada Yesus. Tapi Yesus justru marah kepada murid-murid-Nya. Ia meluangkan waktu, memeluk, dan memberkati anak-anak itu. Hari ini, doakan anak-anak di sekitarmu. Dan ingat juga: setua apa pun kamu, kamu tetap boleh datang kepada-Nya seperti seorang anak.
+
+📖 “Ketika Yesus melihat hal itu, Ia marah dan berkata kepada mereka: ‘Biarkan anak-anak itu datang kepada-Ku, jangan menghalang-halangi mereka…’” — Markus 10:14
+
+Tulis nama anak yang mau kamu doakan hari ini di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 06:10 WIB → **Fri 20 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 07:30 WIB → **Fri 20 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w8/letter6.jpg`
+
+```
+Selamat Hari Anak Sedunia 🪧
+
+Hari ini dunia memperhatikan anak-anak, dan kita ikut mendoakan mereka. Tapi ada juga kabar untuk kita yang sudah dewasa: di dalam Yesus, kita adalah anak-anak Allah. Bukan karena prestasi, keturunan, atau umur, tapi karena iman kepada Kristus. Status itu adalah pemberian, bukan upah.
+
+📖 “Sebab kamu semua adalah anak-anak Allah karena iman di dalam Yesus Kristus.” — Galatia 3:26
+
+Ketik “Anak Bapa” kalau kamu bersyukur untuk status ini 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 07:40 WIB → **Fri 20 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 09:00 WIB → **Fri 20 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kuis4_1.jpg`, `output/tenang_w8/kuis4_2.jpg`
+
+```
+Kuis Hari Anak Sedunia 🧠
+
+Tebak dulu di komentar, A, B, C, atau D, lalu geser untuk melihat jawabannya.
+
+Jawaban & ayatnya ada di slide 2 👉
+.
+.
+.
+.
+
+Tuhan tidak menunggu seseorang menjadi dewasa, hebat, atau berpengalaman untuk berbicara kepadanya. Ia memanggil seorang anak muda pada waktu malam, sampai empat kali. Anak-anak bukan hanya masa depan gereja. Mereka juga bagian dari umat Tuhan hari ini.
+
+📖 “Lalu datanglah TUHAN, berdiri di sana dan memanggil… ‘Samuel! Samuel!’ Dan Samuel menjawab: ‘Berbicaralah, sebab hamba-Mu ini mendengar.’” — 1 Samuel 3:10
+
+Tulis jawabanmu 👇 dan tag guru sekolah minggu yang masih kamu ingat 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 09:10 WIB → **Fri 20 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 10:30 WIB → **Fri 20 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w8/sticky6.jpg`
+
+```
+Catatan untuk Hari Anak Sedunia 📌
+
+Kadang kita lupa siapa diri kita. Kita merasa harus membuktikan diri, takut ditolak, atau merasa belum cukup baik. Paulus menulis bahwa Roh Kudus sendiri meneguhkan dalam hati kita: kita anak-anak Allah. Bukan pegawai yang harus terus berprestasi, tapi anak yang dikasihi.
+
+📖 “Roh itu bersaksi bersama-sama dengan roh kita, bahwa kita adalah anak-anak Allah.” — Roma 8:16
+
+Save catatan ini untuk hari-hari ketika kamu lupa siapa dirimu 🔖
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 10:40 WIB → **Fri 20 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 12:00 WIB → **Fri 20 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w8/menu6.jpg`
+
+```
+Menu Hari Anak Sedunia 🧸
+
+Yesus tidak sekadar mengizinkan anak-anak datang. Ia memeluk mereka, meletakkan tangan-Nya atas mereka, dan memberkati mereka. Tidak ada biaya pendaftaran, tidak ada syarat harus pintar atau berprestasi. Begitulah Yesus menyambut yang kecil, dan begitulah Ia menyambut kita.
+
+📖 “Lalu Ia memeluk anak-anak itu dan sambil meletakkan tangan-Nya atas mereka Ia memberkati mereka.” — Markus 10:16
+
+Tag orang tua, guru, atau kakak yang pernah mengenalkanmu kepada Yesus 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 12:10 WIB → **Fri 20 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 13:30 WIB → **Fri 20 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search6.mp4`
+
+```
+Pertanyaan bagus untuk Hari Anak Sedunia 🔍
+
+Yohanes menulis bahwa Firman itu datang kepada milik kepunyaan-Nya, tapi banyak yang tidak menerima-Nya. Lalu muncul kabar baik ini: siapa pun yang menerima Dia dan percaya dalam nama-Nya diberi kuasa menjadi anak-anak Allah. Bukan karena keturunan atau usaha manusia, melainkan karena Allah.
+
+📖 “Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Allah, yaitu mereka yang percaya dalam nama-Nya;” — Yohanes 1:12
+
+Ketik “Aku anak-Nya” kalau kamu sudah menerima Yesus 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 13:40 WIB → **Fri 20 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search6.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 15:00 WIB → **Fri 20 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w8/ornamen6.jpg`
+
+```
+35 hari lagi 👶
+
+Di Hari Anak Sedunia, kita mengingat bahwa Anak Allah sendiri pernah menjadi anak kecil. Tanda yang diberikan malaikat bukan istana atau mahkota, tapi seorang bayi yang dibungkus lampin di palungan. Yesus tahu rasanya kecil, bergantung, dan dirawat orang lain.
+
+📖 “Dan inilah tandanya bagimu: Kamu akan menjumpai seorang bayi dibungkus dengan lampin dan terbaring di dalam palungan.” — Lukas 2:12
+
+Ketik 🎄 dan doakan satu anak yang kamu kenal hari ini.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 15:10 WIB → **Fri 20 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 16:30 WIB → **Fri 20 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w8/kode6.jpg`
+
+```
+Kode identitas untuk Hari Anak Sedunia 💻
+
+Hamba bekerja supaya diterima. Anak bekerja karena sudah diterima. Paulus menulis bahwa di dalam Kristus kita bukan lagi hamba, melainkan anak, bahkan ahli waris. Status itu bukan gaji yang kita kumpulkan, tapi pemberian Allah.
+
+📖 “Jadi kamu bukan lagi hamba, melainkan anak; jikalau kamu anak, maka kamu juga adalah ahli-ahli waris, oleh Allah.” — Galatia 4:7
+
+Ketik “Abba” kalau hari ini kamu mau datang kepada-Nya sebagai anak 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 16:40 WIB → **Fri 20 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 18:00 WIB → **Sat 21 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kartupos6.jpg`
+
+```
+Kartu pos dari Nazaret ✉️
+
+Alkitab tidak banyak bercerita tentang masa kecil Yesus. Tapi satu kalimat ini cukup: Ia bertumbuh menjadi besar dan kuat, dan kasih karunia Allah ada pada-Nya. Hari ini, doakan anak-anak di sekitarmu supaya bertumbuh dalam kasih karunia yang sama.
+
+📖 “Anak itu bertambah besar dan menjadi kuat, penuh hikmat, dan kasih karunia Allah ada pada-Nya.” — Lukas 2:40
+
+Tulis nama anak yang mau kamu doakan di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 18:10 WIB → **Sat 21 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 19:30 WIB → **Sat 21 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip6.mp4`
+
+```
+Untuk setiap anak, termasuk kamu 🚉
+
+Yesus baru saja bercerita tentang gembala yang meninggalkan sembilan puluh sembilan domba untuk mencari satu yang sesat. Lalu Ia menutup dengan kalimat ini. Di Hari Anak Sedunia, kita berdoa untuk anak-anak yang rentan, terlupakan, dan terluka. Bapa tidak menghendaki satu pun dari mereka hilang.
+
+📖 “Demikian juga Bapamu yang di sorga tidak menghendaki supaya seorangpun dari anak-anak ini hilang.” — Matius 18:14
+
+Tulis 🙏 di komentar sebagai doa untuk anak-anak yang terluka.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 19:40 WIB → **Sat 21 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip6.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 21:00 WIB → **Sat 21 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w8/peta6.jpg`
+
+```
+Rute seorang anak belajar berjalan 🗺️
+
+Lewat Hosea, Tuhan menggambarkan diri-Nya seperti orang tua yang mengajar anaknya berjalan dan mengangkatnya di tangan-Nya. Israel sering lupa dan menjauh, tapi kasih Bapa tetap sabar. Di Hari Anak Sedunia, ingat: kamu pun sedang belajar berjalan, dan Ia sabar menuntunmu.
+
+📖 “Padahal Akulah yang mengajar Efraim berjalan dan mengangkat mereka di tangan-Ku…” — Hosea 11:3
+
+Tag orang tua atau siapa pun yang dulu mengajarimu berjalan dalam iman 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 21:10 WIB → **Sat 21 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Fri 20 Nov 22:30 WIB → **Sat 21 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w8/lilin6.jpg`
+
+```
+Lilin untuk Hari Anak Sedunia 🕯️
+
+Tuhan memakai gambaran yang sangat lembut tentang diri-Nya: seperti seorang ibu yang menghibur anaknya. Kita tidak pernah terlalu dewasa untuk dihibur oleh Tuhan. Malam ini, kamu boleh berhenti menjadi orang yang selalu kuat dan datang kepada-Nya seperti anak kecil.
+
+📖 “Seperti seseorang yang dihibur ibunya, demikianlah Aku ini akan menghibur kamu; kamu akan dihibur di Yerusalem.” — Yesaya 66:13
+
+Ketik 🕯️ dan selamat beristirahat 🤍
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Fri 20 Nov 22:40 WIB → **Sat 21 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-6-larut.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 06:00 WIB → **Sat 21 Nov 12:00 NZ**
+
+Gambar (urut): `output/tenang_w8/koran7.jpg`
+
+```
+Berita akhir pekan: Raja datang dekat 📰
+
+Besok banyak gereja merayakan Minggu Kristus Raja, Minggu terakhir dalam kalender gerejawi sebelum masa Adven. Raja kita tidak datang dengan arak-arakan kuda perang. Ia datang dengan lemah lembut, cukup dekat untuk disambut orang banyak di jalan. Raja yang sama mengundang kita beribadah kepada-Nya besok.
+
+📖 “…Hosana bagi Anak Daud, diberkatilah Dia yang datang dalam nama Tuhan, hosana di tempat yang mahatinggi!” — Matius 21:9
+
+Ketik “Hosana” kalau besok kamu mau datang beribadah kepada Sang Raja 👑
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 06:10 WIB → **Sat 21 Nov 12:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-pagi.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 07:30 WIB → **Sat 21 Nov 13:30 NZ**
+
+Gambar (urut): `output/tenang_w8/letter7.jpg`
+
+```
+Papan pesan hari Sabtu 🪧
+
+Mazmur 24 adalah nyanyian untuk menyambut Raja Kemuliaan masuk. Pintu-pintu gerbang kuno pun disuruh mengangkat kepala, seolah terlalu rendah untuk Raja sebesar itu. Besok banyak gereja merayakan Minggu Kristus Raja. Hari ini, siapkan hati dan waktumu untuk menyambut-Nya dalam ibadah.
+
+📖 “Angkatlah kepalamu, hai pintu-pintu gerbang, dan terangkatlah kamu, hai pintu-pintu yang berabad-abad, supaya masuk Raja Kemuliaan!” — Mazmur 24:7
+
+Ketik “Siap menyambut” kalau besok kamu mau beribadah 👑
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 07:40 WIB → **Sat 21 Nov 13:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-pagi3.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 09:00 WIB → **Sat 21 Nov 15:00 NZ**
+
+Gambar (urut): `output/tenang_eli/saran3_1.jpg`, `output/tenang_eli/saran3_2.jpg`, `output/tenang_eli/saran3_3.jpg`, `output/tenang_eli/saran3_4.jpg`, `output/tenang_eli/saran3_5.jpg`, `output/tenang_eli/saran3_6.jpg`
+
+```
+Mau hafal ayat tapi gampang lupa? Ini tips dari Eli 📝
+
+1. Tulis di kertas tempel
+2. Ucapkan keras 3x sehari
+3. Hafal per potongan
+4. Ajak teman saling tes
+
+📖 Mazmur 119:11
+
+Ayat apa yang mau kamu hafal minggu ini? 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 09:10 WIB → **Sat 21 Nov 15:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-pagi2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 10:30 WIB → **Sat 21 Nov 16:30 NZ**
+
+Gambar (urut): `output/tenang_w8/sticky7.jpg`
+
+```
+Catatan untuk hari Sabtu 📌
+
+Daud adalah raja, tapi ia tahu ada Raja yang lebih tinggi. Ia menyebut Tuhan Rajaku dan Allahku, lalu membawa teriakannya kepada-Nya. Raja ini tidak terlalu sibuk untuk mendengar rakyat-Nya. Besok, datanglah beribadah kepada Raja yang mau mendengar.
+
+📖 “Perhatikanlah teriakku minta tolong, ya Rajaku dan Allahku, sebab kepada-Mulah aku berdoa.” — Mazmur 5:3
+
+Ketik “Rajaku” dan siapkan hatimu untuk ibadah besok ⛪
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 10:40 WIB → **Sat 21 Nov 16:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-siang0.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 12:00 WIB → **Sat 21 Nov 18:00 NZ**
+
+Gambar (urut): `output/tenang_w8/menu7.jpg`
+
+```
+Undangan perjamuan dari Sang Raja 👑
+
+Dalam perumpamaan Yesus, seorang raja mengadakan perjamuan kawin untuk anaknya. Tamu-tamu yang diundang menolak datang. Maka raja menyuruh hamba-hambanya pergi ke persimpangan jalan dan mengundang siapa saja yang mereka jumpai. Besok Minggu Kristus Raja. Undangan untuk datang menyembah-Nya juga terbuka untukmu.
+
+📖 “Sebab itu pergilah ke persimpangan-persimpangan jalan dan undanglah setiap orang yang kamu jumpai di sana ke perjamuan kawin itu.” — Matius 22:9
+
+Ajak satu teman ke ibadah besok, lalu tag dia di komentar 👇
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 12:10 WIB → **Sat 21 Nov 18:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-siang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 13:30 WIB → **Sat 21 Nov 19:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search7.mp4`
+
+```
+Jujur saja, kadang kita juga mengetiknya 🔍
+
+Rasa malas, capek, atau canggung datang ke gereja itu nyata. Tapi penulis Ibrani mengingatkan alasan kita beribadah: kita sudah menerima kerajaan yang tidak tergoncangkan. Ibadah bukan beban tambahan di akhir pekan, tapi ucapan syukur kepada Raja yang memerintah dan tetap dekat.
+
+📖 “Jadi, karena kita menerima kerajaan yang tidak tergoncangkan, marilah kita mengucap syukur dan beribadah kepada Allah menurut cara yang berkenan kepada-Nya, dengan hormat dan takut.” — Ibrani 12:28
+
+Ketik “Sampai jumpa di ibadah” kalau besok kamu mau datang 👑
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 13:40 WIB → **Sat 21 Nov 19:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/search7.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 15:00 WIB → **Sat 21 Nov 21:00 NZ**
+
+Gambar (urut): `output/tenang_w8/ornamen7.jpg`
+
+```
+34 hari lagi 👑
+
+Orang-orang Majus menempuh perjalanan jauh dengan satu tujuan: menyembah Raja yang baru lahir. Besok Minggu Kristus Raja. Kita tidak perlu menempuh perjalanan sejauh mereka. Raja itu sudah datang dekat, dan kita diundang untuk menyembah-Nya bersama-sama.
+
+📖 “…Di manakah Dia, raja orang Yahudi yang baru dilahirkan itu? Kami telah melihat bintang-Nya di Timur dan kami datang untuk menyembah Dia.” — Matius 2:2
+
+Ketik 👑 kalau besok kamu mau datang menyembah Sang Raja.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 15:10 WIB → **Sat 21 Nov 21:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-sore.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 16:30 WIB → **Sat 21 Nov 22:30 NZ**
+
+Gambar (urut): `output/tenang_w8/kode7.jpg`
+
+```
+Persiapan untuk Minggu Kristus Raja 💻
+
+Paulus menulis bahwa kita sudah dipindahkan dari kuasa kegelapan ke dalam Kerajaan Anak-Nya. Kita bukan lagi orang asing yang berdiri jauh. Raja itu dekat, dan kita adalah warga kerajaan-Nya. Besok kita beribadah bukan supaya menjadi warga, tapi karena kita sudah dijadikan warga.
+
+📖 “Ia telah melepaskan kita dari kuasa kegelapan dan memindahkan kita ke dalam Kerajaan Anak-Nya yang kekasih;” — Kolose 1:13
+
+Ketik 👑 kalau besok kamu mau datang beribadah.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 16:40 WIB → **Sat 21 Nov 22:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-sore2.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 18:00 WIB → **Sun 22 Nov 00:00 NZ**
+
+Gambar (urut): `output/tenang_w8/kartupos7.jpg`
+
+```
+Kartu pos dari Golgota ✉️
+
+Di atas kepala Yesus ada tulisan: Inilah raja orang Yahudi. Banyak orang mengejek-Nya. Tapi seorang penjahat di sebelah-Nya melihat Raja yang sungguh-sungguh. Dan Yesus menjawab permintaannya dengan janji bahwa hari itu juga ia akan bersama-Nya di Firdaus.
+
+📖 “Lalu ia berkata: ‘Yesus, ingatlah akan aku, apabila Engkau datang sebagai Raja.’” — Lukas 23:42
+
+Ketik “Ingatlah akan aku” sebagai doamu menjelang Minggu Kristus Raja 👑
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 18:10 WIB → **Sun 22 Nov 00:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-petang.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 19:30 WIB → **Sun 22 Nov 01:30 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip7.mp4`
+
+```
+Kedatangan malam ini: Sang Raja 🚉
+
+Zakharia menulis nubuat ini untuk umat yang kecil dan lemah, lebih dari lima ratus tahun sebelum Yesus masuk Yerusalem. Raja yang dijanjikan tidak datang dengan kereta perang, tapi menunggang keledai. Ia datang dekat, lemah lembut, dan mudah dihampiri. Besok kita menyembah Raja itu.
+
+📖 “…Lihat, rajamu datang kepadamu; ia adil dan jaya. Ia lemah lembut dan mengendarai seekor keledai, seekor keledai beban yang muda.” — Zakharia 9:9
+
+Ketik 👑 kalau kamu siap menyambut-Nya besok.
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 19:40 WIB → **Sun 22 Nov 01:40 NZ**
+
+Gambar (urut): `output/reels/tenang_w8/flip7.mp4`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 21:00 WIB → **Sun 22 Nov 03:00 NZ**
+
+Gambar (urut): `output/tenang_w8/peta7.jpg`
+
+```
+Rute untuk besok pagi 🗺️
+
+Yesaya melihat masa depan ketika bangsa-bangsa saling mengajak naik ke rumah Tuhan. Mereka datang bukan untuk menonton, tapi untuk diajar dan berjalan di jalan-Nya. Besok, Minggu Kristus Raja, kita juga punya kesempatan itu. Ajak satu orang berangkat bersamamu.
+
+📖 “…Mari, kita naik ke gunung TUHAN, ke rumah Allah Yakub, supaya Ia mengajar kita tentang jalan-jalan-Nya, dan supaya kita berjalan menempuhnya…” — Yesaya 2:3
+
+Ketik “Mari kita naik” kalau besok kamu mau beribadah 👑
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 21:10 WIB → **Sun 22 Nov 03:10 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-malam.jpg`
+
+```
+
+```
+
+## @diam.dan.percaya — Sat 21 Nov 22:30 WIB → **Sun 22 Nov 04:30 NZ**
+
+Gambar (urut): `output/tenang_w8/lilin7.jpg`
+
+```
+Lilin malam Minggu 🕯️
+
+Paulus menulis pujian ini setelah mengingat bahwa ia dulu seorang penganiaya, lalu dikasihani oleh Kristus. Raja segala zaman itu tidak jauh dan tidak dingin. Kristus Yesus datang ke dunia untuk menyelamatkan orang berdosa. Besok kita merayakan Minggu Kristus Raja. Tutup minggu ini dengan menyembah-Nya.
+
+📖 “Hormat dan kemuliaan sampai selama-lamanya bagi Raja segala zaman, Allah yang kekal, yang tak nampak, yang esa! Amin.” — 1 Timotius 1:17
+
+Ketik “Amin” dan sampai jumpa di ibadah besok 👑
+.
+.
+#renunganharian #ayatalkitab #firmanTuhan #kristen #quoteskristen #tenangdalamTuhan #doa
+```
+
+## @diam.dan.percaya — Sat 21 Nov 22:40 WIB → **Sun 22 Nov 04:40 NZ**
+
+Gambar (urut): `output/stories/tenang_w8-7-larut.jpg`
+
+```
+
+```
