@@ -1135,6 +1135,11 @@ def build_schedule(eli_files, tenang_files, kapi_files):
         for (hari, slot), (files, caption) in gaya_w8.render_week("tenang_w8").items():
             items.append({"id": f"tenang_w8-{hari}-{slot}", "akun": "tenang", "waktu": at(49 + hari - 1, config.AKUN["tenang"]["jam"][slot]),
                           "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
+    if (ROOT / "konten/tenang_w9.py").exists():  # Tenang minggu 9 (22-28 Nov): jam tangan, kartu nama, rambu, undangan, gosok, ...
+        import gaya_w9
+        for (hari, slot), (files, caption) in gaya_w9.render_week("tenang_w9").items():
+            items.append({"id": f"tenang_w9-{hari}-{slot}", "akun": "tenang", "waktu": at(56 + hari - 1, config.AKUN["tenang"]["jam"][slot]),
+                          "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
     from konten import spesial  # post satu kali untuk momen khusus
     for sid, akun, waktu, files, caption in spesial.POSTS:
         items.append({"id": sid, "akun": akun, "waktu": waktu, "files": files, "caption": caption})

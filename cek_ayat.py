@@ -36,7 +36,7 @@ EN_RE = (r"(?:[1-3] )?(?:Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Jud
          r"Galatians|Ephesians|Philippians|Colossians|Thessalonians|Timothy|Titus|Philemon|Hebrews|James|Peter|Jude|Revelation)")
 REF_RE = re.compile(rf"({BOOK_RE}|{EN_RE}) (\d+):(\d+)(?:-(\d+))?")
 MODULES = ["tenang", "tenang_keren", "tenang_w2", "tenang_keren2", "tenang_minggu2", "eli", "eli_variasi", "eli_w2",
-           "kapi", "kapi_tambahan", "kapi_w2", "eli_lamb", "eli_lamb_w3", "eli_lamb_w6", "tenang_w3", "tenang_w4", "tenang_w5", "tenang_w6", "tenang_w7", "tenang_w8", "tenang_extra", "ayat", "ayat_minggu2", "ayat_minggu3", "ayat_singkat", "ayat_w2"]
+           "kapi", "kapi_tambahan", "kapi_w2", "eli_lamb", "eli_lamb_w3", "eli_lamb_w6", "tenang_w3", "tenang_w4", "tenang_w5", "tenang_w6", "tenang_w7", "tenang_w8", "tenang_w9", "tenang_extra", "ayat", "ayat_minggu2", "ayat_minggu3", "ayat_singkat", "ayat_w2"]
 
 
 def load_cache():

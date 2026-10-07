@@ -5,6 +5,7 @@ Dirender ulang dengan handle @diam.dan.percaya ke output/tenang_eli/ (gambar & c
   render_item(("payung",))       -> Reels "Payung"
   render_item(("edukasi", i))    -> carousel "Eli Belajar" ke-i dari konten/eli_variasi.py
   render_item(("saran", i))      -> carousel "Tips dari Eli" ke-i
+  render_item(("kuis", i))       -> kuis Eli ke-i
 """
 import re
 import shutil
@@ -61,4 +62,9 @@ def render_item(item):
     with handle_tenang():
         if kind == "edukasi":
             return render.eli_edukasi(ev.EDUKASI[i], i, FOLDER), ev.EDUKASI[i]["caption"]
+        if kind == "kuis":
+            q = ev.KUIS[i]
+            cap = (f"Kuis Alkitab dari Eli! 🤔\n\n{q['tanya']}\nA. {q['pilihan'][0]}\nB. {q['pilihan'][1]}\nC. {q['pilihan'][2]}\n\n"
+                   f"Jawab A, B, atau C di komentar 👇 Jangan intip jawabannya dulu!\n.\n.\n.\n.\n.\nJawaban: {q['jawab']}")
+            return render.eli_kuis(q, i, FOLDER), cap
         return render.eli_saran(ev.SARAN[i], i, FOLDER), ev.SARAN[i]["caption"]
