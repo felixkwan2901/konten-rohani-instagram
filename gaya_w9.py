@@ -27,6 +27,21 @@ RW, RH, FPS = 1080, 1920, 30
 EMAS = (184, 146, 72)
 
 
+def kertas_kado(w, h, seed=0):
+    """Kertas kado Natal: merah/hijau bergaris diagonal dengan bintang emas."""
+    rng = np.random.default_rng(3100 + seed)
+    base, garis = [((168, 28, 40), (190, 52, 60)), ((22, 92, 62), (34, 112, 78)), ((120, 20, 34), (150, 40, 50))][seed % 3]
+    img = Image.new("RGB", (w, h), base)
+    d = ImageDraw.Draw(img)
+    for k in range(-h, w, 70):
+        d.line((k, 0, k + h, h), fill=garis, width=26)
+    for _ in range(int(w * h / 26000)):
+        x, y, r = rng.uniform(0, w), rng.uniform(0, h), rng.uniform(8, 16)
+        d.polygon([(x, y - r), (x + r * .3, y - r * .3), (x + r, y), (x + r * .3, y + r * .3), (x, y + r), (x - r * .3, y + r * .3),
+                   (x - r, y), (x - r * .3, y - r * .3)], fill=(236, 196, 100))
+    return grain(img, 0.05)
+
+
 def mahkota(s, col=EMAS + (255,)):
     def g(d, k):
         S = s * k
@@ -211,9 +226,9 @@ def rambu_image(p, i):
 
 # ---------- RESEP: kartu resep tulisan tangan ----------
 
-def resep_image(p, i):
+def resep_image(p, i, latar=None):
     rng = np.random.default_rng(2300 + i)
-    img = kayu(W, H, rng, (196, 150, 104)).convert("RGBA")
+    img = (latar.copy() if latar is not None else kayu(W, H, rng, (196, 150, 104))).convert("RGBA")
     cw, chh = 960, 1250
     card = Image.new("RGBA", (cw, chh), (252, 249, 238, 255))
     d = ImageDraw.Draw(card)
@@ -720,13 +735,15 @@ def progress_reel(p, idx, mod=MOD, seconds=14):
 
 # ---------- GOSOK (Reels): kartu gosok ----------
 
-def gosok_reel(p, idx, mod=MOD, seconds=12):
+def gosok_reel(p, idx, mod=MOD, seconds=12, natal=False):
     rel = f"reels/{mod}/gosok{idx + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     rng = np.random.default_rng(3000 + idx)
     warna = [(22, 92, 70), (150, 30, 44), (30, 60, 120), (110, 40, 110), (20, 100, 110), (170, 90, 30), (60, 70, 40)][idx % 7]
-    bg = gradasi(RW, RH, tuple(min(255, c + 30) for c in warna), tuple(int(c * 0.6) for c in warna)).convert("RGBA")
+    if natal:
+        warna = [(150, 30, 44), (22, 92, 70), (160, 110, 30)][idx % 3]
+    bg = (kertas_kado(RW, RH, idx) if natal else gradasi(RW, RH, tuple(min(255, c + 30) for c in warna), tuple(int(c * 0.6) for c in warna))).convert("RGBA")
     bd = ImageDraw.Draw(bg)
     for _ in range(90):
         x, y, s = rng.uniform(0, RW), rng.uniform(0, RH), rng.uniform(4, 10)

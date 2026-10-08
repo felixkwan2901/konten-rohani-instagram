@@ -75,7 +75,7 @@ def koran_image(p, i):
     d = ImageDraw.Draw(img)
     x0, x1 = 60, W - 60
     tnr = lambda s, b=False: ft("Times New Roman Bold.ttf" if b else "Times New Roman.ttf", s)
-    d.text((W / 2, 52), f"EDISI KHUSUS  ·  {tanggal(i).upper()}  ·  GRATIS", font=tnr(22, True), fill=TINTA, anchor="ma")
+    d.text((W / 2, 52), f"{p.get('_edisi', 'EDISI KHUSUS')}  ·  {p.get('_tanggal_panjang', tanggal(i)).upper()}  ·  GRATIS", font=tnr(22, True), fill=TINTA, anchor="ma")
     d.line((x0, 88, x1, 88), fill=TINTA, width=2)
     d.text((W / 2, 98), "KABAR BAIK", font=ft("BigCaslon.ttf", 128), fill=TINTA, anchor="ma")
     d.line((x0, 250, x1, 250), fill=TINTA, width=4)
@@ -614,6 +614,12 @@ def kartupos_image(p, i):
 
 # ---------- PETA: aplikasi peta dengan rute ----------
 
+PETA_TERANG = {"tanah": (237, 232, 223, 255), "taman": (200, 226, 186, 255), "air": (170, 210, 232, 255),
+               "tepi": (214, 208, 198, 255), "jalan": (255, 255, 255, 255), "raya": (250, 214, 120, 255)}
+PETA_GELAP = {"tanah": (32, 36, 48, 255), "taman": (36, 58, 50, 255), "air": (34, 58, 92, 255),
+              "tepi": (24, 26, 36, 255), "jalan": (66, 72, 90, 255), "raya": (140, 110, 56, 255)}
+
+
 def pin(s, col):
     def g(d, k):
         S = s * k
@@ -623,27 +629,28 @@ def pin(s, col):
     return sprite(s, s, g)
 
 
-def peta_image(p, i):
+def peta_image(p, i, gelap=False):
     rng = np.random.default_rng(1700 + i)
     mh = 840
-    img = Image.new("RGBA", (W, H), (237, 232, 223, 255))
+    pal = PETA_GELAP if gelap else PETA_TERANG
+    img = Image.new("RGBA", (W, H), pal["tanah"])
     d = ImageDraw.Draw(img)
     for _ in range(3):  # taman
         x, y = rng.uniform(80, W - 200), rng.uniform(80, mh - 200)
-        d.rounded_rectangle((x, y, x + rng.uniform(120, 260), y + rng.uniform(90, 200)), radius=30, fill=(200, 226, 186, 255))
+        d.rounded_rectangle((x, y, x + rng.uniform(120, 260), y + rng.uniform(90, 200)), radius=30, fill=pal["taman"])
     pts = [(-20, rng.uniform(150, 300))]  # sungai
     for x in range(0, W + 120, 120):
         pts.append((x, pts[-1][1] + rng.uniform(-40, 70)))
-    d.line(pts, fill=(170, 210, 232, 255), width=46, joint="curve")
+    d.line(pts, fill=pal["air"], width=46, joint="curve")
     xs = sorted(rng.choice(np.arange(60, W - 60, 40), 6, replace=False))
     ys = sorted(rng.choice(np.arange(320, mh - 80, 40), 6, replace=False))
     for x in xs:
-        d.line((x, 0, x, mh), fill=(214, 208, 198, 255), width=26)
-        d.line((x, 0, x, mh), fill=(255, 255, 255, 255), width=20)
+        d.line((x, 0, x, mh), fill=pal["tepi"], width=26)
+        d.line((x, 0, x, mh), fill=pal["jalan"], width=20)
     for y in ys:
-        d.line((0, y, W, y), fill=(214, 208, 198, 255), width=26)
-        d.line((0, y, W, y), fill=(255, 255, 255, 255), width=20)
-    d.line((0, mh * 0.9, W, mh * 0.15), fill=(250, 214, 120, 255), width=30)  # jalan raya diagonal
+        d.line((0, y, W, y), fill=pal["tepi"], width=26)
+        d.line((0, y, W, y), fill=pal["jalan"], width=20)
+    d.line((0, mh * 0.9, W, mh * 0.15), fill=pal["raya"], width=30)  # jalan raya diagonal
     sx, sy = xs[0], ys[-1]
     ex, ey = xs[-1], ys[1]
     mid = xs[len(xs) // 2]
@@ -913,7 +920,7 @@ def flip_reel(p, idx, mod=MOD, seconds=10):
     d = ImageDraw.Draw(bg)
     amber = (245, 190, 66)
     d.text((bx + 20, by - 70), "PESAN HARI INI", font=hn(34, 1), fill=amber)
-    d.text((bx + bw - 20, by - 70), "19:30", font=ft("DIN Condensed Bold.ttf", 46), fill=amber, anchor="ra")
+    d.text((bx + bw - 20, by - 70), p.get("_jam", "19:30").replace(".", ":"), font=ft("DIN Condensed Bold.ttf", 46), fill=amber, anchor="ra")
     d.rounded_rectangle((bx, by, bx + bw, by + bh), radius=18, fill=(14, 14, 16, 255))
     d.text((RW / 2, by + bh + 50), p["ref"].upper(), font=ft("DIN Condensed Bold.ttf", 60), fill=amber, anchor="ma")
     d.text((RW / 2, by + bh + 140), "@" + HANDLE, font=hn(28, 10), fill=(140, 144, 150), anchor="ma")

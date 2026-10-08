@@ -36,7 +36,7 @@ def tangan(size):
 
 def bersih(s):
     """Emoji tidak ada di font gambar; buang dari teks yang digambar (caption tetap utuh)."""
-    return re.sub(r"\s{2,}", " ", EMOJI.sub("", s)).strip()
+    return re.sub(r"\s{2,}", " ", EMOJI.sub("", s)).replace("→", "›").strip()
 
 
 def tanpa_kutip(s):
@@ -284,9 +284,9 @@ def barcode(d, x0, y0, w, h, rng, col):
         x += bw + int(rng.choice([2, 3, 4]))
 
 
-def tiket_image(p, i):
+def tiket_image(p, i, latar=None):
     rng = np.random.default_rng(200 + i)
-    img = grain(gradasi(W, H, (120, 176, 232), (250, 210, 176)), 0.06).convert("RGBA")
+    img = (latar.copy() if latar is not None else grain(gradasi(W, H, (120, 176, 232), (250, 210, 176)), 0.06)).convert("RGBA")
     navy, abu = (29, 43, 83), (138, 143, 156)
     cw, chh = 920, 1170
     card = Image.new("RGBA", (cw, chh), (0, 0, 0, 0))
@@ -346,11 +346,14 @@ def lingkaran_cek(s, status):
     return sprite(s, s, gambar)
 
 
-def catatan_image(p, i):
-    img = grain(Image.new("RGB", (W, H), "#FFFFFF"), 0.02).convert("RGBA")
+def catatan_image(p, i, gelap=False):
+    img = grain(Image.new("RGB", (W, H), "#0B0B0D" if gelap else "#FFFFFF"), 0.02).convert("RGBA")
     d = ImageDraw.Draw(img)
     amber, abu, hitam = (227, 165, 11), (154, 154, 158), (20, 20, 20)
-    d.text((80, 44), "10.30", font=hn(32, 1), fill=hitam)
+    if gelap:
+        abu, hitam = (130, 130, 136), (236, 236, 240)
+    jam = p.get("_jam", "10.30")
+    d.text((80, 44), jam, font=hn(32, 1), fill=hitam)
     d.rounded_rectangle((W - 140, 48, W - 84, 76), radius=8, outline=hitam, width=3)
     d.rounded_rectangle((W - 135, 53, W - 100, 71), radius=4, fill=hitam)
     d.rectangle((W - 82, 56, W - 78, 68), fill=hitam)
@@ -359,7 +362,7 @@ def catatan_image(p, i):
     d.ellipse((W - 116, 104, W - 64, 156), outline=amber, width=4)
     for dx in (-12, 0, 12):
         d.ellipse((W - 90 + dx - 4, 126, W - 90 + dx + 4, 134), fill=amber)
-    d.text((W / 2, 200), f"{8 + i} November 2026 pukul 10.30", font=hn(26, 0), fill=abu, anchor="ma")
+    d.text((W / 2, 200), p.get("_tanggal", f"{8 + i} November 2026") + " pukul " + jam, font=hn(26, 0), fill=abu, anchor="ma")
     y = 270
     ft_ = hn(62, 1)
     for ln in wrap(d, bersih(p["judul"]), ft_, W - 160):
@@ -376,16 +379,16 @@ def catatan_image(p, i):
             d.line((156, y + 28, 164 + d.textlength(bersih(teks), font=fi), y + 28), fill=(120, 120, 124), width=4)
         y += 92
     y += 24
-    d.line((80, y, W - 80, y), fill=(232, 232, 236), width=2)
+    d.line((80, y, W - 80, y), fill=(44, 44, 48) if gelap else (232, 232, 236), width=2)
     y += 36
     f, lines, size = pas(d, bersih(p["ayat"]), lambda s: hn(s, 2), W - 160, H - 150 - y - 60, 40, 26, 1.38)
     for ln in lines:
-        d.text((80, y), ln, font=f, fill=(50, 50, 54))
+        d.text((80, y), ln, font=f, fill=(206, 206, 212) if gelap else (50, 50, 54))
         y += size * 1.38
     d.text((80, y + 8), p["ref"], font=hn(size, 1), fill=hitam)
     # toolbar bawah
     yb = H - 92
-    d.line((0, yb - 26, W, yb - 26), fill=(236, 236, 240), width=2)
+    d.line((0, yb - 26, W, yb - 26), fill=(44, 44, 48) if gelap else (236, 236, 240), width=2)
     for k, cx in enumerate((150, 400, 680, 930)):
         if k == 0:
             for j in range(3):
@@ -409,7 +412,7 @@ def catatan_image(p, i):
 ALAS = ["#D9C7B0", "#BFD4CF", "#E3C9C9", "#C9CFE3", "#D6D1C4", "#CDE0C5", "#E6D7B8"]
 
 
-def struk_image(p, i):
+def struk_image(p, i, alas=None):
     rng = np.random.default_rng(300 + i)
     mono = lambda s, b=False: ft("/System/Library/Fonts/Menlo.ttc", s, 1 if b else 0)
     pw, cols, cs = 700, 30, 30
@@ -429,7 +432,7 @@ def struk_image(p, i):
         baris(ln, mono(40, True), "c")
     baris("@" + HANDLE, mono(24), "c")
     baris("", h=16)
-    kiri_kanan(f"{8 + i:02d}/11/2026", "12:00")
+    kiri_kanan(p.get("_tgl_struk", f"{8 + i:02d}/11/2026"), p.get("_jam", "12:00").replace(".", ":"))
     baris("-" * cols)
     for nama, harga in p["item"]:
         kiri_kanan(bersih(nama), bersih(harga))
@@ -473,20 +476,20 @@ def struk_image(p, i):
     if paper.height > H - 80:
         s = (H - 80) / paper.height
         paper = paper.resize((int(paper.width * s), int(paper.height * s)), Image.LANCZOS)
-    img = grain(Image.new("RGB", (W, H), ALAS[i % len(ALAS)]), 0.07).convert("RGBA")
+    img = (alas.copy() if alas is not None else grain(Image.new("RGB", (W, H), ALAS[i % len(ALAS)]), 0.07)).convert("RGBA")
     bayangan(img, paper, ((W - paper.width) // 2, (H - paper.height) // 2), blur=20, geser=(10, 18), kuat=0.35)
     return img
 
 
 # ---------- KALENDER: kalender sobek, hitung mundur Natal ----------
 
-def kalender_image(p, i):
+def kalender_image(p, i, latar=None):
     rng = np.random.default_rng(600 + i)
     wall = np.asarray(gradasi(W, H, (239, 230, 216), (214, 200, 180))).astype(np.float32)
     wall *= (0.92 + 0.16 * render.fbm2d(H, W, rng, ((6, 1.0), (60, 0.4))))[..., None]
     yy, xx = np.mgrid[0:H, 0:W].astype(np.float32)
     wall *= (1.06 - 0.22 * np.hypot((xx - W * 0.3) / W, (yy - H * 0.15) / H))[..., None]
-    img = grain(Image.fromarray(np.clip(wall, 0, 255).astype(np.uint8)), 0.05).convert("RGBA")
+    img = (latar.copy() if latar is not None else grain(Image.fromarray(np.clip(wall, 0, 255).astype(np.uint8)), 0.05)).convert("RGBA")
     merah, ink, abu = (179, 38, 46), (40, 34, 30), (130, 120, 110)
     pw, x0, top, pb = 740, (W - 740) // 2, 200, 1255
     pad = Image.new("RGBA", (pw, pb - top + 40), (0, 0, 0, 0))
@@ -494,7 +497,7 @@ def kalender_image(p, i):
     for k in range(4, 0, -1):  # tebal tumpukan halaman
         d.rectangle((6 + k, 150 + k * 6, pw - 6 - k, pb - top + k * 6), fill=(236 - k * 8, 232 - k * 8, 224 - k * 8, 255))
     d.rectangle((0, 0, pw, 130), fill=merah)
-    d.text((pw / 2, 66), "NOVEMBER 2026", font=hn(44, 1), fill="white", anchor="mm")
+    d.text((pw / 2, 66), ("DESEMBER" if "Desember" in p["tanggal"] else "NOVEMBER") + " 2026", font=hn(44, 1), fill="white", anchor="mm")
     d.rectangle((0, 130, pw, pb - top), fill=(251, 248, 242, 255))
     ys = 132  # sisa sobekan halaman kemarin
     pts = [(0, ys)] + [(x, ys + 10 + rng.uniform(0, 16)) for x in range(0, pw + 1, 18)] + [(pw, ys)]
@@ -633,8 +636,16 @@ def kursor(s):
     return sprite(s, s, gambar)
 
 
-def popup_image(p, i):
-    img = Image.new("RGBA", (W, H), (0, 128, 128, 255))
+def popup_image(p, i, natal=False):
+    img = Image.new("RGBA", (W, H), (18, 84, 62, 255) if natal else (0, 128, 128, 255))
+    if natal:  # wallpaper Natal: salju & bintang
+        rs = np.random.default_rng(640 + i)
+        sd = ImageDraw.Draw(img)
+        for _ in range(160):
+            x, y, s = rs.uniform(0, W), rs.uniform(0, H), rs.uniform(2, 5)
+            sd.ellipse((x - s, y - s, x + s, y + s), fill=(255, 255, 255, 180))
+        for x, y in ((960, 1180), (140, 1150), (900, 600)):
+            sd.polygon([(x, y - 30), (x + 8, y - 8), (x + 30, y), (x + 8, y + 8), (x, y + 30), (x - 8, y + 8), (x - 30, y), (x - 8, y - 8)], fill=(250, 214, 110, 255))
     for k, (kind, lab) in enumerate((("buku", "Alkitab"), ("folder", "Doa"), ("sampah", "Khawatir"))):
         y = 60 + k * 180
         comp(img, ikon_desktop(kind, 84), (54, y))
@@ -697,7 +708,7 @@ def popup_image(p, i):
     bevel(d, (180, ty + 10, 560, H - 8), ditekan=True, isi=(212, 212, 212))
     d.text((196, ty + 36), "@" + HANDLE, font=ms(24), fill="black", anchor="lm")
     bevel(d, (W - 140, ty + 10, W - 8, H - 8), ditekan=True)
-    d.text((W - 74, ty + 36), "16.30", font=ms(26), fill="black", anchor="mm")
+    d.text((W - 74, ty + 36), p.get("_jam", "16.30"), font=ms(26), fill="black", anchor="mm")
     comp(img, kursor(54), cur)
     return img
 
@@ -952,7 +963,7 @@ def chat_reel(p, idx, mod=MOD):
     # bagian tetap: header & kolom ketik
     head = Image.new("RGBA", (RW, TOP_CHAT), (248, 248, 250, 255))
     hd = ImageDraw.Draw(head)
-    hd.text((70, 60), "13.30", font=hn(34, 1), fill=(10, 10, 10))
+    hd.text((70, 60), p.get("_jam", "13.30"), font=hn(34, 1), fill=(10, 10, 10))
     hd.rounded_rectangle((RW - 150, 64, RW - 92, 92), radius=8, outline=(10, 10, 10), width=3)
     hd.rounded_rectangle((RW - 145, 69, RW - 110, 87), radius=4, fill=(10, 10, 10))
     hd.line((92, 190, 68, 166, 92, 142), fill=BIRU, width=7)
