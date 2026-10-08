@@ -309,8 +309,11 @@ def led_image(p, i):
 
 # ---------- DOA ----------
 
-def doa_image(p, i):
-    img = grain(Image.new("RGB", (W, H), "#F2ECE2"), 0.07)
+def doa_image(p, i, foto=None):
+    if foto is not None:  # versi di atas foto: latar digelapkan, teks putih
+        img = grain(Image.blend(cover(foto, W, H).convert("RGB").filter(ImageFilter.GaussianBlur(6)), Image.new("RGB", (W, H), "#000000"), 0.58), 0.06)
+    else:
+        img = grain(Image.new("RGB", (W, H), "#F2ECE2"), 0.07)
     d = ImageDraw.Draw(img)
     for size in range(110, 50, -4):
         lines = wrap(d, p["judul"].upper(), hn(size, 9), W - 120)
@@ -318,14 +321,15 @@ def doa_image(p, i):
             break
     y = 120
     for ln in lines:
-        d.text((60, y), ln, font=hn(size, 9), fill="#1B1B1B")
+        d.text((60, y), ln, font=hn(size, 9), fill="#F4EFE6" if foto is not None else "#1B1B1B")
         y += size * 0.98
     y += 40
     fonts = {"n": hn(48, 0), "b": hn(48, 1), "i": hn(48, 2), "h": hn(48, 10)}
-    colors = {"n": "#2A2A2A", "b": "#2A2A2A", "i": "#2A2A2A", "h": "#C8322A"}
+    colors = ({"n": "#F1ECE4", "b": "#F1ECE4", "i": "#F1ECE4", "h": "#F2C46D"} if foto is not None
+              else {"n": "#2A2A2A", "b": "#2A2A2A", "i": "#2A2A2A", "h": "#C8322A"})
     wl, space, wlen = gaya_w5.layout(gaya_w5.parse(p["isi"]), fonts, W - 140)
     gaya_w5.draw_rich(img, wl, fonts, colors, 60, y, 68, space, wlen, hl=None)
-    d.text((W - 60, H - 90), HANDLE.replace(".", " "), font=ImageFont.truetype(SUP + "SnellRoundhand.ttc", 52), fill="#6E6257", anchor="rs")
+    d.text((W - 60, H - 90), HANDLE.replace(".", " "), font=ImageFont.truetype(SUP + "SnellRoundhand.ttc", 52), fill="#D8CFC2" if foto is not None else "#6E6257", anchor="rs")
     return img
 
 

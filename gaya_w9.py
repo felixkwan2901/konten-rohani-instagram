@@ -124,16 +124,17 @@ def marmer(w, h, rng):
     return Image.fromarray(np.clip(arr, 0, 255).astype(np.uint8))
 
 
-def nama_image(p, i):
+def nama_image(p, i, emas=False):
     rng = np.random.default_rng(2100 + i)
-    img = grain(marmer(W, H, rng), 0.03).convert("RGBA")
-    navy = (24, 36, 70)
+    m_ = marmer(W, H, rng)
+    img = grain(Image.fromarray((np.asarray(m_).astype(np.float32) * 0.22).astype(np.uint8)) if emas else m_, 0.03).convert("RGBA")
+    navy = EMAS if emas else (24, 36, 70)
     cw, chh = 900, 540
-    back = Image.new("RGBA", (cw, chh), navy + (255,))
+    back = Image.new("RGBA", (cw, chh), (236, 230, 214, 255) if emas else navy + (255,))
     comp(back, mahkota(200), (cw / 2 - 100, chh / 2 - 110))
     back = back.rotate(9, expand=True, resample=Image.BICUBIC)
     bayangan(img, back, (W / 2 - back.width / 2 + 40, 40), blur=18, geser=(6, 14), kuat=0.35)
-    card = Image.new("RGBA", (cw, chh), (252, 251, 247, 255))
+    card = Image.new("RGBA", (cw, chh), (22, 22, 26, 255) if emas else (252, 251, 247, 255))
     d = ImageDraw.Draw(card)
     comp(card, mahkota(70), (60, 50))
     d = ImageDraw.Draw(card)
@@ -147,12 +148,12 @@ def nama_image(p, i):
     for k, (lab, val) in enumerate(p["kontak"]):
         y = 340 + k * 56
         d.text((60, y), bersih(lab).upper(), font=hn(22, 1), fill=EMAS)
-        d.text((210, y - 4), bersih(val), font=hn(30, 0), fill=(40, 44, 56))
+        d.text((210, y - 4), bersih(val), font=hn(30, 0), fill=(226, 220, 204) if emas else (40, 44, 56))
     card = card.rotate(-3, expand=True, resample=Image.BICUBIC)
     bayangan(img, card, (W / 2 - card.width / 2 - 20, 250), blur=20, geser=(8, 18), kuat=0.4)
     d = ImageDraw.Draw(img)
     d.text((W / 2, 880), "NAMA-NAMA YESUS", font=hn(26, 1), fill=EMAS, anchor="ma")
-    ayat_bawah(img, p, 930, H - 70, (50, 50, 60), navy)
+    ayat_bawah(img, p, 930, H - 70, (226, 220, 204) if emas else (50, 50, 60), navy)
     d.text((W / 2, H - 50), "@" + HANDLE, font=hn(22, 10), fill=(140, 140, 150), anchor="ma")
     return img
 
@@ -285,9 +286,9 @@ def segel(s, col=(150, 26, 30)):
     return img
 
 
-def undangan_image(p, i):
+def undangan_image(p, i, warna=None):
     rng = np.random.default_rng(2400 + i)
-    bgc = LATAR_UND[i % 7]
+    bgc = warna or LATAR_UND[i % 7]
     img = grain(gradasi(W, H, tuple(min(255, c + 30) for c in bgc), bgc), 0.05).convert("RGBA")
     amp = Image.new("RGBA", (900, 640), (0, 0, 0, 0))  # amplop di belakang
     ad = ImageDraw.Draw(amp)
@@ -460,14 +461,14 @@ def museum_image(p, i):
 KASET_WARNA = [(230, 190, 70), (90, 170, 170), (220, 120, 100), (130, 150, 210), (150, 190, 120), (200, 140, 180), (240, 170, 90)]
 
 
-def kaset_image(p, i):
+def kaset_image(p, i, putih=False):
     rng = np.random.default_rng(2700 + i)
-    bgc = KASET_WARNA[i % 7]
+    bgc = [(230, 214, 240), (206, 230, 222), (246, 222, 214)][i % 3] if putih else KASET_WARNA[i % 7]
     img = grain(Image.new("RGB", (W, H), bgc), 0.08).convert("RGBA")
     kw, kh = 860, 540
     k = Image.new("RGBA", (kw, kh), (0, 0, 0, 0))
     d = ImageDraw.Draw(k)
-    d.rounded_rectangle((0, 0, kw, kh), radius=30, fill=(40, 40, 46, 255))
+    d.rounded_rectangle((0, 0, kw, kh), radius=30, fill=(244, 242, 236, 255) if putih else (40, 40, 46, 255))
     d.rounded_rectangle((40, 36, kw - 40, kh - 130), radius=16, fill=(246, 240, 224, 255))
     d.rectangle((40, 100, kw - 40, 110), fill=bgc + (255,))
     d.text((70, 40), "A", font=hn(48, 1), fill=(40, 40, 46))
@@ -483,7 +484,7 @@ def kaset_image(p, i):
             x, y = cx + 22 * math.cos(math.radians(a)), 230 + 22 * math.sin(math.radians(a))
             d.rectangle((x - 4, y - 4, x + 4, y + 4), fill=(250, 250, 250, 255))
     d.rectangle((330, 200, kw - 330, 262), fill=(90, 60, 40, 255))
-    d.polygon([(160, kh), (220, kh - 110), (kw - 220, kh - 110), (kw - 160, kh)], fill=(60, 60, 66, 255))
+    d.polygon([(160, kh), (220, kh - 110), (kw - 220, kh - 110), (kw - 160, kh)], fill=(214, 210, 202, 255) if putih else (60, 60, 66, 255))
     for x, y in ((30, 30), (kw - 30, 30), (30, kh - 30), (kw - 30, kh - 30), (kw / 2, kh - 40)):
         d.ellipse((x - 9, y - 9, x + 9, y + 9), fill=(110, 110, 116, 255))
     k = k.rotate(-4, expand=True, resample=Image.BICUBIC)
@@ -565,7 +566,7 @@ def sertifikat_image(p, i):
     sy = chh - 210
     d.line((120, sy, 440, sy), fill=(60, 60, 60), width=2)
     d.text((280, sy + 14), bersih(p["dasar"]), font=georgia(24, True), fill=(90, 86, 80), anchor="ma")
-    d.text((280, sy - 50), f"{22 + i} November 2026", font=tangan(34), fill=(36, 52, 110), anchor="ma")
+    d.text((280, sy - 50), p.get("_tanggal", f"{22 + i} November 2026"), font=tangan(34), fill=(36, 52, 110), anchor="ma")
 
     def meterai(dd, k):
         S = 240 * k

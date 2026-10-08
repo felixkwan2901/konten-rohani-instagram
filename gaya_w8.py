@@ -11,7 +11,7 @@ import math
 import sys
 
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageDraw, ImageFilter, ImageOps
 
 import cerita
 import config
@@ -30,6 +30,13 @@ ADEGAN = ["fajar", "laut", "kabut", "bintang"]
 
 def tanggal(i):
     return f"{HARI[i % 7]}, {15 + i} November 2026"
+
+
+def balik_gelap(img):
+    """Mode gelap: warna dibalik lalu rona diputar 180 derajat supaya biru tetap biru."""
+    inv = ImageOps.invert(img.convert("RGB"))
+    h, s, v = inv.convert("HSV").split()
+    return Image.merge("HSV", (h.point(lambda x: (x + 128) % 256), s, v)).convert("RGB")
 
 
 def justify(d, x, y, text, f, width, lh, fill):
@@ -167,17 +174,17 @@ def kayu(w, h, rng, warna=(176, 128, 82)):
     return Image.fromarray(np.clip(arr, 0, 255).astype(np.uint8))
 
 
-def letter_image(p, i):
+def letter_image(p, i, putih=False):
     rng = np.random.default_rng(1200 + i)
     img = grain(Image.new("RGB", (W, H), DINDING[i % 7]), 0.05).convert("RGBA")
     bw, bh, fr = 880, 1060, 34
     board = kayu(bw, bh, rng).convert("RGBA")
-    felt = np.zeros((bh - 2 * fr, bw - 2 * fr, 3), np.float32) + 30
+    felt = np.zeros((bh - 2 * fr, bw - 2 * fr, 3), np.float32) + (232 if putih else 30)
     felt *= (0.85 + 0.3 * render.fbm2d(bh - 2 * fr, bw - 2 * fr, rng, ((40, 1.0), (300, 0.8))))[..., None]
     pitch = 30
     for yy in range(0, felt.shape[0], pitch):
-        felt[yy:yy + 3] *= 0.55
-        felt[yy + 3:yy + 5] *= 1.25
+        felt[yy:yy + 3] *= 0.9 if putih else 0.55
+        felt[yy + 3:yy + 5] *= 1.02 if putih else 1.25
     board.paste(Image.fromarray(np.clip(felt, 0, 255).astype(np.uint8)), (fr, fr))
     d = ImageDraw.Draw(board)
     lines = bersih(p["teks"]).upper().split("\n")
@@ -196,8 +203,8 @@ def letter_image(p, i):
         x = bw / 2 - tw / 2
         for c in teks:
             dy = rng.uniform(-2, 2)
-            hd.text((x + 3, y + dy + 4), c, font=font, fill=(0, 0, 0, 120))
-            hd.text((x, y + dy), c, font=font, fill=(246, 244, 238, 255))
+            hd.text((x + 3, y + dy + 4), c, font=font, fill=(0, 0, 0, 50 if putih else 120))
+            hd.text((x, y + dy), c, font=font, fill=(28, 28, 30, 255) if putih else (246, 244, 238, 255))
             x += hd.textlength(c, font=font) + track
     for k, ln in enumerate(lines):
         tulis(ln, top + k * lh, f, size * 0.08)
@@ -302,16 +309,19 @@ def postit(w, h, col, teks, font, ink=(40, 40, 60), rng=None):
     return n
 
 
-def sticky_image(p, i):
+def sticky_image(p, i, latar=None):
     rng = np.random.default_rng(1300 + i)
     xs = np.linspace(0, 1, W)[None, :, None]
     base = np.zeros((H, W, 3), np.float32) + np.array([236, 236, 232])
     base *= 0.92 + 0.08 * xs
     base *= (0.98 + 0.03 * render.fbm2d(H, W, rng, ((2, 1.0), (400, 0.3))))[..., None]
     img = Image.fromarray(np.clip(base, 0, 255).astype(np.uint8)).convert("RGBA")
+    if latar is not None:
+        img = latar.copy().convert("RGBA")
     d = ImageDraw.Draw(img)
-    d.rounded_rectangle((26, 120, 58, H - 120), radius=16, fill=(196, 198, 202))  # pegangan kulkas
-    d.rounded_rectangle((30, 124, 46, H - 124), radius=8, fill=(226, 228, 232))
+    if latar is None:
+        d.rounded_rectangle((26, 120, 58, H - 120), radius=16, fill=(196, 198, 202))  # pegangan kulkas
+        d.rounded_rectangle((30, 124, 46, H - 124), radius=8, fill=(226, 228, 232))
     fonts = [tangan(40), ft("Bradley Hand Bold.ttf", 40), ft("/System/Library/Fonts/MarkerFelt.ttc", 40, 0)]
     pos = [(100, 110, -4, 400), (580, 90, 3, 400), (110, 600, -2, 400)]
     probe = ImageDraw.Draw(Image.new("RGB", (10, 10)))
@@ -351,21 +361,24 @@ def kapur(layer, rng):
     return layer
 
 
-def menu_image(p, i):
+def menu_image(p, i, putih=False):
     rng = np.random.default_rng(1400 + i)
-    img = kayu(W, H, rng, (120, 82, 50)).convert("RGBA")
+    img = (gradasi(W, H, (196, 200, 206), (150, 154, 162)) if putih else kayu(W, H, rng, (120, 82, 50))).convert("RGBA")
     fr = 46
     bw, bh = W - 2 * fr, H - 2 * fr
-    board = np.zeros((bh, bw, 3), np.float32) + np.array([40, 52, 44])
+    board = np.zeros((bh, bw, 3), np.float32) + np.array([246, 246, 242] if putih else [40, 52, 44])
     smudge = render.fbm2d(bh, bw, rng, ((3, 1.0), (12, 0.6), (50, 0.3)))
-    board += (smudge[..., None] - 0.45) * 60
+    board += (smudge[..., None] - 0.45) * (14 if putih else 60)
     img.paste(Image.fromarray(np.clip(board, 0, 255).astype(np.uint8)), (fr, fr))
     lay = Image.new("RGBA", img.size, (0, 0, 0, 0))
     d = ImageDraw.Draw(lay)
-    putih, kuning, pink = (246, 244, 236, 255), (250, 222, 120, 255), (250, 170, 180, 255)
-    fj = ft("Chalkduster.ttf", 74)
+    papan_putih = putih
+    putih, kuning, pink = (((30, 40, 80, 255), (200, 50, 50, 255), (30, 130, 90, 255)) if papan_putih
+                           else ((246, 244, 236, 255), (250, 222, 120, 255), (250, 170, 180, 255)))
+    fjf = (lambda s: ft("/System/Library/Fonts/MarkerFelt.ttc", s, 1)) if papan_putih else (lambda s: ft("Chalkduster.ttf", s))
+    fj = fjf(74)
     while d.textlength(bersih(p["judul"]), font=fj) > bw - 120:
-        fj = ft("Chalkduster.ttf", fj.size - 4)
+        fj = fjf(fj.size - 4)
     d.text((W / 2, 110), bersih(p["judul"]), font=fj, fill=putih, anchor="ma")
     d.line((W / 2 - 220, 215, W / 2 + 220, 215), fill=kuning, width=4)
     for dx in (-250, 250):  # bintang kecil
@@ -382,8 +395,8 @@ def menu_image(p, i):
         x0 = 110 + d.textlength(nm, font=fn_) + 20
         x1 = W - 110 - d.textlength(hg, font=fh) - 20
         for x in range(int(x0), int(x1), 18):
-            d.ellipse((x, y + 34, x + 5, y + 39), fill=(220, 220, 210, 255))
-        d.text((110, y + 60), bersih(desk), font=cs(32, 0), fill=(220, 226, 218, 255))
+            d.ellipse((x, y + 34, x + 5, y + 39), fill=(150, 150, 160, 255) if papan_putih else (220, 220, 210, 255))
+        d.text((110, y + 60), bersih(desk), font=cs(32, 0), fill=(90, 90, 100, 255) if papan_putih else (220, 226, 218, 255))
         y += 150
     y += 10
     f, lines, size = pas(d, bersih(p["ayat"]), lambda s: cs(s, 1), bw - 220, H - fr - 150 - y, 36, 24, 1.3)
@@ -394,8 +407,8 @@ def menu_image(p, i):
         d.text((W / 2, yy), ln, font=f, fill=putih, anchor="ma")
         yy += size * 1.3
     d.text((W / 2, yy + 6), p["ref"], font=cs(30, 2), fill=pink, anchor="ma")
-    d.text((W / 2, H - fr - 50), "@" + HANDLE, font=cs(26, 0), fill=(200, 206, 198, 255), anchor="ma")
-    img.alpha_composite(kapur(lay, rng))
+    d.text((W / 2, H - fr - 50), "@" + HANDLE, font=cs(26, 0), fill=(130, 130, 140, 255) if papan_putih else (200, 206, 198, 255), anchor="ma")
+    img.alpha_composite(lay if papan_putih else kapur(lay, rng))
     return grain(img.convert("RGB"), 0.05)
 
 
@@ -404,7 +417,7 @@ def menu_image(p, i):
 BOLA = [(196, 30, 46), (206, 160, 60), (30, 120, 70), (40, 80, 170), (170, 176, 188), (130, 24, 50), (20, 110, 110)]
 
 
-def ornamen_image(p, i):
+def ornamen_image(p, i, latar=None):
     rng = np.random.default_rng(1500 + i)
     bg = gradasi(W, H, (22, 34, 30), (8, 14, 12)).convert("RGBA")
     bok = Image.new("RGBA", (W, H), (0, 0, 0, 0))
@@ -414,6 +427,8 @@ def ornamen_image(p, i):
         c = [(255, 200, 120), (255, 170, 90), (255, 230, 170)][int(rng.integers(3))]
         bd.ellipse((x - r, y - r, x + r, y + r), fill=c + (int(rng.uniform(40, 90)),))
     bg.alpha_composite(bok.filter(ImageFilter.GaussianBlur(14)))
+    if latar is not None:
+        bg = latar.copy().convert("RGBA")
     cx, cy, r = W / 2, 520, 300
     gold = (214, 178, 96, 255)
     d = ImageDraw.Draw(bg)
@@ -593,7 +608,7 @@ def kartupos_image(p, i):
     while bd.textlength(bersih(p["dari"]).upper(), font=fpm) > 104 and fpm.size > 10:
         fpm = hn(fpm.size - 1, 1)
     bd.text((cx, cy - 20), bersih(p["dari"]).upper(), font=fpm, fill=(60, 60, 70, 190), anchor="mm")
-    bd.text((cx, cy + 12), f"{15 + i}.11.2026", font=hn(18, 10), fill=(60, 60, 70, 190), anchor="mm")
+    bd.text((cx, cy + 12), p.get("_tgl_titik", f"{15 + i}.11.2026"), font=hn(18, 10), fill=(60, 60, 70, 190), anchor="mm")
     for k in range(4):
         yy = cy - 30 + k * 20
         bd.line([(cx + 74 + t * 8, yy + 6 * math.sin(t * 0.9)) for t in range(16)], fill=(60, 60, 70, 150), width=3)
@@ -704,7 +719,7 @@ def peta_image(p, i, gelap=False):
 
 # ---------- LILIN: lilin di malam hari ----------
 
-def lilin_image(p, i):
+def lilin_image(p, i, jendela=False):
     yy, xx = np.mgrid[0:H, 0:W].astype(np.float32)
     fx, fy = W / 2, 905
     dist = np.hypot(xx - fx, (yy - fy) * 0.9)
@@ -712,6 +727,30 @@ def lilin_image(p, i):
     base = np.array([14, 10, 8], np.float32) + glow * np.array([150, 90, 40], np.float32)
     img = Image.fromarray(np.clip(base, 0, 255).astype(np.uint8)).convert("RGBA")
     d = ImageDraw.Draw(img)
+    if jendela:  # jendela malam di belakang lilin
+        rs = np.random.default_rng(1250 + i)
+        win = Image.new("RGBA", (820, 860), (16, 22, 50, 255))
+        wd_ = ImageDraw.Draw(win)
+        for _ in range(80):
+            x, y, s = rs.uniform(0, 820), rs.uniform(0, 520), rs.uniform(1, 2.6)
+            wd_.ellipse((x - s, y - s, x + s, y + s), fill=(255, 255, 236, int(rs.uniform(120, 255))))
+        wd_.ellipse((620, 560, 700, 640), fill=(250, 244, 220, 255))
+        lamp = Image.new("RGBA", (820, 860), (0, 0, 0, 0))
+        ld_ = ImageDraw.Draw(lamp)
+        for _ in range(70):
+            x, y, s = rs.uniform(0, 820), rs.uniform(560, 840), rs.uniform(3, 9)
+            ld_.ellipse((x - s, y - s, x + s, y + s), fill=(255, 196, 120, int(rs.uniform(120, 230))))
+        win.alpha_composite(lamp.filter(ImageFilter.GaussianBlur(3)))
+        wd_ = ImageDraw.Draw(win)
+        kay = (64, 42, 30, 255)
+        wd_.rectangle((0, 0, 819, 859), outline=kay, width=26)
+        wd_.rectangle((398, 0, 422, 860), fill=kay)
+        wd_.rectangle((0, 418, 820, 442), fill=kay)
+        img.alpha_composite(win, (130, 40))
+        cah = Image.new("RGBA", img.size, (0, 0, 0, 0))
+        ImageDraw.Draw(cah).ellipse((fx - 380, fy - 420, fx + 380, fy + 300), fill=(255, 170, 80, 70))
+        img.alpha_composite(cah.filter(ImageFilter.GaussianBlur(90)))
+        d = ImageDraw.Draw(img)
     cw, ctop = 190, 990  # lilin pilar
     cand = np.zeros((H - ctop + 40, cw, 3), np.float32)
     xs = np.linspace(-1, 1, cw)[None, :]
@@ -764,7 +803,7 @@ def kaca_pembesar(s, col=(110, 114, 120, 255)):
     return sprite(s, s, g)
 
 
-def search_reel(p, idx, mod=MOD, seconds=14):
+def search_reel(p, idx, mod=MOD, seconds=14, gelap=False):
     rel = f"reels/{mod}/search{idx + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -875,7 +914,7 @@ def search_reel(p, idx, mod=MOD, seconds=14):
                     bb = ease((t - st) / 0.35)
                     comp(frame, fade(b, bb), (60, ys[k] + (1 - bb) * 40))
             frame.alpha_composite(foot, (0, min(RH - 420, ys[-1] + blocks[-1].height + 40)))
-        ff.stdin.write(frame.convert("RGB").tobytes())
+        ff.stdin.write((balik_gelap(frame) if gelap else frame.convert("RGB")).tobytes())
     ff.stdin.close()
     if ff.wait() != 0:
         raise RuntimeError(f"ffmpeg gagal untuk {rel}")
@@ -887,7 +926,9 @@ def search_reel(p, idx, mod=MOD, seconds=14):
 KARAKTER = " ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!?'-:"
 
 
-def flip_reel(p, idx, mod=MOD, seconds=10):
+def flip_reel(p, idx, mod=MOD, seconds=10, emas=False):
+    huruf = (240, 200, 110) if emas else (242, 238, 226)
+    sel_bg = ((70, 16, 22, 255), (82, 20, 28, 255)) if emas else ((34, 34, 36, 255), (40, 40, 42, 255))
     rel = f"reels/{mod}/flip{idx + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -903,25 +944,25 @@ def flip_reel(p, idx, mod=MOD, seconds=10):
     fdin = ft("DIN Condensed Bold.ttf", 82)
     cache = {}
 
-    def sel(ch, col=(242, 238, 226)):
+    def sel(ch, col=huruf):
         key = (ch, col)
         if key not in cache:
             s = Image.new("RGBA", (cw, chh), (0, 0, 0, 0))
             sd = ImageDraw.Draw(s)
-            sd.rounded_rectangle((0, 0, cw, chh), radius=6, fill=(34, 34, 36, 255))
-            sd.rectangle((0, 0, cw, chh // 2), fill=(40, 40, 42, 255))
+            sd.rounded_rectangle((0, 0, cw, chh), radius=6, fill=sel_bg[0])
+            sd.rectangle((0, 0, cw, chh // 2), fill=sel_bg[1])
             if ch.strip():
                 sd.text((cw / 2, chh / 2 + 4), ch, font=fdin, fill=col, anchor="mm")
             sd.line((0, chh // 2, cw, chh // 2), fill=(10, 10, 10, 255), width=3)
             cache[key] = s
         return cache[key]
 
-    bg = gradasi(RW, RH, (16, 20, 28), (6, 8, 12)).convert("RGBA")
+    bg = (gradasi(RW, RH, (110, 18, 28), (40, 6, 10)) if emas else gradasi(RW, RH, (16, 20, 28), (6, 8, 12))).convert("RGBA")
     d = ImageDraw.Draw(bg)
-    amber = (245, 190, 66)
+    amber = (240, 200, 110) if emas else (245, 190, 66)
     d.text((bx + 20, by - 70), "PESAN HARI INI", font=hn(34, 1), fill=amber)
     d.text((bx + bw - 20, by - 70), p.get("_jam", "19:30").replace(".", ":"), font=ft("DIN Condensed Bold.ttf", 46), fill=amber, anchor="ra")
-    d.rounded_rectangle((bx, by, bx + bw, by + bh), radius=18, fill=(14, 14, 16, 255))
+    d.rounded_rectangle((bx, by, bx + bw, by + bh), radius=18, fill=(36, 6, 10, 255) if emas else (14, 14, 16, 255))
     d.text((RW / 2, by + bh + 50), p["ref"].upper(), font=ft("DIN Condensed Bold.ttf", 60), fill=amber, anchor="ma")
     d.text((RW / 2, by + bh + 140), "@" + HANDLE, font=hn(28, 10), fill=(140, 144, 150), anchor="ma")
     # tiap sel: mulai berputar, berganti huruf berurutan, berhenti di huruf tujuan

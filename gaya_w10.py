@@ -73,8 +73,8 @@ def bintang5(d, cx, cy, r, col):
 
 # ---------- MAJALAH: sampul majalah ----------
 
-def majalah_image(p, i):
-    ph = foto_warna(p["foto"], W, H, seed=3200 + i).convert("RGB")
+def majalah_image(p, i, latar=None):
+    ph = (latar.copy() if latar is not None else foto_warna(p["foto"], W, H, seed=3200 + i)).convert("RGB")
     a = np.asarray(ph).astype(np.float32)
     yy = np.linspace(0, 1, H)[:, None, None]
     a *= 1 - 0.55 * np.clip((0.3 - yy) / 0.3, 0, 1) - 0.7 * np.clip((yy - 0.55) / 0.45, 0, 1)
@@ -113,12 +113,26 @@ def majalah_image(p, i):
 
 # ---------- TOPLES: toples catatan ----------
 
-def toples_image(p, i):
+def toples_image(p, i, malam=False):
     rng = np.random.default_rng(3300 + i)
-    img = grain(gradasi(W, H, (246, 232, 222), (236, 214, 200)), 0.04).convert("RGBA")
+    img = grain(gradasi(W, H, (30, 34, 60), (16, 18, 34)) if malam else gradasi(W, H, (246, 232, 222), (236, 214, 200)), 0.04).convert("RGBA")
+    if malam:  # lampu tumbler di dinding
+        lay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        ld = ImageDraw.Draw(lay)
+        pts = [(x, 90 + 60 * math.sin(x / 170)) for x in range(-20, W + 40, 60)]
+        ld.line(pts, fill=(60, 50, 40, 255), width=3)
+        for x, y in pts:
+            ld.ellipse((x - 11, y, x + 11, y + 26), fill=(255, 210, 120, 255))
+        glow = lay.filter(ImageFilter.GaussianBlur(14))
+        img.alpha_composite(glow)
+        img.alpha_composite(glow)
+        img.alpha_composite(lay)
+        hal = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        ImageDraw.Draw(hal).ellipse((W / 2 - 330, 200, W / 2 + 330, 800), fill=(255, 190, 110, 70))
+        img.alpha_composite(hal.filter(ImageFilter.GaussianBlur(80)))
     d = ImageDraw.Draw(img)
-    d.rectangle((0, 860, W, H), fill=(196, 150, 110))
-    d.rectangle((0, 860, W, 872), fill=(170, 126, 90))
+    d.rectangle((0, 860, W, H), fill=(70, 46, 34) if malam else (196, 150, 110))
+    d.rectangle((0, 860, W, 872), fill=(50, 32, 24) if malam else (170, 126, 90))
     jx0, jy0, jw, jh = 310, 140, 460, 600
     isi = Image.new("RGBA", (jw, jh), (0, 0, 0, 0))
     idr = ImageDraw.Draw(isi)
@@ -161,7 +175,7 @@ def toples_image(p, i):
         y += size * 1.25
     note = note.rotate(-3, expand=True, resample=Image.BICUBIC)
     bayangan(img, note, ((W - note.width) // 2, 700), blur=14, geser=(6, 12), kuat=0.35)
-    ayat_bawah(img, p, 1060, H - 50, (60, 44, 34), (150, 70, 50), start=30, stop=20)
+    ayat_bawah(img, p, 1060, H - 50, (240, 226, 206) if malam else (60, 44, 34), (250, 196, 120) if malam else (150, 70, 50), start=30, stop=20)
     ImageDraw.Draw(img).text((W - 40, H - 16), "@" + HANDLE, font=hn(18, 10), fill=(110, 80, 60), anchor="rs")
     return img
 
@@ -276,9 +290,9 @@ def film_image(p, i):
 
 # ---------- TELEGRAM ----------
 
-def telegram_image(p, i):
+def telegram_image(p, i, latar=None):
     rng = np.random.default_rng(3600 + i)
-    img = kayu(W, H, rng, (110, 76, 52)).convert("RGBA")
+    img = (latar.copy() if latar is not None else kayu(W, H, rng, (110, 76, 52))).convert("RGBA")
     fw, fh = 960, 1220
     form = np.zeros((fh, fw, 3), np.float32) + np.array([240, 226, 180])
     form *= (0.94 + 0.08 * render.fbm2d(fh, fw, rng, ((5, 1.0), (40, 0.4))))[..., None]
@@ -471,11 +485,12 @@ def utas_files(p, i, mod):
 # ---------- KALADVEN: kalender Adven ----------
 
 PINTU = [(196, 40, 50), (30, 110, 70), (214, 170, 70), (240, 236, 226), (160, 60, 90), (40, 80, 130)]
+PINTU_MERAH = [(250, 214, 150), (30, 110, 70), (214, 170, 70), (240, 236, 226), (60, 40, 70), (40, 80, 130)]
 
 
-def kaladven_image(p, i):
+def kaladven_image(p, i, merah=False):
     rng = np.random.default_rng(3800 + i)
-    img = grain(gradasi(W, H, (28, 70, 50), (14, 40, 28)), 0.05).convert("RGBA")
+    img = grain(gradasi(W, H, (150, 26, 38), (78, 10, 20)) if merah else gradasi(W, H, (28, 70, 50), (14, 40, 28)), 0.05).convert("RGBA")
     d = ImageDraw.Draw(img)
     for _ in range(80):
         x, y, s = rng.uniform(0, W), rng.uniform(0, H), rng.uniform(1.5, 3.5)
@@ -490,7 +505,7 @@ def kaladven_image(p, i):
     for k, n in enumerate(urutan):
         x = x0 + (k % cols) * (cw + gx)
         y = y0 + (k // cols) * (ch + gx)
-        col = PINTU[(n * 7) % len(PINTU)]
+        col = (PINTU_MERAH if merah else PINTU)[(n * 7) % len(PINTU)]
         if n < p["pintu"]:
             d.rounded_rectangle((x, y, x + cw, y + ch), radius=10, fill=(20, 30, 24))
             bintang5(d, x + cw / 2, y + ch / 2, 18, (236, 206, 140, 180))
@@ -535,12 +550,12 @@ def nyala_sprite(s, k=1.0):
     return sprite(s, s, g).filter(ImageFilter.GaussianBlur(1.5))
 
 
-def krans_reel(p, idx, mod=MOD, seconds=12):
+def krans_reel(p, idx, mod=MOD, seconds=12, terang=False):
     rel = f"reels/{mod}/krans{idx + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     rng = np.random.default_rng(3900 + idx)
-    bg = gradasi(RW, RH, (44, 24, 34), (14, 8, 12)).convert("RGBA")
+    bg = (gradasi(RW, RH, (248, 240, 228), (222, 204, 182)) if terang else gradasi(RW, RH, (44, 24, 34), (14, 8, 12))).convert("RGBA")
     cx, cy, rx, ry = RW / 2, 1150, 380, 130
     angs = [200, 250, 290, 340]
     lil = [(cx + rx * math.cos(math.radians(a)), cy + ry * math.sin(math.radians(a))) for a in angs]
@@ -591,25 +606,25 @@ def krans_reel(p, idx, mod=MOD, seconds=12):
     glow = glow.filter(ImageFilter.GaussianBlur(90))
     api = nyala_sprite(90)
     total = p.get("lilin", 1)
-    nyala_t = [0.0] + [5.0] * (total - 1)  # lilin pertama menyala di sampul, lilin kedua menyusul
+    nyala_t = [0.0] + ([5.0] * (total - 1) if total <= 2 else [1.8 + 1.4 * k for k in range(total - 1)])  # lilin pertama menyala di sampul
     probe = ImageDraw.Draw(Image.new("RGB", (10, 10)))
     tl = wrap(probe, bersih(p["teks"]), georgia(40), RW - 200)
     f, vl, vs = pas(probe, tanpa_kutip(p["ayat"]), lambda s: georgia(s, True), RW - 220, 300, 36, 24, 1.36)
     teks = Image.new("RGBA", (RW, 520), (0, 0, 0, 0))
     td = ImageDraw.Draw(teks)
-    td.text((RW / 2, 0), bersih(p["judul"]), font=georgia(58, True), fill=(250, 226, 170), anchor="ma")
+    td.text((RW / 2, 0), bersih(p["judul"]), font=georgia(58, True), fill=(140, 40, 60) if terang else (250, 226, 170), anchor="ma")
     y = 100
     for ln in tl:
-        td.text((RW / 2, y), ln, font=georgia(40), fill=(246, 238, 226), anchor="ma")
+        td.text((RW / 2, y), ln, font=georgia(40), fill=(60, 44, 40) if terang else (246, 238, 226), anchor="ma")
         y += 54
     ayat = Image.new("RGBA", (RW, 420), (0, 0, 0, 0))
     ad = ImageDraw.Draw(ayat)
     y = 0
     for ln in vl:
-        ad.text((RW / 2, y), ln, font=f, fill=(226, 214, 200), anchor="ma")
+        ad.text((RW / 2, y), ln, font=f, fill=(70, 54, 48) if terang else (226, 214, 200), anchor="ma")
         y += vs * 1.36
-    ad.text((RW / 2, y + 12), p["ref"], font=hn(30, 1), fill=(250, 200, 120), anchor="ma")
-    ad.text((RW / 2, y + 70), "@" + HANDLE, font=hn(26, 10), fill=(170, 150, 150), anchor="ma")
+    ad.text((RW / 2, y + 12), p["ref"], font=hn(30, 1), fill=(160, 70, 60) if terang else (250, 200, 120), anchor="ma")
+    ad.text((RW / 2, y + 70), "@" + HANDLE, font=hn(26, 10), fill=(140, 120, 110) if terang else (170, 150, 150), anchor="ma")
     ff = cerita.ffmpeg_writer(out, RW, RH, FPS)
     for n in range(seconds * FPS):
         t = n / FPS

@@ -100,13 +100,15 @@ def pas(d, text, font_fn, maxw, maxh, start, stop, lh=1.35):
 
 LANGIT = {"cerah": ((38, 112, 214), (124, 188, 246)), "berawan": ((64, 102, 152), (150, 176, 206)),
           "hujan": ((52, 66, 92), (112, 128, 150)), "badai": ((24, 28, 50), (74, 72, 100)),
-          "malam": ((12, 20, 52), (48, 64, 112)), "pelangi": ((70, 140, 214), (186, 214, 240))}
+          "malam": ((12, 20, 52), (48, 64, 112)), "pelangi": ((70, 140, 214), (186, 214, 240)),
+          "salju": ((62, 88, 132), (132, 158, 196))}
 URUTAN = {"cerah": ["cerah", "cerah", "cerah", "berawan", "cerah", "malam"],
           "berawan": ["berawan", "berawan", "cerah", "berawan", "cerah", "malam"],
           "hujan": ["hujan", "hujan", "berawan", "berawan", "pelangi", "malam"],
           "badai": ["badai", "badai", "hujan", "berawan", "cerah", "malam"],
           "malam": ["malam", "cerah", "cerah", "berawan", "cerah", "malam"],
-          "pelangi": ["hujan", "pelangi", "cerah", "cerah", "berawan", "malam"]}
+          "pelangi": ["hujan", "pelangi", "cerah", "cerah", "berawan", "malam"],
+          "salju": ["salju", "salju", "berawan", "salju", "berawan", "malam"]}
 
 
 def ikon(kind, s):
@@ -153,6 +155,13 @@ def ikon(kind, s):
                 d.arc((c - rr, c - rr + S * .12, c + rr, c + rr + S * .12), 180, 360, fill=col + (255,), width=bw)
             awan(c - S * .3, c + S * .2, S * .36, putih)
             awan(c + S * .3, c + S * .2, S * .36, putih)
+        elif kind == "salju":
+            awan(c, c - S * .12, S * .78, putih)
+            for j, (fx, fy) in enumerate(((-.2, .3), (0, .4), (.2, .3))):
+                x0, y0, r = c + S * fx, c + S * fy, S * .07
+                for a in range(0, 180, 60):
+                    ang = math.radians(a)
+                    d.line((x0 - r * math.cos(ang), y0 - r * math.sin(ang), x0 + r * math.cos(ang), y0 + r * math.sin(ang)), fill=(220, 236, 255, 255), width=max(2, int(S / 30)))
     return sprite(s, s, gambar)
 
 
@@ -210,11 +219,11 @@ def cuaca_image(p, i):
 
 # ---------- KAMUS: entri kamus ----------
 
-def kamus_image(p, i):
-    ink, merah, abu = (30, 26, 22), (168, 68, 42), (122, 112, 104)
+def kamus_image(p, i, gelap=False):
+    ink, merah, abu = ((236, 230, 220), (236, 132, 96), (150, 140, 130)) if gelap else ((30, 26, 22), (168, 68, 42), (122, 112, 104))
     gb = lambda s: ft("Georgia Bold.ttf", s)
     for k in (1.0, 0.94, 0.88, 0.82, 0.76):
-        img = grain(Image.new("RGB", (W, H), "#F5F0E6"), 0.05).convert("RGBA")
+        img = grain(Image.new("RGB", (W, H), "#1C1A18" if gelap else "#F5F0E6"), 0.05).convert("RGBA")
         d = ImageDraw.Draw(img)
         d.text((80, 78), "kamus hati", font=georgia(30, True), fill=abu)
         d.text((W - 80, 74), p["kata"][0].upper(), font=gb(36), fill=merah, anchor="ra")
@@ -276,6 +285,19 @@ def pesawat(s, col):
     return sprite(s, s, gambar)
 
 
+def lokomotif(s, col):
+    def gambar(d, k):
+        S = s * k
+        d.rounded_rectangle((S * .08, S * .3, S * .92, S * .72), radius=S * .08, fill=col)
+        d.rectangle((S * .62, S * .16, S * .86, S * .34), fill=col)
+        for x in (.2, .45):
+            d.rectangle((S * x, S * .38, S * (x + .14), S * .52), fill=(255, 255, 255, 255))
+        for x in (.24, .5, .76):
+            d.ellipse((S * (x - .09), S * .66, S * (x + .09), S * .84), fill=col)
+            d.ellipse((S * (x - .04), S * .71, S * (x + .04), S * .79), fill=(255, 255, 255, 255))
+    return sprite(s, s, gambar)
+
+
 def barcode(d, x0, y0, w, h, rng, col):
     x = x0
     while x < x0 + w - 8:
@@ -284,7 +306,7 @@ def barcode(d, x0, y0, w, h, rng, col):
         x += bw + int(rng.choice([2, 3, 4]))
 
 
-def tiket_image(p, i, latar=None):
+def tiket_image(p, i, latar=None, kereta=False):
     rng = np.random.default_rng(200 + i)
     img = (latar.copy() if latar is not None else grain(gradasi(W, H, (120, 176, 232), (250, 210, 176)), 0.06)).convert("RGBA")
     navy, abu = (29, 43, 83), (138, 143, 156)
@@ -294,7 +316,7 @@ def tiket_image(p, i, latar=None):
     d.rounded_rectangle((0, 0, cw, chh), radius=36, fill=(255, 255, 255, 255))
     d.rounded_rectangle((0, 0, cw, 140), radius=36, fill=navy)
     d.rectangle((0, 100, cw, 140), fill=navy)
-    d.text((50, 70), "BOARDING PASS", font=hn(34, 1), fill="white", anchor="lm")
+    d.text((50, 70), "TIKET KERETA" if kereta else "BOARDING PASS", font=hn(34, 1), fill="white", anchor="lm")
     d.text((cw - 50, 70), "@" + HANDLE, font=hn(24, 10), fill=(200, 210, 235), anchor="rm")
     fk = hn(118, 1)
     d.text((60, 200), p["kode_dari"], font=fk, fill=navy)
@@ -304,7 +326,7 @@ def tiket_image(p, i, latar=None):
     xa, xb = 60 + d.textlength(p["kode_dari"], font=fk) + 30, cw - 60 - d.textlength(p["kode_ke"], font=fk) - 30
     for x in range(int(xa), int(xb) - 10, 22):
         d.line((x, 262, x + 10, 262), fill=(200, 204, 214), width=3)
-    pl = pesawat(84, navy + (255,))
+    pl = (lokomotif if kereta else pesawat)(84, navy + (255,))
     card.paste((255, 255, 255, 255), (int((xa + xb) / 2 - 50), 218, int((xa + xb) / 2 + 50), 306))
     comp(card, pl, ((xa + xb) / 2 - 42, 220))
     d = ImageDraw.Draw(card)
@@ -732,14 +754,14 @@ def selotip(w, h, rng):
     return t.rotate(rng.uniform(-14, 14), expand=True, resample=Image.BICUBIC)
 
 
-def polaroid_image(p, i):
+def polaroid_image(p, i, latar=None):
     rng = np.random.default_rng(400 + i)
     gab = render.fbm2d(H, W, rng, ((10, 1.0), (60, 0.6), (240, 0.5)))
     cork = np.zeros((H, W, 3), np.float32) + np.array([176, 132, 88])
     cork *= (0.78 + 0.45 * gab)[..., None]
     spots = rng.random((H, W)) < 0.012
     cork[spots] *= 0.6
-    img = grain(Image.fromarray(np.clip(cork, 0, 255).astype(np.uint8)), 0.1).convert("RGBA")
+    img = (latar.copy() if latar is not None else grain(Image.fromarray(np.clip(cork, 0, 255).astype(np.uint8)), 0.1)).convert("RGBA")
     # judul di selotip kertas
     fj = tangan(56)
     tw = ImageDraw.Draw(img).textlength(bersih(p["judul"]), font=fj)
@@ -787,14 +809,15 @@ def polaroid_image(p, i):
 
 # ---------- PLAYER: pemutar musik, ayat = lirik ----------
 
-def player_image(p, i):
+def player_image(p, i, terang=False):
     art = foto_warna(p["foto"], 900, 900, seed=500 + i)
     bg = cover(art, W, H).filter(ImageFilter.GaussianBlur(70))
-    bg = Image.blend(bg, Image.new("RGB", bg.size, "#000000"), 0.5)
+    bg = Image.blend(bg, Image.new("RGB", bg.size, "#FFFFFF" if terang else "#000000"), 0.62 if terang else 0.5)
     img = grain(bg, 0.05).convert("RGBA")
     d = ImageDraw.Draw(img)
-    white = (255, 255, 255, 255)
-    d.text((W / 2, 46), "SEDANG DIPUTAR", font=hn(22, 10), fill=(255, 255, 255, 170), anchor="ma")
+    white = (30, 30, 40, 255) if terang else (255, 255, 255, 255)
+    fg = white[:3]
+    d.text((W / 2, 46), "SEDANG DIPUTAR", font=hn(22, 10), fill=fg + (170,), anchor="ma")
     d.text((W / 2, 76), "dari album " + p["album"], font=hn(26, 1), fill=white, anchor="ma")
     s = 420
     sq = cover(art, s, s).convert("RGBA")
@@ -805,16 +828,16 @@ def player_image(p, i):
     d = ImageDraw.Draw(img)
     y = 590
     d.text((90, y), bersih(p["judul"]), font=hn(50, 1), fill=white)
-    d.text((90, y + 64), f"{p['penyanyi']} — {p['album']}", font=hn(34, 0), fill=(255, 255, 255, 180))
+    d.text((90, y + 64), f"{p['penyanyi']} — {p['album']}", font=hn(34, 0), fill=fg + (180,))
     for dx in (-14, 0, 14):
         d.ellipse((W - 112 + dx - 5, y + 50, W - 112 + dx + 5, y + 60), fill=white)
     y = 730
-    d.rounded_rectangle((90, y, W - 90, y + 8), radius=4, fill=(255, 255, 255, 80))
+    d.rounded_rectangle((90, y, W - 90, y + 8), radius=4, fill=fg + (80,))
     px = 90 + (W - 180) * (0.28 + 0.08 * (i % 4))
     d.rounded_rectangle((90, y, px, y + 8), radius=4, fill=white)
     d.ellipse((px - 11, y - 7, px + 11, y + 15), fill=white)
-    d.text((90, y + 24), f"{1 + i % 3}:{(17 * i + 12) % 60:02d}", font=hn(22, 10), fill=(255, 255, 255, 160))
-    d.text((W - 90, y + 24), f"-{2 + i % 2}:{(23 * i + 31) % 60:02d}", font=hn(22, 10), fill=(255, 255, 255, 160), anchor="ra")
+    d.text((90, y + 24), f"{1 + i % 3}:{(17 * i + 12) % 60:02d}", font=hn(22, 10), fill=fg + (160,))
+    d.text((W - 90, y + 24), f"-{2 + i % 2}:{(23 * i + 31) % 60:02d}", font=hn(22, 10), fill=fg + (160,), anchor="ra")
     cy = 840
     d.rectangle((W / 2 - 22, cy - 30, W / 2 - 8, cy + 30), fill=white)  # jeda
     d.rectangle((W / 2 + 8, cy - 30, W / 2 + 22, cy + 30), fill=white)
@@ -828,10 +851,10 @@ def player_image(p, i):
     y, aktif = 930, min(1, len(lines) - 1)
     for k, ln in enumerate(lines):
         a = 255 if k == aktif else 165 if k < aktif else 130
-        d.text((90, y), ln, font=f, fill=(255, 255, 255, a))
+        d.text((90, y), ln, font=f, fill=fg + (a,))
         y += size * 1.32
-    d.text((90, H - 66), f"Lirik: {p['ref']} (TB)", font=hn(24, 10), fill=(255, 255, 255, 170))
-    d.text((W - 90, H - 66), "@" + HANDLE, font=hn(24, 10), fill=(255, 255, 255, 170), anchor="ra")
+    d.text((90, H - 66), f"Lirik: {p['ref']} (TB)", font=hn(24, 10), fill=fg + (170,))
+    d.text((W - 90, H - 66), "@" + HANDLE, font=hn(24, 10), fill=fg + (170,), anchor="ra")
     return img
 
 
@@ -890,7 +913,7 @@ BIRU, ABU_CHAT = (47, 124, 246), (233, 233, 235)
 TOP_CHAT, BAWAH_CHAT = 270, 1440
 
 
-def gelembung(teks, kanan, maxw=700):
+def gelembung(teks, kanan, maxw=700, aksen=BIRU):
     f = hn(40, 0)
     probe = ImageDraw.Draw(Image.new("RGB", (10, 10)))
     lines = wrap(probe, teks, f, maxw - 64)
@@ -898,7 +921,7 @@ def gelembung(teks, kanan, maxw=700):
     h = int(len(lines) * 52 + 40)
     img = Image.new("RGBA", (w, h), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
-    d.rounded_rectangle((0, 0, w, h), radius=36, fill=(BIRU if kanan else ABU_CHAT) + (255,))
+    d.rounded_rectangle((0, 0, w, h), radius=36, fill=(aksen if kanan else ABU_CHAT) + (255,))
     y = 20
     for ln in lines:
         d.text((32, y), ln, font=f, fill="white" if kanan else (18, 18, 18))
@@ -906,7 +929,7 @@ def gelembung(teks, kanan, maxw=700):
     return img
 
 
-def kartu_ayat_chat(ayat, ref, maxw=760):
+def kartu_ayat_chat(ayat, ref, maxw=760, aksen=BIRU):
     f = hn(38, 0)
     probe = ImageDraw.Draw(Image.new("RGB", (10, 10)))
     lines = wrap(probe, tanpa_kutip(ayat), f, maxw - 90)
@@ -914,22 +937,23 @@ def kartu_ayat_chat(ayat, ref, maxw=760):
     img = Image.new("RGBA", (maxw, h), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
     d.rounded_rectangle((0, 0, maxw, h), radius=30, fill=(255, 255, 255, 255), outline=(222, 222, 226, 255), width=3)
-    d.rounded_rectangle((22, 24, 30, h - 24), radius=4, fill=BIRU + (255,))
-    d.text((54, 26), "AYAT UNTUKMU", font=hn(26, 1), fill=BIRU)
+    d.rounded_rectangle((22, 24, 30, h - 24), radius=4, fill=aksen + (255,))
+    d.text((54, 26), "AYAT UNTUKMU", font=hn(26, 1), fill=aksen)
     y = 70
     for ln in lines:
         d.text((54, y), ln, font=f, fill=(20, 20, 20))
         y += 50
-    d.text((54, y + 14), ref, font=hn(32, 1), fill=BIRU)
+    d.text((54, y + 14), ref, font=hn(32, 1), fill=aksen)
     return img
 
 
-def chat_reel(p, idx, mod=MOD):
+def chat_reel(p, idx, mod=MOD, natal=False):
+    aksen = (196, 40, 50) if natal else BIRU
     rel = f"reels/{mod}/chat{idx + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     msgs = [(w, bersih(t)) for w, t in p["pesan"]] + [("ayat", p["ayat"])]
-    sprites = [kartu_ayat_chat(t, p["ref"]) if w == "ayat" else gelembung(t, w == "aku") for w, t in msgs]
+    sprites = [kartu_ayat_chat(t, p["ref"], aksen=aksen) if w == "ayat" else gelembung(t, w == "aku", aksen=aksen) for w, t in msgs]
     ys, y = [], TOP_CHAT + 40
     for k, sp in enumerate(sprites):
         ys.append(y)
@@ -966,7 +990,7 @@ def chat_reel(p, idx, mod=MOD):
     hd.text((70, 60), p.get("_jam", "13.30"), font=hn(34, 1), fill=(10, 10, 10))
     hd.rounded_rectangle((RW - 150, 64, RW - 92, 92), radius=8, outline=(10, 10, 10), width=3)
     hd.rounded_rectangle((RW - 145, 69, RW - 110, 87), radius=4, fill=(10, 10, 10))
-    hd.line((92, 190, 68, 166, 92, 142), fill=BIRU, width=7)
+    hd.line((92, 190, 68, 166, 92, 142), fill=aksen, width=7)
     warna = [(240, 140, 90), (120, 180, 120), (140, 120, 220), (230, 110, 150), (90, 160, 220), (220, 170, 70), (110, 190, 190)]
     av = sprite(96, 96, lambda dd, k: dd.ellipse((0, 0, 96 * k, 96 * k), fill=warna[idx % 7] + (255,)))
     comp(head, av, (RW / 2 - 48, 110))
@@ -986,18 +1010,27 @@ def chat_reel(p, idx, mod=MOD):
             ld.text((100, 85), teks, font=fi, fill=(20, 20, 20), anchor="lm")
         else:
             ld.text((100, 85), "Ketik pesan", font=fi, fill=(170, 170, 176), anchor="lm")
-        ld.ellipse((RW - 140, 40, RW - 50, 130), fill=BIRU if teks else (200, 200, 206))
+        ld.ellipse((RW - 140, 40, RW - 50, 130), fill=aksen if teks else (200, 200, 206))
         ld.polygon([(RW - 95, 62), (RW - 118, 92), (RW - 72, 92)], fill="white")
         ld.rectangle((RW - 100, 88, RW - 90, 112), fill="white")
         ld.text((RW / 2, 230), "@" + HANDLE, font=hn(26, 10), fill=(180, 180, 186), anchor="ma")
         return lay
 
     kosong = kolom("")
+    latar_chat = Image.new("RGBA", (RW, RH), (252, 246, 238, 255) if natal else (255, 255, 255, 255))
+    if natal:  # wallpaper obrolan: kepingan salju & bintang samar
+        rs = np.random.default_rng(950 + idx)
+        ld_ = ImageDraw.Draw(latar_chat)
+        for _ in range(90):
+            x, y, r = rs.uniform(0, RW), rs.uniform(TOP_CHAT, BAWAH_CHAT), rs.uniform(6, 14)
+            for a in range(0, 180, 60):
+                ang = math.radians(a)
+                ld_.line((x - r * math.cos(ang), y - r * math.sin(ang), x + r * math.cos(ang), y + r * math.sin(ang)), fill=(232, 212, 206, 255), width=2)
     ff = cerita.ffmpeg_writer(out, RW, RH, FPS)
     for n in range(int(total * FPS)):
         t = n / FPS
         off = gulir(t)
-        frame = Image.new("RGBA", (RW, RH), (255, 255, 255, 255))
+        frame = latar_chat.copy()
         for k, sp in enumerate(sprites):
             if t >= muncul[k]:
                 a = 1.0 if k == 0 else ease((t - muncul[k]) / 0.25)

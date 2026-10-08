@@ -95,12 +95,12 @@ def draw_rich(img, lines, fonts, colors, x0, y0, lh, space, wlen, align="left", 
         for k, w in enumerate(line):
             for t, s in w:
                 tw = d.textlength(t, font=fonts[s])
-                if s == "h":
+                if s == "h" and hl is not None:
                     d.rectangle((x - 3, y + size * 0.42, x + tw + 3, y + size * 1.08), fill=hl)
                 d.text((x, y), t, font=fonts[s], fill=colors[s])
                 x += tw
             nxt = line[k + 1] if k + 1 < len(line) else None
-            if nxt and w[-1][1] == "h" and nxt[0][1] == "h":
+            if hl is not None and nxt and w[-1][1] == "h" and nxt[0][1] == "h":
                 d.rectangle((x, y + size * 0.42, x + space, y + size * 1.08), fill=hl)
             x += space
         y += lh
