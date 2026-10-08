@@ -72,7 +72,7 @@ def halftone(img, w, h, cell=9):
     return out
 
 
-def koran_image(p, i):
+def koran_image(p, i, natal=False):
     rng = np.random.default_rng(1100 + i)
     base = np.zeros((H, W, 3), np.float32) + np.array(KERTAS)
     base *= (0.93 + 0.1 * render.fbm2d(H, W, rng, ((4, 1.0), (30, 0.4))))[..., None]
@@ -84,7 +84,13 @@ def koran_image(p, i):
     tnr = lambda s, b=False: ft("Times New Roman Bold.ttf" if b else "Times New Roman.ttf", s)
     d.text((W / 2, 52), f"{p.get('_edisi', 'EDISI KHUSUS')}  ·  {p.get('_tanggal_panjang', tanggal(i)).upper()}  ·  GRATIS", font=tnr(22, True), fill=TINTA, anchor="ma")
     d.line((x0, 88, x1, 88), fill=TINTA, width=2)
-    d.text((W / 2, 98), "KABAR BAIK", font=ft("BigCaslon.ttf", 128), fill=TINTA, anchor="ma")
+    d.text((W / 2, 98), "KABAR BAIK", font=ft("BigCaslon.ttf", 128), fill=(170, 28, 40) if natal else TINTA, anchor="ma")
+    if natal:  # daun holly di kiri-kanan judul
+        for hx in (110, W - 110):
+            d.ellipse((hx - 34, 150, hx + 6, 172), fill=(40, 110, 60))
+            d.ellipse((hx - 6, 150, hx + 34, 172), fill=(40, 110, 60))
+            for bx, by in ((-8, 146), (6, 144), (0, 158)):
+                d.ellipse((hx + bx - 8, by - 8, hx + bx + 8, by + 8), fill=(200, 30, 40))
     d.line((x0, 250, x1, 250), fill=TINTA, width=4)
     d.line((x0, 258, x1, 258), fill=TINTA, width=1)
     d.text((x0, 268), "Untuk semua orang, setiap hari", font=georgia(24, True), fill=TINTA)

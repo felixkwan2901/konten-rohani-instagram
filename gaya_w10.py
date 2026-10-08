@@ -271,7 +271,7 @@ def film_image(p, i):
     while d.textlength(bersih(p["judul"]).upper(), font=ft_) > W - 100:
         ft_ = hn(ft_.size - 6, 9)
     d.text((W / 2, 760), bersih(p["judul"]).upper(), font=ft_, fill=white, anchor="ms")
-    d.text((W / 2, 800), "SEGERA  ·  " + bersih(p["tanggal"]), font=hn(40, 1), fill=(255, 200, 120, 255), anchor="ma")
+    d.text((W / 2, 800), bersih(p.get("status", "SEGERA")).upper() + "  ·  " + bersih(p["tanggal"]), font=hn(40, 1), fill=(255, 200, 120, 255), anchor="ma")
     y = 880
     f, lines, size = pas(d, tanpa_kutip(p["ayat"]), lambda s: georgia(s, True), W - 200, 190, 32, 22, 1.34)
     for ln in lines:

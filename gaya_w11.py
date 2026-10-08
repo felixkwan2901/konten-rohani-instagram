@@ -99,9 +99,9 @@ def kartu_flip(teks, w, h):
     return k
 
 
-def flipclock_image(p, i):
+def flipclock_image(p, i, latar=None):
     rng = np.random.default_rng(5000 + i)
-    img = gaya_w10.bokeh(W, H, 5000 + i, ((255, 200, 120), (255, 150, 100), (200, 220, 255)))
+    img = latar.copy().convert("RGBA") if latar is not None else gaya_w10.bokeh(W, H, 5000 + i, ((255, 200, 120), (255, 150, 100), (200, 220, 255)))
     d = ImageDraw.Draw(img)
     d.text((W / 2, 70), p["tanggal"].upper(), font=hn(28, 10), fill=(240, 220, 190), anchor="ma")
     angka = f"{p['angka']:02d}"
@@ -110,8 +110,8 @@ def flipclock_image(p, i):
     for k, c in enumerate(angka):
         bayangan(img, kartu_flip(c, cw, chh), (x0 + k * (cw + gap), 160), blur=20, geser=(0, 16), kuat=0.5)
     d = ImageDraw.Draw(img)
-    d.text((W / 2, 650), "HARI LAGI", font=hn(52, 1), fill=(255, 246, 226), anchor="ma")
-    d.text((W / 2, 724), "menuju Natal", font=georgia(48, True), fill=(240, 196, 120), anchor="ma")
+    d.text((W / 2, 650), bersih(p.get("label", "HARI LAGI")), font=hn(52, 1), fill=(255, 246, 226), anchor="ma")
+    d.text((W / 2, 724), bersih(p.get("sublabel", "menuju Natal")), font=georgia(48, True), fill=(240, 196, 120), anchor="ma")
     y = 810
     for ln in wrap(d, bersih(p["teks"]), georgia(34), W - 200):
         d.text((W / 2, y), ln, font=georgia(34), fill=(246, 238, 226), anchor="ma")
@@ -289,9 +289,9 @@ def hpjadul_image(p, i):
 
 # ---------- PHOTOBOOTH: strip foto ----------
 
-def photobooth_image(p, i):
+def photobooth_image(p, i, latar=None):
     rng = np.random.default_rng(5300 + i)
-    img = grain(gradasi(W, H, (244, 214, 214), (226, 196, 214)), 0.05).convert("RGBA")
+    img = latar.copy().convert("RGBA") if latar is not None else grain(gradasi(W, H, (244, 214, 214), (226, 196, 214)), 0.05).convert("RGBA")
     sw, sh = 420, 1220
     strip = Image.new("RGBA", (sw, sh), (252, 252, 250, 255))
     for k, (scene, lab) in enumerate(p["foto"]):
@@ -306,7 +306,7 @@ def photobooth_image(p, i):
     lines = wrap(d, bersih(p["judul"]), fj, 410)
     y = 140
     for ln in lines:
-        d.text((610, y), ln, font=fj, fill=(110, 40, 60))
+        d.text((610, y), ln, font=fj, fill=(255, 226, 170) if latar is not None else (110, 40, 60))
         y += 76
     y += 40
     card_w = 430
@@ -363,9 +363,9 @@ def signpost_image(p, i):
 
 # ---------- TAG: label kado ----------
 
-def tag_image(p, i):
+def tag_image(p, i, kado_seed=None):
     rng = np.random.default_rng(5500 + i)
-    img = kertas_kado(W, H, i + 1).convert("RGBA")
+    img = kertas_kado(W, H, i + 1 if kado_seed is None else kado_seed).convert("RGBA")
     tw, th = 720, 1060
     tg = np.zeros((th, tw, 3), np.float32) + np.array([196, 160, 116])
     tg *= (0.9 + 0.14 * render.fbm2d(th, tw, rng, ((6, 1.0), (60, 0.5))))[..., None]
@@ -437,9 +437,9 @@ def chart_image(p, i):
 
 # ---------- PIXEL: layar game 8-bit ----------
 
-def pixel_image(p, i):
+def pixel_image(p, i, natal=False):
     sw, sh, k = 270, 338, 4
-    img = Image.new("RGB", (sw, sh), (16, 14, 40))
+    img = Image.new("RGB", (sw, sh), (10, 40, 26) if natal else (16, 14, 40))
     d = ImageDraw.Draw(img)
     d.fontmode = "1"
     rng = np.random.default_rng(5600 + i)
@@ -455,7 +455,16 @@ def pixel_image(p, i):
         d.rectangle((x + 2, 30, x + 3, 31), fill=(230, 60, 80))
         d.rectangle((x + 6, 30, x + 7, 31), fill=(230, 60, 80))
     d.text((sw - 12, 30), "SKOR 2026", font=fs, fill=(220, 220, 240), anchor="ra")
-    d.rectangle((0, 150, sw, 158), fill=(60, 160, 80))  # tanah + tokoh
+    if natal:  # salju & pohon Natal 8-bit
+        for _ in range(80):
+            x, y = rng.integers(0, sw), rng.integers(0, 150)
+            d.point((int(x), int(y)), fill=(255, 255, 255))
+        for r_ in range(6):
+            d.rectangle((236 - r_ * 3, 104 + r_ * 7, 244 + r_ * 3, 110 + r_ * 7), fill=(40, 150, 70))
+        d.rectangle((238, 146, 242, 150), fill=(120, 70, 40))
+        for x, y, c in ((234, 116, (255, 80, 80)), (246, 125, (255, 220, 80)), (232, 135, (90, 160, 255)), (248, 140, (255, 80, 80))):
+            d.point((x, y), fill=c)
+    d.rectangle((0, 150, sw, 158), fill=(240, 244, 255) if natal else (60, 160, 80))  # tanah + tokoh
     d.rectangle((0, 158, sw, 168), fill=(110, 70, 40))
     px, py = 60, 126
     for (dx, dy, w_, h2, c) in [(4, 0, 8, 6, (250, 210, 170)), (2, 6, 12, 10, (60, 120, 220)), (4, 16, 3, 8, (40, 40, 60)), (9, 16, 3, 8, (40, 40, 60)), (3, -3, 10, 4, (90, 60, 30))]:
@@ -588,12 +597,12 @@ def vinyl_reel(p, idx, mod=MOD, seconds=12):
 
 # ---------- SALJU (Reels): salju di desa malam ----------
 
-def salju_reel(p, idx, mod=MOD, seconds=12):
+def salju_reel(p, idx, mod=MOD, seconds=12, emas=False):
     rel = f"reels/{mod}/salju{idx + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     rng = np.random.default_rng(5700 + idx)
-    bg = gradasi(RW, RH, (14, 22, 52), (40, 50, 96)).convert("RGBA")
+    bg = (gradasi(RW, RH, (40, 22, 12), (96, 58, 26)) if emas else gradasi(RW, RH, (14, 22, 52), (40, 50, 96))).convert("RGBA")
     d = ImageDraw.Draw(bg)
     for _ in range(140):
         x, y, s = rng.uniform(0, RW), rng.uniform(0, 900), rng.uniform(1, 2.4)
@@ -640,7 +649,7 @@ def salju_reel(p, idx, mod=MOD, seconds=12):
         for x, y0, r, v, ph in flakes:
             y = (y0 + v * t * 1.6) % (RH + 40) - 20
             xx = x + 18 * math.sin(t * 1.3 + ph)
-            ld.ellipse((xx - r, y - r, xx + r, y + r), fill=(255, 255, 255, 210))
+            ld.ellipse((xx - r, y - r, xx + r, y + r), fill=(255, 214, 120, 220) if emas else (255, 255, 255, 210))
         frame.alpha_composite(lay)
         ff.stdin.write(frame.convert("RGB").tobytes())
     ff.stdin.close()

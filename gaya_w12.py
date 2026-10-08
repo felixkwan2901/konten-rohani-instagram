@@ -42,11 +42,16 @@ MULAI = dt.date(2026, 12, 13)
 
 def balon_angka(teks, size):
     probe = ImageDraw.Draw(Image.new("L", (10, 10)))
-    f = hn(size, 9)
-    tw = int(probe.textlength(teks, font=f)) + 80
+    f = hn(size, 1)
+    jarak = size * 0.1  # spasi antar-digit supaya balon tidak menempel
+    tw = int(sum(probe.textlength(c, font=f) for c in teks) + jarak * (len(teks) - 1)) + 80
     th = int(size * 1.1) + 80
     m = Image.new("L", (tw, th), 0)
-    ImageDraw.Draw(m).text((40, 40), teks, font=f, fill=255, stroke_width=int(size * 0.05), stroke_fill=255)
+    md = ImageDraw.Draw(m)
+    x = 40
+    for c in teks:
+        md.text((x, 40), c, font=f, fill=255, stroke_width=int(size * 0.02), stroke_fill=255)
+        x += probe.textlength(c, font=f) + jarak
     m = m.filter(ImageFilter.GaussianBlur(2))
     a = np.asarray(m).astype(np.float32) / 255
     dalam = np.asarray(m.filter(ImageFilter.MinFilter(15)).filter(ImageFilter.GaussianBlur(10))).astype(np.float32) / 255
@@ -54,8 +59,8 @@ def balon_angka(teks, size):
     atas, bawah = np.array([255, 232, 150], np.float32), np.array([196, 132, 40], np.float32)
     rgb = atas * (1 - yy[..., None]) + bawah * yy[..., None]
     rgb = rgb * (0.78 + 0.3 * dalam[..., None])
-    kilau = np.clip(np.sin((yy * 1.0 + np.linspace(0, 0.6, tw)[None, :]) * 10) - 0.75, 0, 1) * 4 * dalam
-    rgb += 255 * kilau[..., None] * 0.6
+    kilau = np.clip(1 - np.abs(yy - 0.3) / 0.08, 0, 1) * dalam ** 2  # satu garis kilau tipis mendatar di atas
+    rgb += 255 * kilau[..., None] * 0.35
     tepi = np.clip(a - dalam, 0, 1)
     rgb = rgb * (1 - 0.45 * tepi[..., None])
     out = np.dstack([np.clip(rgb, 0, 255), a * 255]).astype(np.uint8)
@@ -76,8 +81,8 @@ def balon_image(p, i):
     bx = (W - b.width) // 2
     bayangan(img, b, (bx, 70), blur=18, geser=(8, 18), kuat=0.22)
     d = ImageDraw.Draw(img)
-    d.text((W / 2, 620), "HARI LAGI", font=hn(54, 1), fill=(150, 60, 70), anchor="ma")
-    d.text((W / 2, 690), "menuju Natal", font=georgia(48, True), fill=(190, 120, 60), anchor="ma")
+    d.text((W / 2, 620), bersih(p.get("label", "HARI LAGI")), font=hn(54, 1), fill=(150, 60, 70), anchor="ma")
+    d.text((W / 2, 690), bersih(p.get("sublabel", "menuju Natal")), font=georgia(48, True), fill=(190, 120, 60), anchor="ma")
     d.text((W / 2, 780), p["tanggal"].upper(), font=hn(26, 10), fill=(150, 120, 120), anchor="ma")
     y = 830
     for ln in wrap(d, bersih(p["teks"]), georgia(34), W - 200):
@@ -212,11 +217,13 @@ def venn_image(p, i):
 
 # ---------- STAMP: perangko besar ----------
 
-def stamp_image(p, i):
+def stamp_image(p, i, latar=None):
     rng = np.random.default_rng(6300 + i)
     base = np.zeros((H, W, 3), np.float32) + np.array([236, 226, 204])
     base *= (0.94 + 0.08 * render.fbm2d(H, W, rng, ((5, 1.0), (50, 0.4))))[..., None]
     img = Image.fromarray(np.clip(base, 0, 255).astype(np.uint8)).convert("RGBA")
+    if latar is not None:
+        img = latar.copy().convert("RGBA")
     sw, sh = 700, 860
     st = Image.new("RGBA", (sw, sh), (0, 0, 0, 0))
     d = ImageDraw.Draw(st)
@@ -276,13 +283,15 @@ def noda_cat(w, h, col, rng):
     return Image.fromarray(np.clip(out, 0, 255).astype(np.uint8), "RGBA")
 
 
-def watercolor_image(p, i):
+def watercolor_image(p, i, malam=False):
     rng = np.random.default_rng(6400 + i)
-    base = np.zeros((H, W, 3), np.float32) + np.array([252, 250, 246])
+    base = np.zeros((H, W, 3), np.float32) + np.array([22, 28, 52] if malam else [252, 250, 246])
     base -= render.fbm2d(H, W, rng, ((60, 1.0), (300, 0.6)))[..., None] * 10
     img = Image.fromarray(np.clip(base, 0, 255).astype(np.uint8)).convert("RGBA")
     pal = [[(240, 150, 160), (250, 200, 140), (170, 200, 240)], [(150, 210, 190), (250, 210, 150), (200, 170, 230)],
            [(250, 170, 130), (240, 220, 140), (150, 190, 230)]][i % 3]
+    if malam:
+        pal = [(214, 170, 80), (60, 130, 140), (140, 70, 110)]
     for k, col in enumerate(pal):
         w_, h_ = int(rng.uniform(420, 620)), int(rng.uniform(360, 520))
         x, y = rng.uniform(-80, W - w_ + 80), rng.uniform(60, 640)
@@ -291,9 +300,9 @@ def watercolor_image(p, i):
     f, lines, size = pas(d, bersih(p["teks"]), lambda s: ft("SignPainter.ttc", s, 1), W - 180, 520, 120, 60, 1.05)
     y = 520 - len(lines) * size * 1.05 / 2 + 60
     for ln in lines:
-        d.text((W / 2, y), ln, font=f, fill=(60, 50, 70), anchor="ma")
+        d.text((W / 2, y), ln, font=f, fill=(250, 238, 210) if malam else (60, 50, 70), anchor="ma")
         y += size * 1.05
-    ayat_bawah(img, p, 960, H - 60, (80, 70, 80), (170, 90, 110), start=32, stop=22)
+    ayat_bawah(img, p, 960, H - 60, (220, 214, 200) if malam else (80, 70, 80), (236, 196, 110) if malam else (170, 90, 110), start=32, stop=22)
     d.text((W / 2, H - 40), "@" + HANDLE, font=hn(22, 10), fill=(160, 150, 160), anchor="ma")
     return grain(img.convert("RGB"), 0.04)
 
@@ -369,12 +378,14 @@ def arsir(d, box, col, rng, rapat=9):
         d.line((a, y0, a - (y1 - y0), y1), fill=col + (int(rng.uniform(70, 140)),), width=4)
 
 
-def crayon_image(p, i):
+def crayon_image(p, i, hitam_=False):
     rng = np.random.default_rng(6600 + i)
-    img = grain(Image.new("RGB", (W, H), (254, 253, 248)), 0.06).convert("RGBA")
+    img = grain(Image.new("RGB", (W, H), (26, 26, 30) if hitam_ else (254, 253, 248)), 0.06).convert("RGBA")
     lay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(lay)
     kuning, biru, coklat, merah, hijau, hitam = (240, 196, 40), (60, 120, 220), (150, 90, 40), (220, 60, 60), (60, 170, 80), (40, 40, 50)
+    if hitam_:  # krayon di kertas hitam: warna lebih terang
+        biru, coklat, merah, hijau, hitam = (120, 170, 255), (220, 160, 100), (255, 110, 110), (110, 220, 120), (236, 236, 236)
     garis_krayon(d, [(60, 860), (W - 60, 860)], hijau, rng, w=8)
     g = p["gambar"]
     gaya_w10.bintang5(d, 830, 230, 70, kuning + (170,))
@@ -410,19 +421,19 @@ def crayon_image(p, i):
     fk = ft("Chalkboard.ttc", 60, 1)
     while d.textlength(bersih(p["judul"]), font=fk) > W - 120:
         fk = ft("Chalkboard.ttc", fk.size - 2, 1)
-    d.text((W / 2, 50), bersih(p["judul"]), font=fk, fill=(220, 60, 60), anchor="ma")
+    d.text((W / 2, 50), bersih(p["judul"]), font=fk, fill=(255, 120, 120) if hitam_ else (220, 60, 60), anchor="ma")
     y = 900
     for ln in wrap(d, bersih(p["teks"]), ft("Chalkboard.ttc", 38, 0), W - 140):
-        d.text((W / 2, y), ln, font=ft("Chalkboard.ttc", 38, 0), fill=(60, 80, 160), anchor="ma")
+        d.text((W / 2, y), ln, font=ft("Chalkboard.ttc", 38, 0), fill=(170, 200, 255) if hitam_ else (60, 80, 160), anchor="ma")
         y += 50
-    ayat_bawah(img, p, y + 20, H - 60, (70, 66, 60), (200, 70, 60), start=30, stop=20)
+    ayat_bawah(img, p, y + 20, H - 60, (230, 226, 220) if hitam_ else (70, 66, 60), (255, 150, 120) if hitam_ else (200, 70, 60), start=30, stop=20)
     d.text((W / 2, H - 40), "@" + HANDLE, font=hn(22, 10), fill=(170, 160, 150), anchor="ma")
     return img
 
 
 # ---------- KOPI: gelas kopi ----------
 
-def kopi_image(p, i):
+def kopi_image(p, i, merah=False):
     rng = np.random.default_rng(6700 + i)
     img = kayu(W, H, rng, (170, 120, 80)).convert("RGBA")
     bok = gaya_w10.bokeh(W, 560, 6750 + i)
@@ -430,7 +441,7 @@ def kopi_image(p, i):
     cx, top, bot = W / 2, 180, 900
     gelas = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     g = ImageDraw.Draw(gelas)
-    g.polygon([(cx - 230, top + 70), (cx + 230, top + 70), (cx + 175, bot), (cx - 175, bot)], fill=(250, 248, 244, 255))
+    g.polygon([(cx - 230, top + 70), (cx + 230, top + 70), (cx + 175, bot), (cx - 175, bot)], fill=(184, 28, 42, 255) if merah else (250, 248, 244, 255))
     g.rounded_rectangle((cx - 255, top, cx + 255, top + 80), radius=24, fill=(240, 238, 234, 255))
     g.rounded_rectangle((cx - 200, top - 40, cx + 200, top + 10), radius=20, fill=(228, 226, 222, 255))
     g.polygon([(cx - 214, top + 330), (cx + 214, top + 330), (cx + 196, top + 560), (cx - 196, top + 560)], fill=(176, 130, 86, 255))
@@ -442,7 +453,7 @@ def kopi_image(p, i):
     fn_ = ft("/System/Library/Fonts/MarkerFelt.ttc", 70, 1)
     while d.textlength(bersih(p["nama"]), font=fn_) > 360:
         fn_ = ft("/System/Library/Fonts/MarkerFelt.ttc", fn_.size - 4, 1)
-    d.text((cx, top + 200), bersih(p["nama"]), font=fn_, fill=(40, 40, 50), anchor="mm")
+    d.text((cx, top + 200), bersih(p["nama"]), font=fn_, fill=(255, 250, 240) if merah else (40, 40, 50), anchor="mm")
     f, lines, size = pas(d, bersih(p["pesan"]), tangan, 360, 200, 40, 24, 1.15)
     y = top + 445 - len(lines) * size * 1.15 / 2
     for ln in lines:
@@ -457,7 +468,7 @@ def kopi_image(p, i):
 # ---------- PERJALANAN: peta kuno ----------
 
 KOTA = {"Nazaret": (610, 300), "Kapernaum": (700, 230), "Kana": (640, 260), "Yerusalem": (600, 760), "Betlehem": (590, 830),
-        "Yerikho": (700, 740), "Samaria": (580, 520), "Galilea": (660, 260), "Mesir": (140, 1080), "Timur": (1000, 560),
+        "Yerikho": (700, 740), "Samaria": (580, 520), "Galilea": (660, 260), "Mesir": (380, 930), "Timur": (1000, 560),
         "Betania": (630, 770), "Hebron": (560, 930), "Emaus": (540, 760),
         "Padang gembala": (690, 880)}
 
@@ -522,20 +533,33 @@ def perjalanan_image(p, i):
 
 # ---------- LAMPU (Reels): lampu tumbler ----------
 
-def lampu_reel(p, idx, mod=MOD, seconds=12):
+def lampu_reel(p, idx, mod=MOD, seconds=12, pohon=False):
     rel = f"reels/{mod}/lampu{idx + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     rng = np.random.default_rng(6900 + idx)
     bg = gradasi(RW, RH, (26, 20, 30), (10, 8, 14)).convert("RGBA")
     bulbs = []
-    for k, (y0, amp) in enumerate(((150, 70), (560, 60), (1560, 70))):
+    if pohon:  # pohon Natal dengan untaian lampu zig-zag
+        bd_ = ImageDraw.Draw(bg)
+        top_, bot_ = 980, 1720
+        bd_.polygon([(RW / 2, top_), (RW / 2 + 420, bot_), (RW / 2 - 420, bot_)], fill=(20, 70, 40, 255))
+        bd_.rectangle((RW / 2 - 40, bot_, RW / 2 + 40, bot_ + 90), fill=(90, 56, 34, 255))
+        gaya_w10.bintang5(bd_, RW / 2, top_ - 10, 46, (255, 214, 90, 255))
+        for k in range(6):
+            y1 = top_ + 90 + k * 110
+            w1 = (y1 - top_) / (bot_ - top_) * 420
+            pts_ = [(RW / 2 - w1 + t * 2 * w1, y1 + 50 * t + 30 * math.sin(math.pi * t)) for t in np.linspace(0, 1, 9)]
+            bd_.line(pts_, fill=(40, 60, 40, 255), width=4)
+            for x, y in pts_[1:-1]:
+                bulbs.append((x, y - 26, [(255, 80, 80), (80, 220, 120), (255, 210, 80), (90, 160, 255)][len(bulbs) % 4], rng.uniform(0, 6.28)))
+    for k, (y0, amp) in enumerate(() if pohon else ((150, 70), (560, 60), (1560, 70))):
         for x in range(-20, RW + 40, 70):
             y = y0 + amp * math.sin(x / 190 + k)
             bulbs.append((x, y, [(255, 80, 80), (80, 220, 120), (255, 210, 80), (90, 160, 255)][len(bulbs) % 4], rng.uniform(0, 6.28)))
     kabel = Image.new("RGBA", (RW, RH), (0, 0, 0, 0))
     kd = ImageDraw.Draw(kabel)
-    for k, (y0, amp) in enumerate(((150, 70), (560, 60), (1560, 70))):
+    for k, (y0, amp) in enumerate(() if pohon else ((150, 70), (560, 60), (1560, 70))):
         kd.line([(x, y0 + amp * math.sin(x / 190 + k)) for x in range(-20, RW + 40, 20)], fill=(40, 60, 40, 255), width=4)
     bg.alpha_composite(kabel)
     probe = ImageDraw.Draw(Image.new("RGB", (10, 10)))
@@ -569,9 +593,9 @@ def lampu_reel(p, idx, mod=MOD, seconds=12):
             dd.ellipse((x - 11, y + 4, x + 11, y + 36), fill=tuple(int(v * (0.5 + 0.5 * a)) for v in c) + (255,))
         frame.alpha_composite(glow.filter(ImageFilter.GaussianBlur(16)))
         frame.alpha_composite(dot)
-        frame.alpha_composite(teks, (0, 300))
+        frame.alpha_composite(teks, (0, 200 if pohon else 300))
         if t >= 1.5:
-            frame.alpha_composite(fade(ayat, ease((t - 1.5) / 0.8)), (0, 720))
+            frame.alpha_composite(fade(ayat, ease((t - 1.5) / 0.8)), (0, 540 if pohon else 720))
         ff.stdin.write(frame.convert("RGB").tobytes())
     ff.stdin.close()
     if ff.wait() != 0:

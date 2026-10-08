@@ -1146,7 +1146,7 @@ def build_schedule(eli_files, tenang_files, kapi_files):
         for (hari, slot), (files, caption) in gaya_w10.render_week("tenang_w10").items():
             items.append({"id": f"tenang_w10-{hari}-{slot}", "akun": "tenang", "waktu": at(63 + hari - 1, config.AKUN["tenang"]["jam"][slot]),
                           "files": files, "caption": caption + "\n.\n.\n" + tenang.TAGS})
-    for mod, gaya, mulai in (("tenang_w11", "gaya_w11", 70), ("tenang_w12", "gaya_w12", 77)):  # Adven II & III: 36 gaya diacak tiap minggu
+    for mod, gaya, mulai in (("tenang_w11", "gaya_w11", 70), ("tenang_w12", "gaya_w12", 77), ("tenang_w13", "gaya_w13", 84)):  # Adven II & III: 36 gaya diacak tiap minggu
         if (ROOT / f"konten/{mod}.py").exists():
             g = importlib.import_module(gaya)
             for (hari, slot), (files, caption) in g.render_week(mod).items():
