@@ -1155,6 +1155,8 @@ def build_schedule(eli_files, tenang_files, kapi_files):
     from konten import spesial  # post satu kali untuk momen khusus
     for sid, akun, waktu, files, caption in spesial.POSTS:
         items.append({"id": sid, "akun": akun, "waktu": waktu, "files": files, "caption": caption})
+    import remix_okt  # 13-31 Okt: gambar diganti template lain supaya tidak ada template berulang dalam sehari
+    items = remix_okt.remix(items)
     items = [it for it in items if config.AKUN[it["akun"]].get("aktif", True)]  # akun yang dipause tidak dijadwalkan
     if config.AKUN["eli"].get("pause_lama"):  # Eli lama (kartun) dipause; hanya Eli & Ruthie (gambar AI) yang diposting
         items = [it for it in items if it["akun"] != "eli" or it["id"].startswith("eli_lamb")]
