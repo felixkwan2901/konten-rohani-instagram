@@ -90,7 +90,7 @@ def jam_image(p, i):
     bd.rounded_rectangle((6, 6, bw - 6, bh - 6), radius=124, fill=(28, 28, 32, 255))
     bd.rounded_rectangle((26, 26, bw - 26, bh - 26), radius=104, fill=(0, 0, 0, 255))
     white, grey = (255, 255, 255, 255), (160, 160, 168, 255)
-    bd.text((bw - 70, 66), "06.00", font=hn(36, 1), fill=white, anchor="ra")
+    bd.text((bw - 70, 66), p.get("_jam", "06.00"), font=hn(36, 1), fill=white, anchor="ra")
     bd.ellipse((60, 120, 120, 180), fill=(232, 168, 60, 255))
     bd.rectangle((86, 132, 94, 168), fill=white)
     bd.rectangle((74, 142, 106, 150), fill=white)
