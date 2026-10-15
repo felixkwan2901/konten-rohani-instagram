@@ -111,14 +111,14 @@ def postertebal_image(p, i):
     d = ImageDraw.Draw(img)
     lines = bersih(p["teks"]).upper().split("\n")
     size = 400
-    while max(d.textlength(ln, font=hn(size, 9)) for ln in lines) > W + 70 or (len(lines) * size * 0.84 > 720 and size > 120):
+    while max(d.textlength(ln, font=hn(size, 9)) for ln in lines) > W - 180 or (len(lines) * size * 0.84 > 720 and size > 120):  # tetap di dalam tepi aman (grid IG 3:4)
         size -= 6
     f = hn(size, 9)
     lh = size * 0.84
     y = 90
     for k, ln in enumerate(lines):
         tw = d.textlength(ln, font=f)
-        x = (W - tw) / 2 if tw < W - 40 else -35 + (k % 2) * 10
+        x = (W - tw) / 2
         d.text((x, y), ln, font=f, fill=fg)
         y += lh
     y += size * 0.24 + 30
@@ -310,7 +310,7 @@ def bocor_image(p, i):
     lines, cur, curm = [], [], []
     for w, m in zip(words, mark):
         trial = " ".join(cur + [w])
-        if d.textlength(trial, font=f) > W + 20 and cur:
+        if d.textlength(trial, font=f) > W - 170 and cur:
             lines.append(list(zip(cur, curm)))
             cur, curm = [w], [m]
         else:
@@ -323,7 +323,7 @@ def bocor_image(p, i):
         lines, cur, curm = [], [], []
         for w, m in zip(words, mark):
             trial = " ".join(cur + [w])
-            if d.textlength(trial, font=f) > W + 20 and cur:
+            if d.textlength(trial, font=f) > W - 170 and cur:
                 lines.append(list(zip(cur, curm)))
                 cur, curm = [w], [m]
             else:
@@ -333,7 +333,7 @@ def bocor_image(p, i):
     y = 160
     sp = d.textlength(" ", font=f)
     for k, ln in enumerate(lines):
-        x = -18 if k % 2 == 0 else -4
+        x = 85 if k % 2 == 0 else 100  # teks besar tetap di dalam tepi aman (tidak terpotong di grid IG)
         for w, m in ln:
             col = (255, 214, 90) if m else (255, 255, 255)
             if m:

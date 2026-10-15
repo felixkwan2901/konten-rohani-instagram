@@ -222,8 +222,8 @@ def kisah_cover(p, seed):
     lay = Image.new("RGBA", img.size, (0, 0, 0, 0))
     d = ImageDraw.Draw(lay)
     white = (255, 255, 255, 255)
-    for size in range(300, 120, -10):
-        if max(d.textlength(p["judul1"], font=DIDOT_B(size)), d.textlength(p["judul2"], font=DIDOT_B(size))) < W - 160:
+    for size in range(250, 110, -10):  # judul tidak sampai mepet tepi (grid IG 3:4 memotong sisi kiri-kanan)
+        if max(d.textlength(p["judul1"], font=DIDOT_B(size)), d.textlength(p["judul2"], font=DIDOT_B(size))) < W - 280:
             break
     f = DIDOT_B(size)
     b1 = d.textbbox((W / 2, 300), p["judul1"], font=f, anchor="ma")

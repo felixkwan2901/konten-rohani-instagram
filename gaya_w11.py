@@ -35,15 +35,15 @@ HANDLE = config.AKUN["tenang"]["handle"]
 MOD = "tenang_w11"
 RW, RH, FPS = 1080, 1920, 30
 MULAI = dt.date(2026, 12, 6)
-BULAN = {11: "November", 12: "Desember"}
+BULAN = {1: "Januari", 11: "November", 12: "Desember"}
 
 
 def konteks(p, hari, slot, mulai=MULAI):
     """Tanggal & jam slot untuk gaya lama yang menampilkan waktu."""
     tgl = mulai + dt.timedelta(days=hari - 1)
     jam = config.AKUN["tenang"]["jam"][slot].replace(":", ".")
-    return dict(p, _jam=jam, _tanggal=f"{tgl.day} {BULAN[tgl.month]} 2026", _tgl_struk=tgl.strftime("%d/%m/%Y"),
-                _tgl_titik=tgl.strftime("%d.%m.%Y"), _tanggal_panjang=f"{HARI[(hari - 1) % 7]}, {tgl.day} {BULAN[tgl.month]} 2026")
+    return dict(p, _jam=jam, _tanggal=f"{tgl.day} {BULAN[tgl.month]} {tgl.year}", _tgl_struk=tgl.strftime("%d/%m/%Y"),
+                _tgl_titik=tgl.strftime("%d.%m.%Y"), _tanggal_panjang=f"{HARI[(hari - 1) % 7]}, {tgl.day} {BULAN[tgl.month]} {tgl.year}")
 
 
 def kepingan(d, x, y, r, col, w=2):

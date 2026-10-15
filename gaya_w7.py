@@ -505,7 +505,7 @@ def struk_image(p, i, alas=None):
 
 # ---------- KALENDER: kalender sobek, hitung mundur Natal ----------
 
-def kalender_image(p, i, latar=None):
+def kalender_image(p, i, latar=None, hias=True):
     rng = np.random.default_rng(600 + i)
     wall = np.asarray(gradasi(W, H, (239, 230, 216), (214, 200, 180))).astype(np.float32)
     wall *= (0.92 + 0.16 * render.fbm2d(H, W, rng, ((6, 1.0), (60, 0.4))))[..., None]
@@ -519,7 +519,8 @@ def kalender_image(p, i, latar=None):
     for k in range(4, 0, -1):  # tebal tumpukan halaman
         d.rectangle((6 + k, 150 + k * 6, pw - 6 - k, pb - top + k * 6), fill=(236 - k * 8, 232 - k * 8, 224 - k * 8, 255))
     d.rectangle((0, 0, pw, 130), fill=merah)
-    d.text((pw / 2, 66), ("DESEMBER" if "Desember" in p["tanggal"] else "NOVEMBER") + " 2026", font=hn(44, 1), fill="white", anchor="mm")
+    kop = p.get("_kop", ("DESEMBER" if "Desember" in p["tanggal"] else "NOVEMBER") + " 2026")
+    d.text((pw / 2, 66), kop, font=hn(44, 1), fill="white", anchor="mm")
     d.rectangle((0, 130, pw, pb - top), fill=(251, 248, 242, 255))
     ys = 132  # sisa sobekan halaman kemarin
     pts = [(0, ys)] + [(x, ys + 10 + rng.uniform(0, 16)) for x in range(0, pw + 1, 18)] + [(pw, ys)]
@@ -530,9 +531,10 @@ def kalender_image(p, i, latar=None):
     y += 40
     d.text((pw / 2, y), str(p["angka"]), font=hn(250, 9), fill=merah, anchor="ma")
     y += 272
-    d.text((pw / 2, y), "H A R I   L A G I", font=hn(40, 1), fill=ink, anchor="ma")
+    label = "   ".join(" ".join(w) for w in bersih(p["label"]).split()) if "label" in p else "H A R I   L A G I"
+    d.text((pw / 2, y), label, font=hn(40, 1), fill=ink, anchor="ma")
     y += 58
-    d.text((pw / 2, y), "menuju Natal", font=georgia(46, True), fill=merah, anchor="ma")
+    d.text((pw / 2, y), bersih(p.get("sublabel", "menuju Natal")), font=georgia(46, True), fill=merah, anchor="ma")
     y += 80
     for ln in wrap(d, bersih(p["teks"]), georgia(34), pw - 120):
         d.text((pw / 2, y), ln, font=georgia(34), fill=ink, anchor="ma")
@@ -566,7 +568,8 @@ def kalender_image(p, i, latar=None):
             dd.polygon(leaf, fill=(40, 110, 60, 255))
         for bx, by in ((80, 84), (98, 80), (90, 98)):
             dd.ellipse(((bx - 10) * k, (by - 10) * k, (bx + 10) * k, (by + 10) * k), fill=(200, 30, 40, 255))
-    comp(img, sprite(180, 180, holly), (hx - 90, hy - 90))
+    if hias:
+        comp(img, sprite(180, 180, holly), (hx - 90, hy - 90))
     d = ImageDraw.Draw(img)
     d.text((W / 2, H - 50), "@" + HANDLE, font=hn(24, 10), fill=(120, 108, 96), anchor="ma")
     return img

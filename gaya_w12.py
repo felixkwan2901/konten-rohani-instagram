@@ -67,29 +67,39 @@ def balon_angka(teks, size):
     return Image.fromarray(out, "RGBA")
 
 
-def balon_image(p, i):
+def balon_image(p, i, latar=None):
+    """latar: gambar latar gelap (mis. malam kembang api) -> teks dibuat terang."""
     rng = np.random.default_rng(6100 + i)
-    img = grain(gradasi(W, H, (252, 238, 232), (240, 214, 214)), 0.04).convert("RGBA")
-    d = ImageDraw.Draw(img)
-    for _ in range(90):
-        x, y, s = rng.uniform(0, W), rng.uniform(0, H), rng.uniform(5, 12)
-        c = [(240, 120, 140), (120, 180, 230), (250, 200, 90), (140, 210, 160)][int(rng.integers(4))]
-        d.ellipse((x - s / 2, y - s / 2, x + s / 2, y + s / 2), fill=c)
+    if latar is not None:
+        img = latar.copy().convert("RGBA")
+        warna = ((255, 236, 200), (250, 206, 120), (200, 196, 220), (240, 236, 246), (230, 226, 240), (250, 206, 120), (170, 166, 200))
+    else:
+        img = grain(gradasi(W, H, (252, 238, 232), (240, 214, 214)), 0.04).convert("RGBA")
+        warna = ((150, 60, 70), (190, 120, 60), (150, 120, 120), (80, 50, 50), (90, 60, 60), (190, 100, 60), (170, 130, 130))
+        d = ImageDraw.Draw(img)
+        for _ in range(90):
+            x, y, s = rng.uniform(0, W), rng.uniform(0, H), rng.uniform(5, 12)
+            c = [(240, 120, 140), (120, 180, 230), (250, 200, 90), (140, 210, 160)][int(rng.integers(4))]
+            d.ellipse((x - s / 2, y - s / 2, x + s / 2, y + s / 2), fill=c)
     teks = str(p["angka"])
-    b = balon_angka(teks, 400)
+    size = 400
+    b = balon_angka(teks, size)
+    while b.width > W - 60:  # angka panjang (mis. 2027) dikecilkan supaya muat
+        size -= 20
+        b = balon_angka(teks, size)
     b = b.rotate(-4, expand=True, resample=Image.BICUBIC)
     bx = (W - b.width) // 2
-    bayangan(img, b, (bx, 70), blur=18, geser=(8, 18), kuat=0.22)
+    bayangan(img, b, (bx, 70 + (400 - size) * 0.55), blur=18, geser=(8, 18), kuat=0.22)
     d = ImageDraw.Draw(img)
-    d.text((W / 2, 620), bersih(p.get("label", "HARI LAGI")), font=hn(54, 1), fill=(150, 60, 70), anchor="ma")
-    d.text((W / 2, 690), bersih(p.get("sublabel", "menuju Natal")), font=georgia(48, True), fill=(190, 120, 60), anchor="ma")
-    d.text((W / 2, 780), p["tanggal"].upper(), font=hn(26, 10), fill=(150, 120, 120), anchor="ma")
+    d.text((W / 2, 620), bersih(p.get("label", "HARI LAGI")), font=hn(54, 1), fill=warna[0], anchor="ma")
+    d.text((W / 2, 690), bersih(p.get("sublabel", "menuju Natal")), font=georgia(48, True), fill=warna[1], anchor="ma")
+    d.text((W / 2, 780), p["tanggal"].upper(), font=hn(26, 10), fill=warna[2], anchor="ma")
     y = 830
     for ln in wrap(d, bersih(p["teks"]), georgia(34), W - 200):
-        d.text((W / 2, y), ln, font=georgia(34), fill=(80, 50, 50), anchor="ma")
+        d.text((W / 2, y), ln, font=georgia(34), fill=warna[3], anchor="ma")
         y += 46
-    ayat_bawah(img, p, y + 20, H - 60, (90, 60, 60), (190, 100, 60), start=30, stop=20)
-    ImageDraw.Draw(img).text((W / 2, H - 40), "@" + HANDLE, font=hn(22, 10), fill=(170, 130, 130), anchor="ma")
+    ayat_bawah(img, p, y + 20, H - 60, warna[4], warna[5], start=30, stop=20)
+    ImageDraw.Draw(img).text((W / 2, H - 40), "@" + HANDLE, font=hn(22, 10), fill=warna[6], anchor="ma")
     return img
 
 
@@ -605,12 +615,20 @@ def lampu_reel(p, idx, mod=MOD, seconds=12, pohon=False):
 
 # ---------- KONFETI (Reels) ----------
 
-def konfeti_reel(p, idx, mod=MOD, seconds=12):
+def konfeti_reel(p, idx, mod=MOD, seconds=12, malam=False):
     rel = f"reels/{mod}/konfeti{idx + 1}.mp4"
     out = OUT / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     rng = np.random.default_rng(7000 + idx)
-    bg = grain(gradasi(RW, RH, (255, 236, 214), (250, 206, 196)), 0.04).convert("RGBA")
+    if malam:  # langit malam berbintang (malam Tahun Baru)
+        bg = gradasi(RW, RH, (12, 16, 44), (44, 26, 70)).convert("RGBA")
+        bd = ImageDraw.Draw(bg)
+        for _ in range(260):
+            x, y, r = rng.uniform(0, RW), rng.uniform(0, RH), rng.uniform(1, 3)
+            bd.ellipse((x - r, y - r, x + r, y + r), fill=(255, 255, 255, int(rng.uniform(60, 200))))
+        bg = grain(bg.convert("RGB"), 0.03).convert("RGBA")
+    else:
+        bg = grain(gradasi(RW, RH, (255, 236, 214), (250, 206, 196)), 0.04).convert("RGBA")
     n = 320
     ang = rng.uniform(-math.pi * 0.85, -math.pi * 0.15, n)
     sp = rng.uniform(900, 2000, n)
@@ -627,12 +645,13 @@ def konfeti_reel(p, idx, mod=MOD, seconds=12):
     seru = Image.new("RGBA", (RW, int(len(seru_lines) * fs.size * 1.05 + 40)), (0, 0, 0, 0))
     sd = ImageDraw.Draw(seru)
     for k, ln in enumerate(seru_lines):
-        sd.text((RW / 2, 10 + k * fs.size * 1.05), ln, font=fs, fill=(200, 40, 70), anchor="ma", stroke_width=6, stroke_fill=(255, 255, 255))
+        sd.text((RW / 2, 10 + k * fs.size * 1.05), ln, font=fs, fill=(255, 206, 90) if malam else (200, 40, 70), anchor="ma",
+                stroke_width=6, stroke_fill=(30, 24, 70) if malam else (255, 255, 255))
     teks = Image.new("RGBA", (RW, 300), (0, 0, 0, 0))
     td = ImageDraw.Draw(teks)
     y = 0
     for ln in wrap(td, bersih(p["teks"]), georgia(42), RW - 200):
-        td.text((RW / 2, y), ln, font=georgia(42), fill=(70, 40, 40), anchor="ma")
+        td.text((RW / 2, y), ln, font=georgia(42), fill=(244, 238, 250) if malam else (70, 40, 40), anchor="ma")
         y += 56
     f, vl, vs = pas(probe, tanpa_kutip(p["ayat"]), lambda s: georgia(s, True), RW - 220, 380, 38, 24, 1.36)
     ayat = Image.new("RGBA", (RW, 560), (0, 0, 0, 0))
