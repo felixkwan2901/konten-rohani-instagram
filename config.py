@@ -1,5 +1,7 @@
 """Pengaturan utama. Ganti handle di sini setelah username Instagram-nya pasti."""
 
+import fonta  # noqa: F401  font pengganti bebas lisensi saat dirender di cloud (tanpa font macOS)
+
 # Senin pertama konten. Semua jam dalam WIB (Asia/Jakarta).
 START_DATE = "2026-09-27"  # hari 1 = Minggu 27 Sep (sudah terposting), hari 2 = Senin
 TIMEZONE = "Asia/Jakarta"
@@ -43,6 +45,15 @@ TENANG_QUOTE_TEMPLATE = "editorial"
 
 # Minggu tema "Bukan milikku" (dari khotbah Ps Tulus Tobing). True setelah dapat izin -> dijadwalkan minggu ke-2.
 TENANG_MINGGU2_AKTIF = False
+
+# Minggu Tenang yang dijadwalkan dengan pola umum: (modul konten, modul gaya, hari mulai sejak START_DATE).
+# Agen cloud mingguan (CLOUD.md) menambah satu baris di sini untuk tiap minggu baru.
+MINGGU_TENANG = [
+    ("tenang_w11", "gaya_w11", 70),   # Adven II  (6-12 Des 2026)
+    ("tenang_w12", "gaya_w12", 77),   # Adven III (13-19 Des)
+    ("tenang_w13", "gaya_w13", 84),   # Natal     (20-26 Des)
+    ("tenang_w14", "gaya_w14", 91),   # Tahun Baru (27 Des-2 Jan 2027)
+]
 
 # URL publik tempat folder output/ bisa diakses Instagram (jsDelivr mengambil file dari repo GitHub
 # dengan jenis file yang benar untuk gambar & video). GitHub Actions mengisi ini otomatis.

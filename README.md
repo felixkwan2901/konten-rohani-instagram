@@ -32,7 +32,7 @@ python3 render.py
 ```
 
 Lihat `output/preview_eli.jpg`, `preview_tenang.jpg`, `preview_kapi.jpg` untuk cek semuanya sekaligus.
-Rendering dilakukan di Mac (butuh font bawaan macOS), GitHub hanya memposting gambar yang sudah jadi.
+Rendering bisa di Mac (font macOS) atau di cloud: `fonta.py` memakai font bebas lisensi di `fonts/` kalau font macOS tidak ada. Agen cloud mingguan membuat minggu baru sendiri (lihat `CLOUD.md`); GitHub Actions memposting.
 
 ## Minggu berikutnya
 
