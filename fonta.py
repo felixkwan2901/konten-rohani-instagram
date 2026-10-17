@@ -48,7 +48,7 @@ PETA = {
                           5: ("Inter", 200, 0), 6: ("Inter", 200, 1), 7: ("Inter", 300, 0), 8: ("Inter", 300, 1),
                           9: ("Roboto Condensed", 900, 0), 10: ("Inter", 500, 0), 11: ("Inter", 500, 1), 12: ("Inter", 100, 0),
                           13: ("Inter", 100, 1)},
-    "Futura.ttc": {0: ("Jost", 500, 0), 1: ("Jost", 500, 1), 2: ("Jost", B, 0), 3: ("Jost", 500, 0), 4: ("Jost", 800, 0)},
+    "Futura.ttc": {0: ("Jost", 500, 0), 1: ("Jost", 500, 1), 2: ("Jost", B, 0), 3: ("Oswald", 500, 0), 4: ("Oswald", B, 0)},
     "Chalkboard.ttc": {0: ("Comic Neue", R, 0), 1: ("Comic Neue", B, 0)},
     "ChalkboardSE.ttc": {0: ("Comic Neue", 300, 0), 1: ("Comic Neue", R, 0), 2: ("Comic Neue", B, 0)},
     "Baskerville.ttc": {0: ("Libre Baskerville", R, 0), 1: ("Libre Baskerville", B, 0), 2: ("Libre Baskerville", R, 1),
