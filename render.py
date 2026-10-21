@@ -1157,8 +1157,10 @@ def build_schedule(eli_files, tenang_files, kapi_files):
         items.append({"id": sid, "akun": akun, "waktu": waktu, "files": files, "caption": caption})
     import acak_nov  # 1-28 Nov: urutan jam diputar per hari supaya grid tidak membentuk kolom yang sama
     items = acak_nov.acak(items)
-    import remix_okt  # 13-31 Okt: gambar diganti template lain supaya tidak ada template berulang dalam sehari
-    items = remix_okt.remix(items)
+    # remix_okt (13-31 Okt, template diganti) DIMATIKAN 21 Okt 2026 atas permintaan Felix: kembali ke desain asli,
+    # karena gaya MINIMAL hasil remix mengecilkan semua huruf (termasuk "Aku" dan "Tuhan").
+    import jadwal_ulang  # post yang terlewat 17-21 Okt diselipkan ke slot ekstra + posting ulang versi yang dibetulkan
+    items = jadwal_ulang.terapkan(items)
     items = [it for it in items if config.AKUN[it["akun"]].get("aktif", True)]  # akun yang dipause tidak dijadwalkan
     if config.AKUN["eli"].get("pause_lama"):  # Eli lama (kartun) dipause; hanya Eli & Ruthie (gambar AI) yang diposting
         items = [it for it in items if it["akun"] != "eli" or it["id"].startswith("eli_lamb")]

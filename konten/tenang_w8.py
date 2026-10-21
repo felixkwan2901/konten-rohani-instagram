@@ -202,8 +202,8 @@ MENU = [
 
 # ---------- SEARCH: Reel kolom pencarian + hasil (siang2 13:30) ----------
 SEARCH = [
-    {"cari": "apakah tuhan benar-benar dekat",
-     "saran": ["apakah tuhan benar-benar dekat denganku", "apakah tuhan benar-benar dengar doaku", "apakah tuhan benar-benar peduli"],
+    {"cari": "apakah Tuhan benar-benar dekat",
+     "saran": ["apakah Tuhan benar-benar dekat denganku", "apakah Tuhan benar-benar dengar doaku", "apakah Tuhan benar-benar peduli"],
      "hasil": [["Imanuel: Allah yang memilih datang dekat", "Natal adalah bukti bahwa Allah tidak menonton dari jauh. Ia datang dan tinggal di tengah kita."], ["Dekat, bahkan saat tidak terasa", "Perasaan bisa naik-turun, janji-Nya tidak. Ia dekat setiap kali kita memanggil-Nya."]],
      "ayat": "“Sebab bangsa besar manakah yang mempunyai allah yang demikian dekat kepadanya seperti TUHAN, Allah kita, setiap kali kita memanggil kepada-Nya?”",
      "ref": "Ulangan 4:7",
@@ -226,14 +226,14 @@ SEARCH = [
      "ayat": "“Karena itu jika satu anggota menderita, semua anggota turut menderita; jika satu anggota dihormati, semua anggota turut bersukacita.”",
      "ref": "1 Korintus 12:26",
      "caption": "Untuk kamu yang masih mencari tempat di komunitas 🔍\n\nPaulus menggambarkan jemaat seperti satu tubuh. Kalau satu anggota menderita, seluruh tubuh ikut merasakannya. Artinya, di dalam tubuh Kristus tidak ada yang seharusnya menderita sendirian, dan tidak ada yang bersukacita sendirian. Mencari teman memang butuh waktu dan keberanian. Tapi kamu memang dipanggil menjadi bagian dari tubuh itu.\n\n📖 “Karena itu jika satu anggota menderita, semua anggota turut menderita; jika satu anggota dihormati, semua anggota turut bersukacita.” — 1 Korintus 12:26\n\nKetik “Aku mau terlibat” kalau minggu ini kamu mau mencoba menyapa satu orang di gereja."},
-    {"cari": "apakah tuhan bisa meninggalkan aku",
-     "saran": ["apakah tuhan bisa meninggalkan umatnya", "apakah tuhan bisa marah selamanya", "apakah tuhan bisa lelah denganku"],
+    {"cari": "apakah Tuhan bisa meninggalkan aku",
+     "saran": ["apakah Tuhan bisa meninggalkan umatnya", "apakah Tuhan bisa marah selamanya", "apakah Tuhan bisa lelah denganku"],
      "hasil": [["Tidak ada yang bisa merebutmu dari tangan Bapa", "Yesus sendiri yang mengatakannya. Pegangan-Nya lebih kuat dari kegagalan dan ketakutanmu."], ["Saat kamu merasa jauh", "Merasa jauh tidak sama dengan ditinggalkan. Kesetiaan-Nya tidak bergantung pada kuatnya imanmu."]],
      "ayat": "“Bapa-Ku, yang memberikan mereka kepada-Ku, lebih besar dari pada siapapun, dan seorangpun tidak dapat merebut mereka dari tangan Bapa.”",
      "ref": "Yohanes 10:29",
      "caption": "Pertanyaan yang kadang muncul di hari-hari terburuk 🔍\n\nYesus menyebut orang-orang yang mengikut Dia sebagai domba-domba-Nya. Lalu Ia berkata tidak ada seorang pun yang dapat merebut mereka dari tangan Bapa. Bukan karena genggaman kita yang kuat, tapi karena Bapa lebih besar dari siapa pun.\n\n📖 “Bapa-Ku, yang memberikan mereka kepada-Ku, lebih besar dari pada siapapun, dan seorangpun tidak dapat merebut mereka dari tangan Bapa.” — Yohanes 10:29\n\nSave ini untuk hari ketika kamu merasa ditinggalkan 🔖"},
-    {"cari": "apa artinya jadi anak allah",
-     "saran": ["apa artinya jadi anak allah di alkitab", "apa artinya diadopsi oleh allah", "apa artinya punya bapa di sorga"],
+    {"cari": "apa artinya jadi anak Allah",
+     "saran": ["apa artinya jadi anak Allah di Alkitab", "apa artinya diadopsi oleh Allah", "apa artinya punya Bapa di sorga"],
      "hasil": [["Bukan hasil usaha, tapi pemberian", "Hak menjadi anak Allah diberikan kepada semua yang menerima Yesus dan percaya dalam nama-Nya."], ["Anak, bukan pegawai", "Pegawai bekerja supaya diterima. Anak bekerja karena sudah diterima dan dikasihi Bapa."]],
      "ayat": "“Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Allah, yaitu mereka yang percaya dalam nama-Nya;”",
      "ref": "Yohanes 1:12",
@@ -295,7 +295,7 @@ ORNAMEN = [
 # ---------- KODE: editor kode, pseudo-code jenaka (sore2 16:30) ----------
 KODE = [
     {"file": "imanuel.py",
-     "baris": ["aku = \"lemah, sibuk, kadang lupa\"", "tuhan = \"Imanuel\"  # Allah beserta kita", "for hari in minggu_ini:", "    tuhan.menyertai(aku)", "    # tidak tergantung perasaanku", "if aku.merasa_sendirian():", "    ingat(tuhan)"],
+     "baris": ["aku = \"lemah, sibuk, kadang lupa\"", "Tuhan = \"Imanuel\"  # Allah beserta kita", "for hari in minggu_ini:", "    Tuhan.menyertai(aku)", "    # tidak tergantung perasaanku", "if aku.merasa_sendirian():", "    ingat(Tuhan)"],
      "ayat": "“Tetapi Aku akan hadir di tengah-tengahmu dan Aku akan menjadi Allahmu dan kamu akan menjadi umat-Ku.”",
      "ref": "Imamat 26:12",
      "caption": "Kode sederhana untuk minggu ini 💻\n\nSejak dulu, kerinduan Allah tetap sama: hadir di tengah umat-Nya. Di padang gurun lewat Kemah Suci, di Betlehem lewat Yesus, dan hari ini lewat Roh Kudus yang tinggal di dalam orang percaya. Perasaan kita bisa berubah-ubah, tapi kehadiran-Nya tidak bergantung pada perasaan kita.\n\n📖 “Tetapi Aku akan hadir di tengah-tengahmu dan Aku akan menjadi Allahmu dan kamu akan menjadi umat-Ku.” — Imamat 26:12\n\nKetik “Imanuel” kalau kode ini juga berlaku untukmu 🤍"},
@@ -305,7 +305,7 @@ KODE = [
      "ref": "Pengkhotbah 9:10",
      "caption": "Program hari Senin 💻\n\nPengkhotbah mengajak kita mengerjakan apa yang ada di depan mata dengan sungguh-sungguh, karena hidup ini singkat. Bukan supaya kita dikasihi Tuhan, tapi karena kita sudah dikasihi dan disertai-Nya. Laporan, tugas kuliah, cucian, atau rapat, semuanya bisa dikerjakan bersama Dia.\n\n📖 “Segala sesuatu yang dijumpai tanganmu untuk dikerjakan, kerjakanlah itu sekuat tenaga…” — Pengkhotbah 9:10\n\nTulis satu tugas hari ini yang mau kamu kerjakan dengan setia 👇"},
     {"file": "sepi.py",
-     "baris": ["def merasa_sendirian(aku):", "    # perasaan ini nyata, boleh diakui", "    cerita_ke(tuhan, jujur=True)", "    # Yesus juga pernah ditinggal", "    kirim_pesan(teman_lama)", "    jalan_sore_sebentar()", "    return \"Dia mengerti\""],
+     "baris": ["def merasa_sendirian(aku):", "    # perasaan ini nyata, boleh diakui", "    cerita_ke(Tuhan, jujur=True)", "    # Yesus juga pernah ditinggal", "    kirim_pesan(teman_lama)", "    jalan_sore_sebentar()", "    return \"Dia mengerti\""],
      "ayat": "“Sebab Imam Besar yang kita punya, bukanlah imam besar yang tidak dapat turut merasakan kelemahan-kelemahan kita…”",
      "ref": "Ibrani 4:15",
      "caption": "Fungsi untuk hari yang sepi 💻\n\nYesus tidak menonton kesepian kita dari jauh. Ia pernah ditolak orang sekampung-Nya, ditinggal murid-murid-Nya, dan bergumul sendirian di Getsemani sementara sahabat-sahabat-Nya tertidur. Karena itu Ia dapat turut merasakan kelemahan kita. Kamu boleh datang kepada-Nya tanpa harus pura-pura kuat.\n\n📖 “Sebab Imam Besar yang kita punya, bukanlah imam besar yang tidak dapat turut merasakan kelemahan-kelemahan kita…” — Ibrani 4:15\n\nKalau hari ini kamu merasa sepi, ketik 🫂 dan izinkan kami ikut mendoakanmu."},
@@ -315,7 +315,7 @@ KODE = [
      "ref": "Pengkhotbah 4:12",
      "caption": "Kode persahabatan 💻\n\nPengkhotbah melihat orang yang bekerja keras tanpa henti tapi sendirian, tanpa saudara dan tanpa teman. Lalu ia menyimpulkan: berdua lebih baik dari seorang diri, dan tali tiga lembar tak mudah diputuskan. Kita tidak dirancang untuk menjalani iman sendirian. Minta tolong bukan tanda lemah. Sering kali itulah cara Tuhan menguatkan kita lewat orang lain.\n\n📖 “Dan bilamana seorang dapat dialahkan, dua orang akan dapat bertahan. Tali tiga lembar tak mudah diputuskan.” — Pengkhotbah 4:12\n\nTag dua teman yang jadi tali tiga lembar bersamamu 👇"},
     {"file": "setia.py",
-     "baris": ["while True:", "    tuhan.menyertai(kamu)", "    if kamu.jatuh:", "        tuhan.angkat(kamu)", "    if kamu.lupa:", "        tuhan.tetap_ingat(kamu)", "    # tidak ada break di loop ini"],
+     "baris": ["while True:", "    Tuhan.menyertai(kamu)", "    if kamu.jatuh:", "        Tuhan.angkat(kamu)", "    if kamu.lupa:", "        Tuhan.tetap_ingat(kamu)", "    # tidak ada break di loop ini"],
      "ayat": "“…tetapi Aku, TUHAN, akan menjawab mereka, dan sebagai Allah orang Israel Aku tidak akan meninggalkan mereka.”",
      "ref": "Yesaya 41:17",
      "caption": "Loop tanpa akhir 💻\n\nDalam pemrograman, loop yang tidak pernah berhenti biasanya dianggap error. Tapi kesetiaan Tuhan memang tidak punya tombol berhenti. Lewat Yesaya, Tuhan berbicara kepada orang-orang sengsara yang kehausan: Ia akan menjawab, dan Ia tidak akan meninggalkan mereka.\n\n📖 “…tetapi Aku, TUHAN, akan menjawab mereka, dan sebagai Allah orang Israel Aku tidak akan meninggalkan mereka.” — Yesaya 41:17\n\nKetik “while True” kalau kamu mau mengingat kesetiaan-Nya hari ini 🤍"},
@@ -325,10 +325,10 @@ KODE = [
      "ref": "Galatia 4:7",
      "caption": "Kode identitas untuk Hari Anak Sedunia 💻\n\nHamba bekerja supaya diterima. Anak bekerja karena sudah diterima. Paulus menulis bahwa di dalam Kristus kita bukan lagi hamba, melainkan anak, bahkan ahli waris. Status itu bukan gaji yang kita kumpulkan, tapi pemberian Allah.\n\n📖 “Jadi kamu bukan lagi hamba, melainkan anak; jikalau kamu anak, maka kamu juga adalah ahli-ahli waris, oleh Allah.” — Galatia 4:7\n\nKetik “Abba” kalau hari ini kamu mau datang kepada-Nya sebagai anak 🤍"},
     {"file": "minggu_raja.py",
-     "baris": ["raja = \"Yesus\"", "jarak = 0  # Ia datang dekat", "def besok():", "    bangun_pagi()", "    pergi_ibadah(hati=\"siap\")", "    sembah(raja)", "    pulang(sebagai=\"warga kerajaan\")"],
+     "baris": ["raja = \"Yesus\"", "jarak = 0  # Ia datang dekat", "def besok():", "    bangun_pagi()", "    pergi_ibadah(hati=\"siap\")", "    sembah(raja)", "    pulang(sebagai=\"warga Kerajaan\")"],
      "ayat": "“Ia telah melepaskan kita dari kuasa kegelapan dan memindahkan kita ke dalam Kerajaan Anak-Nya yang kekasih;”",
      "ref": "Kolose 1:13",
-     "caption": "Persiapan untuk Minggu Kristus Raja 💻\n\nPaulus menulis bahwa kita sudah dipindahkan dari kuasa kegelapan ke dalam Kerajaan Anak-Nya. Kita bukan lagi orang asing yang berdiri jauh. Raja itu dekat, dan kita adalah warga kerajaan-Nya. Besok kita beribadah bukan supaya menjadi warga, tapi karena kita sudah dijadikan warga.\n\n📖 “Ia telah melepaskan kita dari kuasa kegelapan dan memindahkan kita ke dalam Kerajaan Anak-Nya yang kekasih;” — Kolose 1:13\n\nKetik 👑 kalau besok kamu mau datang beribadah."},
+     "caption": "Persiapan untuk Minggu Kristus Raja 💻\n\nPaulus menulis bahwa kita sudah dipindahkan dari kuasa kegelapan ke dalam Kerajaan Anak-Nya. Kita bukan lagi orang asing yang berdiri jauh. Raja itu dekat, dan kita adalah warga Kerajaan-Nya. Besok kita beribadah bukan supaya menjadi warga, tapi karena kita sudah dijadikan warga.\n\n📖 “Ia telah melepaskan kita dari kuasa kegelapan dan memindahkan kita ke dalam Kerajaan Anak-Nya yang kekasih;” — Kolose 1:13\n\nKetik 👑 kalau besok kamu mau datang beribadah."},
 ]
 
 # ---------- KARTUPOS: kartu pos tulisan tangan (petang 18:00) ----------

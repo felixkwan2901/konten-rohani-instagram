@@ -214,15 +214,15 @@ REKAP = [
 
 # ---------- SEARCH: Reel kolom pencarian + hasil (skema tenang_w8) ----------
 SEARCH = [
-    {"cari": "apakah tuhan mau menerimaku",
-     "saran": ["apakah tuhan mau menerimaku lagi", "apakah tuhan mau menerimaku apa adanya", "apakah tuhan marah padaku"],
+    {"cari": "apakah Tuhan mau menerimaku",
+     "saran": ["apakah Tuhan mau menerimaku lagi", "apakah Tuhan mau menerimaku apa adanya", "apakah Tuhan marah padaku"],
      "hasil": [["Jalan masuk sudah dibuka", "Oleh Kristus, kita beroleh jalan masuk kepada Bapa. Bukan karena kita layak, tetapi karena Dia."],
                ["Datang sebagai anak", "Di dalam Kristus kita sudah didamaikan, jadi kita datang sebagai anak, bukan sebagai terdakwa."]],
      "ayat": "“karena oleh Dia kita kedua pihak dalam satu Roh beroleh jalan masuk kepada Bapa.”",
      "ref": "Efesus 2:18",
      "caption": "Pertanyaan yang diam-diam sering diketik 🔎\n\nPaulus menulis kepada jemaat yang terdiri dari orang Yahudi dan orang bukan Yahudi, dua kelompok yang dulu dipisahkan oleh permusuhan. Di dalam Kristus, keduanya didamaikan dengan Allah, dan keduanya menerima hal yang sama: jalan masuk kepada Bapa, dalam satu Roh. Kalau kamu bertanya-tanya apakah Tuhan masih mau menerimamu, jawabannya tidak bergantung pada seberapa baik minggumu. Jalan masuk itu dibuka oleh Kristus.\n\n📖 “karena oleh Dia kita kedua pihak dalam satu Roh beroleh jalan masuk kepada Bapa.” — Efesus 2:18\n\nKetik “Jalan masuk” kalau siang ini kamu mau datang kepada Bapa 🤍"},
     {"cari": "apakah semua orang berharga",
-     "saran": ["apakah semua orang berharga bagi tuhan", "apakah semua orang harus dihormati", "apakah aku juga berharga di mata tuhan"],
+     "saran": ["apakah semua orang berharga bagi Tuhan", "apakah semua orang harus dihormati", "apakah aku juga berharga di mata Tuhan"],
      "hasil": [["Diciptakan menurut rupa Allah", "Setiap orang membawa rupa Allah. Itu sebabnya cara kita berbicara tentang orang lain itu penting."],
                ["Satu lidah, dua arah", "Lidah yang sama memuji Tuhan lalu merendahkan ciptaan-Nya. Yakobus mengajak kita berhenti."]],
      "ayat": "“Dengan lidah kita memuji Tuhan, Bapa kita; dan dengan lidah kita mengutuk manusia yang diciptakan menurut rupa Allah,”",
