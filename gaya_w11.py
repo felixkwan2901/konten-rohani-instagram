@@ -363,9 +363,9 @@ def signpost_image(p, i):
 
 # ---------- TAG: label kado ----------
 
-def tag_image(p, i, kado_seed=None):
+def tag_image(p, i, kado_seed=None, latar=None):
     rng = np.random.default_rng(5500 + i)
-    img = kertas_kado(W, H, i + 1 if kado_seed is None else kado_seed).convert("RGBA")
+    img = (latar if latar is not None else kertas_kado(W, H, i + 1 if kado_seed is None else kado_seed)).convert("RGBA")
     tw, th = 720, 1060
     tg = np.zeros((th, tw, 3), np.float32) + np.array([196, 160, 116])
     tg *= (0.9 + 0.14 * render.fbm2d(th, tw, rng, ((6, 1.0), (60, 0.5))))[..., None]

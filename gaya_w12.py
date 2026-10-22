@@ -254,7 +254,7 @@ def stamp_image(p, i, latar=None):
     while d.textlength(bersih(p["judul"]).upper(), font=fj) > sw - 100:
         fj = ft("BigCaslon.ttf", fj.size - 2)
     d.text((sw / 2, sh - 150), bersih(p["judul"]).upper(), font=fj, fill=merah, anchor="ma")
-    d.text((sw / 2, sh - 80), "POS SUKACITA · 2026", font=hn(26, 1), fill=(90, 80, 70), anchor="ma")
+    d.text((sw / 2, sh - 80), f"POS SUKACITA · {(p.get('_tanggal') or '2026').split()[-1]}", font=hn(26, 1), fill=(90, 80, 70), anchor="ma")
     st = st.rotate(-3, expand=True, resample=Image.BICUBIC)
     x0, y0 = (W - st.width) // 2, 50
     bayangan(img, st, (x0, y0), blur=14, geser=(6, 12), kuat=0.35)
