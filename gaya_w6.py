@@ -135,14 +135,22 @@ def alkitab_image(p, i):
         side_right = bx[0] > pw / 2
         nx = pw - 70 if side_right else 15
         tx = ImageFont.truetype(config.FONT["tangan"][0], 34, index=config.FONT["tangan"][1])
-        note = Image.new("RGBA", (420, 120), (0, 0, 0, 0))
+        # catatan ditulis di kertas tempel kuning (bukan langsung di atas teks halaman, supaya tidak bertumpuk)
+        probe = ImageDraw.Draw(Image.new("RGBA", (10, 10)))
+        tw_ = probe.textlength(p["catatan"], font=tx)
+        nw, nh = int(tw_ + 90), 92
+        note = Image.new("RGBA", (nw + 30, nh + 30), (0, 0, 0, 0))
+        sh = Image.new("RGBA", note.size, (0, 0, 0, 0))
+        ImageDraw.Draw(sh).rectangle((14, 18, nw + 14, nh + 18), fill=(60, 40, 20, 90))
+        note.alpha_composite(sh.filter(ImageFilter.GaussianBlur(8)))
         nd = ImageDraw.Draw(note)
-        nd.text((10, 30), p["catatan"], font=tx, fill=(200, 40, 60, 255))
-        hx = 22 + nd.textlength(p["catatan"], font=tx)
-        nd.ellipse((hx, 44, hx + 18, 62), fill=(200, 40, 60, 255)); nd.ellipse((hx + 14, 44, hx + 32, 62), fill=(200, 40, 60, 255))
-        nd.polygon([(hx + 1, 56), (hx + 31, 56), (hx + 16, 76)], fill=(200, 40, 60, 255))
-        note = note.rotate(-8, expand=True)
-        page.alpha_composite(note, (int(min(pw - note.width, max(0, bx[2] - 300))), int(max(0, bx[1] - 110))))
+        nd.rectangle((8, 8, nw + 8, nh + 8), fill=(255, 236, 140, 255))
+        nd.text((26, 26), p["catatan"], font=tx, fill=(200, 40, 60, 255))
+        hx = 34 + tw_
+        nd.ellipse((hx, 40, hx + 18, 58), fill=(200, 40, 60, 255)); nd.ellipse((hx + 14, 40, hx + 32, 58), fill=(200, 40, 60, 255))
+        nd.polygon([(hx + 1, 52), (hx + 31, 52), (hx + 16, 72)], fill=(200, 40, 60, 255))
+        note = note.rotate(-5, expand=True, resample=Image.BICUBIC)
+        page.alpha_composite(note, (int(max(0, pw - note.width - 20)), int(max(0, bx[1] - note.height + 10))))
     # foto: halaman sedikit miring di atas meja kayu, diperbesar ke area stabilo
     page = page.rotate(-3, expand=True, resample=Image.BICUBIC, fillcolor=(0, 0, 0, 0))
     table = Image.new("RGB", (page.width + 400, page.height + 400), "#6B4A33")

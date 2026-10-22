@@ -36,7 +36,7 @@ EN_RE = (r"(?:[1-3] )?(?:Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Jud
          r"Galatians|Ephesians|Philippians|Colossians|Thessalonians|Timothy|Titus|Philemon|Hebrews|James|Peter|Jude|Revelation)")
 REF_RE = re.compile(rf"({BOOK_RE}|{EN_RE}) (\d+):(\d+)(?:-(\d+))?")
 MODULES = ["tenang", "tenang_keren", "tenang_w2", "tenang_keren2", "tenang_minggu2", "eli", "eli_variasi", "eli_w2",
-           "kapi", "kapi_tambahan", "kapi_w2", "eli_lamb", "eli_lamb_w3", "eli_lamb_w6", "tenang_w3", "tenang_w4", "tenang_w5", "tenang_w6", "tenang_w7", "tenang_w8", "tenang_w9", "tenang_w10", "tenang_w11", "tenang_w12", "tenang_w13", "tenang_w14", "tenang_extra", "ayat", "ayat_minggu2", "ayat_minggu3", "ayat_singkat", "ayat_w2"]
+           "kapi", "kapi_tambahan", "kapi_w2", "eli_lamb", "eli_lamb_w3", "eli_lamb_w6", "tenang_w3", "tenang_w4", "tenang_w5", "tenang_w6", "tenang_w7", "tenang_w8", "tenang_w9", "tenang_w10", "tenang_w11", "tenang_w12", "tenang_w13", "tenang_w14", "tenang_w15", "tenang_w16", "tenang_w17", "tenang_w18", "tenang_extra", "ayat", "ayat_minggu2", "ayat_minggu3", "ayat_singkat", "ayat_w2"]
 
 
 def load_cache():
@@ -114,6 +114,20 @@ def score(quote, verse):
     return hit / total if total else 1.0
 
 
+def kapital_salah(quote, verse):
+    """Kata yang di TB berhuruf besar (sebutan untuk Tuhan: Aku, -Ku, Engkau, -Mu, Dia, -Nya, Tuhan, ...) tetapi di kutipan kecil."""
+    tb = set(re.findall(r"[\w-]+", verse))
+    salah = []
+    for w in re.findall(r"[\w-]+", quote):
+        besar = w[0].upper() + w[1:]
+        if w[0].islower() and besar in tb and w not in tb:
+            salah.append(f"{w}→{besar}")
+        for akhir in ("ku", "mu", "nya"):  # firman-mu -> firman-Mu
+            if w.endswith("-" + akhir) and w[:-len(akhir)] + akhir.capitalize() in tb:
+                salah.append(f"{w}→{w[:-len(akhir)] + akhir.capitalize()}")
+    return salah
+
+
 def pairs_from(obj, where):
     """Cari (kutipan, ref) di semua isi modul: field dict, tuple Eli, baris carousel Ayat, dan caption."""
     out = []
@@ -188,13 +202,16 @@ def main():
     CACHE.parent.mkdir(exist_ok=True)
     CACHE.write_text(json.dumps(cache, ensure_ascii=False))
     rows.sort(key=lambda r: r[0])
-    lines = [f"# Cek ayat ({len(rows)} kutipan)\n", "❌ < 0.85 · ⚠️ < 0.97 · ✅ cocok\n"]
+    lines = [f"# Cek ayat ({len(rows)} kutipan)\n", "❌ < 0.85 · ⚠️ < 0.97 · 🔠 huruf besar untuk Tuhan salah · ✅ cocok\n"]
+    ok = 0
     for s, mod, where, ref, trans, quote, text in rows:
-        mark = "❔" if s < 0 else "❌" if s < 0.85 else "⚠️" if s < 0.97 else "✅"
+        kap = kapital_salah(quote, text) if trans == "TB" and text else []
+        mark = "❔" if s < 0 else "❌" if s < 0.85 else "⚠️" if s < 0.97 else "🔠" if kap else "✅"
         if mark == "✅":
+            ok += 1
             continue
-        lines.append(f"\n## {mark} {s:.2f}  {ref} ({trans})  — {mod} {where}\n- kutipan: {quote}\n- asli   : {text}\n")
-    ok = sum(1 for r in rows if r[0] >= 0.97)
+        lines.append(f"\n## {mark} {s:.2f}  {ref} ({trans})  — {mod} {where}\n- kutipan: {quote}\n- asli   : {text}\n"
+                     + (f"- huruf besar: {', '.join(kap)}\n" if kap else ""))
     lines.insert(2, f"\n✅ {ok} cocok, {len(rows) - ok} perlu dicek\n")
     out = ROOT / "output" / "cek_ayat.md"
     out.write_text("".join(lines))

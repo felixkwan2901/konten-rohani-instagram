@@ -51,6 +51,7 @@ MINGGU_TENANG = [
     ("tenang_w12", "gaya_w12", 77),   # Adven III (13-19 Des)
     ("tenang_w13", "gaya_w13", 84),   # Natal     (20-26 Des)
     ("tenang_w14", "gaya_w14", 91),   # Tahun Baru (27 Des-2 Jan 2027)
+    ("tenang_w15", "gaya_w15", 98),   # Awal tahun & Epifania (3-9 Jan 2027)
 ]
 
 # URL publik tempat folder output/ bisa diakses Instagram (jsDelivr mengambil file dari repo GitHub
