@@ -70,7 +70,8 @@ def bagian_wajib(it):
 def susun(items, posted, sekarang=None):
     sekarang = (sekarang or datetime.now(timezone.utc)).astimezone(WIB)
     hari = max(MULAI, sekarang.date())
-    sisa = sorted([it for it in items if it["akun"] == "tenang" and not it.get("story") and it["id"] not in posted
+    sisa = sorted([it for it in items if it["akun"] == "tenang" and not it.get("story") and not it.get("seri")
+                   and it["id"] not in posted
                    and datetime.fromisoformat(it["waktu"]) > sekarang], key=asli)
     musiman = {}  # tanggal asli -> post musiman
     umum = []

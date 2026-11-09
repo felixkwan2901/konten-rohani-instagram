@@ -1168,6 +1168,8 @@ def build_schedule(eli_files, tenang_files, kapi_files):
         items = [it for it in items if it["akun"] != "eli" or it["id"].startswith("eli_lamb")]
     if config.STORY_OTOMATIS:
         items = add_stories(items)
+    import alkitab_bercerita  # Jumat & Sabtu 19.00 WIB: Reels Alkitab Bercerita + preview & pendukung (Story-nya sudah ada)
+    items = alkitab_bercerita.terapkan(items)
     items.sort(key=lambda x: x["waktu"])
     (OUT / "schedule.json").write_text(json.dumps(items, ensure_ascii=False, indent=2))
     return items

@@ -64,6 +64,8 @@ def publish(item, user_id, token, base_url):
         creation = api("POST", f"{user_id}/media", **media_params(urls[0], media_type="STORIES", access_token=token))["id"]
     elif len(urls) == 1:
         extra = {"media_type": "REELS", "share_to_feed": "true"} if urls[0].endswith(".mp4") else {}
+        if item.get("cover") and urls[0].endswith(".mp4"):  # cover Reels khusus (gambar 9:16 di output/)
+            extra["cover_url"] = base_url.rstrip("/") + "/output/" + item["cover"]
         creation = api("POST", f"{user_id}/media", **media_params(urls[0], caption=item["caption"], access_token=token, **extra))["id"]
     else:
         children = []
