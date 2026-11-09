@@ -1161,6 +1161,8 @@ def build_schedule(eli_files, tenang_files, kapi_files):
     # karena gaya MINIMAL hasil remix mengecilkan semua huruf (termasuk "Aku" dan "Tuhan").
     import jadwal_ulang  # post yang terlewat 17-21 Okt diselipkan ke slot ekstra + posting ulang versi yang dibetulkan
     items = jadwal_ulang.terapkan(items)
+    import jadwal_3hari  # mulai 11 Nov 2026: Tenang 3 post/hari, musiman tetap di tanggalnya, umum dimundurkan
+    items = jadwal_3hari.terapkan(items)
     items = [it for it in items if config.AKUN[it["akun"]].get("aktif", True)]  # akun yang dipause tidak dijadwalkan
     if config.AKUN["eli"].get("pause_lama"):  # Eli lama (kartun) dipause; hanya Eli & Ruthie (gambar AI) yang diposting
         items = [it for it in items if it["akun"] != "eli" or it["id"].startswith("eli_lamb")]

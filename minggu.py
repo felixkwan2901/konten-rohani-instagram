@@ -59,7 +59,8 @@ def main():
         baru = render.add_stories(baru)
     jadwal = json.loads((OUT / "schedule.json").read_text())
     jadwal = [it for it in jadwal if not it["id"].startswith((f"{mod}-", f"story-{mod}-"))]
-    jadwal = sorted(jadwal + baru, key=lambda x: x["waktu"])
+    import jadwal_3hari  # aturan 3 post/hari (post minggu lama yang sudah dijadwalkan ulang/cadangan)
+    jadwal = sorted(jadwal_3hari.terapkan(jadwal + baru), key=lambda x: x["waktu"])
     (OUT / "schedule.json").write_text(json.dumps(jadwal, ensure_ascii=False, indent=2))
     # lembar pratinjau: halaman pertama tiap post, satu baris per hari
     per_hari = {}
